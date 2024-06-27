@@ -1,0 +1,28 @@
+{"text": "{{DailyCheck}}{{LB|name1=TorchyGem|amount1=539|name2=jakethesharkbro|amount2=465|name3=itsme_Atlis|amount3=422|name4=7Elevenss|amount4=421|name5=snorlaxlazy1314|amount5=416|name6=Icfiredog|amount6=401|name7=Doc_Nana|amount7=384|name8=PhantomSceleton|amount8=372|name9=pennovy|amount9=371|name10=jjyu2867dfg02|amount10=367}}
+        ''(Leaderboard as of 06/10/2024)''
+
+        The '''Top Sticker-Seekers''' was added in the 01/13/2024 [[Updates|update]] and is one of
+        62 [[leaderboards]] in the game. This leaderboard shows how much [[Sticker-Seeker Quest
+        Machine|Sticker-Seeker Quests]] players have completed. It shows 10 leaderboard positions at
+        a time. The player can scroll down the leaderboard to see more players, all the way to the
+        100th place.
+
+        == Location ==
+        It is located inside of the [[Hive Hub]] next to the [[Hub Field Shop]].
+
+        == Achievements ==
+
+        * XSxriptX was the first player to reach 25 Sticker-Seeker quests completed.
+        * NoahvsZombie was the first player to reach 50 Sticker-Seeker quests completed.
+        * MyloDaBoss was the first player to reach 75 Sticker-Seeker quests completed.
+        * piterozero20001 was the first player to reach 100 Sticker-Seeker quests completed.
+        * TorchyGem was the first player to reach 500 Sticker-Seeker quests completed.
+
+        == Trivia ==
+
+        * This is the only leaderboard located inside of the Hive Hub.
+
+        {{MapNav}}
+        [[Category:Leaderboards]]
+        [[Category:Locations]]
+        [[Category:Hive Hub]]"}

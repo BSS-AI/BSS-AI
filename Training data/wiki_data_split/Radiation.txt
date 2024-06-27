@@ -1,0 +1,30 @@
+{"text": "[[File:Radiated_Mutated_Hive.gif|frame|A bee is radioactive when there is a ☢️ symbol on
+        the right of the bee's slot, along with green particles.]]
+        [[File:Radiated_Bee.png|thumb|A radioactive bee.]]
+        '''Radiation''' is a [[Mechanics|mechanic]] that gives a temporary “radioactive” status to a
+        [[Bees|bee]] that lasts for 11 minutes. Bees will stay radioactive regardless of any changes
+        to their [[Hive Slot|hive slots]] during these 11 minutes.
+
+        When a bee is radioactive, it has a higher chance of gaining a [[mutation]] when using
+        [[Bitterberry|bitterberries]], [[Royal Jelly|royal jellies]], [[Moon Charm|moon charms]], or
+        [[Royal Jelly#Star Jelly|star jellies]]. It also allows the chance of a bee gaining a
+        mutation by feeding it special treats. Certain radioactive bees can find [[sticker]]s in
+        some fields.
+
+        Bees glow green when radioactive. The brightness of the bee is based on how much longer the
+        radioactivity will last - the brighter the bee, the longer until the radioactivity ends. A
+        radioactive bee's hive slot will also emit green particles.
+
+        ==Ways of Obtaining==
+        *Feeding a bee a [[Neonberry|neonberry]] will make the bee radioactive.
+        *If a bee is mutated, it occasionally becomes radioactive. This has a chance to make
+        surrounding bees radioactive as well.
+        *Global radioactivity events are initiated by [[Onett (Developer)|Onett]]. During the end of
+        Beesmas 2020, he put up a game-wide message, saying \"☢️ Testing global radioactivity... ☢️\",
+        and caused many bees to become radioactive.
+        *Occasionally, a bee will randomly become radioactive without meeting any of the above
+        criteria.
+
+        ==Audio==
+        [[File:Radioactivity.ogg|thumb|left|The sound effect played when a bee turns radioactive.]]
+        [[Category:Mechanics]]"}

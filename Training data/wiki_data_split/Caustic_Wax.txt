@@ -1,0 +1,151 @@
+{"text": "{{Consumables
+        |image=Causticwax.png
+        |description=A glowing hunk of beeswax. Has a 25% chance to GREATLY improve a Beequip - but
+        a 75% chance to DESTROY it!}}
+        {{Color|Caustic Wax}} is an [[:Category:Inventory|inventory item]] and a type of
+        [[Waxes|wax]] added in the [[Updates#2021.12.26|12/26/2021 update]] that can be used on a
+        [[beequip]] to boost its stats. Upon usage, it has a 25% chance of greatly improving the
+        beequip's stats; however, it has a 75% chance of permanently destroying the beequip instead,
+        destroying the beequip and also wasting the Caustic Wax. This wax cannot be used on
+        permanent beequips.
+
+        It also can be used to craft a variety of different items, such as [[planter]]s and
+        [[tools]].
+
+        When successfully applying Caustic Wax to a bee's beequip, a message pops up saying,
+        \"<span style=\"background-color:#2866a8;color:white\">The Wax improved the
+        Beequip!</span>”.
+
+        If the wax fails to upgrade the beequip, a message will pop up saying, \"<span
+        style=\"background-color:#a61e19;color:white\">The Wax has Destroyed the
+        Beequip...</span>\".
+
+        == Ways to Obtain ==
+        *[[Crafting]] it via [[Blender]] for:
+        ** {{Cost|Hard Wax|5}}
+        ** {{Cost|Enzymes|5}}
+        ** {{Cost|Neonberry|25}}
+        ** {{Cost|Royal Jelly|5252}}
+        * As a stack reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        ** {{Cost|Black Diamond Sticker|||0}} rewards 1 caustic wax.
+        ** {{Cost|Prismatic Mushroom|||0}} rewards 1 caustic wax.
+
+        === Drops ===
+        * As a rare drop from Legendary and Mythic [[Puffshroom]]s.
+        * As a drop from certain [[planter]]s.
+        ** A {{Cost|Plastic Planter|||0}} placed in the [[Rose Field]] guarantees one every 36 days.
+        ** A {{Cost|Candy Planter|||0}} placed in the [[Mountain Top Field]] guarantees one every 36
+        days.
+        ** A {{Cost|Blue Clay Planter|||0}} placed in the [[Clover Field]] guarantees one every 36
+        days.
+        ** A {{Cost|Red Clay Planter|||0}} placed in the [[Clover Field]] guarantees one every 36
+        days.
+        ** A {{Cost|Tacky Planter|||0}} placed in the [[Bamboo Field]] guarantees one every month.
+        ** A {{Cost|Pesticide Planter|||0}} placed in any field has a rare chance of dropping one.
+        Some fields have higher chances of dropping one such as the [[Strawberry Field]] or the
+        [[Bamboo Field]].
+        ** A {{Cost|Heat-Treated Planter|||0}} placed in the [[Coconut Field]] guarantees one every
+        36 days.
+        ** A {{Cost|Hydroponic Planter|||0}} placed in the [[Coconut Field]] guarantees one on first
+        harvest but after a month cooldown there will be a higher chance at getting it.
+        ** A {{Cost|Petal Planter|||0}} placed in the [[Dandelion Field]] guarantees one on first
+        harvest but after a month cooldown there will be a higher chance at getting it.
+        ** {{Cost|The Planter Of Plenty|||0}} has a 33% chance of dropping one.
+
+        === Quests ===
+        * [[Dapper Bear]] gives a total of 3 Caustic Wax on the following quests:
+        ** Dapper Bear's \"The Long Haul\" (#10) rewards one Caustic Wax and other items.
+        ** Dapper Bear's \"Ongoing Maintenance\" (#13) rewards one Caustic Wax and other items.
+        ** Dapper Bear's \"More Than Myth\" (#15) rewards one Caustic Wax and other items.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * From certain [[Gift Boxes]].
+        ** The Emerald Gift Box from Beesmas 2021 gave 1 Caustic Wax + other items.
+        ** The Tropical Gift Box from Beesmas 2022 gave 1 Caustic Wax + other items.
+        * Completing [[Gifted Riley Bee|Gifted Riley Bee's]] Beesmas 2021 Quest rewarded 1 Caustic
+        Wax + other items.
+        * Purchasing the “Waxy Bundle\" from Bee Bear's Catalog rewarded 3 Caustic Waxes + other
+        items.
+        * A rare chance of being a match from [[Memory Match#Winter Memory Match|Winter Memory
+        Match]].
+        * Using Riley Bee's [[Honeyday Candles]] had a 0.81% chance to give 3 Caustic Waxes.
+        * As a guaranteed Drop from a level 17 [[Snowbear]] during Beesmas 2022.
+        * Purchasing the Mondo Robo Bundle for 4500 Robux gave 25 Caustic Waxes + other items.
+        * Purchasing the Candlelight Bundle in [[Bee Bear's Catalog]] 2022 gave 10 Caustic Waxes +
+        other items.
+        * Players who defeated at least 25 out of the 50 [[Mega Mechsquito]]s required to be
+        defeated in [[Stick Bug]]’s Beesmas 2022 quest before the nerf got 3 Caustic Waxes + other
+        items as compensation.
+        |}
+
+        == Crafting Uses ==
+        Total required for all in-game equipment: {{Cost|Caustic Wax|238}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        ! style=\"text-align: center\" |{{Cost|Caustic Wax}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Honey|750,000,000}}<br>{{Cost|Magic
+        Bean|25}}<br>{{Cost|Neonberry|25}}<br>{{Cost|Glue|15}}<br>{{Cost|Hard
+        Wax|10}}
+        |[[File:Pesticide Planter.png|80px|center|link=Pesticide Planter]]<div style=\"text-align:
+        center;\">{{Color|Pesticide Planter}}
+        |-
+        |<div style=\"text-align: center;\">10
+        |{{Cost|Super Smoothie|10}}<br>{{Cost|Star
+        Jelly|100}}<br>{{Cost|Honeysuckle|1000}}
+        |[[File:Turpentine.png|80px|center|link=Turpentine]]<div style=\"text-align:
+        center;\">{{Color|Turpentine}}
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Magic
+        Bean|75}}<br>{{Cost|Blue Extract|750}}<br>{{Cost|Soft
+        Wax|500}}<br>{{Cost|Turpentine|1}}
+        |[[File:Hydroponic Planter.png|80px|center|link=Hydroponic Planter]]<div
+        style=\"text-align: center;\">[[Hydroponic Planter]]</div>
+        |-
+        |<div style=\"text-align: center;\">50
+        |{{Cost|Honey|{{Hover|2.5T|2,500,000,000,000}}}}<br>{{Cost|Red
+        Extract|1,500}}<br>{{Cost|Stinger|150}}<br>{{Cost|Hard
+        Wax|100}}<br>{{Cost|Super Smoothie|50}}<br>{{Cost|Invigorating Vial|3}}
+        |[[File:Dark_scythe.png|80px|center|link=Dark Scythe]]<div style=\"text-align:
+        center;\">[[Dark Scythe]]
+        |-
+        |<div style=\"text-align: center;\">50
+        |{{Cost|Honey|{{Hover|10T|10,000,000,000,000}}}}<br>{{Cost|Glue|1,500}}<br>{{Cost|Gumdrops|2,000}}<br>{{Cost|Super
+        Smoothie|50}}<br>{{Cost|Turpentine|5}}<br>{{Cost|Satisfying Vial|3}}
+        |[[File:Gummyballer.png|80px|center|link=Gummyballer]]<br><div style=\"text-align:
+        center;\">[[Gummyballer]]</div>
+        |-
+        |<div style=\"text-align: center;\">100
+        |{{Cost|Honey|{{Hover|100T|100,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|500}}<br>{{Cost|Super Smoothie|100}}<br>{{Cost|Swirled
+        Wax|100}}<br>{{Cost|Hard Wax|100}}<br>{{Cost|Turpentine|25}}
+        |[[File:The Planter Of Plenty.png|80px|center|link=The Planter Of Plenty]]<div
+        style=\"text-align: center;\">{{Color|The Planter Of Plenty}}</div>
+        |}
+
+        == Trivia ==
+        * In order to craft this item, a total of {{Cost|Honeysuckle|75}}, {{Cost|Sunflower
+        Seed|750}}, {{Cost|Pineapple|1,750}}, {{Cost|Bitterberry|190}}, {{Cost|Neonberry|25}} and
+        {{Cost|Royal Jelly|5,252}} are needed.
+        * The probability of Caustic Wax improving a beequip 5 times in a row is 1/1024 or ~0.1%.
+        Because of its low chances and its ability to destroy the beequip, it is not recommended to
+        try and use 5 Caustic Waxes on a beequip when you are not prepared yet.
+        * This is the only wax that cannot be used on permanent beequips.
+        * This is the only wax that can destroy beequips.
+        <!-- future content?
+        * There is a Beesmas quest from [[Bubble Bee Man]] where players need to destroy 31 beequips
+        with caustic waxes.
+        -->
+        {{Items}}
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Waxes]]
+        [[Category:Crafted]]
+        [[Category:Consumables]]"}

@@ -1,0 +1,45 @@
+{"text": "{{Accessory
+        |image1 = Belt Bag.png
+        |description = A convenient pouch designed for easy access.
+        |cost = 440,000 [[Honey]], 50 [[Pineapple|Pineapples]], 50 [[Sunflower Seed|Sunflower
+        Seeds]], and 3 [[Stinger]]s.
+        |special_ability = +25,000 Capacity<br>+20 Convert Amount<br>+50% Loot Luck
+        |Bonus Stats=+25,000 Capacity
+        +20 Convert Amount
+        +50% Loot Luck|stats=+25,000 Capacity<br/>+20 Convert Amount<br/>+50% Loot
+        Luck}}
+        {{Quote|A convenient pouch designed for easy access.}}
+        The '''Belt Bag''' is a [[:Category:Belts|belt accessory]] located in the [[Pro Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|440,000}}<br>{{Cost|Pineapple|50}}<br>{{Cost|Sunflower
+        Seed|50}}<br>{{Cost|Stinger|3}}
+        |}
+
+        == Stats ==
+        * +25,000 [[Capacity]].
+        * +20 [[System Page#Convert Amount|Convert Amount]].
+        * +50% [[System Page#Loot Luck|Loot Luck]].
+        == Gallery ==
+        <gallery>
+        Beltbagicon.png|The Belt Bag icon.
+        </gallery>
+        == Trivia ==
+        * This was given from [[Sun Bear]] on his first visit after completing the quest “Snag a
+        Belt Bag” before he left. Therefore, it was the first Belt Bag he awarded. After Sun Bear
+        left, the Belt Bag was put on sale at the Pro Shop.
+        * Before the [[Updates#2018.11.25|11/25/2018 update]], this [[Items|item]] didn't require
+        pineapples, sunflower seeds, or stingers to be purchased, as before this update, these items
+        didn't exist.
+        * This is one of the few items that went from being a quest reward to being purchasable in a
+        [[:Category:Shops|shop]].
+        ** Other items with this quality are the [[Mondo Belt Bag]], [[Basic Boots]], [[Hiking
+        Boots]], and the [[Beekeeper's Boots]].
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Belts]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

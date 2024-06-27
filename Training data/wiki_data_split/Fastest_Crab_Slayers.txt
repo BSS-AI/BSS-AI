@@ -1,0 +1,57 @@
+{"text": "{{Leaderboard Check}}''(Leaderboard as of 04/11/2024)''
+        {{LB
+        |name1=Pending.
+        |amount1=?
+        |name2=Pending.
+        |amount2=?
+        |name3=Pending
+        |amount3=?
+        |name4=Pending.
+        |amount4=?
+        |name5=Pending.
+        |amount5=?
+        |name6=Pending.
+        |amount6=?
+        |name7=Pending.
+        |amount7=?
+        |name8=Pending.
+        |amount8=?
+        |name9=Pending.
+        |amount9=?
+        |name10=Pending.
+        |amount10=?
+        }}
+        The '''Fastest Crab Slayers Leaderboard''' is one of the 62 [[leaderboards]] in the game.
+        This leaderboard shows the least time in which the player has defeated the [[Coconut Crab]].
+        It shows 10 leaderboard positions at one time. The player can scroll down the leaderboard to
+        see more players, all the way to the 100th place.
+
+        If the player has never defeated the Coconut Crab the pad will prompt, \"You haven't defeated
+        the Coconut Crab\".
+
+        ==Location==
+        It is located past the [[Windy Bee Gate]] inside the [[Coconut Cave]]. The player will need
+        to defeat the Coconut Crab to enter the Cave and see their score.
+
+        ==Achievements==
+        * Pepega90 was the first user to defeat the Coconut Crab in 30 seconds or less.
+        * Pepega90 was the first user to defeat the Coconut Crab in 25 seconds or less.
+        * McProsephYouTube was the first user to defeat the Coconut Crab in 20 seconds or less.
+        * Miracle_Mike was the first user to defeat the Coconut Crab in 15 seconds or less.
+        * e_IoI was the first user to defeat the Coconut Crab in 10 seconds or less.
+        * HavingFun2228 was the first user to defeat the Coconut Crab in 5 seconds or less.
+        ==Trivia==
+        *This is the first and only [[:Category:Leaderboards|leaderboard]] to rank by time (time
+        before defeated).
+        **This leaderboard, the [[Highest Snowbear Level]] leaderboard, and the [[Top Stick Bug
+        Fighters]] leaderboard are the only three leaderboards to rank
+        \"[[:Category:Bosses|bosses]]\".
+        **This is the only leaderboard for the shortest amount of time to accomplish a goal.
+        *This leaderboard is currently updated and has been repolished.
+        *Onett accidentally put Coconut Crab's Health to only 20 and fixed it later, in the duration
+        of the oversight, many players were able to reach faster times than usual. The leaderboard
+        was later reset in June ? 2024.
+
+        {{MapNav}}
+        [[Category:Leaderboards]]
+        [[Category:Locations]]"}

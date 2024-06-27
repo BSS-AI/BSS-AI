@@ -1,0 +1,66 @@
+{"text": "{{DISPLAYTITLE:Epic Bees}}
+        {| class=\"article-table\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\"
+        |-
+        ! style=\"width:20%\" |Bee
+        ! style=\"width:10%\" |Icon
+        ! style=\"width:40%\" |Description
+        |-
+        |[[File:Bubble_Bee.png|50px]] [[Bubble Bee]]
+        |{{Icon|Bubble}}
+        |As a larva, this bee lived in the ocean. It loves Blue flowers cause they remind it of
+        home.
+        |-
+        |[[File:Bucko_Bee.png|50px]] [[Bucko Bee]]
+        |{{Icon|Bucko}}
+        |Leader of the Blue bees, and a long time rival of Riley Bee. Its tenacity is its greatest
+        strength.
+        |-
+        |[[File:Commander_Bee.png|50px]] [[Commander Bee]]
+        |{{Icon|Commander}}
+        |A strong, no-nonsense bee who stays level-headed when things get rough.
+        |-
+        |[[File:Demo_Bee.png|50px]] [[Demo Bee]]
+        |{{Icon|Demo}}
+        |An elite Bomber Bee who has worked its way up the ranks. It is an expert in explosives.
+        |-
+        |[[File:Exhausted_Bee.png|50px]] [[Exhausted Bee]]
+        |{{Icon|Exhausted}}
+        |This bee suffers from insomnia. It moves slowly, but it never has to sleep.
+        |-
+        |[[File:Fire_Bee.png|50px]] [[Fire Bee]]
+        |{{Icon|Fire}}
+        |As an egg, this bee was accidentally left in the trunk of a car in the middle of the summer
+        for over 3 days!
+        |-
+        |[[File:Frosty_Bee.png|50px]] [[Frosty Bee]]
+        |{{Icon|Frosty}}
+        |A bee made of snow. It magically came to life after someone put a top hat on its head.
+        |-
+        |[[File:Honey_Bee.png|50px]] [[Honey Bee]]
+        |{{Icon|Honey}}
+        |A satisfied bee always full with the finest honey. If you're Iucky it will share some.
+        |-
+        |[[File:Rage_Bee.png|50px]] [[Rage Bee]]
+        |{{Icon|Rage}}
+        |A very angry bee who has been wronged its whole life. It harnesses its rage to become more
+        powerful.
+        |-
+        |[[File:Riley_Bee.png|50px]] [[Riley Bee]]
+        |{{Icon|Riley}}
+        |Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature has elevated
+        it above the rest.
+        |-
+        |[[File:Shocked_Bee.png|50px]] [[Shocked Bee]]
+        |{{Icon|Shocked}}
+        |This bee is startled by everything it comes acrossed ''[sic]''. It has learned special
+        talents to cope.
+        |}
+
+        {{Stat/Egg|rarity = epic}}
+
+        == Trivia ==
+        *The Epic bees rarity is tied with the Event bees rarity for having the most bees, being 11.
+        **It also contains the most amount of colored bees, with 6 - 3 red and 3 blue.
+        [[Category:Bees]]
+        [[Category:Epic]]
+        [[zh-tw:蜜蜂/史詩蜂]]"}

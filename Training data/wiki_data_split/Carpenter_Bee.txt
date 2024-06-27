@@ -1,0 +1,69 @@
+{"text": "{{Bee
+        |color = Colorless
+        |rarity = Legendary
+        |image-orig = Carpenter Bee.png
+        |image-gifted = CarpenterBee Gifted.png
+        |description = A bee with a knack for construction. It built its own body out of wood.
+        |energy = 25
+        |speed = 11.2
+        |attack = 5
+        |energylabel = more
+        |skincolor2 = #FFC812
+        |skincolor1 = #966A55
+        |skincolor3 = #966A55
+        }}
+
+        '''Carpenter Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Legendary|Legendary bee]].
+        Carpenter Bee's favorite type of treat is [[Sunflower Seeds|Sunflower Seeds]].
+
+        Carpenter Bee likes the [[Bamboo Field]], and [[Pine Tree Forest]]. It dislikes the
+        [[Mountain Top Field]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 3 seconds.
+        * Makes 120 [[honey]] in 4 seconds.
+        * -20% [[Stats#Speed|Movespeed]], +25% [[Energy]], +25% gather speed, +40 [[System
+        Page#Convert Amount|Convert Amount]], +4 [[Stats#Attack|Attack]].
+        * 🌟[[Gifted Bee|Gifted Hive Bonus]]: +25% [[System Page#Pollen From Tools|Pollen From
+        Tools]].
+
+        == Abilities ==
+        * [[Ability Tokens#Mark|'''[Honey Mark+]''']] Marks a large random area on the
+        [[Fields|Field]] for 8 seconds (+0.25s per level) that grants 2 Conversion Links and x1.25
+        [[System Page#Convert Rate|Convert Rate]] while you stand on it. Stacks up to 3 times.
+        * '''[[Ability Tokens#Mark|[Pollen Mark]]]''' Marks a random area on the field for 7 seconds
+        (+0.2s per level) that increases all pollen up to 50% while you stand in it. Stacks up to 3
+        times.
+
+        {{Stat|color = Colorless|pollen = 10|pollentime = 3|honey = 100|honeytime = 4|rarity =
+        legendary}}
+
+        == Gallery ==
+        <gallery>
+        CarpenterBeeFace.png|Carpenter Bee's face.
+        </gallery>
+
+        == Trivia ==
+        * Just like [[Music Bee]], this bee originated from Number1Riker's Bee Swarm showcase.
+        ** Carpenter Bee and Music Bee are also the only Legendary bees added in an
+        [[Updates|Update]].
+        * This bee uses the Wood Texture and has a Hammer Mesh in its body.
+        * This bee, [[Spicy Bee]], and [[Vector Bee]] are the only non-[[Bees/Event|Event Bees]]
+        that have special body parts (Hammer Mesh).
+        * This is one of two bees added in the [[Updates#2018.11.25|11/25/2018 Update]], along with
+        [[Stubborn Bee]].
+        * One reason Carpenter Bee likes the Pine Tree Forest might be because pine trees are made
+        of wood.
+        ** One reason Carpenter Bee dislikes the [[Mountain Top Field]] might be because on the tops
+        of tall mountains, there are no trees.
+        * Carpenter Bee, along with [[Honey Bee]] and [[Bumble Bee]], are the only bees named after
+        their real-life counterparts.
+        * Carpenter Bee is the only bee that can generate the Honey Mark+ ability token.
+        * This bee was one of the bees to have a specific jelly in the [[Bee Bear's Catalog]]. The
+        jelly was given as part of the Pinecone Bundle.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Legendary]]
+        [[Category:Colorless]]
+        [[zh-tw:工匠蜂]]"}

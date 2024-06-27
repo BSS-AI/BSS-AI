@@ -1,0 +1,95 @@
+{"text": "{{Bee
+        |color = Blue
+        |rarity = Mythic
+        |image-orig = Tadpole_Bee.png
+        |image-gifted = TadpoleBee_Gifted.png
+        |description= A tiny amphibious bee who wants to become a frog when it grows up.
+        |energy= 10
+        |energylabel= less
+        |speed= 11.2
+        |attack= 1
+        |skincolor1=#45C496
+        |skincolor2=#2197A5
+        |skincolor3=#45C496
+        }}'''Tadpole Bee''' is a [[:Category:Blue|Blue]] [[Bees/Mythic|Mythic bee]].
+
+        Tadpole Bee’s favorite type of Treat is [[Blueberry|Blueberries]].
+
+        Tadpole Bee likes the [[Pine Tree Forest]] and [[Stump Field]]. It dislikes the [[Cactus
+        Field]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 6 seconds.
+        * Makes 120 [[Honey]] in 4 seconds.
+        * +40 [[System Page#Convert Amount|Convert Amount]], -20% [[Stats#Speed|Movespeed]], -50%
+        Gather Speed, and [[Energy]].
+        * 🌟[[Gifted Bee|Gifted Hive Bonus]]: +25% [[Bubble]] Duration
+
+        === Abilities ===
+        * '''[[Ability Tokens#Blue Boost|[Blue Boost]]]''' Grants x1.2 pollen from Blue [[Flowers]]
+        for 15 seconds. Stacks up to 10 times.
+        * '''[[Ability Tokens#Summon Frog|[Summon Frog]]]''' Summons a [[frog]] that lasts for 20s
+        (+2s per Level). Frogs can make [[bubble]]s after every few hops, or after collecting a
+        token with their tongue. They also attack nearby enemies with attack equal to 5x this bee's
+        attack.
+        **If Gifted, this has a 10% (+2% per Level) chance to summon a Gifted Frog instead, which
+        has increased tongue range, Token gathering and attack speed, 50% more attack, has a chance
+        to summon [[Bubble#Golden Bubbles|golden bubbles]], and can hit [[balloon]]s with its tongue
+        to convert pollen to Honey Tokens.
+        * '''[[Ability Tokens#Baby Love|[🌟Gifted Ability: Baby Love]]] '''Grants x2 pollen and +50%
+        [[Loot Luck]] for 30 seconds. Loot Luck increases your chance of obtaining prizes from
+        defeating enemies.
+        * '''[[Passive Abilities#Gathering Bubbles|[Passive:]] [[Bubble#Gathering
+        Bubbles|<nowiki>Gathering Bubbles+]</nowiki>]]''' 65% chance (85% if Gifted) to
+        spawn a Bubble when gathering. If any player touches it, it pops, collecting 4 Red/6 White/8
+        Blue pollen (+15% per Gifted blue bee type, +5% per bee level) from 29 nearby flowers and
+        causing them to replenish.
+
+        {{Stat|pollen = 10|pollentime = 6|honey = 120|honeytime = 4|rarity = mythic|color = Blue}}
+
+        == Gallery ==
+        <gallery navigation=\"true\" hideaddbutton=\"true\">
+        Giftedtadpolehiveslot.png|A Gifted Tadpole Bee hive slot.
+        Tadpole Bee Face.png|Tadpole Bee's face.
+        Bssbeesmas2019cover.png|Tadpole Bee with Spicy Bee, Vector Bee, [[Basic Bee]], and [[Cub
+        Buddy|Cub Buddies]] in the game thumbnail.
+        Summon frog ability token..png|A “Summon Frog” token.
+        SummonedNormalFrog.png|A summoned normal Frog.
+        SummonedGiftedFrog.png|A summoned Gifted Frog.
+        </gallery>
+
+        == Trivia ==
+        * The Tadpole Bee, [[Lion Bee]], [[Tabby Bee]], [[Bear Bee]], and [[Puppy Bee]] are the only
+        [[bees]] to represent realistic animals.
+        ** The Tadpole Bee is the only Mythic bee that represents a realistic animal.
+        * Tadpole Bee and [[Baby Bee]] are the only bees with the Baby Love ability.
+        ** Tadpole Bee and Baby Bee are also the only bees that appear smaller than the normal bee
+        size.
+        * Tadpole Bee and [[Windy Bee]] are the only bees with 2 gifted bonuses, excluding other
+        Event Bees who enhance their ability.
+        * Tadpole Bee, [[Vector Bee]], [[Fuzzy Bee]], [[Spicy Bee]], [[Buoyant Bee]] and [[Digital
+        Bee]] are the only bees with gifted exclusive abilities.
+        * This bee and Spicy Bee are the only bees who can summon other entities.
+        ** This is the only bee that can summon a [[mobs|Mob]].
+        * Tadpole Bee and [[Bubble Bee]] are the only bees with the Gathering Bubbles passive
+        ability.
+        * Tadpole Bee, Fuzzy Bee, Spicy Bee, Buoyant Bee, and Digital Bee all have four different
+        [[Ability Tokens|Abilities]], the most for any bee.
+        * Tadpole Bee used to be the only bee in the game that had a decimal base attack (0.5).
+        * Tadpole Bee is the only Mythic bee that has its Gifted-exclusive ability token shared with
+        another bee.
+        * Along with Vector Bee and Spicy Bee, Tadpole Bee was one of the first [[Bees/Mythic|Mythic
+        Bees]] to be introduced to the game.
+        * A [[Egg#Specific Bee Eggs|Tadpole Bee Egg]] could be obtained by giving [[Bubble Bee Man]]
+        a [[Present]] during the Beesmas 2020 event.
+        ** Tadpole Bee is the second mythic bee to have an egg of its own, the first being [[Fuzzy
+        Bee]].
+        * Tadpole Bee is one of the 8 other bees with a unique trail.
+        * Tadpole Bee is the blue counterpart of Spicy Bee.
+        * Tadpole Bee and Fuzzy Bee are the only Mythics, when gifted, to not have any glowing
+        parts.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Blue]]
+        [[Category:Mythic]]"}

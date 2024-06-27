@@ -1,0 +1,121 @@
+{"text": "[[File:Blender.Png|thumb|217x217px|The blender in the Badge Bearer's Guild.]]
+        The '''Blender''' is a [[:Category:Machines|machine]] located in the [[Badge Bearer's
+        Guild]]. The machine's usage is to create [[:Category:Consumables|consumable]] [[items]]
+        from pre-existing items. However, the player is only able to craft one type of item at a
+        time. There is a total of 20 different items that the machine can craft.
+
+        == Can Be Crafted ==
+        [[File:Blendermenu.png|thumb|The Blender interface when crafting an item.]]
+        Each item takes 5 minutes to craft and the timer only counts down when the player is
+        in-game. The player can end the crafting process at any time by clicking on the \"End
+        Crafting\" button. This will give the player all finished items, and all unfinished items
+        will be turned back into their ingredients and given back to the player. If the button is
+        green, then everything has been blended. If not (red button), then the Blender has not
+        finished blending. The player can also speed up the blending for a varying amount of
+        {{Cost|Ticket}}. For every 1 item being crafted, the Blender requires 1 more ticket to speed
+        up. Except for {{Cost|Moon Charm}} and {{Cost|Gumdrops}}, for which each ticket serves for
+        speeding up whole 10 items.
+
+        {| class=\"sortable article-table\"
+        !Result
+        !Ingredients
+        |-
+        |[[File:Red_Extract.png|center|60px]]<div style=\"text-align: center;\">{{Color|Red
+        Extract}}
+        |{{Cost|Royal Jelly|10}}<br>{{Cost|Strawberry|50}}
+        |-
+        |[[File:Blue_Extract.png|center|60px]]<div style=\"text-align: center;\">{{Color|Blue
+        Extract}}
+        |{{Cost|Royal Jelly|10}}<br>{{Cost|Blueberry|50}}
+        |-
+        |[[File:Enzymes.png|center|60px]]<div style=\"text-align: center;\">{{Color|Enzymes}}
+        |{{Cost|Royal Jelly|10}}<br>{{Cost|Pineapple|50}}
+        |-
+        |[[File:Oil.png|center|60px]]<div style=\"text-align: center;\">{{Color|Oil}}
+        |{{Cost|Royal Jelly|10}}<br>{{Cost|Sunflower Seed|50}}
+        |-
+        |[[File:Glue.png|center|60px]]<div style=\"text-align: center;\">{{Color|Glue}}
+        |{{Cost|Royal Jelly|10}}<br>{{Cost|Gumdrops|50}}
+        |-
+        |[[File:TropicalDrinkInventory.png|center|60px]]<div style=\"text-align:
+        center;\">{{Color|Tropical Drink}}
+        |{{Cost|Coconut|10}}<br>{{Cost|Enzymes|2}}<br>{{Cost|Oil|2}}
+        |-
+        |[[File:Gumdrops icon.png|center|60px]]<div style=\"text-align:
+        center;\">{{Color|Gumdrops}}
+        |{{Cost|Pineapple|3}}<br>{{Cost|Strawberry|3}}<br>{{Cost|Blueberry|3}}
+        |-
+        |[[File:Moon.png|center|60px]]<div style=\"text-align: center;\">{{Color|Moon Charm}}
+        |{{Cost|Royal Jelly|1}}<br>{{Cost|Pineapple|5}}<br>{{Cost|Gumdrops|5}}
+        |-
+        |[[File:Glitter.png|center|60px]]<div style=\"text-align: center;\">{{Color|Glitter}}
+        |{{Cost|Moon Charm|25}}<br>{{Cost|Magic Bean|1}}
+        |-
+        |[[File:StarJelly.png|center|60px]]<div style=\"text-align: center;\">{{Color|Star
+        Jelly}}
+        |{{Cost|Royal Jelly|100}}<br>{{Cost|Glitter|3}}
+        |-
+        |[[File:Purplepotion.png|center|60px]]<div style=\"text-align: center;\">{{Color|Purple
+        Potion}}
+        |{{Cost|Neonberry|3}}<br>{{Cost|Red Extract|3}}<br>{{Cost|Blue
+        Extract|3}}<br>{{Cost|Glue|3}}
+        |-
+        |[[File:Soft Wax.png|center|60px]]<div style=\"text-align: center;\">{{Color|Soft Wax}}
+        |{{Cost|Honeysuckle|5}}<br>{{Cost|Oil|1}}<br>{{Cost|Enzymes|1}}<br>{{Cost|Royal
+        Jelly|10}}
+        |-
+        |[[File:Hardwax.png|center|60px]]<div style=\"text-align: center;\">{{Color|Hard Wax}}
+        |{{Cost|Soft
+        Wax|3}}<br>{{Cost|Enzymes|3}}<br>{{Cost|Bitterberry|33}}<br>{{Cost|Royal
+        Jelly|33}}
+        |-
+        |[[File:Swirled Wax.png|center|60px]]<div style=\"text-align: center;\">{{Color|Swirled
+        Wax}}
+        |{{Cost|Hard Wax|3}}<br>{{Cost|Soft Wax|9}}<br>{{Cost|Purple
+        Potion|6}}<br>{{Cost|Royal Jelly|3333}}
+        |-
+        |[[File:Causticwax.png|center|60px]]<div style=\"text-align: center;\">{{Color|Caustic
+        Wax}}
+        |{{Cost|Hard
+        Wax|5}}<br>{{Cost|Enzymes|5}}<br>{{Cost|Neonberry|25}}<br>{{Cost|Royal
+        Jelly|5252}}
+        |-
+        |[[File:Fdice.png|center|60px]]<div style=\"text-align: center;\">{{Color|Field Dice}}
+        |{{Cost|Soft Wax|1}}<br>{{Cost|Whirligig|1}}<br>{{Cost|Red
+        Extract|1}}<br>{{Cost|Blue Extract|1}}
+        |-
+        |[[File:Smooth Dice.png|center|60px]]<div style=\"text-align: center;\">{{Color|Smooth
+        Dice}}
+        |{{Cost|Field Dice|3}}<br>{{Cost|Soft
+        Wax|3}}<br>{{Cost|Whirligig|3}}<br>{{Cost|Oil|3}}
+        |-
+        |[[File:Loaded Dice.png|center|60px]]<div style=\"text-align: center;\">{{Color|Loaded
+        Dice}}
+        |{{Cost|Smooth Dice|3}}<br>{{Cost|Hard
+        Wax|3}}<br>{{Cost|Oil|3}}<br>{{Cost|Glue|1}}
+        |-
+        |[[File:Super Smoothie.png|center|60px]]<div style=\"text-align: center;\">{{Color|Super
+        Smoothie}}
+        |{{Cost|Neonberry|3}}<br>{{Cost|Star Jelly|3}}<br>{{Cost|Purple
+        Potion|3}}<br>{{Cost|Tropical Drink|6}}
+        |-
+        |[[File:Turpentine.png|center|60px]]<div style=\"text-align:
+        center;\">{{Color|Turpentine}}
+        |{{Cost|Super Smoothie|10}}<br>{{Cost|Caustic Wax|10}}<br>{{Cost|Star
+        Jelly|100}}<br>{{Cost|Honeysuckle|1000}}
+        |}
+
+        == Trivia ==
+        * There is a {{Cost|Star Jelly|||0}} token on top of the lid of the Blender. It can be
+        obtained by repeatedly jumping on the handle with enough [[System Page#Jump Power|Jump
+        Power]] or by standing on the gate to the Ace Badge section and gliding towards the top.
+        * If you select to craft something but not actually ‘blend’ it, when you leave the blender
+        and open it up again, it would show that you would select the number of red extracts you
+        want to craft.
+        * During the start of the Beesmas 2022 you could complete \"obtain items\" quests by canceling
+        the crafting, however this got fixed.
+
+        {{MapNav}}
+        [[Category:Machines]]
+        [[Category:Locations]]
+        [[zh-tw:攪拌機]]"}

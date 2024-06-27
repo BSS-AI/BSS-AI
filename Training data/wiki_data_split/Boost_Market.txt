@@ -1,0 +1,158 @@
+{"text": "{{RemovedContent}}
+        {{Stores
+        |title1 = Boost Market
+        |image1 = Boostmarket.png
+        |row1 = Past the [[Bear Gate]] on the right.
+        }}
+        [[File:Boost_Market.jpg|thumb|The Boost Market page interface.]]
+        The '''Boost Market''' was a [[:Category:Shops|shop]] that could have been found in the
+        [[Bear Gate|30 Bee Zone]]. Since the [[:Category:Beesmas|Beesmas]] 2021 [[Updates|update]],
+        it has been replaced by the [[Nectar Pot]].
+
+        Every 30 minutes, the shop allowed the player to purchase a market boost at a certain price.
+        The price depended on the number of people who have purchased that specific boost, much like
+        a real [[Wikipedia:Stock Market|stock market]]. It cost both [[ticket]]s and [[honey]] to
+        purchase a boost. These boosts lasted for 30 minutes. Market boosts could also have been
+        obtained from certain [[codes]], like RedMarket, or the ones used in the [[Ready Player
+        Two]] event.
+
+        When the player had purchased a market boost, the following audio played:
+        [[File:Boostmarketsound.ogg]]
+        {{clear}}
+        ==Boosts==
+        {| class=\"mw-collapsible article-table\"
+        !Name
+        !Boosts
+        !Picture
+        |-
+        |[[Sunflower Field]] Market Boost
+        | x1.5 Sunflower [[Field Capacity]]<br/>
+        x1.25 Sunflower Field Pollen<br/>
+        x1.05 [[Pollen]]<br/>
+        x1.25 [[System Page#Hive Convert Rate|Convert Rate At Hive]]
+        |[[File:Sunflowerfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Dandelion Field]] Market Boost
+        |x1.5 Dandelion Field Capacity<br/>
+        x1.25 Dandelion Field Pollen<br/>
+        +10% [[System Page#Bee Ability Rate|Bee Ability Rate]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Dandelionfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Mushroom Field]] Market Boost
+        |x1.5 Mushroom Field Capacity<br/>
+        x1.25 Mushroom Field Pollen<br/>
+        x1.1 [[System Page#Red Pollen|Red Pollen]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Mushroomfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Blue Flower Field]] Market Boost
+        | x1.5 Blue Flower Field Capacity<br/>
+        x1.25 Blue Flower Field Pollen<br/>
+        x1.5 [[System Page#Pollen From Bubbles|Bubble Pollen]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Blueflowermarketboost.png|thumb|center|50px]]
+        |-
+        |[[Clover Field]] Market Boost
+        |x1.5 Clover Field Capacity<br/>
+        x1.25 Clover Field Pollen<br/>
+        x1.25 [[System Page#Bee Gather Pollen|Bee Gather Pollen]]<br/>
+        +15% [[System Page#Loot Luck|Loot Luck]]
+        |[[File:Cloverfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Spider Field]] Market Boost
+        |x1.5 Spider Field Capacity<br/>
+        x1.25 Spider Field Pollen<br/>
+        -5% Monster Respawn Time<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Spiderfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Strawberry Field]] Market Boost
+        |x1.5 Strawberry Field Capacity<br/>
+        x1.25 Strawberry Field Pollen<br/>
+        x1.25 [[System Page#Red Bomb Pollen|Red Bomb Pollen]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Strawberryfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Bamboo Field]] Market Boost
+        |x1.5 Bamboo Field Capacity<br/>
+        x1.25 Bamboo Field Pollen<br/>
+        x1.1 [[System Page#Blue Pollen|Blue Pollen]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Bamboofieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Pineapple Patch]] Market Boost
+        |x1.5 Pineapple Patch Capacity<br/>
+        x1.25 Pineapple Patch Pollen<br/>
+        x1.25 White Pollen<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Pineapplepatchmarketboost.png|center|thumb|50px]]
+        |-
+        |[[Stump Field]] Market Boost
+        |x1.5 Stump Field Capacity<br/>
+        x1.25 Stump Field Pollen<br/>
+        x1.1 [[Goo]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Stumpfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Pumpkin Patch]] Market Boost
+        |x1.5 Pumpkin Patch Capacity<br/>
+        x1.25 Pumpkin Patch Pollen<br/>
+        x1.25 [[System Page#Capacity Multiplier|Capacity]]<br/>
+        +50 [[System Page#Convert Amount|Convert Amount]]
+        |[[File:Pumpkinpatchmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Cactus Field]] Market Boost
+        |x1.5 Cactus Field Capacity<br/>
+        x1.25 Cactus Field Pollen<br/>
+        x1.5 Buzz Bomb Pollen<br/>
+        +50 Convert Amount
+        |[[File:Cactusfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Rose Field]] Market Boost
+        |x1.5 Rose Field Capacity<br/>
+        x1.25 Rose Field Pollen<br/>
+        +10% [[System Page#Attack Multiplier|Bee Attack]]<br/>
+        +50 Convert Amount
+        |[[File:Rosefieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Pine Tree Forest]] Market Boost
+        |x1.5 Pine Tree Forest Capacity<br/>
+        x1.25 Pine Tree Forest Pollen<br/>
+        x1.25 [[System Page#Blue Bomb Pollen|Blue Bomb Pollen]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Pinetreeforestmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Mountain Top Field]] Market Boost
+        |x1.5 Mountain Top Field Capacity<br/>
+        x1.25 Mountain Top Field Pollen<br/>
+        +25% [[System Page#Pollen From Tools|Pollen From Tools]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Mountaintopfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Coconut Field]] Market Boost
+        |x1.5 Coconut Field Capacity<br/>
+        x1.25 Coconut Field Pollen<br/>
+        x2.5 Pollen From [[Coconut]]s<br/>
+        x1.1 White Pollen
+        |[[File:Coconutfieldmarketboost.png|thumb|center|50px]]
+        |-
+        |[[Pepper Patch]] Market Boost
+        |x1.5 Pepper Patch Capacity<br/>
+        x1.25 Pepper Patch Pollen<br/>
+        x1.25 [[System Page#Pollen From Flames|Flame Pollen]]<br/>
+        x1.25 Convert Rate At Hive
+        |[[File:Pepperpatchmarketboost.png|thumb|center|50px]]
+        |}
+
+        ==Trivia==
+        *This was removed because Onett said that it was a \"Failed Experiment,\" and the prices were
+        getting out of hand.
+        *The Boost Market, [[Eviction]]s, and the [[Most Commando Captures|Most Commando Captures
+        Leaderboard]] are the only removed content that weren't exclusive to events.
+        *Despite being removed, some of the buffs are still obtainable from certain [[codes]].
+        {{MapNav}}
+        [[Category:Shops]]
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Removed Content]]"}

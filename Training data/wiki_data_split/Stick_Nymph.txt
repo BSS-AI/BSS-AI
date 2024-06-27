@@ -1,0 +1,141 @@
+{"text": "[[File:Sticknymph.png|thumb|A Stick Nymph from the side.]] The '''Stick Nymph''' is a
+        [[Mobs|Mob]] that is summoned by [[Stick Bug]] during the [[Stick Bug Challenge]].
+
+        Stick Nymphs will follow the player closest to them and will deal damage if they touch a
+        player. Despite their low stats, Stick Nymphs are almost always in large groups, often
+        overpowering weaker players.
+
+        == Health per Level ==
+        {| class=\"mw-collapsible mw-collapsed fandom-table\"
+        !Level
+        !Health
+        |-
+        |1
+        |50
+        |-
+        |2
+        | 70
+        |-
+        |3
+        |110
+        |-
+        |4
+        |170
+        |-
+        |5
+        |250
+        |-
+        |6
+        |350
+        |-
+        |7
+        |470
+        |-
+        |8
+        |590
+        |-
+        |9
+        | 730
+        |-
+        |10
+        | 870
+        |-
+        | 11
+        |1,050
+        |-
+        |12
+        |1,210
+        |-
+        |13
+        |1,410
+        |-
+        |14
+        | 1,610
+        |-
+        |15
+        |1,810
+        |-
+        |16
+        |2,030
+        |-
+        | 17
+        |2,270
+        |-
+        |18
+        |2,510
+        |-
+        |19
+        |2,770
+        |-
+        | 20
+        | 3,030
+        |-
+        |21
+        |3,270
+        |-
+        |22
+        |3,570
+        |-
+        | 23
+        |3,870
+        |-
+        |24
+        |4,170
+        |-
+        |25
+        |4,490
+        |-
+        |26
+        |4,790
+        |}
+        == Drops ==
+
+        Stick Nymphs will drop 5 random tokens in a pentagonal formation when defeated.<br
+        />Rewards can include:
+
+        * [[Honey]] calculated by the formula 200x, with x being the stick nymph's level.
+        * [[Gumdrops]].
+        * [[Pineapples]].
+        * [[Sunflower Seed|Sunflower Seeds]].
+        * [[Treats]].
+        * [[Royal Jelly]].
+        * [[Snowflake]]s (Beesmas Only).
+        *[[Oil]] (Rare).
+        *[[Magic Bean]] (Rare).
+        *[[Enzymes]] (Rare).
+        * [[Royal Jelly#Star Jelly|Star Jelly]] (Very Rare).
+        * Walking Stick Nymph [[Sticker]] (Extremely Rare)
+
+        ==Gallery ==
+        <gallery hideaddbutton=\"false\" widths=\"185\" position=\"center\">
+        Tons of level 3 4 stick nymphs.PNG|The health bars of a group of levels 3, 4, and 5 Stick
+        Nymphs.
+        Screen Shot 2021-04-29 at 9.13.41 PM.png|Stick Nymphs below a player.
+        Basix updore.PNG|Stick Nymphs featured in the [[Updates#2018.11.25|11/25]] update thumbnail.
+        </gallery>
+
+        ==Trivia==
+
+        *Stick Nymphs can follow the player out of the [[Fields|Field]] and can either go through
+        some objects, be obstructed by them, or go into certain locations, such as the [[King Beetle
+        Lair|King Beetle's Lair]], which is not always the same as what the player cannot go
+        through. This can allow the player to exploit them and deal damage from afar.
+        *Stick Nymphs, just like[[Chicks#Mondo Chick|Mondo Chick]] and the [[Festive Nymph]]s, lose
+        health every second, Mondo Chick always loses 333 health per second, but Stick Nymphs and
+        Festive Nymph's health devours faster when their level is higher, and is possible to be
+        defeated naturally unlike Mondo Chick who only has 300 health left when reaching 15 minutes.
+        If their health drains to 0 without the players, they still will drop rewards.
+        *Stick Nymphs are unable to jump, so if you get on a platform higher than the Stick Nymph
+        can reach, they cannot damage you.
+        *Stick Nymphs and Festive Nymph are the only mobs that can be summoned by another mob.
+        **These are two of 18 mobs that cannot spawn naturally, as in the player cannot simply walk
+        in a field and fight it, the other mobs being the five types of [[Ants]], [[Snowbear]],
+        Stick Bug, the five [[Robo Bear Challenge]] Mobs, and the four [[Robo Party]] mobs.
+        *Stick Nymphs were the first mob to drop tokens upon defeat. Stick Bug doesn't count because
+        Stick Bug is impossible to defeat, as knocking Stick Bug down to 0 health will only raise
+        its level by 1 point and reset its health to full in the process.
+        *Whenever Stick Nymphs spawn in the [[Strawberry Field]], there is a glitch where they can
+        go up the ramp.
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Stick Bug Challenge]]"}

@@ -1,0 +1,65 @@
+{"text": "{{Tool
+        |image =Petal_Wand.png
+        |price = 1 Spirit Petal, 10 Star Jellies, 25 Glitter, 75 Enzymes, 1,500,000,000
+        |shop = Petal Shop
+        |range = 37
+        |pattern = Flower
+        |time = 0.7
+        |collectbase = 6
+        |whitemultiplier = 2
+        |redmultiplier = 2
+        |bluemultiplier = 2
+        |specialmultiplier = 100% Pollen Multiplier
+        }}
+        {{Quote|Collects 6 pollen from 37 patches in 0.7s and boosts it by 100%. Every 3rd swing
+        fires a Petal Shuriken that causes bees to instantly convert pollen!}}
+        The '''Petal''' '''Wand''' is a [[Tools|tool]] added in the [[Updates|9/28/2019 update]]
+        that can be crafted in the [[Petal Shop]].
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|{{Hover|1.5B|1,500,000,000}}}}<br>{{Cost|Star
+        Jelly|10}}<br>{{Cost|Glitter|25}}<br>{{Cost|Enzymes|75}}<br>{{Cost|Spirit
+        Petal|1}}
+        |}
+
+        It collects 6 [[pollen]] from 37 patches in 0.7 seconds, and boosts pollen collected by
+        100%. It has an average base pollen collection rate of 634.28 pollen per second. It emits a
+        yellow particle effect at the top of the tool, similar to the [[Petal Belt]].
+
+        Every 3rd swing, it fires a Petal Shuriken, which causes [[bees]] to instantly convert
+        pollen if it touches their hitbox. The shuriken instantly converts 10,000 + 6% of the bees'
+        [[System Page#Convert Amount|convert amount]] in pollen to honey, + an additional 6% per
+        [[Field Boost|field boost]] stack of the field you're standing in. Shurikens can also pop
+        [[Passive Abilities#Gathering Bubbles|bubbles]] and collect [[Ability Tokens#Fuzz Bombs|fuzz
+        bombs]].
+
+        ==Sound effect==
+        [[File:Shimmer1.ogg]]
+
+
+        ==Gallery==
+        <gallery>
+        Hivesticker_petal_wand.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        Petal shuriken.gif|A petal shuriken in action.
+        Petal Wand-1.png|A close-up view of a petal shuriken.
+        File:Petal Wand!.png|The Petal Wand in the shop.
+        </gallery>
+
+        ==Trivia==
+        * Excluding Honey & Spirit Petals, if the ingredients were to be crafted in the
+        [[Blender]], then you would need 1,750 Royal Jelly, 1,375 Moon Charms, 55 Magic Beans and
+        3,750 Pineapples. If one were to buy the royal jelly required for it, that would be 1.75
+        billion honey.
+        * The Petal Wand can launch its shurikens even while the player isn't in a [[Fields|field]].
+        **This can be used to spend less time at the [[hive]] converting pollen.
+        *The Petal Wand is the only tool to be held by a [[:Category:Bears|bear]] ([[Onett]] holds a
+        tool but he's not a bear), specifically [[Spirit Bear]].
+        **The version held by Spirit Bear is much bigger than a player's.
+        *After the shuriken comes in contact with one of the player's bees, the sound effect
+        changes. This also increases in pitch with every consecutive bee.
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]
+        [[Category:Crafted]]
+        [[zh-tw:花瓣法杖]]"}

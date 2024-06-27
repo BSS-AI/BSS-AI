@@ -1,0 +1,44 @@
+{"text": "{{DailyCheck}}
+        ''(Leaderboard as of 04/11/2024)''
+        {{LB|name1=HavingFun2228|amount1=4,174,748,976|name2=ethanolodjATTACK_alt|amount2=2,884,972,595|amount4=2,554,705,904|name4=buffwhite_mikey|name3=ScorpionJee|amount3=2,646,479,333|name5=Treeanle|amount5=2,390,397,933|name6=c0ntemptionAlt|amount6=2,353,701,998|name7=Cawuoo|amount7=2,251,090,812|name8=Cortyrs|amount8=2,233,605,795|name9=youlfool1|amount9=2,215,930,208|amount10=2,212,201,352|name10=stingerabbasiii}}
+        The '''Global Top Stick Bug Fighters Leaderboard''' is one of the 62 [[leaderboards]] in the
+        game. It can display 10 leaderboard positions at a time
+        If the player stands on the white pad in front of the leaderboard, <span
+        style=\"background-color:#0090BF; color:white;\">\"Your highscore:
+        \"..ScoreVariable..\"\"</span> \"ScoreVariable\" being the score obtained from the [[Stick
+        Bug Challenge]] This allows for players to view their current Highscore for the Stick Bug
+        Challenge. This leaderboard tracks the top 100 scores from fighting [[Stick Bug]] in the
+        Stick Bug Challenge. The player can scroll down the leaderboard to see more players, all the
+        way to the 100th place.
+
+        The Top Stick Bug Fighters leaderboard was reset at one point due to glitches with the
+        fight. The glitches were fixed on 9/27/19
+
+        It was later reset again on 12/26/2022[[File:Stickbug and Stickbug
+        Leaderboard.png|thumb|Stick Bug next to the Top Stick Bug Fighters leaderboard.]]
+
+        The leaderboard was recently reset once more in 1/12/2024 due to the technique of using
+        attack buffs in Robo Bear's Challenge to increase damage drastically.
+
+        ==Location==
+        It is located right behind Stick Bug, on top of the biggest mushroom in the [[Mushroom
+        Field]]. One method to get there is to use the [[Red Cannon|Red]], [[Blue Cannon|Blue]], or
+        [[Yellow Cannon]]s paired with either the [[Parachute]] or [[Glider]]. Another way to get
+        there is to parachute or glide from a tall place, like near the [[Lion Bee Gate]]. Doing the
+        [[Obstacle Courses#Mushroom Field Obby|Mushroom Field Obby]] and jumping and gliding to the
+        tallest mushroom is also a viable solution.
+
+        ==Achievements==
+        *zlib was the first player to reach a score of 100 million or more.
+        *Rara0w0x3 was the first player to reach a score of 1 billion or more.
+
+        == Trivia ==
+        * This leaderboard, the [[Highest Snowbear Level]] leaderboard, and the [[Fastest Crab
+        Slayers]] leaderboard are the only three leaderboards to rank \"[[:Category:Bosses|bosses]]\".
+        * After the leaderboard got reset again in 1/12/2024, the score displayed when stepping on
+        the podium is your score before the reset. But it does not display in the leaderboard.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Leaderboards]]
+        [[Category:Stick Bug Challenge]]
+        [[Category:Starter Zone]]"}

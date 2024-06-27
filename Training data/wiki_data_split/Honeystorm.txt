@@ -1,0 +1,59 @@
+{"text": "[[File:Honeypad.png|thumb|The Honeystorm summoner.]]
+        <nowiki> </nowiki>A '''Honeystorm''' is a server-wide event that can be summoned
+        by using the pad near [[Brown Bear]] by anyone who has discovered four
+        [[Bees/Legendary|Legendary Bee]] types. When summoned, a server-wide announcement will
+        state, \"<span style=\"background-color:#F4A90D; color:white;\">[Username] has summoned a
+        Honeystorm!</span>\". Upon being summoned, a golden-yellow fog will appear along with a
+        multitude of [[Honey|honey tokens]] and some [[ticket]] tokens that will begin to randomly
+        appear across all [[fields]], even the [[Ant Challenge|Ant Field]]. The storm lasts for 20
+        seconds and has a cooldown of 4 hours. It can also be randomly triggered, in which the
+        announcement says, \"<span style=\"background-color:#F4A90D; color:white;\">A Honeystorm
+        has been summoned!</span>\".
+
+        When a honeystorm is summoned, the honey tokens make raindrop-like popping noises when they
+        appear. Like with the [[Mythic Meteor Shower]], the distorted voice clip of [[BSS
+        Staff#IcedTeaLatte|IcedTeaLatte]] saying \"Honeystorm\" indicates that a Honeystorm has been
+        summoned.
+
+        Fields with bigger [[flowers]] give higher amounts of honey per token, with their totals
+        being increased by the [[System Page#Honey From Tokens|Honey From Tokens]] stat. These honey
+        tokens also despawn faster than normal honey tokens.
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Honeystorm-0.png|The message shown when the player had not discovered enough Legendary bee
+        types to summon a honeystorm.
+        HoneystormFog.png|The golden fog of a honeystorm.
+        Honeystorm.png|The location of the Honeystorm summoner before the 9/10/2018 update.
+        </gallery>
+
+        == Trivia ==
+        * The honeystorm fog is normally tinted yellow, but during Beesmas in 2018 and 2019, the fog
+        is white.
+        ** As of Beesmas 2020, this is no longer the case, since [[Snowstorm]]s use the white fog
+        instead.
+        * This and the [[Special Sprout Summoner]] are the only [[:Category:Machines|machines]] that
+        require the player to discover Legendary bee types to be activated, with this requiring 4
+        and the Special Sprout Summoner requiring 8.
+        * A honeystorm's yellow tint could generate enough light to make the [[Cave Monster|cave
+        monsters]] in the Werewolf's cave visible.
+        * There is a [[Glitches|glitch]] where if a switch between day and [[Day/Night Cycle|night]]
+        occurs while a honeystorm is active, the fog will disappear. This is purely visual and the
+        honeystorm will still function as normal.
+        * There was a short-lived issue around 5/26/2018 that caused the Honeystorm Summoner to be
+        removed. If a player encountered a server without a Honeystorm Summoner, they could simply
+        leave the game and come back. This was, of course, fixed later.
+        * After the [[Updates#2018.09.10|9/10/2018 update]], the Honeystorm Summoner was moved and
+        the [[Wealth Clock]] now sits in its former spot. Now it is located between the [[Clover
+        Field]] and [[Blue HQ]].
+        * Upon receiving the quest \"Witness Grandeur\", [[Spirit Bear]] summons a honeystorm.
+        * According to [[Bee Bear]], [[Bubble Bee Man]] summons the honeystorms.
+        * If you summon honeystorms at night, the fog will stay even after the storm until daytime.
+        * Honeystorms can stack with other honeystorms. This does not affect the intensity of the
+        honeystorms, but instead increases the duration.
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Summoner]]
+        [[Category:Starter Zone]]"}

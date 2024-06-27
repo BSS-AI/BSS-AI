@@ -1,0 +1,29 @@
+{"text": "[[File:Yellow cannon.png|thumb|220px|The Yellow Cannon.]]
+        The [[Yellow Cannon]] is available for use once the player has discovered 12 [[Bees|bee]]
+        types. It is located on a hill accessible from the [[Brave Bee Gate]] next to [[Science
+        Bear]] and the [[Red Teleporter]] exit. It has a 5 second cooldown period.
+
+        If the player has the [[Parachute]] or [[Glider]], they can use it in combination with the
+        Yellow Cannon to perform a few shortcuts around the map, along with collecting [[Royal
+        Jelly|royal jelly]] tokens, such as the one in the [[Dandelion Field]], the one on top of
+        the [[hive]]s, the one on top of the [[Noob Shop]] near the entrance of the [[Star Hall]] or
+        the one near [[Brown Bear]].
+
+        == Trivia ==
+
+        * This is one of the four cannons in the game, which the other three cannons are [[Blue
+        Cannon]], [[Red Cannon]], and [[Gummy Cannon]].
+        ** This is one of the three transportational cannons in the game, which the other two
+        cannons are [[Blue Cannon]] and [[Red Cannon]].
+        * If used without moving, the player will land on the spawn platform, but can be slightly
+        shifted off of it due to Roblox physics.
+        * The Yellow Cannon has a cooldown of 5 seconds. While this is not normally possible to see
+        during regular gameplay as the cannon launches the player too far to return in 5 seconds,
+        the cooldown can be seen by using the Glider/Parachute glitch to stop all momentum as soon
+        as the player exits the cannon.
+        **This cooldown is shared by all the transportational cannons.
+        {{MapNav}}
+        [[Category:Transport]]
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[fr:Canon Jaune]]"}

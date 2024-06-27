@@ -1,0 +1,64 @@
+{"text": "[[File:TunnelInterior.png|thumb|289px|The interior of the White Tunnel.]]
+        The '''White Tunnel''' is a hidden location behind the [[Brave Bee Gate]] that can be
+        entered via the [[Instant Converter]] near the [[Pineapple Patch]] and [[Stump Field]] and
+        exited by standing on a platform in the middle of the tunnel. It is home to [[Tunnel Bear]].
+        It does not contain any [[items]], but it does have a picture of a winking [[Basic Bee]]
+        face at the end of the tunnel, hinting towards the [[Codes|code]] \"Wink\" (valid). The
+        farther down the tunnel you go, the narrower the tunnel becomes. This makes exploiting
+        Tunnel Bear harder as you can only \"turn around\" at the beginning of the tunnel, elongating
+        the fight.
+        [[File:Whitetunnelentrances.png|alt=|thumb|220px|The two ways to get into the White
+        Tunnel.]]
+
+        == Entrances ==
+        There are two ways to enter: by jumping into the top of the instant converter, or by hopping
+        up into the right side of the converter. To use the first method, either hop up on one of
+        the shorter parts of the converter, then jump into the chute at the top, or if you don't
+        have enough jumping power to do that, go up to the [[Yellow Cannon]] and jump down from
+        there, or jump on the converter from the ledge beside it.
+
+        Another way to enter is to glide to the walls of the map (in the direction of [[Stump
+        Field]]), and then hop over to the gap in the ground, which is an alternate way of entering
+        the White Tunnel.
+
+        There is an exit platform about a third of the way down the tunnel that will teleport you on
+        to the top of the Instant Converter next to the [[Sunflower Field]].
+        [[File:Screenshot 2023-03-31 170856.png|alt=The alternate entrance to the White Tunnel that
+        does not involve using the Instant Converter.|thumb|The alternate entrance to the White
+        Tunnel that does not involve using the Instant Converter.]]
+
+        == Music ==
+        When in the tunnel, the following audio plays:[[File:Crawlers.ogg]]
+
+        This [[Music|audio]] is known as \"Crawlers\" and also plays inside the [[King Beetle's Lair]]
+        and the [[Commando Chick's Hideout]].
+        [[File:Screenshot 2024-01-27 at 8.21.26 AM.png|thumb|The alternative entrance from inside
+        the tunnel]]
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Screenshot 2019-05-04 at 7.11.03 PM.png|The previous version of the tunnel.
+        Screenshot 17.png|The green platform covering the tunnel.
+        TunnelAltEntrance.png|A player entering the alternate entrance to Tunnel Bear's lair.
+        Screenshot 16-0.png|The outside of the tunnel.
+        Winking Basic Bee.png|The winking [[Basic Bee]] face at the end of the tunnel.
+        Tunnel Bear-0.png|Tunnel Bear in the White Tunnel.
+        Tunnel Bear's Respawn timer.PNG|Tunnel Bear's respawn timer.
+        </gallery>
+
+        == Trivia ==
+        * The winking bee at the end of the tunnel is the same winking bee picture in a previous
+        [[Bee Swarm Simulator]] thumbnail.
+        * Before the [[Updates#2018.09.10|9/10/2018 update]], the tunnel could also be entered by
+        going outside the map and finding the spot on the top of the tunnel where Tunnel Bear enters
+        it. The update buried the tunnel under green grass (white snow during Beesmas) to make it
+        more tunnel-like, so this entrance is now much harder to find. However, the cover is
+        non-collidable so you can pass through it.
+        * Before the [[Updates#2018.11.25|11/25/2018 update]], the width of the tunnel was the same
+        throughout the entire tunnel, instead of getting narrower.
+        * To enter through the alternate entrance, you would have to jump over the wall behind
+        science bear. Best way to do this is to use the Wind Shrine to get on the wall, then make
+        your way over.
+
+        {{MapNav}}
+        [[Category:Locations]]"}

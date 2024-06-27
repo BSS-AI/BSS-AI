@@ -1,0 +1,46 @@
+{"text": "[[File:Nectar jar.png|thumb|128x128px|The [[Nectar Pot]] located in the 30 Bee
+        Zone.]][[File:The Nectar Condenser2.png|thumb|162x162px|[[Nectar Condenser|The Nectar
+        Condenser]] located in the 35 Bee zone]]'''Nectar''' is a set of [[Buffs &
+        Debuffs|buffs]] that were added in the [[Updates#2021.12.26|12/26/21 update]]. It is granted
+        from [[planter]]s, either by harvesting them, by [[bees]] sipping them from planters, or by
+        using [[Dapper Bear|Dapper Bear's]] [[Samovar]] during Beesmas. [[Nectar Vial]]s give 4
+        hours of a specific Nectar when used. Some [[quests]] require a certain amount and type of
+        nectar to be collected. All sources of getting Nectar can contribute to those quests.
+
+        There are five types of nectar: Invigorating, Satisfying, Motivating, Comforting, and
+        Refreshing.
+
+        Nectar buffs can last for up to 24 hours and the boosts granted scale with the amount of
+        time remaining. 12 hours of Nectar can be converted to a [[Nectar Vial|Vial]] using the
+        [[Nectar Condenser]]. Nectar can also be stored inside the [[Nectar Pot]] located in the 30
+        Bee Zone for 5 [[Ticket]]s. All of the Nectar types can be stored, but in order to deposit
+        Nectar, any stored Nectar must be withdrawn first. If the Nectar is not stored, it will
+        continue to deplete even if the player is not in the game.
+
+        The table below shows the different Nectar types, the fields where a player can obtain them,
+        and which planters give more Nectar than usual. All nectar types have a x0.75 bonus from the
+        [[Paper Planter]], x1.5 from [[The Planter Of Plenty]], x2 from [[Ticket Planter]]s and
+        [[Sticker Planter]]s, and x3 from [[Festive Planter]]s.
+
+        {{NectarTypes}}
+
+        <gallery hideaddbutton=\"true\">
+        Nectar types.png|The Nectar types, the effects and where to get them.
+        </gallery>
+
+        ==Trivia==
+        *Every nectar icon (except Refreshing) has a letter on it that represents the first initial
+        of the type of nectar.
+        **Refreshing has no letter, although it is presumed that the icon has the gaps of the letter
+        'R'.
+        **Comforting has the letter 'C' resembling a crescent moon shape.
+        **Satisfying has the letter 'S' resembling the lightning bolt in its decal.
+        **Motivating has the letter 'M' in the lightbulb resembling the filament.
+        ** Invigorating has the lower part of 'i' or a small capital 'I' at the bottom of the fire.
+        *[[Shy Bee]] has the passive [[Passive Abilities#Nectar Lover|Nectar Lover]], where it is
+        twice as likely to sip nectar and gather twice as much nectar. It also contributes twice as
+        much to the planter's growth.
+        *It's impossible to collect nectar from the [[Ant Field]] although Onett announced that Ant
+        Field contains Invigorating Nectar.
+
+        [[Category:Mechanics]]"}

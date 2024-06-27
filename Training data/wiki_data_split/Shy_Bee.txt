@@ -1,0 +1,66 @@
+{"text": "{{Bee
+        |image-orig = Shy_Bee.png
+        |image-gifted = ShyBee Gifted.png
+        |description = This talented bee doesn't like to socialize, it just wants to work and be
+        left alone.
+        |rarity = Legendary
+        |color = Red
+        |energy = 40
+        |energylabel = more
+        |speed = 18.2
+        |attack = 2
+        |skincolor1 = #9f9f9f
+        |skincolor2 = #9f9f9f
+        |skincolor3 = #9f9f9f
+        }}
+
+        '''Shy Bee''' is a [[:Category:Red|Red]] [[Bees/Legendary|Legendary bee]].
+
+        Shy Bee's favorite type of treat is [[Strawberry|Strawberries]].
+
+        Shy Bee likes the [[Strawberry Field]] and the [[Pumpkin Patch]]. It dislikes the [[Pine
+        Tree Forest]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 2 seconds.
+        * Makes 320 [[Honey]] in 4 seconds.
+        * +100% [[Energy]], +30% [[Stats#Speed|Movespeed]], +50% Gather Speed, +240 [[System
+        Page#Convert Amount|Convert Amount]], +1 [[Stats#Attack|Attack]].
+        * 🌟[[Gifted Bee|Gifted Hive Bonus]]: +5% Bee Ability Pollen.
+
+        === Abilities ===
+        * '''[[Ability Tokens#Boost|[Red Boost]]]''' Grants x1.2 pollen from red [[Flowers]] for
+        15s. Stacks up to 10 times.
+        * '''[[Ability Tokens#Bomb|[Red Bomb]]]''' Collects 10 pollen from 13 surrounding red
+        flowers (+10% pollen per Level). Combo with other bombs to increase power.
+        * '''[[Passive Abilities#Nectar Lover|[Passive: Nectar Lover]]]''' This bee is twice as
+        likely to sip Nectar from Planters. When it does, it gathers twice as much Nectar and
+        contributes twice as much growth to the Planter.
+
+        {{Stat|pollen = 10|pollentime = 2|honey = 320|honeytime = 4|rarity = legendary|color = red}}
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        ShyBee Hive.png|Shy Bee's old hive slot design.
+        Gifted Shy Bee.PNG|A Gifted Shy Bee hive slot.
+        575F2148-83DD-43BE-8BF5-3861C4F9FD9C.jpeg|The smoke trail from a Shy Bee.
+        Png (24).png|Shy Bee's face.
+        Shyfaceoriginal.png|Shy Bee's original face.
+        </gallery>
+
+        == Trivia ==
+        * This bee, [[Ninja Bee]], [[Fuzzy Bee]], and [[Windy Bee]] are the only bees that have only
+        one skin color.
+        * This bee used to have a spelling or grammar mistake in its description, along with [[Hasty
+        Bee]] and [[Shocked Bee]], but it was fixed in an update.
+        * This bee is the only bee that has a smoke effect.
+        * This bee is the red counterpart of Ninja Bee.
+        * A [[Royal Jelly#Specific Bee Jelly|Special Jelly]] that changes a bee into a Shy Bee could
+        have been obtained from the code, 'NewMic' (expired).
+        * This bee, [[Diamond Bee]] and [[Demon Bee]] are the only legendary bees with a passive
+        ability.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Legendary]]
+        [[Category:Red]]
+        [[zh-tw:害羞蜂]]"}

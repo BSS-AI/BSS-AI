@@ -1,0 +1,31 @@
+{"text": "{{Beequip
+        |color=Any
+        |level=3
+        |limit=3
+        |image1=Thimble.png
+        |description= A tiny cup that usually protects our fingers. Bees can wear it as a hat.
+        |stats=<br/>+Convert Amount<br/>%Convert Amount
+        |bonushive=<br/>%Convert Rate<br/>xConvert Rate
+        }}
+        A '''Thimble''' is a [[Bond|level]] 3 [[beequip]]. It has an equip limit of three. There is
+        no color requirement.
+
+        == Possible Stats ==
+        *[[System Page|Convert Amount]] (Guaranteed) - +20 - +40. (up to +80 from [[Waxes|waxing]])
+        *[[System Page|Convert Amount]] (Guaranteed) - +1% - +5%. (up to +10% from waxing)
+        *[Hive Bonus] [[System Page|Convert Rate]] (rare) - +1%. (up to +10% from waxing)
+        *[Hive Bonus] [[System Page|Convert Rate]] (from wax, rare, caustic only) - x1.01.
+
+        == Ways to Obtain ==
+        * Can be a product available in [[Dapper Bear's Shop|Dapper Bear's Beequip Shop]].
+
+        == Gallery ==
+        <gallery>
+        File:Thimble1.png|A Thimble in Dapper Bear's Shop.
+        File:Thimble2.png|A Thimble equipped to a Hasty Bee.
+        File:Thimble3.png|A Thimble in the Beequip Case.
+        </gallery>
+        [[Category:Beequips]]
+        [[Category:Items]]
+
+        {{Items}}"}

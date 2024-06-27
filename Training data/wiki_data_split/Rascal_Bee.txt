@@ -1,0 +1,61 @@
+{"text": "{{Bee
+        |image-orig = Rascal_Bee.png
+        |image-gifted=RascalBee Gifted.png
+        |description = A mischevious [sic] bee who moves quick and hits hard. Keep an eye out on
+        this one!
+        |rarity = Rare
+        |color = Red
+        |energy = 20
+        |speed = 16.1
+        |attack = 3
+        |skincolor1 = #1b2a35
+        |skincolor2 = #f3492d
+        |skincolor3 = #1b2a35
+        }}'''Rascal Bee''' is a [[:Category:red|Red]] [[Bees/Rare|Rare bee]].
+
+        Rascal Bee's favorite type of treat are [[Strawberry|strawberries]].
+
+        Rascal Bee likes the [[Mushroom Field]] and the [[Rose Field]]. It dislikes the [[Pine Tree
+        Forest]].
+
+        == Stats ==
+        * Collects 10 [[pollen]] in 4 seconds.
+        * Makes 80 [[honey]] in 4 seconds.
+        * +15% [[Stats#Speed|movespeed]], +2 [[Stats#Attack|attack]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: x1.25 [[System Page#Red Bomb Pollen|Red Bomb
+        Pollen]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Bomb|[Red Bomb]]]''' Collects 10 pollen from 13 surrounding red
+        [[flowers]] (+10% pollen per level). Combo with other bombs to increase power.
+
+        {{Stat|pollen = 10|pollentime = 4|honey = 80|honeytime = 4|rarity = rare|color = red}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        RascalBee Hive.png|Rascal Bee's old hive slot design.
+        Png (31).png|Rascal Bee's face.
+        Rascal Bee Egg.png|A Rascal Bee egg in the inventory.
+        Rascalfacebutdifferent.png|Rascal Bee's alternative face. This face is not in the game.
+        </gallery>
+
+        == Trivia ==
+        * Its blue counterpart is [[Bumble Bee]].
+        * Rascal Bee, [[Riley Bee]], and [[Demon Bee]] have the same skin colors.
+        * Rascal Bee is one of [[Onett (Developer)|Onett's]] favorite [[Bees|bee]] types because he
+        likes its facial expression.
+        * In Onett's inventory, it is revealed that Rascal Bee was originally going to have a
+        different face.
+        * In Rascal Bee's description, \"misch'''i'''evous\" is written as \"mischev'''i'''ous\", a
+        common misspelling of the word.
+        * Defeated [[ladybug]]s will sometimes drop [[Egg#Specific Bee Eggs|Rascal Bee eggs]].
+        * Rascal Bee is the only Rare bee to have an attack of 3.
+        * Rascal Bee has the second highest attack of all Rare bees, only behind [[Brave Bee]].
+        * A [[Royal Jelly#Specific Bee Jelly|special jelly]] that changes a bee into a Rascal Bee
+        could have been obtained from the [[Codes|code]] 'MischiefMaker' (expired).
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Rare]]
+        [[Category:Red]]
+        [[zh-tw:淘氣蜂]]"}

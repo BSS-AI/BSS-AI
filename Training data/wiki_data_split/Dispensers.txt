@@ -1,0 +1,96 @@
+{"text": "A '''Dispenser''' is a [[:Category:Machines|machine]] whose main purpose is to dispense
+        various [[items]] or boosts to the player typically under a cooldown.
+
+        To use a dispenser, simply stand on the pad in front of the dispenser to use it. Some of the
+        dispensers have certain requirements in order to be used such as having enough [[ticket]]s
+        or being a part of the [[Bee Swarm Simulator Club]]. While there are some dispensers that
+        don't directly have any requirements to be used, there are some that have indirect
+        requirements such as the [[Glue Dispenser]] requiring the player have a certain
+        [[Badges|badge]] to access, as the Gummy Bear's Lair requires the player to have
+        [[Badges#Goo Badge|Goo Hotshot]] or above to enter, or the [[Coconut Dispenser]] needing the
+        player to defeat the [[Coconut Crab]] to gain access to it, similar to the rest of the
+        content in the [[Coconut Cave]].
+
+        == Dispenser Types ==
+
+        There are currently 12 types of dispensers listed below:<tabber>
+        |-|Club Dispensers=
+        Club Dispensers are dispensers that require the player to be part of the Bee Swarm Simulator
+        Club in order to use them.
+
+        <tabview>
+        Blueberry Dispenser
+        Honey Dispenser
+        Strawberry Dispenser
+        Treat Dispenser
+        </tabview>
+
+        |-|Free Dispensers=
+
+        Free Dispensers are dispensers that the player can use without having to join the Bee Swarm
+        Simulator Club or spend tickets.
+
+        <tabview>
+        Coconut Dispenser
+        Free Ant Pass Dispenser
+        Free Robo Pass Dispenser
+        Free Royal Jelly Dispenser
+        Glue Dispenser
+        </tabview>
+
+        |-|Ticket Dispenser=
+
+        Ticket Dispensers are dispensers that require the player to spend tickets to use them.
+        <tabview>
+        Ant Pass Dispenser
+        Robo Pass Dispenser
+        Royal Jelly Dispenser
+        </tabview>
+        </tabber>
+
+        == Gallery ==
+        <gallery>
+        File:Treatdispenser.png|The Treat Dispenser in front of the Pro Shop.
+        File:Honey dispenser during beesmas.png|The Honey Dispenser next to the Noob Shop during
+        Beesmas.
+        File:BlueberryDispenser2022.png|The Blueberry Dispenser in the Blue HQ.
+        File:StrawberryDispenserNewLid.png|The Strawberry Dispenser outside of the Red HQ.
+        File:Glue Dispenser.png|The Glue Dispenser in Gummy Bear's Lair.
+        File:Royal Jelly Dispenser-0.png|The Royal Jelly Dispenser next to the Clover Field.
+        File:FreeRoyalJellyDispenser1.png|The option to use the Free Royal Jelly Dispenser.
+        File:TreatDispenser1.png|The rewards from using the Treat Dispenser with 50 bees.
+        File:AntPassDispensers1.png|The Free Ant Pass Dispenser and the Ant Pass Dispenser in the 20
+        Bee Zone.
+        File:RoboPassDispensers1.png|The Free Robo Pass Dispenser and the Robo Pass Dispenser in the
+        30 Bee Zone.
+        File:HoneyDispenser2.png|The cooldown timer for attempting to use the Honey Dispenser within
+        an hour of its last usage.
+        </gallery>
+
+        == Trivia ==
+
+        * Of all the machines in the game, dispensers have the most variants, with a total of 11
+        different types.
+        *The [[Honey Dispenser]], the [[Strawberry Dispenser]], the [[Blueberry Dispenser]], the
+        [[Royal Jelly Dispenser]], and the Glue Dispenser are the only dispensers that are required
+        to be used for a [[Quests|quest]] (\"Honey Bee's Honey Wreath?\" from [[Honey Bee (NPC)|Honey
+        Bee]] requires the player to use the Honey Dispenser, \"BBM's Naughty List\" from [[Bubble Bee
+        Man]] requires the player to use the Royal Jelly Ticket Dispenser, and \"The Power of
+        Information\" from [[Science Bear]] requires the player to use the Strawberry Dispenser, the
+        Blueberry Dispenser, and the Glue Dispenser).
+        *There are three dispensers that give [[treats]] in the game being the [[Treat Dispenser]],
+        the Blueberry Dispenser, and the Strawberry Dispenser.
+        *The Glue Dispenser, the [[Free Ant Pass Dispenser]], [[Ant Pass Dispenser]], [[Free Robo
+        Pass Dispenser]], [[Robo Pass Dispenser]], and the Coconut Dispenser are the only dispensers
+        to not grant [[Ability Tokens#Haste|haste]].
+        *The Glue Dispenser, the Free Robo Pass Dispenser, and the [[Free Royal Jelly Dispenser]]
+        are the only dispensers with a 22 hour cooldown, the longest in the game.
+        *The Free Ant Pass Dispenser, the Ant Pass Dispenser, the Robo Pass Dispenser, and the Free
+        Robo Pass Dispenser are the only dispensers that don't have any visible faucets, and instead
+        have a small compartment, like a vending machine that gives out tickets.
+        *The Glue Dispenser and the Coconut Dispenser are the only dispensers that give more items
+        when the player upgrades the badge that corresponds to it.
+        *The Coconut Dispenser is the only dispenser to give a field boost.
+        {{MapNav}}
+        [[Category:Dispenser]]
+        [[Category:Machines]]"}

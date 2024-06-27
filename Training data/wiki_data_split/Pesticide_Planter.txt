@@ -1,0 +1,99 @@
+{"text": "{{Planter
+        |image1=Pesticideplanter.png
+        |description=Alone, grows in about 10 hours (Playtime). Stores around 200m Pollen. Grants
+        bonus Bitterberries and Neonberries.
+        |reusable=Yes
+        |cost=750,000,000 [[Honey]], 25 [[Magic Bean]]s, 25 [[Neonberry|Neonberries]], 15 [[Glue]]s,
+        3 [[Caustic Wax]]es, 10 [[Hard Wax]]es.
+        |grow=~10 hours
+        |growbonus=+30% in the [[Basic Bee Gate|5 Bee Zone]].
+        |pollen=200,000,000 Pollen
+        |pollenbonus=+50% Pollen in the [[Basic Bee Gate|5 Bee Zone]].
+        |nectar=+30% Satisfying<br>+30% Motivating
+        |item=
+        *[[Bitterberry|Bitterberry]]
+        *Neonberry
+        }}
+        The '''Pesticide Planter''' is a reusable [[planter]] added in [[Updates#2021.12.26|12/26/21
+        update]]. It grows in about 10 in-game hours and stores around 200,000,000 [[Pollen]]. The
+        planter can be purchased from [[Dapper Bear's Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|750,000,000}}<br>{{Cost|Magic
+        Bean|25}}<br>{{Cost|Neonberry|25}}<br>{{Cost|Glue|15}}<br>{{Cost|Caustic
+        Wax|3}}<br>{{Cost|Hard Wax|10}}
+        |}
+
+        It grows 30% faster (7 Hours) and grants 50% more pollen on harvest in the [[Basic Bee
+        Gate|5 Bee Zone]] ([[Strawberry Field|Strawberry]], [[Spider Field|Spider]] and [[Bamboo
+        Field|Bamboo]] [[Fields]]). [[Bees]] with [[Mutation]]s are 25% more likely to sip
+        [[Nectar]] from this planter, and it grants 30% more Satisfying and Motivating Nectar.
+        Harvesting a fully grown Pesticide Planter has a 1/6.5 (15.38%) chance to spawn a
+        [[Puffshroom]].
+
+        == Drops ==
+        ''Note that some drops and buffs it gives are based on the field the planter is in.''
+        <tabber>
+        Bonus=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Bitterberry}} (Increments of 1, 3, 5 or 10)<br>{{Cost|Neonberry}} (Increments
+        of 1 or 10)<br>{{Cost|Caustic Wax|||0}} (Very Rare)
+        |}
+
+        |-|Other=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Stinger}}<br>{{Cost|Blueberry}}<br>{{Cost|Strawberry}}<br>{{Cost|Sunflower
+        Seed}}<br>{{Cost|Pineapple}}<br>{{Cost|Honeysuckle}}<br>{{Cost|Ticket}}<br>{{Cost|Royal
+        Jelly}}<br>{{Cost|Gumdrops}}<br>{{Cost|Enzymes}}<br>{{Cost|Moon
+        Charm}}<br>{{Cost|Smooth
+        Dice}}<br>{{Cost|Micro-Converter}}<br>{{Cost|Jelly Beans}}<br>{{Cost|Soft
+        Wax}}<br>{{Cost|Hard Wax}}<br>{{Cost|Field Dice}}<br>{{Cost|Red
+        Extract}}<br>{{Cost|Blue
+        Extract}}<br>{{Cost|Glitter}}<br>{{Cost|Glue}}<br>{{Cost|Whirligig}}<br>{{Cost|Coconut}}
+        (Only drops in the [[Coconut Field]])<br>{{Cost|Tropical Drink}} (Only drops in the
+        [[Coconut Field]])<br>{{Cost|Star Jelly|||0}} (Uncommon)<br>{{Cost|Super
+        Smoothie|||0}} (Rare)<br>{{Cost|Gold Egg|||0}} (Rare)<br>{{Cost|Purple
+        Potion|||0}} (Increments of 1 or 2, Very Rare)<br>{{Cost|Swirled Wax|||0}} (Very
+        Rare)<br>{{Cost|Turpentine|||0}} (Extremely Rare)<br>{{Cost|Bang Snap|||0}}
+        (Very Rare)<br>{{Cost|Bead Lizard|||0}} (Very Rare)
+        |}
+
+        |-|Special=
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Bitterberry|100}} (Requires harvesting the planter form either [[Pepper Patch]],
+        [[Spider Field]] or [[Mountain Top Field]])<br>
+        {{Cost|Neonberry|25}} (Requires harvesting the planter form [[Stump Field]], [[Mountain Top
+        Field]], and [[Coconut Field]] in stated order, 1 week cooldown)<br>
+        {{Cost|Bitterberry|100}} (Harvesting from [[Strawberry Field]], 36 days cooldown)<br>
+        {{Cost|Caustic Wax|1}} (Has a higher chance when harvested from either [[Strawberry Field]]
+        or [[Bamboo Field]])<br>
+        |}
+        </tabber>
+        ==Gallery==
+        <gallery>
+        Ewasdads.png|The Pesticide Planter.
+        PesticidePlanterMaxIguess..jpg|A fully grown pesticide planter.
+        Dapper Bear Pesticide Planter.png|The Pesticide Planter in Dapper Bear's Shop.
+        Pesticide Planter in the spider field.png|A newly placed Pesticide Planter.
+        Pesticide planter in inventory.jpeg|Pesticide Planter in a player's inventory.
+        </gallery>
+
+        ==Trivia==
+        * The Pesticide Planter's icon and model both have the [[Wikipedia:Hazard symbol#Ionizing
+        radiation symbol|Ionizing Radiation]] symbol, but the orientation of the symbol between the
+        model and the icon is off by 60° (degrees).
+        *If the ingredients for it were to be crafted, using the blender, it would cost 750,000,000
+        Honey, 2,250 [[Honeysuckle]]s, 2,250 Blueberries, 2,250 Strawberries, 3,400 Sunflower Seeds,
+        6,250 Pineapples, 100 Neonberries, 25 Magic Beans, and 18,486 [[Royal Jelly|Royal Jellies]]
+        to craft this item.
+        {{Items}}
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Crafted]]"}

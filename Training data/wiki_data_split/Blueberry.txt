@@ -1,0 +1,120 @@
+{"text": "{{Consumables
+        |image=Blueberry.png
+        |description=Increases your bond with a bee by 25.
+        }}
+        A {{Color|Blueberry}} is a type of [[Treats|Treat]] that can be fed to a [[Bees|bee]] to
+        raise its bond by 25. However, when fed to a [[Bumble Bee|Bumble]], [[Cool Bee|Cool]],
+        [[Bubble Bee|Bubble]], [[Frosty Bee|Frosty]], [[Bucko Bee|Bucko]], [[Diamond Bee|Diamond]],
+        [[Music Bee|Music]], [[Tadpole Bee|Tadpole]], or [[Buoyant Bee|Buoyant]] Bee, the amount of
+        [[bond]] they gain is doubled. These bees also have a small chance of becoming gifted when
+        fed blueberries.
+
+        == Ways to Obtain ==
+        * From using the [[Blueberry Dispenser]] inside the [[Blue HQ]].
+        * As a reward from the [[Ant Challenge]].
+        * Redeeming certain valid [[codes]]:
+        ** 1MLikes (Gives 1 blueberry + other stuff).
+        ** 10mMembers (Gives 10 blueberries + other stuff).
+        * As a reward from [[Memory Match|memory matches]].
+        * As a stack reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        ** The Pink Cupcake rewards 50 strawberries.
+        ** The Pale Heart rewards 50 strawberries.
+
+        === Drops ===
+        * Farming in the [[Blue Flower Field]], [[Bamboo Field]], [[Cactus Field]], [[Pine Tree
+        Forest]], and the [[Stump Field]].
+        ** Harvesting [[leaves]] in these fields may also yield blueberries.
+        * As a drop from [[Rhino Beetle]]s, [[Mantis]]es, and [[King Beetle]].
+        * As a drop from a [[Ability Tokens#Festive Gift|Festive Gift]] or [[Ability Tokens#Festive
+        Mark|Festive Mark]].
+        * As a gift from a [[Cub Buddy|cub buddy]].
+        * As a reward for completely growing any kind of [[sprout]] except for Moon, Gummy, and
+        Debug sprouts.
+        ** Planting a sprout in the Blue Flower Field, Bamboo Field, Pine Tree Forest, or Stump
+        Field yields 6x more blueberries than other fields.
+        * Harvesting [[sparkles]] (Higher chances in blue fields).
+        * As a drop from [[Puffshroom]]s.
+        * As a drop from planters, which include:
+        ** {{Cost|Ticket Planter}}
+        ** {{Cost|Festive Planter}}
+        ** {{Cost|Plastic Planter}}
+        ** {{Cost|Candy Planter}}
+        ** {{Cost|Blue Clay Planter}}
+        ** {{Cost|Pesticide Planter}}
+        ** {{Cost|The Planter Of Plenty}}
+
+        === Quests ===
+        * Spirit Bear gives blueberries on the following quest:
+        ** Out-Questing Questions gives 1 blueberry.
+
+        ==='''Outdated Ways'''===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Digging in to the [[Beesmas Feast]].
+        * Redeeming certain expired codes:
+        ** The code 5mMembers gave 5 blueberries + other stuff.
+        ** The code FourYearFiesta gave 4 blueberries + other stuff.
+        * As a drop from Hostage Chick.
+        |}
+        ==Crafting Uses==
+        Total required for all in-game equipment: {{Cost|Blueberry|750}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        ! style=\"text-align: center\" |{{Cost|Blueberry}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Royal Jelly|10}}
+        |[[File:Blue Extract.png|center|80px|link=Blue Extract]]<div style=\"text-align:
+        center;\">{{Color|Blue Extract}}</div>
+        |-
+        |<div style=\"text-align: center;\">3</div>
+        |{{Cost|Strawberry|3}}<br>{{Cost|Pineapple|3}}
+        |[[File:Gumdrops.png|center|80px|link=Gumdrops]]<div style=\"text-align:
+        center;\">{{Color|Gumdrops}}
+        |-
+        |<div style=\"text-align: center;\">3</div>
+        |{{Cost|Honey|4,400}}<br>{{Cost|Sunflower Seed|3}}
+        |[[File:Basic Boots.png|center|80px|link=Basic Boots]]<div style=\"text-align:
+        center;\">[[Basic Boots]]</div>
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Honey|2,200,000}}<br>{{Cost|Strawberry|50}}
+        |[[File:Hiking Boots.png|center|80px|link=Hiking Boots]]<div style=\"text-align:
+        center;\">[[Hiking Boots]]</div>
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Honey|1,000,000}}<br>{{Cost|Royal Jelly|1}}<br>{{Cost|Moon Charm|3}}
+        |[[File:Blue Guard.png|center|80px|link=Blue Guard]]<div style=\"text-align:
+        center;\">[[Blue Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Blue Extract|3}}<br>{{Cost|Royal
+        Jelly|5}}<br>{{Cost|Moon Charm|15}}
+        |[[File:Elite Blue Guard.png|center|80px|link=Elite Blue Guard]]<div style=\"text-align:
+        center;\">[[Elite Blue Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">100</div>
+        |{{Cost|Honey|30,000,000}}<br>{{Cost|Blue
+        Extract|50}}<br>{{Cost|Glue|5}}<br>{{Cost|Moon Charm|75}}
+        |[[File:Bucko Guard.png|center|80px|link=Bucko Guard]]<div style=\"text-align:
+        center;\">[[Bucko Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">500</div>
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Blue
+        Extract|50}}<br>{{Cost|Oil|25}}<br>{{Cost|Glitter|15}}
+        |[[File:Bubble Mask.png|center|80px|link=Bubble Mask]]<div style=\"text-align:
+        center;\">[[Bubble Mask]]</div>
+        |}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        Tokes.PNG|A blueberry token.
+        </gallery>
+        == Trivia ==
+        {{Inventory}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Treats]]"}

@@ -1,0 +1,76 @@
+{"text": "{{Accessory
+        |image1 = Fire Mask.png
+        |description = Ignite your mind to enhance your Red Bees.
+        |cost = 100,000,000 [[Honey]], 500 [[Strawberry|Strawberries]], 50 [[Red Extract]]s, 25
+        [[Enzymes]], and 15 [[Glue]].
+        |stats = x1.5 Red Pollen<br>+15% Instant Red Conversion<br>x1.5
+        Capacity<br>+50% Instant Flame Conversion<br>+15% Bee Attack<br>+35%
+        Defense<br>+15% Bee Ability Rate<br>+Passive: Ignite
+        }}
+        {{Quote|Ignite your mind to enhance your Red Bees.}}
+        The '''Fire Mask''' is a [[:Category:Masks|Mask]] that can be bought at the [[Red HQ]].
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Strawberry|500}}<br>{{Cost|Red
+        Extract|50}}<br>{{Cost|Enzymes|25}}<br>{{Cost|Glue|15}}
+        |}
+
+
+        ==Stats==
+        *x1.5 [[System Page#Red Pollen|Red Pollen]]
+        *+15% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        *x1.5 [[Capacity]]
+        *+50% [[Flame#Instant Flame Conversion|Instant Flame Conversion]]
+        *+15% [[Bee Attack]]
+        * +35% [[System Page#Defense|Defense]]
+        *+15% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        *[[Passive Abilities#Ignite|+Passive: Ignite]]:
+        **Every 15th Red Ability token creates 5 spires of [[flame]]s in a \"+\" formation that
+        collects 6 Red, 3 White or 1 Blue pollen from 9 surrounding [[flowers]], increased by 2% for
+        every red bee and 4% for each [[Gifted Bee|Gifted]] [[:Category:Red|Red]] [[Bees|Bee]]. Does
+        15 damage per second if touched by a [[Mobs|mob]], and lasts 4 seconds. The passive has no
+        cooldown.
+
+        ==Gallery==
+        <gallery>
+        Ignite.png|The Ignite icon.
+        Ignite!!!!!1!1!!1.png|Old Ignite flames damaging a Commando Chick.
+        File:Playerwearingthefiremask.png|A player wearing the Fire Mask.
+        File:Firemaskicon.png|The Fire Mask icon.
+        File:IgniteNewFlames1.png|Ignite flames in a field.
+        </gallery>
+
+        ==Trivia==
+        *This mask is the red counterpart to the [[Bubble Mask]].
+        *The Fire Mask, the [[Bubble Mask]], [[Riley Guard]], [[Bucko Guard]] and the [[Honey Mask]]
+        all represent [[Bees/Epic|Epic Bees]].
+        *Before the [[Updates#2019.09.28|9/28/2019 Update]], the Fire Mask's stats were:
+        **x1.7 Red Pollen
+        **+2 [[System Page#Attack Multiplier|Red Bee Attack Power]]
+        **+35% Defense
+        **+15% Bee Ability Rate
+        * Before the [[Updates#2019.04.05|4/5/2019 Update]], the Fire Mask's stats were:
+        **+25% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        **+25% [[System Page#Instant Conversion|Instant Conversion]]
+        **+35% Defense
+        ** +11% Bee Ability Rate
+        **+115% [[System Page#Loot Luck|Loot Luck]]
+        **+2 [[Bee Attack|Red Bee Attack Power]]
+        **x1.15 Red Pollen
+        *Before the 9/28/2019 update, it didn't have any [[Passive Abilities|passive ability]].
+        **If the player owns the Fire Mask, its passive is inherited by the [[Demon Mask]].
+        *Before the [[Updates#2020.06.06|6/6/2020]] Update, the passive ability had a 5 second
+        cooldown.
+        *If a player were to [[Crafting|Craft]] the items, this mask would cost 100 million
+        [[Honey]], 7750 [[Treats|Strawberries]], 3500 [[Treats|pineapples]], 2250
+        [[Treats|blueberries]], 900 [[Royal Jelly]], and all the time it takes to craft those Items.
+        *Ignite forms around the 15th Red Ability token collected, no matter where it was collected.
+        {{Items}}
+        [[Category:Accessories]]
+        [[Category:Hats]]
+        [[Category:Items]]
+        [[Category:Crafted]]
+        [[Category:Red]]
+        [[Category:Masks]]
+        [[zh-tw:火焰頭罩]]"}

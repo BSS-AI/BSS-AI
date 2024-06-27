@@ -1,0 +1,57 @@
+{"text": "<div id=\"parallax\" class=\"medals\">
+        <div class=\"para-content-normal para-text2\">
+        <p style=\"color:#FFF\">Medals</p>
+        <p class=\"profile\" style=\"color:#FFF;\">A feature of the Bee Swarm Simulator
+        Wiki.</p>
+        </div>
+
+        <div class=\"bokeh\"> </div>
+        </div>
+        <div id=\"parallax\" class=\"overlay no-text bss-bg move-bg\"> </div>
+        <div id=\"parallax\" class=\"sepia no-text bss-bg move-bg\"> </div>
+        <div id=\"parallax\" style=\"animation:removed-module 3s infinite linear\">
+        <div class=\"para-content-normal para-text2\">
+        <p class=profile style=\"color:#FFF;\">We found out that our achievement system can be
+        abused. Some people farm edits just to get their dirty badges. And we are not happy.<br
+        /><br />This wiki is not a simulator, fool!</p>
+        </div>
+        </div>
+
+        <p class=profile style=\"text-align:center\">Medals are unique and are better than
+        badges. Each medal means a different story; they are diverse and prestigious - big
+        commitments and dedication are required to get a medal. And THESE are the items you want to
+        achieve.</p>
+
+
+        <p class=profile style=\"text-align:center\">Medals aren't manipulative. You cannot ask,
+        nor farm edits just to get medals. Wiki Staff watches and knows if you are legible to have a
+        medal.</p>
+        <!--
+        <table align=\"center\" style=\"text-align:center\"><tr>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td></tr><tr>
+        <td>NAME</td><td>NAME</td><td>NAME</td><td>NAME</td></tr><tr>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td>
+        <td class=\"medals-tbl\">[[File:Example.jpg|100px]]</td>
+        </tr>
+        <tr>
+        <td>NAME</td><td>NAME</td><td>NAME</td><td>NAME</td>
+        </tr>
+        </table>
+        -->
+
+        <div id=\"parallax\" class=\"convo1\" style=\"height:450px\">
+        <div class=\"para-content-normal para-text2\" style=\"color:#FFF\">I have
+        <p id=scroll-counter>0</p>
+
+        ACHIEVEMENT POINTS!!</div>
+        <p class=profile style=\"text-align:center; color:#FFF\">Even how many badges you have,
+        or what rank you reached at the leaderboards, it still doesn't matter because MEDALS are the
+        real stuff on the wiki.</p>
+
+        </div>
+        [[Category:Bee Swarm Simulator Wiki]]"}

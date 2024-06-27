@@ -1,0 +1,63 @@
+{"text": "{{Bee
+        |image-orig = Rage_Bee.png
+        |image-gifted= RageBee Gifted.png
+        |description = A very angry bee who has been wronged its whole life. It harnesses its rage
+        to become more powerful.
+        |rarity = Epic
+        |color = Red
+        |energy = 20
+        |speed = 15.4
+        |attack = 5
+        |skincolor1 = #ab4334
+        |skincolor2 = #f4492d
+        |skincolor3 = #e7a669
+        }}'''Rage Bee''' is a [[:Category:Red|Red]] [[Bees/Epic|Epic bee]].
+
+        Rage Bee's favorite type of treat is [[Strawberry|Strawberries]].
+
+        Rage Bee likes the [[Spider Field]] and [[Rose Field]]. It dislikes the [[Blue Flower
+        Field]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 4 seconds.
+        * Makes 80 [[Honey]] in 4 seconds.
+        * +4 [[Stats#Attack|Attack]], +10% [[Stats#Speed|Movespeed]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +10% [[System Page#Bee Attack|Bee Attack]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Rage|[Rage]]]''' Grants your [[Bees]] +1 attack for 45s. Stacks up to
+        4 times.
+        * '''[[Ability Tokens#Token Link|[Token Link]]]''' Collects all other [[Ability Tokens]]
+        (except for other token links), granting 25 honey (+10 per Level) per token collected.
+        {{Stat|pollen = 10|pollentime = 4|honey = 80|honeytime = 4|rarity = epic|color = red}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        GiftedRageBee Slot.png|A Gifted Rage Bee hive slot.
+        Rage.png|A Rage Token.
+        RageFace.png|Rage Bee's face.
+        Rage Bee Jelly.png|A Rage Bee jelly in a player's inventory.
+        </gallery>
+
+        == Trivia ==
+        *Rage Bee is the first [[Bees|Bee]] to produce an ability token that has their face on it,
+        the second being [[Tabby Bee]], and the third being [[Puppy Bee]].
+        **This bee is also the only non-[[Bees/Event|Event bee]] to do so.
+        *Rage Bee and [[Spicy Bee]] are the only bees that can produce rage tokens.
+        *Rage Bee has three different skin colors, similar to [[Baby Bee]]. When gifted, it only has
+        two different skin colors, while gifted Baby Bee maintains this trait.
+        *A [[Royal Jelly#Specific Bee Jelly|Special Jelly]] that changes a bee into a Rage Bee could
+        be obtained by giving [[Panda Bear]] a [[Present]] during the [[Updates#2018.12.19|Beesmas
+        2018 event]] (no longer obtainable).
+        *The [[Aphid#Rage Aphid|Rage Aphid]] and gifted Spicy Bee has a similar color scheme to Rage
+        Bee's gifted form.
+        *This is one of the only bees that can have an extra ability from [[Beequip]]s (specifically
+        [[Ability Tokens#Melody|Melody]] from the [[Toy Horn]] Beequip).
+        *This bee's face is similar to the Roblox
+        \"[https://web.roblox.com/catalog/7131886/I-Am-Not-Amused I Am Not Amused]\" face.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Epic]]
+        [[Category:Red]]
+        [[zh-tw:憤怒蜂]]"}

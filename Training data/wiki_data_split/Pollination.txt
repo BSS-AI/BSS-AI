@@ -1,0 +1,40 @@
+{"text": "[[File:Ezgif.com-crop_(1).gif|thumb|150px|A flower being pollinated.]]
+        [[File:IMG 20200414 175220.jpg|thumb|152x152px|A large and a star flower, both of which can
+        only be seen via pollination.]]
+        '''Pollination''' is a [[Mechanics|mechanic]] that causes [[flowers]] to grow to larger
+        sizes, increasing their total [[pollen]] and multiplier. Flowers that are lower tier than
+        other flowers in the [[Fields|field]] have a higher chance of being pollinated. When flowers
+        are pollinated, they will burst flower particles.
+
+        Flowers only stay pollinated for 1 minute, but this can be stacked up to 5 times for 5
+        minutes. Every minute that an already pollinated flower is not pollinated, it will go down a
+        tier, until it has reverted to its original state.
+
+        Pollination is the only method to achieve large and star flowers, as the highest natural
+        tier is triple.
+
+        == Ways To Pollinate Flowers ==
+        * [[Fuzzy Bee|Fuzzy Bee's]] [[Ability Tokens#Fuzz Bombs|fuzz bombs]] can pollinate flowers
+        upon popping it.
+        * Fuzzy Bee‘s [[Passive Abilities#Fuzzy Coat|fuzzy coat]] passive has a chance to pollinate
+        up to 5 surrounding flowers while collecting pollen. This increases to 9 when gifted.
+        *Fuzzy Bee's [[Ability Tokens#Pollen Haze|Pollen haze]] pollinates up to 30 flowers every
+        second. [[Ability Tokens#Bomb|Bomb]] tokens produced in a field with pollen haze are
+        automatically collected and pollinate flowers.
+        * [[Diamond Mask|Diamond Mask's]] [[Passive Abilities#Diamond Drain|Diamond Drain]]
+        pollinates 10 blue flowers when activated. The number of flowers pollinated increases by 3
+        for every blue bee the player has.
+        * If [[Star Amulet#Supreme Star Amulet|Guiding Star]] is active, the star will pollinate 15
+        (+1 per [[Gifted Bee|gifted bee]] type) flowers every 15 seconds.
+        * A bee with the [[Poinsettia]] beequip equipped has an 11% to 20% chance to pollinate
+        flowers while gathering.
+        *A bee with the [[Lei]] Beequip equipped has a 20% to 50% chance to pollinate flowers while
+        gathering.
+
+        == Trivia ==
+        * This is the only way to directly change flowers in a field.
+        * Fuzzy Bee is the only bee in the game to pollinate flowers.
+        ** However, bees with the [[Poinsettia]] or Lei beequip have a low chance to pollinate
+        flowers.
+        [[Category:Mechanics]]
+        [[zh-tw:授粉]]"}

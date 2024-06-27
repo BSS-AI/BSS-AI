@@ -1,0 +1,161 @@
+{"text": "{{Stores
+        |title1 = Noob Shop
+        |image1 = Shop1New.png
+        |row1 = Spawn
+        }}The '''Noob Shop''' is a [[:Category:Shops|shop]] run by [[Noob Bear]]. This shop sells
+        four [[bags]], five [[tools]], two [[:Category:Hats|hats]], one pair of
+        [[:Category:Boots|boots]], and one [[:Category:Belts|belt]]. It is located right next to the
+        [[Dandelion Field]], and below the entrance of the [[Star Hall]]. It is the first shop,
+        other than the [[Ticket Tent]], players have access to.
+
+        [[Onett (Developer)|Onett]] has not yet revealed the official name of this shop; it has been
+        named \"Noob Shop\" by the players because the bear inside is labeled \"Noob Bear\". However,
+        when [[Mother Bear]] talks about [[amulet]]s with the player, she calls the shop, \"Noob
+        Bear's Shop.\"
+
+        Outside of the shop, there is a [[Honey Dispenser]], which can only be used by members of
+        the [https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about Bee Swarm
+        Simulator Club].
+
+        Behind the Honey Dispenser is a hidden [[Obstacle Courses#Lava Obby|obstacle course]]. There
+        is a [[Royal Jelly|royal jelly]] token at the end of it, located inside the Noob Shop. This
+        obstacle course also has the [[Demon Mask]] shop in it. During the [[Egg Hunt 2019]] event,
+        a [[Plastic Egg|plastic egg]] token was added to this course as a part of [[Brown Bear#Egg
+        Hunt Quest 2019|Brown Bear's Egg Hunt 2019 Quest]]; but, this token was removed after the
+        event and replaced with a token that gives 3 [[ticket]]s.
+
+        [[Chicks#Spotted Chick|Spotted Chicks]] could have spawned here during the [[Egg Hunt
+        2020|2020 Egg Hunt Event]], however this was removed.
+
+        == Shop Items ==
+        <tabber>
+        Tools=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Scooper.png|80px|center]]<div style=\"text-align:
+        center;\">[[Scooper]]</div>
+        |{{Cost|Honey|0|<br>(Starter Tool)}}
+        |Collects 2 pollen from 2 patches in front of you in 0.8 seconds.
+        |-
+        |[[File:Rake.png|80px|center]]<div style=\"text-align: center;\">[[Rake]]</div>
+        |{{Cost|Honey|800}}
+        |Collects 2 pollen from 3 patches in front of you in 0.7 seconds.
+        |-
+        |[[File:Clippers.png|80px|center]]<div style=\"text-align:
+        center;\">[[Clippers]]</div>
+        |{{Cost|Honey|2,200}}
+        |Collects 9 pollen in the patch in front of you in 0.6 seconds.
+        |-
+        |[[File:Magnet.png|80px|center]]<div style=\"text-align:
+        center;\">[[Magnet]]</div>
+        |{{Cost|Honey|5,500}}
+        |Collects 2 pollen from 9 surrounding patches in 0.8 seconds.
+        |-
+        |[[File:Vacuum.png|80px|center]]<div style=\"text-align:
+        center;\">[[Vacuum]]</div>
+        |{{Cost|Honey|14,000}}
+        |Collects 2 pollen from 13 surrounding patches in 0.8 seconds.
+        |}
+
+        |-|Bags=
+
+        {| class=\"article-table\"
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Pouch.png|80px|center]]<div style=\"text-align: center;\">[[Pouch]]</div>
+        |{{Cost|Honey|0|<br>(Starter Bag)}}
+        |A small bag.
+        * +200 Capacity.
+        |-
+        |[[File:Jar.png|80px|center]]<div style=\"text-align: center;\">[[Jar]]</div>
+        |{{Cost|Honey|650}}
+        |A durable plastic jar. Holds over twice as much as the Pouch!
+        * +750 Capacity.
+        |-
+        |[[File:Backpack.png|80px|center]]<div style=\"text-align:
+        center;\">[[Backpack]]</div>
+        |{{Cost|Honey|5,500}}
+        |A heavy-duty backpack.
+        * +3,500 Capacity.
+        |-
+        |[[File:Canister.png|80px|center]]<div style=\"text-align:
+        center;\">[[Canister]]</div>
+        |{{Cost|Honey|22,000}}
+        |A high-tech container that improves conversion speed.
+        * +10,000 Capacity.
+        * +30% [[System Page#Convert Rate|Convert Rate]].
+        |}
+
+        |-|Accessories=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Helmet.png|80px|center]]<div style=\"text-align:
+        center;\">[[Helmet]]</div>
+        |{{Cost|Honey|30,000}}<br>{{Cost|Pineapple|5}}<br>{{Cost|Moon Charm|1}}
+        |A hard hat that grants bonus pollen and helps prevent head injuries.
+        * [Hat]
+        * +10% [[System Page#Pollen|Pollen]].
+        * +25% [[System Page#Defense|Defense]].
+        |-
+        |[[File:Belt_Pocket-0.png|80px|center]]<div style=\"text-align: center;\">[[Belt
+        Pocket]]</div>
+        |{{Cost|Honey|14,000}}<br>{{Cost|Sunflower Seed|10}}
+        |Attaches to your waist to expand the size of your container.
+        * [Belt]
+        * +5,000 [[System Page#Capacity Multiplier|Capacity]].
+        * +10 [[System Page#Convert Amount|Convert Amount]].
+        * +25% [[System Page#Loot Luck|Loot Luck]].
+        |-
+        |[[File:Basic Boots.png|80px|center]]<div style=\"text-align: center;\">[[Basic
+        Boots]]</div>
+        |{{Cost|Honey|4,400}}<br>{{Cost|Sunflower Seed|3}}<br>{{Cost|Blueberry|3}}
+        |Collect pollen as you walk through [[flowers]]!
+        * [Boots]
+        * +5 [[System Page#Movespeed|Player Movespeed]].
+        * +2 [[Movement Collection]].
+        |-
+        |[[File:Strange Goggles.png|80px|center]]<div style=\"text-align: center;\">[[Strange
+        Goggles]]</div>
+        |{{Cost|Honey|77}}<br>{{Cost|Micro-Converter|1}}<br>{{Cost|7-Pronged Cog|7}}
+        |This futuristic looking headset doesn't seem to do very much...
+        * [Hat]
+        * +77 Capacity.
+        * +7% Defense.
+        |}
+        </tabber>
+
+        ==Music==
+        [[File:Vendor.ogg]]
+
+        ==Gallery==
+        <gallery>
+        Noobshopobbynoplayer.png|The obby behind the Noob Shop and the Honey Dispenser.
+        File:Honey dispenser during beesmas.png|The Noob Shop during Beesmas.
+        </gallery>
+
+        ==Trivia==
+        *After the [[Updates#5 12 2018|5/12/2018 update]], a green cog appeared on top of this shop.
+        This is a hint for the [[Codes|code]] \"cog\".
+        **On top of this cog, there is a [[Robo Pass]] token.
+        *Out of the three shops that have a shop bear, this is the only one that doesn't sell a
+        [[:Category:Gliding Tools|gliding tool]].
+        * The Helmet is the most expensive item in the Noob Shop.
+        *This is the only shop that has automatically equipped items, which are the Scooper and the
+        Pouch.
+
+        {{MapNav}}
+        [[Category:Shops]]
+        [[Category:Locations]]
+        [[Category:Starter Zone]]"}

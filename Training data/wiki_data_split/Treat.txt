@@ -1,0 +1,113 @@
+{"text": "{{Consumables
+        |image=Treat.png
+        |description=Increases your bond with a bee by 10.
+        }}
+        A {{Color|Treat}} is a type of [[Treats|Treat]] that can be fed to a [[Bees|bee]] to raise
+        its bond by 10. They are the easiest treat to obtain but are not the favorite treat of any
+        bee. They can also be used to craft the [[Honey Mask]] where 9,999 '''treats''' are needed.
+        [[File:Treat token.png|thumb|A treat token.]]
+        == Ways to Obtain ==
+        * Using the [[Treat Dispenser]] near the [[Pro Shop]]/[[Pineapple Patch]] (Like the [[Honey
+        Dispenser]], this requires being a member of the
+        [https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about BSS Club]).
+        * Buying from the Treat Shop next to under Mother Bear's awning for {{Cost|Honey|100}} per
+        treat and capping out at {{Cost|Honey|10,000}} per treat.
+        * Redeeming certain valid [[codes]]:
+        ** 1MLikes (Gives 1 treat + other stuff).
+        * As a reward from [[Memory Match|memory matches]].
+        * As a stack reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        ** The Fork And Knife rewards 500 treats.
+
+        === Drops ===
+        * Farming in the [[Dandelion Field|Dandelion]], [[Mushroom Field|Mushroom]], [[Clover
+        Field|Clover]], [[Spider Field|Spider]], [[Cactus Field|Cactus]], [[Pumpkin Patch|Pumpkin]],
+        [[Coconut Field|Coconut]], or [[Stump Field|Stump]] Fields.
+        ** Drops from [[leaves]] in these fields may also yield treats.
+        * A relatively high chance of dropping from [[Rhino Beetle|rhino beetles]], [[ladybug]]s,
+        [[spider]]s, [[mantis]]es, [[scorpion]]s, [[Werewolf|werewolves]], [[aphid]]s, [[Stick
+        Bug]], [[Stick Nymph]]s, [[Tunnel Bear]], [[King Beetle]], and [[Stump Snail|stump snail]].
+        * A guaranteed drop from [[Mondo Chick]]s.
+        * 2nd and 3rd capture of [[Commando Chick]] rewards 2 and 5 treats respectively.
+        * \"Playing\" [[Ability Tokens#Fetch|Fetch]] with [[Puppy Bee]].
+        * As a drop from a [[Ability Tokens#Festive Gift|Festive Gift]] or [[Ability Tokens#Festive
+        Mark|Festive Mark]].
+        * As a gift from a [[Cub Buddy|cub buddy]].
+        * As a reward for completely growing any kind of [[sprout]] except for Gummy and Debug
+        sprouts.
+        * Harvesting [[sparkles]].
+        * As a drop from [[Puffshroom]]s.
+        * As a drop from Planters, which include:
+        ** {{Cost|Plastic Planter}}
+        ** {{Cost|Candy Planter}}
+        ** {{Cost|Red Clay Planter}}
+        ** {{Cost|Tacky Planter|}}
+
+        === Quests ===
+        *Black Bear gives treats on the following quests:
+        **Get Red-y gives 100 treats.
+        **One Stop On The Tip Top gives 200 treats.
+        **Blue Mushrooms 2 gives 300 treats.
+        **Pretty Pumpkins gives 400 treats.
+        **Black Bear, Why? gives 500 treats.
+        **Bee A Star gives 1,000 treats.
+        **The [[Egg#Mythic_Egg|Mythic Egg]] questline gives treats on all quests, at a sum of
+        195,500 treats.
+        **Black Bear's repeatable quests also reward treats.
+        *[[Science Bear]] gives treats on the following quests:
+        **Mark Mechanics gives 3,000 treats.
+        **Epistemological Endeavor gives 10,000 treats.
+        *All of Mother Bear's quests give treats, 4,020 treats on total.
+        *All of Polar Bear's quests give 10 treats, 180 treats on total.
+        *All of Onett's quests give treats, 25,000 treats on total.
+        *Every 5th completion of Honey Bee's quest may give treats.
+
+        ==='''Outdated Ways'''===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        *As a drop from [[Chicks#Chick|Chick]], [[Chicks#Hostage Chick|Hostage Chick]], and
+        [[Chicks#Spotted Chick|Spotted Chick]].
+        *Redeeming certain expired codes:
+        **ClubSnacks (Gave 30 treats + other stuff).
+        **CookieClub (Gave 10 treats + other stuff).
+        **NikTacAttack (Gave 25 treats + other stuff).
+        **MegaMittens (Gave 10 treats + other stuff).
+        **Summer (Gave 10 treats + other stuff).
+        **GremlinGoodies (Gave 15 treats + other stuff).
+        **PuppyPerk (Gave 10 treats + other stuff).
+        **ThatGuysCrew (Gave 15 treats + other stuff).
+        **RobziRobot (Gave 15 treats + other stuff).
+        **TrickOrtreat (Gave 50 treats + other stuff).
+        **DarzethDonation (Gave 15 treats + other stuff).
+        **HappyNewYear (Gave 20 treats + other stuff).
+        **MayRutreats (Gave 5 treats + other stuff)
+        **MinhMaMaMoons (Gave 10 treats + other stuff)
+        **300MVisits (Gave 10 treats + other stuff)
+        |}
+
+        ==Crafting Uses==
+        Total required for all in-game equipment: {{Cost|Treat|9,999}}
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |{{Cost|Treat}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">9,999
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Oil|50}}<br>{{Cost|Enzymes|25}}<br>{{Cost|Gold
+        Egg|5}}
+        |[[File:Honey Mask.png|center|80px]]<div style=\"text-align: center;\">[[Honey Mask]]
+        |}
+
+        ==Gallery==
+        <gallery>
+        File:TreatShop.png|Treat Shop
+        File:TreatDispenser.png|Treat Dispenser near [[Pro Shop]]
+        </gallery>
+
+        == Trivia ==
+
+        {{Inventory}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Treats]]"}

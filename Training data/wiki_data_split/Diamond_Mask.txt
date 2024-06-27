@@ -1,0 +1,117 @@
+{"text": "{{Accessory
+        |image1 = Diamond Mask.png
+        |description = Proudly show your extreme wealth to the world. Shine so brightly that others
+        will complain.
+        |cost = 5,000,000,000 [[Honey]], 250 [[Blue Extract]]s, 150 [[Oil]], 100 [[Glitter]], 5
+        [[Egg#Diamond Egg|Diamond Eggs]], 1 [[Comforting Vial]].
+        |stats = x1.5 Blue Pollen<br>+15% Instant Blue Conversion<br>+25%
+        Pollen<br>x3 Capacity<br>x2 Bubble Pollen<br>+35% Defense<br>+20%
+        Bee Ability Rate<br>+Passive: Bubble Bombs (Needs Bubble Mask)<br>+Passive:
+        Diamond Drain
+        }}
+
+        {{Quote|quote=Proudly show your extreme wealth to the world. Shine so brightly that others
+        will complain.}}
+
+        The '''Diamond Mask''' is a [[:Category:Masks|Mask]] and the [[:Category:Blue|Blue]]
+        counterpart of the [[Demon Mask]]. It can be reached by finding the doorway near the end of
+        the [[Obstacle Courses#Cloud Obby|Cloud Obby]], then completing yet another obstacle course.
+        The player is able to skip the Cloud Obby by using a [[Parachute]] or [[Glider]] with enough
+        height to steer themselves to the entrance to the [[Obstacle Courses#Diamond Room|Diamond
+        Room]]. Prior to the [[Updates#2019.09.28|9/28/2019 Update]], the player is unable to jump
+        on the moons during the day, similar to the moon platforms in the [[Bear Gate]] and behind
+        [[Dapper Bear's Shop]]. Now, if the player owns the Diamond Mask, the moons in the Diamond
+        Room are permanently solid and shaded a deep blue color.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Blue
+        Extract|250}}<br>{{Cost|Oil|150}}<br>{{Cost|Glitter|100}}<br>{{Cost|Diamond
+        Egg|5}}<br>{{Cost|Comforting Vial|1}}
+        |}
+
+
+        Once the 30th blue ability token is collected, the Diamond Mask's passive ability activates
+        with the following sound file:<br>
+        [[File:Ddtune1.ogg]]
+
+        ==Stats==
+        *x1.5 [[System Page#Blue Pollen|Blue Pollen]]
+        *+15% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * +25% [[Pollen]]
+        *x3 [[Capacity]]
+        *x1.5 [[Bubble#Bubble Pollen|Bubble Pollen]]
+        *+35% [[System Page#Defense|Defense]]
+        *+20% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        *[[Passive Abilities#Bubble Bombs|+Passive: Bubble Bombs]] (Requires [[Bubble Mask]] in
+        order to use):
+        **Every 25th [[Ability Tokens#Bomb|Bomb Ability Token]] spawns 25 [[Bubble]]s that last for
+        8 seconds. if a player touches them, they pop, collecting 4R/6W/8B pollen, increased by 15%
+        per [[Gifted Bee|Gifted]] blue [[Bees|Bee]] type, from 29 nearby [[Flowers]] and causes them
+        to grow. (Cooldown: 2 minutes)
+        *[[Passive Abilities#Diamond Drain|+Passive: Diamond Drain]]:
+        **Every 30th blue [[Ability Tokens|Ability Token]] converts 5 million Pollen plus a
+        percentage of the [[System Page#Convert Total|Convert Amount]] of all of your bees combined,
+        increased by 10% per blue bee and +50% per gifted blue bee type in your [[Hive]]. It also
+        [[Pollination|Pollinates]] 10 (+3 per blue bee) blue flowers within the field. (Cooldown: 45
+        seconds)
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        DiamondDrain.png|The Diamond Drain icon.
+        Bubblebomb.png|The Bubble Bombs icon.
+        Diamondmaskicon.png|The Diamond Mask icon.
+        Drain.PNG|An active Diamond Drain.
+        Ddrain2.png|A primed Diamond Drain.
+        DiamondMaskShop.png|Diamond Mask in its shop.
+        Diamond mask.png|Diamond Mask’s old stats.
+        Screen Shot 2019-04-06 at 8.15.45 PM.png|Diamond Mask's stats before 9/28/2019.
+        Diamond Mask stats.png|Diamond Mask's stats after the 9/28/2019 update.
+        Diamondstats.png|Diamond Mask's current stats.
+        File:Diamond mask gassss.png|A player wearing the Diamond Mask.
+        File:Obraz 2023-02-10 014859908.png|The blue moons that appear when the player gets the
+        Diamond Mask (Players need to rejoin the game after buying the mask).
+        </gallery>
+
+        ==Trivia==
+        *If the ingredients to craft this item were to be crafted, a total of 5,000,000,000 honey,
+        4,000 [[Royal Jelly|Royal Jellies]], 12,500 [[Blueberry|Blueberries]], 7,500 [[Sunflower
+        Seed|Sunflower Seeds]], 100 [[Magic Bean]]s, 2,500 Moon Charms, and 5 Diamond Eggs are
+        needed.
+        *This and the [[Honey Mask]] are the only [[Items]] that require [[Egg]]s to craft.
+        *This mask and the Demon Mask both are the only masks in the game that resemble
+        [[Bees/Legendary|Legendary bees]].
+        **The Diamond Mask is based on [[Diamond Bee]] and uses the same face decal as it.
+        *When receiving the quest 'Breath of Blue', [[Spirit Bear]] says that Diamond Drain is
+        activated on every 25th [[Ability Tokens|Blue Boost]] token collected, despite it being
+        every 30th blue ability token collected.
+        **It is also stated by Spirit Bear that the amount of pollen converted by the ability
+        decreases with each use, though this has not been confirmed.
+        *This is one of the most expensive item in the game (in terms of honey, excluding [[Hive
+        Slot|hive slots]]), tied with the Demon Mask and the [[Gummy Mask]], and being cheaper than
+        [[The Supreme Saturator|Supreme]] [[The Supreme Saturator|Saturator]] (55.555 billion), the
+        [[Gummy Boots|Gummy]] [[Gummy Boots|Boots]] (100 billion), the [[Heat-Treated
+        Planter|Heat-Treated]] [[Heat-Treated Planter|Planter]] (750 billion), the [[Hydroponic
+        Planter|Hydroponic]] [[Hydroponic Planter|Planter]] (750 billion), the [[Dark Scythe]] and
+        the [[Tide Popper]] costing(2.5 trillion) each, the [[Petal Planter|Petal]] [[Petal
+        Planter|Planter]] (5 trillion), the [[Coconut Belt]] (7.5 trillion), the [[Gummyballer]] (10
+        trillion), and [[The Planter Of Plenty|The]] [[The Planter Of Plenty|Planter]] [[The Planter
+        Of Plenty|Of]] [[The Planter Of Plenty|Plenty]] (100 trillion) being most expensive item.
+        *The Diamond Mask shop, the [[Hub Field Shop]] and the [[Demon Mask]] Shop are the only
+        shops in the game that have a total of 1 item.
+        *This, the Demon Mask and the Gummy Mask are the only masks with decorative accessories (the
+        Diamond Mask has a tiara).
+        *Unlike the Demon Mask and Gummy Mask, the sound effect of its passive is not based on music
+        in the game.
+        *According to Spirit Bear, the amount of converted pollen from the Diamond Drain passive
+        gets weaker with every use until the player returns to the hive.
+        *This hat gives the most capacity.
+
+        {{Items}}
+        [[Category:Accessories]]
+        [[Category:Hats]]
+        [[Category:Crafted]]
+        [[Category:Items]]
+        [[Category:Blue]]
+        [[Category:Masks]]"}

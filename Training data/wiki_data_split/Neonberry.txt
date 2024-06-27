@@ -1,0 +1,124 @@
+{"text": "{{Consumables
+        |image=Neonberry.png
+        |description=Increases bond with a bee by 500 and makes it Radioactive for a while.
+        }}
+        A {{Color|Neonberry}} is a type of [[Treats|Treat]] that, when fed to a [[Bees|bee]], raises
+        its [[bond]] by 500 and makes it [[Radiation|radioactive]] for a period of time. This is the
+        only treat to have guaranteed chance of making the bee radioactive. These are not the
+        favorite treat of any bee.
+
+        == Ways to Obtain ==
+        * As a reward from the [[Ant Challenge]].
+        * As a common reward from [[Robo Bear Challenge]].
+        * Redeeming certain valid codes:
+        ** There are currently no valid codes that give neonberries.
+        * As a Stack Reward for adding certain stickers to the Sticker Stack:
+        ** {{Cost|Wobbly Looker Bee Sticker|||0}} rewards 3 neonberries.
+        ** {{Cost|Traffic Light Sticker|||0}} rewards 3 neonberries.
+        ** {{Cost|Atom Symbol Sticker|||0}} rewards 5 neonberries.
+        <!-- not obtainable yet
+        ** Every colored [[Beesmas Lights|Beesmas Light]] sticker rewards 3 neonberries each.
+        -->
+        === Drops ===
+        * Has a low chance of dropping from [[Rhino Beetle|rhino beetles]], [[Ladybug|ladybugs]],
+        [[Mantis|mantises]], [[King Beetle]], [[Stump Snail]], [[Mondo Chick]], and [[Coconut
+        Crab]].
+        * Farming in the [[Blue Flower Field]], [[Pineapple Patch]], [[Mountain Top Field]], and the
+        [[Pine Tree Forest]] has a rare chance to drop neonberries.
+        ** Harvesting [[Leaves]] in these fields may also yield neonberries.
+        * As a rare drop from a [[Ability Tokens#Festive Mark|Festive Mark]].
+        * As a gift from a [[Cub Buddy|cub buddy]].
+        * As an uncommon drop from all [[sprout]]s.
+        ** Debug sprouts are guaranteed to drop neonberries.
+        * As an uncommon drop from [[Mythic Meteor Shower|Mythic Meteors]].
+        * As an uncommon drop from [[Puffshroom|Puffshrooms]].
+        * As a drop from the {{Cost|Pesticide Planter|||0}} and {{Cost|The Planter Of Plenty|||0}}.
+        ** The {{Color|Pesticide Planter}} drops extra neonberries in the [[Stump Field]],
+        [[Mountain Top Field]], and the [[Coconut Field]].
+        ** Planting the {{Color|Pesticide Planter}} in the [[Stump Field]], then the [[Mountain Top
+        Field]], then the [[Coconut Field]] results in an additional 25 neonberries (1 week
+        cooldown).
+
+        === Quests ===
+        * Black Bear's Triple Treck gives 1 neonberry.
+        * Brown Bear's 420th quest gives 4 neonberries.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * 1 neonberry could be found under the [[Beesmas Tree]].
+        * As a reward from the Robo Party
+        * Opening the [[Ornament Presents|Gooey Present]] rewarded 10 neonberries and other items.
+        * Completing [[Bee Bear|Bee Bear's]] \"Unsilent Night\" quest.
+        * [[Festive Nymph|Festive Nymphs]] had a chance to drop 1 neonberry.
+        * Matching a pair in Winter memory match (stack of 3).
+        * 3 neonberries could be found on top of the 2020 Beesmas Tree.
+        * Giving a present to Science Bear or Gummy Bear during Beesmas 2020 rewarded the player
+        with 10 neonberries.
+        * Completing [[Gummy Bear|Gummy Bear's]] 'Gummy Bear's Goo Year's Beacon' quest gave 100
+        neonberries + other items during Beesmas 2020 and 2021.
+        * Opening certain Gift Boxes across the map during Beesmas 2020:
+        ** Glowing Gift Box (Gave 20 neonberries + other stuff).
+        * Opening certain Gift Boxes across the map during Beesmas 2021:
+        ** Emerald Gift Box (Gave 10 neonberries + other stuff).
+        ** Gummy Gift Box (Gave 25 neonberries + other stuff).
+        * Digging in to the [[Beesmas Feast]].
+        * Under the 2021 Beesmas tree.
+        * As a rare reward from Beesmas Feast.
+        * Purchasing certain Robux Packs.
+        ** Purchasing the Precise Pack gave 250 neonberries + other items.
+        * Redeeming certain expired codes:
+        ** MondoOutage gave 1 neonberry + other stuff.
+        ** FourYearFiesta gave 1 neonberry + other stuff.
+        ** 5Years gave 5 neonberries + other stuff.
+        ** 10mMembers gave 10 neonberries + other stuff.
+        ** PlushFriday gave 1 neonberry + other stuff.
+        |}
+
+        == Crafting Uses ==
+        Total required for all in-game equipment: {{Cost|Neonberry|30}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        ! style=\"text-align: center\" |{{Cost|Neonberry}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Red Extract|3}}<br>{{Cost|Blue Extract|3}}<br>{{Cost|Glue|3}}
+        |[[File:Purple Potion.png|center|80px|link=Purple Potion]]<div style=\"text-align:
+        center;\">{{Color|Purple Potion}}
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Star Jelly|3}}<br>{{Cost|Purple Potion|3}}<br>{{Cost|Tropical Drink|6}}
+        |[[File:Super Smoothie.png|center|80px|link=Super Smoothie]]<div style=\"text-align:
+        center;\">{{Color|Super Smoothie}}
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Honey|7,000,000}}<br>{{Cost|Glue|1}}<br>{{Cost|Oil|1}}<br>{{Cost|Soft
+        Wax|5}}<br>{{Cost|Micro-Converter|10}}
+        |[[File:Sticker-Seeker.png|center|80px|link=Sticker-Seeker]]<div style=\"text-align:
+        center;\">[[Sticker-Seeker]]
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Hard Wax|5}}<br>{{Cost|Enzymes|4}}<br>{{Cost|Royal Jelly|5,252}}
+        |[[File:Caustic Wax.png|center|80px|link=Caustic Wax]]<div style=\"text-align:
+        center;\">{{Color|Caustic Wax}}
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|750,000,000}}<br>{{Cost|Magic
+        Bean|25}}<br>{{Cost|Glue|15}}<br>{{Cost|Caustic Wax|3}}<br>{{Cost|Hard
+        Wax|10}}<br>
+        |[[File:Pesticide Planter.png|center|80px|link=Pesticide Planter]]<div style=\"text-align:
+        center;\">{{Color|Pesticide Planter}}
+        |}
+
+        == Gallery ==
+        <gallery>
+        File:Neon.png|Neonberry in inventory.
+        File:HiddenNeonberry.png|A claimed neonberry token hidden in the [[Beesmas Tree]].
+        File:The Dark One.png|Bee was affected by Neonberry, which made it Mutated.
+        </gallery>{{Inventory}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Treats]]"}

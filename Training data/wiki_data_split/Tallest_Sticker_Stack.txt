@@ -1,0 +1,33 @@
+{"text": "{{DailyCheck}}
+        {{LB|name1=Unchanging_Owner|amount1=264|name2=altaveran12|amount2=264|name3=FHL09|amount3=264|name4=BeeSwarmLOvegus|amount4=264|name5=OfficerAC|amount5=264|name6=BastianAuryn|amount6=264|name7=ethanolodj|amount7=264|name8=thesleepybee|amount8=264|name9=williampili|amount9=264|name10=rawwro7|amount10=264}}
+        ''(Leaderboard as of 04/11/2024)''
+
+        The '''Tallest Sticker Stack''' is one of 62 [[leaderboards]] in the game. This leaderboard
+        shows the amount of [[stickers]] players have donated to the [[Sticker Stack]]. It shows 10
+        leaderboard positions at a time. The player can scroll down the leaderboard to see more
+        players, all the way to the 100th place.
+
+        == Location ==
+        It is located past the [[Honey Bee Gate]] and behind the [[Pine Tree Forest]].
+
+        == Achievements ==
+
+        * On 01/12/2024, XSxriptX was the first player to earn the Sticker Stack Cadet Badge (25
+        Stickers in Stack).
+        * On 01/13/2024, mateusz8992 was the first player to earn the Sticker Stack Hotshot badge
+        (50 Stickers in Stack).
+        * On 01/14/2024, warnadowind was the first player to earn the Sticker Stack Ace Badge (100
+        Stickers in Stack).
+        * On 01/15/2024, warnadowind was the first player to add 150 stickers to the stack.
+        * On 01/17/2024, NicolaiJee was the first player to add 200 stickers to the stack.
+        * On 01/24/2024, NicolaiJee was the first player to earn the Sticker Stack Master Badge (250
+        Stickers in Stack).
+        * On 01/25/2024, NicolaiJee was the first player to add all 264 non-event exclusive stickers
+        to the stack as of the [[Updates|01/12/2024 update]].
+
+        == Trivia ==
+        *The Tallest Sticker Stack is the only leaderboard in the game to have a maximum amount,
+        being 264, meaning that the leaderboard will eventually become impossible to get on to.
+        {{MapNav}}
+        [[Category:Leaderboards]]
+        [[Category:Locations]]"}

@@ -1,0 +1,285 @@
+{"text": "'''Capacity''' is a [[Mechanics|mechanic]] that shows how much [[pollen]] the player can
+        store at a time. Capacity can be increased in a variety of ways including [[Buffs &
+        Debuffs|buffs]], [[items]], [[sticker]]s and [[amulet]]s. Capacity can be increased by
+        static amounts or by multipliers. Static increases can be shown simply through addition
+        symbols (+) while multipliers can be shown through multiplication symbols (x) or percentages
+        (%). The player's Capacity is displayed in the top-middle section, labelled as \"Pollen\" and
+        also on the player's bag. The player can see how much their capacity is multiplied by
+        looking for the Capacity Multiplier stat in the [[System Page]].
+        [[File:PollenCapacity1.png|frame]]
+
+        ==Ways to Obtain==
+
+        ===Bags===
+        Each [[Bags|bag]] adds a static amount of Capacity for the player. These are typically the
+        bulk of the static amount of Capacity that the player can hold at once.
+
+        * The [[Pouch]] gives +200 Capacity.
+        * The [[Jar]] gives +750 Capacity.
+        * The [[Backpack]] gives +3,500 Capacity.
+        * The [[Canister]] gives +10,000 Capacity.
+        * The [[Mega-Jug]] gives +25,000 Capacity.
+        * The [[Compressor]] gives +50,000 Capacity.
+        * The [[Elite Barrel]] gives +125,000 Capacity.
+        * The [[Port-O-Hive]] gives +250,000 Capacity.
+        * The [[Red Port-O-Hive]] gives +350,000 Capacity.
+        * The [[Blue Port-O-Hive]] gives +350,000 Capacity.
+        * The [[Porcelain Port-O-Hive]] gives +500,000 Capacity.
+        * The [[Coconut Canister]] gives +1,000,000 Capacity.
+
+        ===Belts===
+        Each belt adds a static amount of Capacity for the player. Two of the belts also give a
+        Capacity Multiplier.
+
+        * The [[Belt Pocket]] gives +5,000 Capacity.
+        * The [[Belt Bag]] gives +25,000 Capacity.
+        * The [[Mondo Belt Bag]] gives +100,000 Capacity.
+        * The [[Honeycomb Belt]] gives +150,000 capacity. It also gives +25% Capacity.
+        * The [[Petal Belt]] gives +250,000 capacity. It also gives +50% Capacity.
+        * The [[Coconut Belt]] gives +350,000 capacity. It also gives +75% Capacity.
+
+        ===Guards===
+        Each guard adds a static amount of Capacity for the player.
+
+        * The [[Brave Guard]] gives +5,000 Capacity.
+        * The [[Hasty Guard]] gives +5,000 Capacity.
+        * The [[Bomber Guard]] gives +5,000 Capacity.
+        * The [[Looker Guard]] gives +5,000 Capacity.
+        * The [[Red Guard]] gives +25,000 Capacity.
+        * The [[Elite Red Guard]] gives +75,000 Capacity.
+        * The [[Riley Guard]] gives +150,000 Capacity.
+        * The [[Blue Guard]] gives +25,000 Capacity.
+        * The [[Elite Blue Guard]] gives +75,000 Capacity.
+        * The [[Bucko Guard]] gives +150,000 Capacity.
+        * The [[Crimson Guard]] gives +250,000 Capacity.
+        * The [[Cobalt Guard]] gives +250,000 Capacity.
+
+        ===Hats===
+        There are several hats/masks that add a static amount of Capacity or give a Capacity
+        Multiplier for the player.
+
+        * The [[Strange Goggles]] give +77 Capacity.
+        * The [[B.B.M. Mask]] gives +75,000 Capacity.
+        * The [[Mondo B.B.M. Mask]] gives +250,000 Capacity.
+        * The [[Honey Mask]] gives a x1.25 Capacity Multiplier.
+        * The [[Fire Mask]] gives a x1.25 Capacity Multiplier.
+        * The [[Bubble Mask]] gives a x1.5 Capacity Multiplier.
+        * The [[Gummy Mask]] gives a x1.5 Capacity Multiplier.
+        * The [[Demon Mask]] gives a x1.5 Capacity Multiplier.
+        * The [[Diamond Mask]] gives a x3 Capacity Multiplier.
+
+        ===Amulets===
+        There are several amulets that add a static amount of Capacity for the player. Star Amulets
+        give a Capacity Multiplier.
+
+        * The [[Star Amulet]] gives a Capacity Multiplier depending on the tier.
+        ** The Bronze Star Amulet gives a x1.25 Capacity Multiplier.
+        ** The Silver Star Amulet gives a x1.5 Capacity Multiplier.
+        ** The Gold Star Amulet gives a x1.75 Capacity Multiplier.
+        ** The Diamond Star Amulet gives a x2 Capacity Multiplier.
+        ** The Supreme Star Amulet gives a x2.5 Capacity Multiplier.
+        * The [[Moon Amulet]] gives +25,000 Capacity which can be upgraded to +250,000 Capacity.
+        * The [[Stick Bug Amulet]] can give up to +300,000 Capacity depending on the tier.
+        ** The Bronze Stick Bug Amulet gives from +25,000 Capacity up to +100,000 Capacity.
+        ** The Silver Stick Bug Amulet gives from +100,000 Capacity up to +150,000 Capacity.
+        ** The Gold Stick Bug Amulet gives from +150,000 Capacity up to +200,000 Capacity.
+        ** The Diamond Stick Bug Amulet gives from +200,000 Capacity up to +300,000 Capacity.
+        * The [[Cog Amulet]] can give up to +250,000 Capacity depending on the tier.
+        ** The Bronze Cog Amulet gives from +22,500 Capacity up to +26,500 Capacity.
+        ** The Silver Cog Amulet gives from +45,000 Capacity up to +51,500 Capacity.
+        ** The Gold Cog Amulet gives from +90,000 Capacity up to +108,000 Capacity.
+        ** The Diamond Cog Amulet gives from +127,500 Capacity up to +162,500 Capacity.
+        ** The Supreme Cog Amulet gives from +200,000 Capacity up to +250,000 Capacity.
+
+        ===Gifted Hive Bonuses===
+        There are two [[bees]] that give a Capacity Multiplier if [[Gifted Bee|gifted]].
+
+        * Gifted [[Bumble Bee]] gives a x1.1 Capacity Multiplier.
+        * Gifted [[Buoyant Bee]] gives a x1.2 Capacity Multiplier.
+
+        ===Beequips===
+        There are a handful of [[beequip]]s that add a static amount of Capacity or give a Capacity
+        Multiplier.
+
+        * A {{Cost|Beret|||0}} gives from +6,000 Capacity up to +13,500 Capacity.
+        * A {{Cost|Single Mitten|||0}} gives from +7,500 Capacity up to +10,000 Capacity. Using
+        [[waxes]] can increase the amount up to +15,000 Capacity.
+        * A {{Cost|Warm Scarf|||0}} can give from +1% Capacity to +10% Capacity from waxing.
+        * A {{Cost|Beesmas Tree Hat|||0}} gives from +10,000 Capacity up to +25,000 Capacity. Using
+        waxes can increase the amount up to +35,000 Capacity.
+        * The {{Cost|Reindeer Antlers|||0}} can give from +1% Capacity to +20% Capacity from waxing.
+        * The {{Cost|Festive Wreath|||0}} gives from +5,000 Capacity up to +10,000 Capacity. Using
+        waxes can increase the amount up to +110,000 Capacity.
+
+        ===Passives===
+        There are two [[Passive Abilities|passives]] that give a Capacity Multiplier. They can be
+        obtained via a Diamond Star Amulet or Supreme Star Amulet. The Guiding Star Aura could also
+        be obtained from [[Onett's Lid Art]] during Beesmas.
+
+        * The Guiding Star passive gives a x1.25 Capacity Multiplier.
+        ** The Guiding Star Aura gives x2.5 Capacity to the player who summoned the star and x1.25
+        Capacity to other players.
+        * The Star Shower passive give a x1.25 Capacity Multiplier.
+
+        ===Buffs===
+        There are several ways to get a buff to capacity such as inventory items, [[Ability
+        Tokens|ability tokens]], defeating [[mobs]], and redeeming [[codes]].
+
+        * Using a {{Cost|Purple Potion|||0}} gives a x1.25 Capacity Multiplier. The buff can also be
+        given from certain codes.
+        * Using a {{Cost|Super Smoothie|||0}} gives a x1.5 Capacity Multiplier. The buff can also be
+        given from certain codes.
+        * Using a {{Cost|Marshmallow Bee|||0}} gives +50% Capacity. The buff can also be given from
+        certain codes.
+        * Using a {{Cost|Snowflake|||0}} or collecting the [[Ability Tokens#Snowglobe
+        Shake|Snowglobe Shake]] ability token from the {{Cost|Snowglobe|||0}} Beequip gives a x1.25
+        Capacity Multiplier.
+        * Using a {{Cost|Glitched Drive|||0}} during the [[Robo Bear Challenge]] gives a x1.25
+        Capacity Multiplier.
+        * Making combos with [[Ability Tokens#Fetch|Reindeer Fetch]] from [[Puppy Bee]] with the
+        {{Cost|Reindeer Antlers}} Beequip equipped can give from a x1.01 Capacity Multiplier up to a
+        x1.1 Capacity Multiplier.
+        * Defeating the [[Mondo Chick]] for the Mondo Chick Blessing can give from a x1.02 Capacity
+        Multiplier up to a x1.2 Capacity Multiplier.
+        * Balloon Blessing can give from a x1.03 capacity multiplier up to a x4 Capacity Multiplier.
+        * Galentine's Blessing (Beesmas only) gives +50% Capacity.
+        * Beesmas Repentance (Beesmas only) gives a x1.05 Capacity Multiplier.
+        * Defeating [[Festive Nymph]]s during Beesmas will guarantee a Festive Nymph Blessing token
+        drop which can stack up to give from +1,000 Capacity up to +250,000 Capacity. The buff can
+        also be given from certain codes.
+        * Defeating Party Robots or completing a [[Robo Party]] during Beesmas can give Robo Party
+        Blessing which can stack up to give from +1,000 Capacity up to +100,000 Capacity. The buff
+        can also be given from certain codes.
+        * The Guiding Star Aura gives x2.5 Capacity to the player who summoned the star and x1.25
+        Capacity to other players.
+        * The Capacity Code buff, which is given by certain codes, gives a x2 Capacity Multiplier.
+        ===Robo Bear Challenge Upgrades===
+        There are several upgrades that can be bought with [[cog]]s during the Robo Bear Challenge
+        which can upgrade Capacity.
+
+        * Common Upgrades:
+        ** Defragment: This upgrades starts at x1.5 Capacity and maxes at 10 upgrades with x6
+        Capacity.
+        * Rare Upgrades:
+        ** Expansion: This upgrades starts at x1.25 Capacity and maxes at 100 upgrades with x25
+        Capacity.
+        ** RAM: This upgrades starts at +75,000 Capacity and maxes at 10 upgrades with +750,000
+        Capacity.
+        * Epic Upgrades:
+        ** HDD: This upgrade gives x3 Capacity.
+        * Legendary Upgrades:
+        ** Optimize: This upgrades starts at x1.1 Capacity and maxes at 25 upgrades with x2.5
+        Capacity.
+        ** The Cloud: This upgrades starts at x2.5 Capacity and maxes at 3 upgrades with x5.5
+        Capacity.
+
+        ===Badges===
+        There are a handful of [[badges]] that add a static amount of capacity or give a Capacity
+        Multiplier.
+
+        * The [[Quests|Quest]] Badge gives a Capacity Multiplier depending on the badge rank.
+        ** The Cadet Quest Badge gives a x1.25 Capacity Multiplier.
+        ** The Hotshot Quest Badge gives a x1.5 Capacity Multiplier.
+        ** The Ace Quest Badge gives a x1.75 Capacity Multiplier.
+        ** The Master Quest Badge gives a x2 Capacity Multiplier.
+        ** The Grandmaster Quest Badge gives a x2.25 Capacity Multiplier.
+        * The Ability Badge can give up to +250,000 Capacity depending on the badge rank.
+        ** The Cadet Ability Badge gives +25,000 Capacity.
+        ** The Hotshot Ability Badge gives +50,000 Capacity.
+        ** The Ace Ability Badge gives +100,000 Capacity.
+        ** The Master Ability Badge gives +150,000 Capacity.
+        ** The Grandmaster Ability Badge gives +250,000 Capacity.
+        * The [[Sunflower Field|Sunflower]] Badge gives a Capacity Multiplier depending on the badge
+        rank.
+        ** The Cadet Sunflower Badge gives +10% Capacity.
+        ** The Hotshot Sunflower Badge gives +20% Capacity.
+        ** The Ace Sunflower Badge gives +30% Capacity.
+        ** The Master Sunflower Badge gives +40% Capacity.
+        ** The Grandmaster Sunflower Badge gives +50% Capacity.
+
+        ===Sticker Stack Boosts===
+        A lot of [[sticker]]s can give capacity as a [[Sticker Stack|stack]] boost. They can give a
+        static amount or a capacity multiplier.
+
+        * +10,000 Capacity:
+        ** Noob Cub Skin, Bee Cub Skin, Gingerbread Cub Skin, Snow Cub Skin, Peppermint Robo Cub
+        Skin, Sitting Green Shirt Bear, Green Check Mark, Green Plus Sign, Thumbs Up Hand, Launching
+        Rocket, Traffic Light, Window, Doodle S, Play Button, Gamer Chat Icon.
+        * +20,000 Capacity:
+        ** Eviction, Hourglass, Abstract Color Painting, Ionic Column Top, Ionic Column Middle,
+        Ionic Column Base.
+        * +1% Capacity:
+        ** Simple Skyscraper, Sprout, Cool Backpack, Waxing Crescent Moon, Cordate Leaf, Cunate
+        Leaf, Elliptic Leaf, Hastate Leaf, Lanceolate Leaf, Oblique Leaf, Reniform Leaf, Rhomboid
+        Leaf, Spatulate Leaf.
+        * +2% Capacity:
+        ** Auryn, Glowing Smile, Prehistoric Boar, Moai, Capricorn Star Sign, Aquarius Star Sign,
+        Cancer Star Sign, Virgo Star Sign, Leo Star Sign, Sagittarius Star Sign, Gemini Star Sign,
+        Libra Star Sign, Pisces Star Sign, Aries Star Sign, Taurus Star Sign, Scorpio Star Sign.
+
+        * Specific Bonuses:
+        ** Forward Facing Spider - 10% Spider Field Capacity, Jack-O-Lantern - 10% Pumpkin Patch
+        Capacity, Built Ship - 2% Blue Field Capacity, Red Doodle Person - 2% Red Field Capacity,
+        Fork And Knife - 2% White Field Capacity, Pearl Girl - 2% White Field Capacity.
+        ==Downgrades==
+        There is a debuff that reduces the Capacity of the player.
+
+        * The Robo Bear Challenge Debuff reduces the Capacity by a depending on what round the
+        player is on in the Robo Bear Challenge. At Round 1, it has a x0.1 Capacity Multiplier and
+        increases by 0.015 per round to a total of a x0.46 Capacity Multiplier.
+        There are certain upgrades that can be bought with cogs during the Robo Bear Challenge which
+        can downgrade Capacity.
+
+        * Common Upgrades:
+        ** Overfit: Red: This upgrades starts at x0.9 Capacity and maxes at 10 upgrades with x0.5
+        Capacity.
+        ** Sharpen: This upgrades starts at x0.95 Capacity and maxes at 10 upgrades with x0.75
+        Capacity.
+        * Rare Upgrades:
+        ** Crypto: This upgrades starts at x0.85 Capacity and maxes at 3 upgrades with x0.55
+        Capacity.
+        * Epic Upgrades:
+        ** Malware: This upgrades starts at x0.75 Capacity and maxes at 3 upgrades with x0.25
+        Capacity.
+        * Legendary Upgrades:
+        ** Overclock: This upgrade gives x0.75 Capacity.
+
+        ==Gallery==
+        <gallery>
+        Capacity.png|The icon used for certain codes that give capacity.
+        CapacityMultiplier1.png|The Capacity Multiplier stat in the System Page.
+        BackpackCapacity1.png|A player's Capacity displayed on their bag.
+        PollenFullMessage1.png|The message for having full Capacity and attempting to collect more
+        pollen.
+        </gallery>
+
+        ==Trivia==
+        * The highest static Capacity the player can have at a time if you were to remove all
+        multipliers is 4,437,000. This is achieved by having:
+        ** Mondo B.B.M. Mask (+{{Hover|250K|250,000}})
+        ** Coconut Canister (+{{Hover|1M|1,000,000}})
+        ** Crimson Guard (+{{Hover|250K|250,000}})
+        ** Cobalt Guard (+{{Hover|250K|250,000}})
+        ** Petal Belt (+{{Hover|250K|250,000}})
+        ** Moon Amulet (+{{Hover|250K|250,000}})
+        ** Stick Bug Amulet (+{{Hover|300K|300,000}})
+        ** Cog Amulet (+{{Hover|250K|250,000}})
+        ** Two Berets (+{{Hover|27K|27,000}})
+        ** three Single Mittens (+{{Hover|45K|45,000}})
+        ** three Beesmas Tree Hats (+{{Hover|105K|105,000}})
+        ** Festive Wreath (+{{Hover|110K|110,000}})
+        ** Festive Nymph Blessing (+{{Hover|250K|250,000}})
+        ** Robo Party Blessing (+{{Hover|100K|100,000}})
+        ** RAM upgrade maxed (+{{Hover|750K|750,000}})
+        ** Grandmaster Ability Badge (+{{Hover|250K|250,000}}).
+        *** If all +(%) multipliers are applied, the player would have a total of 15,704,500
+        Capacity.
+        *** If all multipliers were applied, the player would have a total of 524,399,793,074,789
+        Capacity.
+        * The lowest possible capacity the player can have is less than 10 by equipping the
+        [[Pouch]] (+200) and having every upgrade that reduces capacity in the Robo Bear Challenge
+        while having no other Capacity increasers or multipliers.
+        * The Capacity Buff, Field Code Buff, Field Capacity Buff, and the x2 Pollen Boost are the
+        only code exclusive buffs.
+        [[Category:Mechanics]]
+        [[zh-tw:背包容量]]"}

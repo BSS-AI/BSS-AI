@@ -1,0 +1,82 @@
+{"text": "{{Accessory
+        |title1=Coconut Belt
+        |image1=Coconut Belt.png
+        |description=This cumberbund creates Combo Coconuts that can be juggled for massive boosts!
+        |cost=7.5 Trillion Honey, 500 Coconuts, 1500 Tropical Drinks, 200 Purple Potions, 200 Hard
+        Wax, 3 Turpentine, 3 Refreshing Vials
+        |stats=
+        +350,000 Capacity<br/>+75% Capacity<br/>+120 Convert Amount<br/>+102% Loot
+        Luck<br/>+100% Honey From Tokens<br/>x1.1 Coconut Field Pollen<br/>+10%
+        Gifted Bee Pollen<br/>+1 Bee Attack<br/>+Passive Petal Storm (Needs Petal
+        Belt)<br/>+Passive Combo Coconuts
+        }}
+        {{Quote|quote=This cumberbund creates Combo Coconuts that can be juggled for massive
+        boosts!}}
+        The '''Coconut Belt''' is a belt that can be crafted in the [[Coconut Cave]].
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|{{Hover|7.5T|7,500,000,000,000}}}}<br>{{Cost|Coconut|500}}<br>{{Cost|Tropical
+        Drink|1,500}}<br>{{Cost|Purple Potion|200}}<br>{{Cost|Hard
+        Wax|200}}<br>{{Cost|Turpentine|3}}<br>{{Cost|Refreshing Vial|3}}
+        |}
+
+        ==Stats ==
+        *+350,000 Capacity
+        *+75% Capacity
+        *+120 Convert Amount
+        *+102% Loot Luck
+        *+100% Honey From Tokens
+        *x1.1 Coconut Field Pollen
+        *+10% Gifted Bee Pollen
+        *+1 Bee Attack
+        *+Passive: Petal Storm (Needs [[Petal Belt]])
+        *+Passive: Combo Coconuts
+        **Every 40th Coconut you drop onto a field (through items or abilities) becomes a Combo
+        Coconut. When caught by any player. Combo Coconuts are kicked and fall again, onto your own
+        field if caught on the first drop within the blue circle, or onto another players field.
+        Every time they are kicked, they speed up, and gain stacks of Coconut Combo. Many more
+        stacks are granted if caught by other players in fields with different colors. Catching the
+        Coconut grants a buff that grants between 10% to 75% Unique Instant Conversion, between x1.1
+        to x1.5 Pollen and between +1% to +50% Pollen, Red Pollen, Blue Pollen, White Pollen, Bee
+        Attack, and Honey From Tokens. When the Coconut fails to be caught it despawns and reapplies
+        the buff to all players who caught it at least once.
+
+        ==Audio==
+        *'''Intro'''
+        [[File:Cococombo_intro.ogg]]
+        *'''Combos'''
+        [[File:Cococombo1.ogg]]
+        [[File:Cococombo2.ogg]]
+        [[File:Cococombo3.ogg]]
+        [[File:Cococombo4.ogg]]
+        *'''Basses'''
+        [[File:Cococombo_bass1.ogg]]
+        [[File:Cococombo_bass2.ogg]]
+        [[File:Cococombo_bass3.ogg]]
+        [[File:Cococombo_bass4.ogg]]
+        ==Gallery==
+        <gallery>
+        CoconutBeltIcon.png|The Coconut Belt's icon.
+        Combococonuts.png|Combo Coconuts' icon.
+        Coconutcombo.png|Combo Coconuts' image.
+        CoconutBeltEquip.png|A player equipping a Coconut Belt.
+        </gallery>
+        ==Trivia==
+        *Coconut Belt's raw ingredients cost:
+        ** {{Cost|Honey|{{Hover|7.5T|7,500,000,000,000}}}}
+        ** {{Cost|Coconut|17300}}
+        ** {{Cost|Pineapple|1046000}}
+        ** {{Cost|Sunflower Seed|220500}}
+        ** {{Cost|Blueberry|612750}}
+        ** {{Cost|Strawberry|612750}}
+        ** {{Cost|Bitterberry|11550}}
+        ** {{Cost|Honeysuckle|8250}}
+        ** {{Cost|Neonberry|1710}}
+        ** {{Cost|Royal Jelly|373760}} or {{Cost|Honey|{{Hover|373B|373,760,000,000}}}}
+        ** {{Cost|Magic Bean|1170}} or {{Cost|Ticket|23400}}
+        [[Category:Belts]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]
+        [[Category:Items]]
+        {{Items}}"}

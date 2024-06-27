@@ -1,0 +1,419 @@
+{"text": "<sup>''This page is for the Stick Bug NPC. For attack behaviour and the actual
+        challenge, please see [[Stick Bug Challenge]].''</sup>
+        {{Mob
+        |title = Stick Bug
+        |image =Stick_Bug_Transparent_PNG.png
+        |location = On top of the tallest mushroom in the [[Mushroom Field]].
+        |timer = Every 36 hours or anytime with 50 tickets
+        |hp = Increases by level
+        |damage = Increases by level
+        |level=1 - No Limit}}
+
+
+        '''Stick Bug''' is an [[:Category:NPC|NPC]] that is found on the tallest mushroom in the
+        [[Mushroom Field]] and is accessible by using the [[Red Cannon]]/[[Yellow Cannon]]/[[Blue
+        Cannon]] with the [[Parachute]]/[[Glider]], or using the [[Beekeeper's Boots]] and jumping
+        from the second mushroom to the one with the [[Royal Jelly]]. Players will need a
+        [[Translator]] to talk to Stick Bug, where they can then ask it to start the [[Stick Bug
+        Challenge]]. Stick Bug then appears as a Boss [[Mobs|Mob]] and always spawns in the
+        [[Sunflower Field]] first. Upon defeat, it flees to a random field from this list:
+
+        * [[Sunflower Field]].
+        * [[Clover Field]].
+        * [[Strawberry Field]].
+        * [[Bamboo Field]].
+        * [[Pineapple Patch]].
+        * [[Cactus Field]].
+        * [[Pumpkin Patch]].
+        * [[Mountain Top Field]].
+
+        Stick Bug jumps into the Sunflower Field when the Stick Bug Challenge is started, and will
+        not return to the Mushroom until the challenge ends. Near it is the [[Top Stick Bug
+        Fighters]] Leaderboard. The player can start the Stick Bug Challenge for free every 1 and a
+        half day (1d:12hrs:00m:00s), by initiating it anytime for 50 [[Ticket]]s, or by giving Stick
+        Bug a [[Present]] during the 2018, 2020, 2021 and 2022 Beesmas Event.
+
+        When the challenge ends, player will be awarded an [[Stick Bug Amulet|amulet]] depending of
+        his score (''More informations in the [[Stick Bug Amulet|Stick Bug's Amulet]] page'').
+
+        During the [[Updates#2019.04.17|Egg Hunt 2019 Event Update]], Stick Bug would plant an Epic,
+        Legendary, and Supreme [[Sprout]] after finishing its [[Egg Hunt 2019|Egg Hunt]] quest.
+
+        == Dialogue ==
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Initial Talk without Translator
+        |Tsk tsk tsk tsk. T tuh tsk TSKK VRZz tsk tsk! (Stick Bug is speaking in bug noises)
+
+        ''(You are given a choice to use a translator or to leave.)''
+
+        ''-Leave-''
+
+        VRRZZZ. Tsk tsk.
+
+        ''-Give a Translator to Stick Bug-''
+
+        ''(Skip to \"Initial Talk with a Translator (first time)\".)''
+        |-
+        |Initial Talk with a Translator (first time)
+        |Hey there flesh-bug. I am Stick Bug. I move, I jump, I step to my own beat! I was here
+        before the bees and honey. Jump into my world... You think you and your bees can take on me?
+        Think you can match my stide? You'll be over in your head. But I'd like to see you try. Come
+        back if you're brave.
+        |-
+        |Initial Talk with a Translator
+        |Hey there flesh-bug. Feeling brave? How about you and your friends join me in my dance?
+        Once it starts. I'll hop into the fields. Deal as much damage to me as you can to me in 10
+        minutes to earn rewards. The higher the score the better they will be. Ready to get down?
+        ''-Cancel-''
+
+        Cold feet? I'll wait.
+
+        ''-Start the challenge [Free Entry]-''
+
+        Ok then - You're on flesh-bug!!
+
+        ''-Pay 50 Tickets to start the challenge-''
+
+        Ok then - let's groove.
+        |-
+        |Giving a present (Beesmas exclusive)
+        |Beesmas is just another day.
+
+        Like any other day, it's a day to boogie.
+
+        Holidays come and go.
+
+        They blow past me like leaves in the wind until they crumble away.
+
+        But me and my nymphs, we've been dancing forever.
+
+        Heh heh.
+
+        (asks if you want to give Stick Bug a Present)
+
+        (If you give it a present:)
+
+        You're full of surprises ''[sic]'', flesh-bug.
+
+        Let's take a look in the box.
+
+        A reel-to-reel machine? How did you fit this in there?
+
+        Very cool. Let me set this up.
+
+        ...
+
+        Now let's give it a whirl.
+
+        ''(Stick Bug Challenge Starts)''
+        |-
+        |Exclusive Beesmas Dialogue 2020 (No longer available, translator required)
+        |You beekeepers are funny with your seasonal traditions. '''You are given a choice to give a
+        present to Stick Bug or continue talking like normal. You choose to give him a present.'''
+        If you're having a tough year, remember things'll get better. Life is full of ups and downs.
+        It's a bumpy ride, just gotta hang on tight. So, what did you bring me? ...(krumple
+        krumple)... Hah! It's a wind-up \"Get Stick Bugged\" figurine. Yeah, of course I like that
+        meme. Feels good to force even the non-beekeepers to hear my song when they least expect it.
+        Speaking of, you better put this [Ornament] on the tree fast.
+        |}
+
+        ==Egg Hunt 2019 Quest==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest Name
+        !Requirements
+        !Rewards
+        |-
+        |Egg Hunt: Stick Bug
+        |
+        *Collect 50,000,000 White [[Pollen]].
+        *Collect 2,500 Tokens from [[Stick Nymphs]].
+        |25,000,000 [[Honey]]<br>5x [[Marshmallow Bee]]<br>5x
+        [[Micro-Converter]]<br>5x [[Jelly Beans]]<br>An [[Sprout|Epic
+        Sprout]]<br>A [[Sprout|Legendary Sprout]]<br>A [[Sprout|Supreme Sprout]]
+        |}
+        {| class=\"mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Egg Hunt: Stick Bug
+        |Hunting for eggs, we do it all the time. You've been hunting for eggs since you got here.
+        Those secrets tucked away, with playful intention. They keep us on our toes- remind us that
+        we don't have it all figured out. Easter eggs are everywhere if you know how to look for
+        them. Here's one that's obvious.
+        ''(Stick Bug Challenge Starts)''
+
+
+        ''-During-''
+
+        ''(Normal talk after giving Translator)''
+
+
+        ''-Completion-''
+
+        I've been around so long that not much surprises me. I've got to keep things interesting
+        myself. How about you, flesh bug?
+        |}
+
+        ==2019 Beesmas Ornament Quest==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Stick Bug's Ornament
+        |
+        *Collect 11,111,111,111 [[Pollen]]
+        *Collect 1,111,111,111 Pollen from the [[Pepper Patch]]
+        *Collect 1,111,111,111 Pollen from the [[Pineapple Patch]]
+        *Collect 1,111,111,111 Pollen from the [[Bamboo Field]]
+        *Collect 111,111,111 Pollen from the [[Sunflower Field]]
+        *Collect 1,111 Tokens from [[Stick Nymph]]s
+        *Collect 111 Tokens from Stick Bug
+        *Catch 111 Falling [[Coconut]]s
+        *Defeat 11 [[Werewolf|Werewolves]]
+        *Defeat 1 [[Coconut Crab]]
+        |Starts Stick Bug Challenge (upon receiving quest)
+        ----
+        5,000,000,000 Honey<br>5x [[Ticket]]<br>10x [[Tropical
+        Drink]]<br>Partridge in a Stick Bug [[Ornaments|Ornament]]
+        |}
+        [[File:Patridge Stick'sOrnament.png|thumb|Stick Bug's Ornament, [Partridge in a Stick
+        Bug]|alt=]]
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Stick Bug's Ornament
+        |Hey there flesh bug. Feeling festive? I can get down with that. Beesmas - doesn't mean much
+        to me. But it brings a jolly energy to the mountain that I can certainly vibe with. Been
+        watching you all put [Ornaments] up on that tree. Gave me an idea for an [Ornament] of my
+        own. I'll tell you more about it later.
+
+        ''-During-''
+
+        N/A
+
+        ''-Completion-''
+
+        So, my [Ornament] There's ''[sic]'' this Beesmas song, \"The 12 Days of Beesmas\" It lists
+        days 12 days ''[sic entire sentence]'', and the first is this: A Partridge in a Pear Tree. I
+        figure since I look sort of like a tree, my ornament could represent that. Here, I made it
+        while we were''[sic]'' doing a challenge: The [Partridge In A Stick Bug Ornament]. With this
+        on the Beesmas Tree, you'll receive the following boosts: +10% Capacity; +10% Pollen; x1.25
+        Pollen from the Cactus Field; And x1.25 Pollen from the Pepper Patch. It's a little rough,
+        but I never claimed to be good at arts and crafts. Dance is my art. Happy holidays.
+        |}
+
+        ==2020 Beesmas Quest - Nymph Hats==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Stick Bug's Nymph Hats
+        |
+        *Collect 44,000,000,000 [[Pollen]].
+        *Collect 10,000,000,000 Pollen from the [[Pineapple Patch]].
+        *Collect 6,000,000,000 Pollen from the [[Clover Field]].
+        *Collect 5,000,000,000 Pollen from the [[Dandelion Field]].
+        *Collect 250 Tokens from Stick Bug.
+        *Collect 100 Tokens from Stick Bug Defense Totems.
+        *Collect 500 Tokens from [[Sprout]]s.
+        *Craft 150 Ingredients with the [[Blender]].
+        *Discard 25 [[Beequip]]s.
+        *Catch 500 Falling [[Coconut]]s.
+        *Defeat 5 [[Werewolf|Werewolves]].
+        *Defeat 1 [[King Beetle]].
+        |50,000,000,000 [[Honey]]<br>5x [[Gingerbread Bear]]<br>50x
+        [[Ticket]]<br>250x [[Bitterberry|Bitterberry]]<br>10x [[Stinger]]<br>10x
+        [[Tropical Drink]]<br>1x [[Pinecone]]<br>Allows Festive Nymphs to spawn during
+        the Stick Bug Challenge<br>Starts the Stick Bug Challenge
+        |}
+
+        {| class=\"article-table sortable mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Stick Bug's Nymph Hats
+        |Hey there flesh-bug. Your bees are looking pretty fresh with their new Beequips. The Stick
+        Nymphs have definitely noticed. And now they want in on the fashion fun. They're pretty
+        bummed about being left out. Can't even get them to dance. We've got to cheer them up. Think
+        you could help me make some hats for the nymphs? If you do, I'll make it worth your while.
+        ''-During-''
+
+        N/A
+
+        ''-Completion-''
+
+        You pulled through, flesh-bug. These hats'll be a perfect fit. Go ahead Nymphs, try them on.
+        Nice! They look dapper in those things and they're cheering up already. Now that the Stick
+        Nymphs have hats, Festive Nymphs may spawn during challenges you start with me. Festive
+        Nymphs give improved loot and grant a stack of \"Festive Nymph Blessing\" when you defeat
+        them. That blessing gives bonus Capacity, Instant Bee Gather Conversion, Honey per pollen,
+        and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your
+        hive. My Stick Nymphs are happy and raring to go. How about we test their new hats out now.
+        |}
+
+        ==2021 Beesmas Quest - Nymph Hats==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Stick Bug's Nymph Hats
+        |
+        *Collect 44,000,000,000 [[Pollen]].
+        *Collect 10,000,000,000 Pollen from the [[Pineapple Patch]].
+        *Collect 6,000,000,000 Pollen from the [[Clover Field]].
+        *Collect 5,000,000,000 Pollen from the [[Dandelion Field]].
+        *Collect 250 Tokens from Stick Bug.
+        *Collect 150 Tokens from Stick Bug Defense Totems.
+        *Collect 1000 Tokens from Puffshrooms.
+        *Defeat 1 Epic Puffshroom in the Sunflower Field.
+        *Defeat 1 Level 15+ Puffshroom.
+        *Catch 500 Falling [[Coconut]]s.
+        |50,000,000,000 [[Honey]]<br>5x [[Ticket]]<br>5x [[Ticket Planter]]<br>1x
+        [[Turpentine]]<br>10x [[Gingerbread Bear]]<br>10x [[Royal Jelly#Star Jelly|Star
+        Jelly]]<br>250x [[Bitterberry|Bitterberry]]<br>1x [[Pinecone]]<br>Allows
+        Festive Nymphs to spawn during the Stick Bug Challenge<br>Starts the Stick Bug
+        Challenge
+        |}
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Stick Bug's Nymph Hats
+        |Hey there flesh-bug. Your bees are looking pretty fresh with their Beesmas Beequips. The
+        Stick Nymphs have definitely noticed. And now they want in on the fashion fun. They're
+        pretty bummed about being left out. Can't even get them to dance. We've got to cheer them
+        up. Think you could help me make some hats for the nymphs? If you do, I'll make it worth
+        your while.
+
+        ''-During-''
+
+        N/A
+
+        ''-Completion-''
+
+        You pulled through, flesh-bug. These hats'll be a perfect fit. Go ahead Nymphs, try them on.
+        Nice! They look dapper in those things and they're cheering up already. Now that the Stick
+        Nymphs have hats, Festive Nymphs may spawn during challenges you start with me. Festive
+        Nymphs give improved loot and grant a stack of \"Festive Nymph Blessing\" when you defeat
+        them. That blessing gives bonus Capacity, Instant Bee Gather Conversion, Honey per pollen,
+        and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your
+        hive. My Stick Nymphs are happy and raring to go. How about we test their new hats out now.
+        |}
+
+        ==2022 Beesmas Quest - Nymph Hats==
+        {{RemovedContent}}
+        {| class=\"mw-collapsible mw-collapsed article-table article-table\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Stick Bug's Nymph Hats
+        |
+        *Collect 400 Tokens from Stick Bug.
+        *Collect 300 Tokens from Stick Bug Defense Totems.
+        *Defeat 200 [[Cogmower]]s.
+        *Defeat 100 [[Cogturret]]s.
+        *Defeat 5 [[Mega Mechsquito]]s.
+        |10,000,000,000 [[Honey]]<br>1x [[Turpentine]]<br>5x [[Loaded Dice]]<br>3x
+        [[Caustic Wax]]<br>3x [[Swirled Wax]]<br>2x [[Invigorating Vial]]<br>10x
+        [[Gingerbread Bear]]<br>1x [[Robo Pass]]<br>1x [[Ticket
+        Planter]]<br>Allows Festive Nymphs to spawn during the Stick Bug
+        Challenge<br>Starts the Stick Bug Challenge
+        |-
+        |Stick Bug's Nymph Hats (before nerf, not available)
+        |
+        *Collect 250 Tokens from Stick Bug.
+        *Collect 200 Tokens from Stick Bug Defense Totems.
+        *Defeat 100 [[Cogmower]]s.
+        *Defeat 75 [[Cogturret]]s.
+        *Defeat 50 [[Mega Mechsquito]]s.
+        |10,000,000,000 [[Honey]]<br>1x [[Turpentine]]<br>5x [[Loaded Dice]]<br>3x
+        [[Caustic Wax]]<br>3x [[Swirled Wax]]<br>2x [[Invigorating Vial]]<br>10x
+        [[Gingerbread Bear]]<br>1x [[Robo Pass]]<br>1x [[Ticket
+        Planter]]<br>Allows Festive Nymphs to spawn during the Stick Bug
+        Challenge<br>Starts the Stick Bug Challenge
+
+        * If the player has defeated at least 25 [[Mega Mechsquito]]s before the nerf, they will get
+        a compensation of 3 [[Caustic Wax]]es, 1 [[Toy Drum]], and 1 [[Ticket Planter]].
+        |}
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Stick Bug's Nymph Hats
+        |Hey there flesh-bug. I've got a favor to ask of you. The Stick Nymphs have got a bit of a
+        bullying problem. Robo Bear's lackeys took their festive hats. Really killed their vibe.
+        Robo Bear and I have an arrangement. I can't teach them a lesson myself. But you can. Gotta
+        love loopholes.
+
+        ''-During-''
+
+        N/A
+
+        ''-Completion-''
+
+        Heh. That was brutal. Here you go little twigs - the flesh bug got your hats back. There.
+        Happy? Now that the Stick Nymphs have hats, Festive Nymphs may spawn during challenges you
+        start with me. Festive Nymphs give improved loot, and grant a stack of \"Festive Nymph
+        Blessing\" when you defeat them. That blessing gives bonus Capasity, Instant Bee Gather
+        Conversion, Honey Per Pollen, and Bee Attack. It stacks up to 250 times and lasts 8 hours.
+        Should be a nice boost to your hive. Seems like Nymphs are raring to go. How about we test
+        their new hats out.
+        |}
+
+        ==Trivia==
+        *If the player gave Stick Bug a Present, started its Egg Hunt quest, started its 2019
+        Beesmas Quest, or finished its 2020 Beesmas Quest, the Stick Bug Challenge would
+        automatically start.
+        *Stick Bug, [[Shadow Bear]], the [[Cub Buddy|Cub Buddies]], [[Bee Bear]] and [[Spirit Bear]]
+        are the only NPCs that dance.
+        *There is a [[Glitches#Stick Bug Falls Down|Glitch]] where Stick Bug may fall over from its
+        regular location on top of the tallest mushroom. If this occurs, it will either be in the
+        [[Dandelion Field]], the Mushroom Field, or in between. Another glitch is on the [[Brave Bee
+        Gate]] ramp you can walk to the bottom of the ramp and corner of the Bamboo Field where
+        Stick Bug will get stuck and must teleport out.
+        *Stick Bug gave the most honey when given a present (33,333,333 [[Honey]]), the next being
+        [[Panda Bear]] at only 5,000 Honey.
+        *If Stick Bug moves to the Mountain Top Field, it has a chance of falling and getting stuck
+        in the Pineapple Patch or Pumpkin Patch.
+        *Stick Bug and Wild Windy Bee are the only mobs that are impossible to kill, as depleting
+        all of their HP will only level them up and regain their HP.
+        *Stick Bug waves when the challenge ends.
+        *Stick Bug is one of the three NPCs that requires a translator to interact with, the others
+        being [[Gifted Riley Bee]] and [[Gifted Bucko Bee]].
+        *Stick Bug's boss fight theme became a popular bait-and-switch meme, growing far out from
+        the BSS Community.
+        **Stick Bug is aware that it is the \"Get Stickbugged lol\" meme according to its Beesmas 2020
+        dialogue when you were to give him a present during Beesmas 2020.
+        *In [[Spirit Bear|Spirit Bear's]] dialogue, she states that Stick Bug scared her as a cub,
+        which indicates that Stick Bug has been around for a long time.
+        *Stick Bug and [[Chicks]] are the only mobs that have their own form of defense.
+        *Stick Bug's Beesmas 2022 Quest originally gave 1 Caustic Wax, no Swirled Wax, no Ticket
+        Planters, and 1 Invigorating Vial. This was soon buffed to 3 Caustic Wax, 3 Swirled Wax, 1
+        Ticket Planter, and 2 Invigorating Vials.
+        *Stick Bug is the only NPC that can spawn Sprouts.
+        *As stated by [[Spirit Bear]], Stick Bug loves [[Pineapple|Pineapples]]
+        **Stick Bug was also the one that suggested the [[Pineapple Patch]]
+
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Bosses]]
+        [[Category:Multiplayer Bosses]]
+        [[Category:NPC]]
+        [[Category:Quest giver]]
+        [[Category:Stick Bug Challenge]]
+        [[Category:Requires Translator]]
+        [[Category:Starter Zone]]"}

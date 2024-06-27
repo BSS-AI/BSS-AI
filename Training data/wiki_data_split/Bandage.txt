@@ -1,0 +1,32 @@
+{"text": "{{Beequip
+        |color=Any
+        |level=3
+        |limit=3
+        |image1=Bandage.png
+        |description= Heals cuts in no time and make a bee look tough.
+        |stats=+Gather Amount<br/>+% Energy<br/>+%Attack
+        }}
+        A '''Bandage''' is a [[Bond|level]] 3 [[beequip]]. It has an equip limit of three. There is
+        no color requirement.
+
+        == Possible Stats ==
+        *Gather Amount (Guaranteed) - +3 to +6. (up to +16 from [[Waxes|waxing]])
+        *[[Energy]] (Guaranteed) - +5% to +10%. (up to +20% from waxing)
+        *[[Bee Attack|Attack]] (Guaranteed) - 1% to 3%.
+        *Attack (from waxing, caustic only) - +1.
+        *[Hive Bonus] Attack (from waxing, rare, caustic only) - x1.01.
+
+        == Ways to Obtain ==
+        *Can be purchased in [[Dapper Bear's Shop]].
+        *As a reward from the [[Ant Challenge]].
+
+        == Gallery ==
+        <gallery>
+        File:Bandage1.png|A Bandage in Dapper Bear's Shop able to be crafted.
+        File:Bandage2.png|A Bandage in the Beequip Case.
+        File:Bandage3.png|A Bandage equipped to a Lion Bee.
+        </gallery>
+        [[Category:Beequips]]
+        [[Category:Items]]
+
+        {{Items}}"}

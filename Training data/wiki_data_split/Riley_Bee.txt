@@ -1,0 +1,59 @@
+{"text": "''<sup>This page is for the worker bee. For the quest-giving NPC version, see the
+        [[Gifted Riley Bee]] page.</sup>''{{Bee
+        |image-orig = Riley_Bee.png
+        |image-gifted = RileyBee Gifted.png
+        |description = Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature
+        has elevated it above the rest.
+        |rarity = Epic
+        |color = Red
+        |energy = 25
+        |energylabel=more
+        |speed = 15.4
+        |attack = 5
+        |skincolor1 = #1b2a35
+        |skincolor2 = #f3492d
+        |skincolor3 = #1b2a35
+        }}
+        '''Riley Bee''' is a [[:Category:Red|Red]] [[Bees/Epic|Epic bee]].
+
+        Riley Bee's favorite type of [[Treats|Treat]] is [[Strawberry|Strawberries]].
+
+        Riley Bee likes the [[Mushroom Field]], [[Strawberry Field]], and [[Rose Field]]. It
+        dislikes the [[Bamboo Field]] and the [[Pine Tree Forest]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 2 seconds.
+        * Makes 140 [[Honey]] in 4 seconds.
+        * +10% [[Stats#Speed|Movespeed]], +25% [[Energy]], +4 [[Stats#Attack|Attack]], +50% gather
+        speed, +60 [[System Page#Convert Amount|Convert Amount]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +20% Red Field Capacity.
+
+        === Abilities ===
+        * '''[[Ability Tokens#Boost|[Red Boost]]]''' Grants x1.2 pollen from red [[Flowers]] for 15
+        seconds. Stacks up to 10 times.
+
+        {{Stat|pollen = 10|pollentime = 2|honey = 140|honeytime = 4|rarity = epic|color = red}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        RileyBee Hive.png|Riley Bee’s old hive slot design.
+        Gifted Riley Bee hive.png|A Gifted Riley Bee hive slot.
+        Png (16).png|Riley Bee's face.
+        Doritoeyes.png|Riley Bee's original face
+        </gallery>
+
+        == Trivia ==
+        * Based on its description, this [[Bees|Bee]] is the rival and counterpart of [[Bucko Bee]].
+        ** Both of them are the leaders of their respective colors.
+        * Riley Bee, [[Rascal Bee]], and [[Demon Bee]] all have the same skin colors.
+        * A giant model of a Riley Bee is on the front of the [[Red HQ]].
+        * [[Gifted Riley Bee]] is a Quest Giver represents the gifted version of it in the game.
+        * The [[Riley Guard]] is based on this bee.
+        * Riley Bee and [[Festive Bee]] are the only Red bees to like three Fields.
+        ** Riley Bee is also the only Red bee to dislike two Fields.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Epic]]
+        [[Category:Red]]
+        [[zh-tw:火爆蜂]]"}

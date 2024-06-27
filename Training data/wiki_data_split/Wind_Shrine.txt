@@ -1,0 +1,836 @@
+{"text": "[[File:WindShrine.png|thumb|225px|The Wind Shrine.]]
+        [[File:Buginess.png|thumb|A bug that happens with the Wind Shrine when the chimes go too
+        high up.|224x224px]]
+        [[File:Obraz 2023-12-30 165548097.png|thumb|225x225px|Sometimes, one or more chimes
+        disappear due to a bug when they move too high up.]]
+
+        The '''Wind Shrine''' is located beyond the [[Windy Bee Gate]], next to the [[Pepper
+        Patch]]. It allows players to donate items to it in exchange for rewards such as [[Field
+        Wind]]s and [[honey]]. The Wind Shrine has a cooldown of 1 hour between each donation.
+        Donating [[Cloud Vial|cloud vials]] after donating a [[Spirit Petal]] is currently the only
+        way to obtain a [[Windy Bee]].
+
+        The Wind Shrine also indicates if a [[Wild Windy Bee]] is active in one of the [[fields]].
+        If the chimes are continuously moving around and nobody has donated recently, a Wild Windy
+        Bee will be somewhere around the map.
+        [[File:Moving shrine.mp4|thumb|254x254px|A video of Wind Shrine moving.]]
+        The following audio plays when a player has donated something to the Wind
+        Shrine:<br/>[[File:Windchimedonate.ogg]]
+
+        ==Usage==
+        Upon interacting with the shrine, it says \"Would you like to make an offering to the Wind
+        Shrine?\" If the player clicks on the dialogue, a window pop-up will appear, in which it
+        allows the player to donate any amount of almost any item in their inventory to the shrine.
+        Upon doing so, a message follows, with the chimes moving around swiftly. If the player
+        cancels the donation, it instead says \"You canceled the donation.\"
+
+        If the player interacts with the Shrine during cooldown, it says \"You may only donate to the
+        Shrine once per hour. Come back in x:y.\" (x = minutes, y = seconds)
+
+        If the player wants to donate multiple items at once, they can hold down the \"+\" button. The
+        rate at which the amount of that certain item increases the longer the \"+\" button is held
+        down.
+
+        ===Favor===
+        Favor is a [[Mechanics|mechanic]] that affects the player's rewards from the Wind Shrine.
+        Favor is increased by donating items. A spirit petal is '''not''' required to be donated to
+        start increasing favor.
+
+        All donations grant favor (equivalent to a Cloud Vial's worth + the favor value of the items
+        donated), although donating rarer items such as [[egg]]s will grant more favor. Below is a
+        list of most items that can be donated to the shrine and their favor values.
+
+        {| class=\"article-table sortable mw-collapsible mw-collapsed\"
+        |Item
+        !Favor per item
+        |-
+        |[[Ticket]]s
+        |200
+        |-
+        |[[Gumdrops]]
+        |25
+        |-
+        |[[Coconut]]s
+        |20
+        |-
+        |[[Stinger]]s
+        |250
+        |-
+
+        |[[Micro-Converter]]s
+        |250
+        |-
+        |[[Honeysuckle]]s
+        |100-499
+        |-
+        |[[Whirligig]]s
+        |100-999
+        |-
+        |[[Field Dice]]
+        |250
+        |-
+        |[[Smooth Dice]]
+        |???
+        |-
+        |[[Loaded Dice]]
+        |334-999 (Cannot determine exact favor)
+        |-
+        |[[Jelly Beans]]
+        |25
+        |-
+        |[[Red Extract]]s
+        |500
+        |-
+        |[[Blue Extract]]s
+        |500
+        |-
+        |[[Glitter]]
+        |2,000
+        |-
+        |[[Glue]]
+        |2,000
+        |-
+        |[[Oil]]
+        |500
+        |-
+        |[[Enzymes]]
+        |500
+        |-
+        |[[Tropical Drink]]s
+        |750
+        |-
+        |[[Purple Potion]]s
+        |1,000
+        |-
+        |[[Marshmallow Bee]]s
+        |500
+        |-
+        |[[Magic Bean]]s
+        |1,000
+        |-
+        |[[Festive Bean]]s
+        |5,000
+        |-
+        |[[Cloud Vial]]s
+        |5,000
+        |-
+        |[[Night Bell]]s
+        |5,000
+        |-
+        |[[Box-O-Frogs]]
+        |5,000
+        |-
+        |[[Ant Pass]]es
+        |250
+        |-
+        |[[Treat|Treats]]
+        |0
+        |-
+        |[[Atomic Treat|Atomic Treats]]
+        |50,000
+        |-
+        |[[Star Treat|Star Treats]]
+        |250,000
+        |-
+        |[[Sunflower Seed|Sunflower Seeds]]
+        |5
+        |-
+        |[[Strawberry|Strawberries]]
+        |5
+        |-
+        |[[Pineapple|Pineapples]]
+        |5
+        |-
+        |[[Blueberry|Blueberries]]
+        |5
+        |-
+        |[[Bitterberry|Bitterberries]]
+        |50
+        |-
+        |[[Neonberry|Neonberries]]
+        |50
+        |-
+        |[[Moon Charm|Moon Charms]]
+        |20
+        |-
+        |[[Soft Wax]]
+        |250
+        |-
+        |[[Hard Wax]]
+        |1000
+        |-
+        |[[Caustic Wax]]
+        |1000-9999 (Cannot determine exact favor)
+        |-
+        |[[Swirled Wax]]
+        |5000
+        |-
+        |[[Turpentine]]
+        |<50,000
+        |-
+        |[[Eggs#Basic Egg|Basic Eggs]]
+        |1
+        |-
+        |[[Eggs#Silver Egg|Silver Eggs]]
+        |5,000
+        |-
+        |[[Eggs#Gold Egg|Gold Eggs]]
+        |10,000
+        |-
+        |[[Eggs#Diamond Egg|Diamond Eggs]]
+        |20,000
+        |-
+        |[[Eggs#Mythic Egg|Mythic Eggs]]
+        |50,000
+        |-
+        |[[Eggs#Star Egg|Star Eggs]]
+        |250,000
+        |-
+        |[[Eggs#Gifted Silver Egg|Gifted Silver Eggs]]
+        |50,000
+        |-
+        |[[Eggs#Gifted Gold Egg|Gifted Gold Eggs]]
+        |100,000
+        |-
+        |[[Eggs#Gifted Diamond Egg|Gifted Diamond Eggs]]
+        |100,000
+        |-
+        |[[Eggs#Gifted Mythic Egg|Gifted Mythic Eggs]]
+        |250,000
+        |-
+        |[[Royal Jelly|Royal Jellies]]
+        |0
+        |-
+        |[[Royal Jelly#Star Jelly|Star Jellies]]
+        |2,500
+        |-
+        |[[Eggs#Specific Bee Eggs|Honey Bee Eggs]]
+        |250
+        |}
+
+        The player's chance to obtain the Windy Bee Egg increases depending on how much favor the
+        player has with the shrine. Having higher favor will also improve the quality and quantity
+        of [[Field Wind|winds]]. Favor can be roughly estimated by the messages received when the
+        player is rewarded winds or is donating cloud vials for a Windy Bee.
+
+        ===Honey===
+        Each donation grants [[honey]] depending on the type and amount of the item donated. All
+        donations, excluding [[Spirit Petal|spirit petals]], grant honey, regardless of the other
+        rewards. For example, if the player spawns a Wild Windy Bee, they will get the same amount
+        of honey from the donation as they would if they had gotten winds instead. Below is a table
+        listing how much honey is granted for each type of item. (can be increased by Honey Per
+        Token)
+
+        {| class=\"article-table sortable mw-collapsible mw-collapsed\"
+        !Item
+        !Honey per item
+        |-
+        |[[Ticket]]s
+        |10,000
+        |-
+        |[[Gumdrops]]
+        |2,000
+        |-
+        |[[Coconut]]s
+        |100,000
+        |-
+        |[[Stinger]]s
+        |50,000
+        |-
+        |[[Micro-Converter]]s
+        |500,000
+        |-
+        |[[Honeysuckle]]s
+        |100-999
+        |-
+        |[[Whirligig]]s
+        |25,000
+        |-
+        |[[Field Dice]]
+        |500,000
+        |-
+        |[[Smooth Dice]]
+        |1,500,000
+        |-
+        |[[Loaded Dice]]
+        |5,000,000
+        |-
+        |[[Jelly Beans]]
+        |10,000
+        |-
+        |[[Red Extract]]s
+        |1,000,000
+        |-
+        |[[Blue Extract]]s
+        |1,000,000
+        |-
+        |[[Glitter]]
+        |2,500,000
+        |-
+        |[[Glue]]
+        |2,500,000
+        |-
+        |[[Oil]]
+        |1,000,000
+        |-
+        |[[Enzymes]]
+        |1,000,000
+        |-
+        |[[Tropical Drink]]s
+        |2,000,000
+        |-
+        |[[Purple Potion]]s
+        |2,000,000
+        |-
+        |[[Marshmallow Bee]]s
+        |1,000,000
+        |-
+        |[[Magic Bean]]s
+        |200,000
+        |-
+        |[[Festive Bean]]s
+        |25,000,000
+        |-
+        |[[Cloud Vial]]s
+        |1,000,000
+        |-
+        |[[Night Bell]]s
+        |1,000,000
+        |-
+        |[[Box-O-Frogs]]
+        |1,000,000
+        |-
+        |[[Ant Pass]]es
+        |100,000
+        |-
+        |[[Treat|Treats]]
+        |100
+        |-
+        |[[Atomic Treat|Atomic Treats]]
+        |5,000,000
+        |-
+        |[[Star Treat|Star Treats]]
+        |10,000,000
+        |-
+        |[[Sunflower Seed|Sunflower Seeds]]
+        |25,000
+        |-
+        |[[Strawberry|Strawberries]]
+        |25,000
+        |-
+        |[[Pineapple|Pineapples]]
+        |25,000
+        |-
+        |[[Blueberry|Blueberries]]
+        |25,000
+        |-
+        |[[Bitterberry|Bitterberries]]
+        |50,000
+        |-
+        |[[Neonberry|Neonberries]]
+        |50,000
+        |-
+        |[[Moon Charm|Moon Charms]]
+        |50,000
+        |-
+        |[[Soft Wax]]
+        |500,000
+        |-
+        |[[Hard Wax]]
+        |1,000,000
+        |-
+        |[[Caustic Wax]]
+        |5,000,000
+        |-
+        |[[Swirled Wax]]
+        |3,750,000
+        |-
+        |[[Turpentine]]
+        |36,600,000
+        |-
+        |[[Eggs#Basic Egg|Basic Eggs]]
+        |10,000
+        |-
+        |[[Eggs#Silver Egg|Silver Eggs]]
+        |1,000,000
+        |-
+        |[[Eggs#Gold Egg|Gold Eggs]]
+        |1,000,000
+        |-
+        |[[Eggs#Diamond Egg|Diamond Eggs]]
+        |5,000,000
+        |-
+        |[[Eggs#Mythic Egg|Mythic Eggs]]
+        |25,000,000
+        |-
+        |[[Eggs#Star Egg|Star Eggs]]
+        |5,000,000
+        |-
+        |[[Eggs#Gifted Silver Egg|Gifted Silver Eggs]]
+        |15,000,000
+        |-
+        |[[Eggs#Gifted Gold Egg|Gifted Gold Eggs]]
+        |20,000,000
+        |-
+        |[[Eggs#Gifted Diamond Egg|Gifted Diamond Eggs]]
+        |25,000,000
+        |-
+        |[[Eggs#Gifted Mythic Egg|Gifted Mythic Eggs]]
+        |50,000,000
+        |-
+        |[[Royal Jelly|Royal Jellies]]
+        |1,000
+        |-
+        |[[Royal Jelly#Star Jelly|Star Jellies]]
+        |1,000,000
+        |-
+        |[[Eggs#Specific Bee Eggs|Honey Bee Eggs]]
+        |50,000
+        |}
+
+        ===Obtaining a Windy Bee===
+        '''To get the Windy Bee from the Shrine, players must first donate a spirit petal to it.'''
+        After donating a Spirit petal, any Cloud Vial donated gives the player a chance to obtain a
+        Windy Bee Egg. The player's chance to obtain the Windy Bee Egg depends on how much favor the
+        player has with the shrine.
+
+        If the player receives a Windy Bee Egg, the Wind Shrine will display the following message:
+        \"And it calls back to you!\". The Windy Bee victory jingle will play, and server-wide message
+        will appear in the chat, reading \"🎉[Player] has tamed a Windy Bee!🎉\", but if it fails, the
+        message will instead read, \"But it doesn't respond...\"
+        [[File:RobloxScreenShot20201012 223413205.png|thumb|The message that pops up if a player has
+        successfully tamed Windy Bee.]]
+
+        If the player had purchased a Windy Bee Egg from the [[Robux Shop]], they would get a [[Star
+        Treat|star treat]] in place of a [[Egg#Specific Bee Eggs|Windy Bee Egg]].
+
+        ===Badge Shivers===
+        Badge shivers are rewards that are linked to the player's [[Badges]]. The player can shiver
+        a badge when they have the required badges by donating certain items. Donating more items at
+        a time gives a higher chance of shivering the related badge. Some badge shivers may require
+        multiple badges or certain tiers of badges. Other badges cannot be shivered, or they are
+        currently unknown. Below is a list of all known badge shivers.
+        [[File:Wind shrine is pog.png|thumb|The badges are \"shivering\", indicating badge rewards are
+        being rewarded.]]
+
+        '''Note: The tiers of badges for many badge shivers are unknown at the moment. If there is
+        no badge tier following the badge name, it is unknown.'''
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Badge(s)
+        !Item
+        !Reward (not including honey)
+        |-
+        |Sunflower Master
+        |[[Sunflower Seed|Sunflower Seeds]]
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 1 [[Magic Bean]]
+        |-
+        |Strawberry Master
+        |[[Strawberry|Strawberries]]
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 1 [[Magic Bean]]
+        |-
+        |Pine Tree Master
+        |[[Blueberry|Blueberries]]
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 1 [[Magic Bean]]
+        |-
+        |Rose Master
+        |[[Oil]]
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 3 [[Magic Bean]]s
+        |-
+        |Pineapple Master
+        |[[Pineapple|Pineapples]]
+        |6 [[Micro-Converter]]s, 50 [[Moon Charm|Moon Charms]], 1 [[Magic Bean]]
+        |-
+        |Bamboo Master
+        |[[Blueberry|Blueberries]]
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 1 [[Magic Bean]]
+        |-
+        !Spider Master
+        |[[Stinger]]s
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 3 [[Magic Bean]]s
+        |-
+        |Cactus Master
+        |[[Stinger]]s
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 3 [[Magic Bean]]s
+        |-
+        |Dandelion Master
+        |[[Treat|Treats]]
+        |6 [[Micro-Converter]]s,6 [[Field Dice]], 1 [[Magic Bean]]
+        |-
+        |Battle Ace
+        |[[Ant Pass]]es
+        |27 [[Stinger]]s
+        |-
+        |Pumpkin Master
+        |[[Treat|Treats]]
+        |6 [[Micro-Converter]]s, 50 [[Moon Charm|Moon Charms]], 1 [[Magic Bean]]
+        |-
+        |Blue Flower Master
+        |[[Blue Extract]]s
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 3 [[Magic Bean]]s
+        |-
+        |Clover Master
+        |[[Royal Jelly|Royal Jellies]]
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 1 [[Magic Bean]]
+        |-
+        |Stump Master
+        |[[Glue]]
+        |6 [[Micro-Converter]]s, 3 [[Glitter]], 9 [[Jelly Beans]]
+        |-
+        |Pine Tree
+        |[[Enzymes]]
+        |6 [[Micro-Converter]]s, 6 [[Field Dice]], 3 [[Magic Bean]]s
+        |-
+        |Goo Ace
+        |[[Gumdrops]]
+        |5 [[Glue]], 50 [[Moon Charm|Moon Charms]], 50 [[Royal Jelly|Royal Jellies]]
+        |-
+        |Goo Grandmaster
+        |[[Gumdrops]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 5 [[Glue]], 125 [[Moon Charm|Moon Charms]]
+        |-
+        |Playtime Grandmaster
+        |[[Ticket]]s
+        |1 [[Eggs#Gifted Gold Egg|Gifted Gold Egg]], 15 [[Jelly Beans]], 125 [[Moon Charm|Moon
+        Charms]]
+        |-
+        |Quest Grandmaster
+        |[[Ticket]]s
+        |1 [[Eggs#Gifted Diamond Egg|Gifted Diamond Egg]], 25 [[Jelly Beans]], 125 [[Moon Charm|Moon
+        Charms]]
+        |-
+        |Mushroom + Pumpkin
+        |[[Magic Bean]]s
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 5,000 [[Treat|Treats]]
+        |-
+        |Pineapple Grandmaster + Pumpkin Grandmaster
+        |[[Pineapple|Pineapples]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 50 [[Moon Charm|Moon Charms]], 5,000
+        [[Treat|Treats]]
+        |-
+        |Strawberry Master + Pine Tree Master
+        |[[Strawberry|Strawberries]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 6 [[Micro-Converter]]s, 5 [[Magic Bean]]s
+        |-
+        |Sunflower Master + Bamboo Master
+        |[[Sunflower Seed|Sunflower Seeds]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 3 [[Glitter]], 10 [[Jelly Beans]]
+        |-
+        |Bamboo Master + Cactus Master
+        |[[Blueberry|Blueberries]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 5 [[Magic Bean]], 5,000 [[Treat|Treats]]
+        |-
+        |Pine Tree Master + Spider Master
+        |[[Blue Extract]]s
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 6 [[Micro-Converter]]s, 5 [[Glue]]
+        |-
+        |Pineapple Master + Cactus Master
+        |[[Tropical Drink]]s
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 50 [[Moon Charm|Moon Charms]], 3 [[Glitter]]
+        |-
+        |Dandelion Master + Rose Master
+        |[[Treat|Treats]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 3 [[Magic Bean]]s, 3 [[Glitter]]
+        |-
+        |Sunflower + Blue Flower
+        |[[Oil]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 6 [[Field Dice]], 10 [[Jelly Beans]]
+        |-
+        |Playtime Ace + Blue Flower Master
+        |[[Field Dice]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 10 [[Blue Extract]]s, 5,000 [[Treat|Treats]]
+        |-
+        |Grandmaster Clover + Grandmaster Strawberry
+        |[[Royal Jelly|Royal Jellies]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 6 [[Micro-Converter]]s, 5 [[Glitter]]
+        |-
+        |Playtime Ace + Mushroom Master
+        |[[Micro-Converter]]s
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]],10 [[Red Extract]]s, 5,000 [[Treat|Treats]]
+        |-
+        |Playtime Master + Pineapple Master
+        |[[Enzymes]]
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 50 [[Moon Charm|Moon Charms]] 1 [[Night Bell]]
+        |-
+        |Rose + Pine Tree
+        |[[Red Extract]]s
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 6 [[Field Dice]], 15 [[Coconut]]s
+        |-
+        |Battle Ace + Rose Ace + Spider Ace
+        |[[Ant Pass]]es
+        |3 [[Micro-Converter]]s, 6 [[Stinger]]s, 1 [[Magic Bean]]
+        |-
+        |Battle Master + Cactus Master + Clover Master
+        |[[Ant Pass]]es
+        |3 [[Micro-Converter]]s, 6 [[Stinger]]s, 3 [[Enzymes]]
+        |-
+        |Rose Master + Bamboo Master
+        |[[Red Extract]]s
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 6 [[Field Dice]], 15 [[Coconut]]s
+        |-
+        |Pine Tree Grandmaster
+        |[[Blue Extract]]s
+        |1 [[Royal Jelly#Star Jelly|Star Jelly]], 5 [[Glue]]s, 6 [[Micro-Converter]]s
+        |}
+
+        ==Donations==
+        The shrine will grant different rewards depending on the item donated. All donations will
+        grant Honey and favor (both of which increase based on the amount donated), but other
+        effects may vary. A list of possible outcomes is written below.
+        [[File:Spirit Petal Rewards.png|thumb|The rewards from donating a Spirit Petal to the Wind
+        Shrine.]]
+        *Summoning clouds on fields and granting field winds.
+        *Summoning a [[Wild Windy Bee]].
+        *Summoning [[Bean Bug]]s and granting a [[Jelly Beans|Jelly Bean]].
+        *Granting badge rewards.
+        *Enabling the player to receive a [[Windy Bee]] and granting other rewards.
+        ** This refers to when you donate the [[Spirit Petal]], which can only be done once, which
+        grants 500 [[Treat|Treats]], 1 [[Star Jelly]], 5 [[Enzymes]], 5 [[Oil]]s, 5 [[Red
+        Extract]]s, 5 [[Blue Extract]]s, 5 [[Tropical Drink]]s and 5 [[Magic Bean]]s.
+        *Failing to obtain a [[Windy Bee]] and granting [[Treat|Treats]].
+        *Succeeding to obtain a [[Windy Bee]].
+        *Granting [[Buffs & Debuffs#From Areas|Galentine's Blessing]], and other rewards.
+        *Granting 7 Jelly Beans ([[Ready Player Two]] Event).
+
+        Certain items are more likely to have certain effects. For example, donating eggs other than
+        Basic Eggs and Honey Bee Eggs will always grant field winds and donating Star Jellies is
+        likely to summon a Wild Windy Bee.
+        Some items also have biases when granting field winds, such as [[Purple Potion]]s being more
+        likely to grant field winds for colored fields. Donating a diamond egg (or blue extracts)
+        has a higher chance of granting winds for blue fields.
+
+        '''Keep in mind that the rewards are somewhat random, as offering the same donation twice in
+        the same amount may have a different result. However, more items in the donation can grant
+        better rewards.'''
+
+        ==Responses==
+        After donating an item, the Wind Shrine will display different messages, depending on the
+        item donated and the player's favor.
+
+        When receiving field winds, the fourth message the shrine displays is based on the player's
+        total favor. Below is a list of messages indicating the player's total favor, along with the
+        amount of favor it takes to get those response.
+
+        {| class=\"article-table sortable mw-collapsible mw-collapsed\"
+        !Message
+        !Favor amount
+        |-
+        |\"They're muffled, a bit grating.\"
+        |0-99,999
+        |-
+        |\"They're soft yet endearing.\"
+        |100,000-999,999
+        |-
+        |\"They're modest but uplifting\"
+        |1,000,000-4,999,999
+        |-
+        |\"They're lively, anxious\"
+        |5,000,000-9,999,999
+        |-
+        |\"They're blissful, triumphant!\"
+        |10,000,000+
+        |-
+        |}
+
+        The fifth message displayed when getting winds depends on the favor impact of the donation
+        (there will not be a fifth message if the player is at the highest tier of total favor).
+        Below is a list of these messages, along with how much favor needs to be added to receive
+        these responses.
+
+        {| class=\"article-table sortable mw-collapsible mw-collapsed\"
+        !Message
+        !Amount of favor added
+        |-
+        |\"They stop quite suddenly.\"
+        |0.1-99
+        |-
+        |\"Right as they fade, a hum is heard.\"
+        |100-999
+        |-
+        |\"Right as they fade, a lively rattle is heard.\"
+        |1,000-9,999
+        |-
+        |\"Right as they begin to fade, a drumroll is heard.\"
+        |10,000-99,999
+        |-
+        |\"Right as they fade, a glorious clash is heard!\"
+        |100,000+
+        |-
+        |}
+
+        The player's total favor can also be estimated from the third message the shrine displays
+        when the player donates cloud vials in an attempt to receive a Windy Bee. Below is a list of
+        these messages, along with the amount of favor it takes to get them.
+
+        {| class=\"article-table sortable mw-collapsible mw-collapsed\"
+        !Message
+        !Favor amount
+        |-
+        |\"Merely a hum...\"
+        |0-99,999
+        |-
+        |\"A coyishly soft melody.\"
+        |100,000-499,999
+        |-
+        |\"Vibrant chiming - calm and carefree.\"
+        |500,000-999,999
+        |-
+        |\"Playfully teasing chimes and chirping.\"
+        |1,000,000-2,499,999
+        |-
+        |\"An eager song - contagious and uplifting.\"
+        |2,500,000-4,999,999
+        |-
+        |\"Shimmering chimes over a humbling bellow.\"
+        |5,000,000-7,499,999
+        |-
+        |\"Like thunder roaring through a deep valley!\"
+        |7,500,000-9,999,999
+        |-
+        |\"You can tell that it's time!\"
+        |10,000,000+
+        |-
+        |}
+
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Outcome
+        !Dialogue
+        |-
+        |'''When it grants a badge reward'''
+        |\"A cool breeze emanates from the shrine.\"<br/>\"Your {Badge} begins to
+        shiver.\"<br/>\"The {Item} is sucked away into the shrine.\"<br/>\"The winds swirl
+        rewards around you!\"
+        |-
+        |'''When it grants a badge reward for a combination of two or more badges'''
+        |\"A cool breeze emanates from the shrine.\"<br/>\"Your {Badges} begin to
+        shiver.\"<br/>\"The {Item} glows, then evaporates away.\"<br/>\"The winds swirl
+        rewards around you!\"
+        |-
+        |'''When it grants a badge reward from donating [[Ant Pass|ant passes]]'''
+        |\"A cool breeze emanates from the shrine.\"<br/>\"Your {Badges} begin to
+        shiver.\"<br/>\"The Ant Pass violently shred ''[sic]'' into a thousand
+        pieces.\"<br/>\"The winds swirl rewards around you!\"
+        |-
+        |'''When it grants a badge reward from donating [[gumdrops]]'''
+        |\"A cool breeze emanates from the shrine.\"<br/>\"Your {Badges} begin to
+        shiver.\"<br/>\"The Gumdrops spontaneously disappears.\"<br/>\"The winds swirl
+        rewards around you!\"
+        |-
+        |'''When it grants a badge reward from donating [[Magic Bean|magic beans]]'''
+        |\"A cool breeze emanates from the shrine.\"<br/>\"Your {Badges} begin to
+        shiver.\"<br/>\"The Magic Bean dissolve ''[sic]'' into a pile of sand.\"<br/>\"The
+        winds swirl rewards around you!\"
+        |-
+        |'''When it summons clouds and grants field wind buffs'''
+        |\"The {Items} are blown away in a sudden whirlwind.\"<br/>\"The air becomes cool and
+        soothing.\"<br/>\"You hear subtle chimes clinging in the distance.\"<br/>(Depends
+        on the player's total favor)<br/>(Depends on the favor impact of the
+        donation)<br/>\"Clouds form over some of the fields.\"
+        |-
+        |'''When it spawns Wild Windy Bee'''
+        |\"A sudden breeze sweeps the {Item} into the sky.\"<br/>\"Windy Bee's buzz is heard in
+        the distance.\"<br/>\"Amelodic chimes grow louder and louder...\"<br/>\"Wild Windy
+        Bee is in one of the fields.\"
+        |-
+        |'''When it spawns Bean Bugs'''
+        |\"The {items} vanish and pop right before your eyes.\"<br/>\"Nothing seems to happen.\"
+        |-
+        |'''When donating a Spirit Petal'''
+        |\"The Spirit Petal floats gently up into the sky.\"<br/>\"The chimes ring. Clouds
+        obscure the sky.\"<br/>\"The air stands still.\"<br/>\"You feel as if someone is
+        watching...\"<br/>\"Suddenly, a breeze disturbs your bees.\"
+        |-
+        |'''When cloud vials are donated to obtain a Windy Bee (Succeed)'''
+        |\"The Cloud Vials shatter into dust.\"<br/>\"Windy Bee's buzz is heard in the
+        distance.\"<br/>(Depends on the player's total favor)<br/>\"You call out to the
+        bee...\"<br/>\"And it calls back to you!\"
+        |-
+        |'''When cloud vials are donated to obtain a Windy Bee (Fail)'''
+        |\"The Cloud Vials shatter into dust.\"<br/>\"Windy Bee's buzz is heard in the
+        distance.\"<br/>(Depends on the player's total favor)<br/>\"You call out to the
+        bee...\"<br/>\"But it doesn't respond...\"
+        |-
+        |'''When jelly bean(s) are donated (single-time, [[Ready Player Two]] Event)'''
+        |>>☺️ Into a cash register she mooved. ''[sic]''<br/>>>☺️ Then her
+        jellybean counting improved.
+        |-
+        |'''When attempting to donate a second Spirit Petal'''
+        |\"The Spirit Petal floats gently up to the sky.\"<br/> \"And then falls back right into
+        your hand.\"<br/> \"Spirit Bear shouts up to you:\"<br/> \"“Only one, dear!”\"
+        |}
+
+        ==Galentine Shrine==
+        {{RemovedContent}}
+        [[File:Galentine Wind Shrine.png|thumb|250px|The Galentine Shrine's appearance.]]
+        [[File:Buff.png|thumb|The Blessing icon.]]
+
+        The Galentine Shrine could be obtained after the player completed [[Spirit Bear]]'s Beesmas
+        2020, 2021 or 2022 quest. It is the Wind Shrine decorated specifically for Galentine’s Day.
+        There are five hearts, a large red bow on the top, and a smaller white bow between two
+        hearts. The Wind Shrine's two 'pillars' are also coated in pink paint.
+
+        If the player donated [[Strawberry|strawberries]], there was a chance (increased chance when
+        donating more strawberries, with a 100% chance if the player donated 50,000 strawberries or
+        more) for the player to receive the [[Buffs & Debuffs#From Areas|Galentine's Blessing
+        buff]], which granted +5% ticket chance, +50% [[Sunflower Field]] pollen, +50% [[Blue Flower
+        Field]] pollen, +50% [[Rose Field]] pollen, +5% Loot Luck, +20% Instant Bee Ability
+        conversion, 10% Instant Bubble Conversion, and +50% Capacity for 2 days. The player could
+        have also received a [[present]], 5 [[Jelly Beans|jelly beans]], 5 [[Purple Potion|purple
+        potion]]s, 1 gold egg, and 25 [[gumdrops]] and [[ticket]]s.
+
+        In 2021, the Galentine's Blessing granted +5% ticket chance, +50% [[Sunflower Field]]
+        pollen, +50% [[Blue Flower Field]] pollen, +50% [[Rose Field]] pollen, +5% Loot Luck, +15%
+        Instant Bee Ability conversion, 1% Super-Crit Chance, and +50% Capacity for 2 days. The
+        player could have also received a [[present]], 10 [[Jelly Beans|jelly beans]], 5 [[Purple
+        Potion|purple potions]], 25 [[honeysuckle]]s, 50 [[gumdrops]], and a [[Ticket Planter|ticket
+        planter]].
+
+        {| class=\"article-table\"
+        ! style=\"width:60%;\" |Dialogue
+        !Rewards
+        |-
+        |A swift, warm gale blows out from the Galentine's Shrine...<br/> You feel the tingle
+        of butterflies in your stomach...<br/> Your bees buzz in a plitter patter of
+        delight!<br/> What's come over you and your swarm? Could it be love?<br/> ❤Happy
+        Galentines Day!❤
+        |[[Buffs & Debuffs#From Areas|Galentine's Blessing]], Present, 5 Jelly Beans, 5 Purple
+        Potions, 1 Gold Egg, 25 Tickets, and 25 gumdrops
+        |}
+
+        ==Trivia==
+        *The Wind Shrine is based on a percussion instrument, the wind chimes.
+        *According to [[Spirit Bear]], the Wind Shrine is one of the oldest standing monuments in
+        the game. She also mentions that it is even older than she is.
+        **She also says that the Wind Shrine gives you different responses depending on your favor.
+        [[File:Error .png|thumb|The pop-up that appears when a player has less than 35 bees and
+        attempts to donate to the Wind Shrine.]]
+        *Using the Wind Shrine is the only way to obtain a Windy Bee, other than buying it in Robux
+        Shop when it was first released.
+        *If the player donates something, but disconnects before the rewards fade out, the next
+        donation will give the rewards of the last donation and set a cooldown of 1 hour. This will
+        not happen if at least one reward is collected from the Wind
+        Shrine.[[File:Refund.webp|right|thumb|Obtaining 8 oil from a refund.]]
+        *If a player happens to reach the Wind Shrine without having 35 [[bees]] and tries to donate
+        an item, a message will come up saying \"Error: Player does not have 35 bees. Please show
+        Onett. (Version {Server version})\".
+        *[[Translator]]s, [[sprinklers]], [[Egg#Specific Bee Egg|specific bee eggs]] (all except for
+        Honey Bee eggs), [[Spirit Petal|spirit petals]] (if the player has already donated one),
+        [[Super Smoothie|super smoothies]], [[Royal Jelly#Royal Jelly Variants|specific bee
+        jellies]], gingerbread bears, [[snowflake]]s, the Beequip Case, [[7-Pronged Cog]]s,
+        [[balloon]]s, [[planter]]s, [[Robo Pass|robo passes]] and [[present]]s are items in the
+        player's inventory that cannot be donated.
+        *[[File:WindShrineError7.png|thumb|The pop-up that appears when someone tries to donate 0
+        items.]]When donating 0 of something (e.g. 0 tickets), a message will appear saying \"Error:
+        Player does not have selected quantity of items. (Version {Server version})\", or \"Error:
+        Cannot donate 0 items.\"[[File:Cannotdonate0.webp|thumb|right]]
+        *The chimes on the Wind Shrine are collidable, and running into them will cause them to
+        move.
+        *The Galentine Shrine is a possible reference to the Parks & Recreation episode
+        “Galentines Day”
+        *According to [[Spirit Bear]], an [[Instant Converter|instant converter]] was supposed to
+        take the spot of the Wind Shrine.
+        *Donating any amount of Jellybeans for the first time will always give 7 in return.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Machines]]"}

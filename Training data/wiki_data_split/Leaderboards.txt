@@ -1,0 +1,141 @@
+{"text": "{{Stub}}
+
+        ''<sup>This page is for the in-game leaderboards. For this wiki's Achievement
+        Leaderboard, see the [[Special:Leaderboard|Achievement]] page.</sup>''
+        '''Leaderboards''' are a feature within the game. Each leaderboard displays the ranks of the
+        top 100 players, showing ten ranks at a time. Leaderboards are usually not in real-time, but
+        update very often. Upon standing on the white pad in front of a leaderboard, it will show a
+        message stating the player's score for the corresponding leaderboard.
+
+        Out of the 62 total leaderboards, 22 are able to be viewed at various locations around the
+        map, and the rest are available to view in the [[System Page]], with the exception of the
+        [[Daily Top Ant Field Collectors]] leaderboard which cannot be viewed but still provides
+        rewards. There are 3 leaderboards that have been removed; [[Most Commando Captures]],
+        Highest Snowbear Level, and [[Highest Robo Party Cake Rank]]. i dont know how to edit the
+        tabber but for dialy top memory matchers now its top 25 recive mythic egg and top 100 get 50
+        tickets
+        ==Types of Leaderboards==
+        <tabber>
+        |-|Collection=
+        These leaderboards have to do with how much [[Honey]], [[Pollen]], [[Goo]], [[Nectar]], and
+        Tokens players collect. There are currently 42 of these.
+        {{#tag:tabber|
+        Monthly and All-Time=
+        <tabview>
+        All-Time Top Honeymakers
+        Monthly Top Honeymakers
+        All-Time Top Gummy Soldiers
+        All-Time Top Nectar Collectors
+        All-Time Top White Collectors
+        All-Time Top Red Collectors
+        All-Time Top Blue Collectors
+        </tabview>
+        {{!}}-{{!}}
+        Daily=
+        <tabview>
+        Daily Top Honeymakers
+        Daily Top Gummy Soldiers
+        Daily Top Nectar Collectors
+        Daily Top White Collectors
+        Daily Top Red Collectors
+        Daily Top Blue Collectors
+        Daily Top Sunflower Field Collectors
+        Daily Top Dandelion Field Collectors
+        Daily Top Mushroom Field Collectors
+        Daily Top Blue Flower Field Collectors
+        Daily Top Clover Field Collectors
+        Daily Top Strawberry Field Collectors
+        Daily Top Spider Field Collectors
+        Daily Top Bamboo Field Collectors
+        Daily Top Pineapple Patch Collectors
+        Daily Top Stump Field Collectors
+        Daily Top Cactus Field Collectors
+        Daily Top Pumpkin Patch Collectors
+        Daily Top Pine Tree Forest Collectors
+        Daily Top Rose Field Collectors
+        Daily Top Hub Field Collectors
+        Daily Top Mountain Top Field Collectors
+        Daily Top Pepper Patch Collectors
+        Daily Top Coconut Field Collectors
+        Daily Top Common Bee Pollen Collectors
+        Daily Top Rare Bee Pollen Collectors
+        Daily Top Epic Bee Pollen Collectors
+        Daily Top Legendary Bee Pollen Collectors
+        Daily Top Mythic Bee Pollen Collectors
+        Daily Top Bomb Pollen Collectors
+        Daily Top Buzz Bomb Pollen Collectors
+        Daily Top Haste Token Collectors
+        Daily Top Sprout Token Collectors
+        Daily Top Honey Gift Receivers
+        Daily Top Ant Field Collectors
+        </tabview>
+        }}
+        |-|Quests=
+        These leaderboards have to do with how many quests players complete for NPCs. There are
+        currently 6 of these.
+        <tabview>
+        Top Brown Bear Helpers
+        All-Time Top Polar Bear Helpers
+        Top Riley Bee Helpers
+        Top Bucko Bee Helpers
+        All-Time Top Honey Bee Helpers
+        All-Time Top Sticker-Seekers
+        </tabview>
+        |-|Battling and Challenges=
+        These leaderboards have to do with hostile mobs, bosses, and challenges. There are currently
+        12 of these.
+        {{#tag:tabber|
+        All-Time=
+        <tabview>
+        Global Top Battlers
+        Top Ant Exterminators
+        Top Stick Bug Fighters
+        Fastest Crab Slayers
+        Most Commando Captures
+        Highest Snowbear Level
+        Highest Robo Bear Challenge Scores
+        Highest Robo Party Cake Rank
+        </tabview>
+        {{!}}-{{!}}
+        Daily=
+        <tabview>
+        Daily Top Ant Exterminators
+        Daily Top Stick Bug Fighters
+        Daily Top Robo Bear Challenge Scores
+        Daily Fastest Crab Slayers
+        </tabview>
+        }}
+        |-|Other=
+        These leaderboards are various other objectives that do not fit into the other categories.
+        There are currently 5 of these.
+        {{#tag:tabber|
+        All-Time=
+        <tabview>
+        Tallest Sticker Stack
+        Highest Damage to a Single Puffshroom
+        </tabview>
+        {{!}}-{{!}}
+        Daily=
+        <tabview>
+        Daily Top Damage to A Single Puffshroom
+        Daily Top Memory Matchers
+        Daily Top Firefly Chasers
+        </tabview>
+        }}
+        </tabber>
+        ==Trivia==
+        *All leaderboards that reset on a daily basis reset at 12:00am GMT-5.
+        *[[Highest Snowbear Level|The Highest Snowbear Level leaderboard]] was added on Christmas
+        Day 2020 with the Beesmas update. This was removed 1 week after Beesmas 2020 ended.
+        *The [[Top Brown Bear Helpers]] leaderboard is the only leaderboard that does not show the
+        player's current amount of the stated objective.
+        **The player can still view their score either in the leaderboard menu in the System Page or
+        by speaking to [[Brown Bear]] when claiming or turning in a quest.
+        **The [[Most Commando Captures Leaderboard]] also shared this property, but has since been
+        removed from the game entirely.
+        *On 3/17/2022, [[Onett (Developer)|Onett]] abbreviated the amount of honey for the Daily Top
+        Honeymakers and the All-Time Top Honeymakers leaderboard due to players having massive
+        amounts of honey.
+
+        [[Category:Leaderboards]]
+        [[Category:Locations]]"}

@@ -1,0 +1,481 @@
+{"text": "[[File:Displayed_Passives.png|thumb|250px|Passive Ability icons which can be seen above
+        the hotbar, or bottom right next to the hotbar on mobile. These icons are for Haste Pulser,
+        Coconut Haste Surge, Ignite, X-Flame, and Emergency Coconut Shield.]]
+        '''Passive Abilities,''' or simply '''Passives''' are effects found on some
+        [[:Category:Accessories|accessories]], [[amulet]]s, or [[bees]]. These abilities are active
+        all the time or only activate when specific actions are done, as an additional effect of
+        those actions.
+
+        Passive abilities granted by an accessory or an amulet are displayed near the hotbar. Some
+        passive abilities require the player to do the same action multiple times as shown by the
+        number displayed on the passive icon, indicating how close it is to activating the ability.
+        When the ability is activated, the number will reset.
+
+        Some passive abilities have a cooldown. When in cooldown, the number of seconds left will be
+        displayed and will turn pale red. No trigger will activate the ability, nor increase the
+        trigger counter. These passive abilities also have an initial cooldown when the player
+        equips items that have those passives to prevent bypassing the cooldown.
+        == Accessory Passives ==
+        === Haste Pulser ===
+        [[File:HastePulser.png|thumb|left|100px|The icon for Haste Pulser.]]
+        '''Haste Pulser''' activates every 30th [[Ability Tokens#Haste|haste token]] collected. When
+        activated, it fires a blue pulse that hops to each blue bee. When the pulse hops between
+        bees, it collects [[pollen]] from 9 surrounding [[flowers]] around them. Power increases
+        with each hop.
+
+        Haste Pulser is granted by equipping the [[Cobalt Guard]].
+
+        This passive makes the same sound as a regular pulse from [[Cobalt Bee|Cobalt]] or [[Crimson
+        Bee]].
+
+        If the player has no blue bees, then nothing happens.
+
+        {{clear}}
+
+        === Focus Pulser ===
+        [[File:FocusPulser.png|thumb|left|100px|The icon for Focus Pulser.]]
+        '''Focus Pulser''' activates every 30th [[Ability Tokens#Focus|focus token]] collected. When
+        activated, it fires a red pulse which hops to each red bee. When the pulse hops between
+        bees, it collects [[pollen]] from 9 surrounding [[flowers]] around them. Power increases
+        with each hop.
+
+        Focus Pulser is granted by equipping the [[Crimson Guard]].
+
+        This passive makes the same sound as a regular pulse from [[Cobalt Bee|Cobalt]] or [[Crimson
+        Bee]].
+
+        If the player has no red bees, then nothing happens.
+
+        {{clear}}
+
+        === Bubble Bombs ===
+        [[file:bubblebomb.png|thumb|left|100px|The icon for Bubble Bombs.]]
+        '''Bubble Bombs''' activates every 25th [[Ability Tokens#Bomb|bomb token]] collected, with a
+        2 minute cooldown. When activated, it spawns 25 [[bubbles]] randomly in the [[Fields|field]]
+        the player is in. The bubbles last for 8 seconds. If any player, a petal shuriken, or a
+        [[Ability Tokens#tornado|tornado]] from [[Windy Bee]] touches the bubble, it pops,
+        collecting 4 red, 6 white, and 8 blue pollen from 29 surrounding flowers, increasing the
+        amount of pollen collected by 15% per [[Gifted Bee|gifted blue bee]] type, while also
+        replenishing the flowers.
+
+        Bubble Bomb is only granted by equipping the [[Bubble Mask]] or [[Diamond Mask]] if the
+        player owns the Bubble Mask.
+
+        {{clear}}
+
+        === Diamond Drain ===
+        [[File:DiamondDrain.png|thumb|left|100px|The icon for Diamond Drain.]]
+        [[File:Ddrain1.png|thumb|The diamond rising into the air.]]
+        [[File:Ddrain2.png|thumb|The Diamond shining.]]
+        '''Diamond Drain''' activates every 30th [[:Category:Blue|blue]] [[Ability Tokens|ability
+        token]] collected. When activated, it summons a giant diamond that instantly converts 5
+        million pollen plus the [[System Page#Convert Total|total conversion amount]] of all the
+        player's bees combined. The conversion amount increases by 10% for every Blue Bee the player
+        has and increases by 50% for every gifted Blue Bee type they have. It also pollinates 10 (+3
+        per blue bee) blue flowers within the field.
+
+        After activation, the player needs to wait 45 seconds before they can trigger the ability
+        once again.
+
+        Diamond Drain is granted by equipping the [[Diamond Mask]].
+
+        When Diamond Drain is activated, the following audio plays:[[File:Ddtune1.ogg]]
+
+        {{clear}}
+
+        === Ignite ===
+        [[File:Ignite.png|thumb|left|100px|The icon for Ignite.]]
+        [[File:Ignite!!!!!1!1!!1.png|thumb|220px|The old Ignite flames damaging [[Commando
+        Chick]].]]
+        '''Ignite''' activates every 15th [[:Category:Red|red]] ability token collected. When
+        activated, it creates 5 [[flame]]s in a plus shape where the 15th red token is collected,
+        lasting for 5 seconds. Each second, the flames collect 6 red, 3 white, and 1 blue pollen
+        from the 9 surrounding flowers. The amount of pollen collected increases by 2% per red bee
+        and 4% per Gifted Red bee the player has. Additionally, the flames deal 15 damage to nearby
+        enemies per second, ignoring defense and critical damage. While standing next to the flames,
+        the player will be granted [[Buffs & Debuffs#From Passives|flame heat]].
+
+        Ignite is granted by equipping the [[Fire Mask]] or [[Demon Mask]] if the player owns the
+        Fire Mask.
+
+        {{clear}}
+
+        === X-Flame ===
+        [[File:XFlame.png|thumb|left|100px|The icon for X-Flame.]]
+        [[File:XFlameNewTexture.png|alt=|thumb|An X-Flame in the Strawberry Field.]]
+        '''X-Flame''' activates every 25th battle ability token collected (ability tokens that can
+        be generated in combat). When activated, it creates 29 [[flame]]s in an X shape around the
+        player which lasts for 3 seconds. Each second, the flames collect 6 red, 3 white, and 1 blue
+        pollen from the 9 surrounding flowers. The amount of pollen collected increases by 2% for
+        each Red Bee and 4% per Gifted Red Bee the player has. Additionally, the flames deal 15
+        damage to nearby enemies per second, ignoring [[System Page#Defense|Defense]] and critical
+        damage. While standing next to the flames, the player will be granted flame heat.
+
+        After activation, the player needs to wait for 20 seconds before they can trigger the
+        ability once again.
+
+        X-Flame is granted by equipping the [[Demon Mask]].
+
+        When X-Flame is activated, the following audio plays (Note that the audio in-game is slowed
+        down slightly):[[File:Xflame.ogg]]
+
+        {{clear}}
+
+        === Coin Scatter ===
+        [[File:coinscatter.png|thumb|left|100px|The icon for Coin Scatter.]]
+        '''Coin Scatter''' activates every 20th [[Ability Tokens#Mark|mark token]] collected. When
+        activated, it converts pollen equal to 300% of the player's total conversion amount of the
+        player's hive into 24 honey tokens, which are scattered around the field. If not in a field,
+        the honey is not converted. The honey tokens last for 1 minute.
+
+        Each token will give a base of 1000 honey, increasing with Honey from Tokens.
+
+        Note: The honey tokens cannot be collected by [[Ability Tokens#Token Link|Token Link]], but
+        can be collected by [[Ability Tokens#Triangulate|Triangulate]].
+        [[File:RobloxScreenShot20210320 232506480.png|alt=|thumb|255px|Honey tokens scattered
+        randomly from Coin Scatter.]]
+        After activation, the player needs to wait for 2 minutes before they can trigger the ability
+        once again.
+
+        Coin Scatter is granted by equipping the [[Honey Mask]] or [[Gummy Mask]] if the player owns
+        the Honey Mask.
+
+        When Coin Scatter is activated, the following audio plays:[[File:Coinscatter.ogg]]
+
+        {{clear}}
+        [[File:Gummy field.png|thumb|Gummy Bee's trail during the passive.]]
+
+        === Gummy Morph ===
+        [[File:GummyMorph.png|thumb|left|100px|The icon for Gummy Morph.]]
+        [[File:GummyBearMorph.png|thumb|163px|The Gummy Bear morph.]]
+        '''Gummy Morph''' activates every 30 [[gumdrops]] used or 10 [[Gummy Bee]] ability tokens
+        collected (Gummy Bee ability tokens count as 3 gumdrops). When activated, the player will be
+        transformed into a [[Gummy Bear]], Gummy Bee will glow, and the field will be covered fully
+        in [[goo]]. As Gummy Bear, the player will be granted +75% [[System Page#Goo|Goo]], +100%
+        [[System Page#Goo Conversion|Instant Goo Conversion]], +24 [[System
+        Page#Movespeed|Movespeed]], and +60 [[System Page#Jump Power|Jump Power]]. As Gummy Bee
+        glows, it is granted +1000% gather amount, +300 Gummy Bee [[Stats#Attack|attack]], and +200%
+        [[Stats#Speed|speed]] (gather, conversion, and movement speeds) for 10 seconds. The Gummy
+        Bee also leaves a trail while glowing.
+
+        Gummy Morph is granted by equipping the [[Gummy Mask]].
+
+        When Gummy Morph is activated, the following audio plays:[[File:gbm.ogg]]
+
+        {{clear}}
+
+        === Coconut Haste ===
+        [[File:coconuthaste.png|thumb|left|100px|The icon for Coconut Haste.]]
+        '''Coconut Haste''' activates whenever the player is hit by a falling [[coconut]]. When
+        activated, the player gains a stack of [[Buffs & Debuffs#From Ability Tokens|haste]] and
+        2 seconds of Coconut Surge that grants +10 Player Movespeed and x1.5 Bee Movespeed.
+
+        Coconut Haste is granted from equipping the [[Coconut Clogs]] or [[Gummy Boots]].
+
+        <br />
+        {{clear}}
+
+        === Goo Trail ===
+        [[File:GummyBoots.PNG|thumb|139px|The trail of goo left behind.]]
+        '''Goo Trail''' passively covers 5 surrounding flowers with goo wherever the player walks on
+        a field. It doesn't require any condition to activate the ability. Flowers directly behind
+        the player will have more goo than those surrounding.
+
+        Goo Trail is granted by equipping the [[Gummy Boots]].
+
+        {{clear}}
+
+        === Emergency Coconut Shield ===
+        [[File:PassiveEmergencyCoconut.png|thumb|left|100px|The icon for Emergency Coconut Shield.]]
+        '''Emergency Coconut Shield''' activates when the player takes damage directly from a
+        [[Mobs|mob]]. When it activates, it summons 5 falling coconuts, gains 100% Defense, and
+        increases Bee Attack by x1.25 for 10 seconds.
+        [[File:Coconut shield.png|thumb|A player is protected inside the Emergency Coconut Shield.]]
+        After activation, the player needs to wait for 5 minutes before they can trigger the ability
+        again.
+
+        Emergency Coconut Shield is granted by equipping the [[Coconut Canister]].
+
+        There is a visual glitch where if the player has the fire, honey, bubble, demon, gummy, or
+        diamond mask equipped, looking at it through the coconut shield will make the front of the
+        mask disappear. This is caused by glass textures overriding particles and transparent parts.
+        This does not protect the player from kill bricks.
+
+        When the Emergency Coconut Shield is activated, the following audio plays (Note that the
+        audio in-game is sped up):[[File:Cocosiren.ogg]]
+
+        {{clear}}
+
+        === Inspire Coconuts ===
+        [[File:inspirecoconuts.png|thumb|left|100px|The icon for Inspire Coconuts.]]
+        [[File:Inspire coconuts in action (2).jpg|thumb|Inspire coconuts activated by a player.]]
+        '''Inspire Coconuts''' activates every 5th [[Ability Tokens#Inspire|Inspire Token]]
+        collected. When activated, it summons 5 falling coconuts within the player's field. When a
+        coconut is caught by the player, it converts some pollen into honey. It may also activate
+        Coconut Haste if the said player wears the [[Coconut Clogs]] or the [[Gummy Boots]].
+
+        After activation, this passive ability will reset back to 0.
+
+        Inspire Coconuts is granted by equipping the [[Coconut Canister]].
+
+        There’s a glitch when the passive is activated in the field the player is not on; when
+        activated without standing a field, the passive cannot spawn coconuts since it did not find
+        the field the player used to be on.
+
+        {{clear}}<br />
+        === Petal Storm ===
+        [[File:pstorm.png|thumb|left|100px|The icon for Petal Storm.]]
+        [[File:Petal storme.png|thumb|Petal Storm in action.|alt=]]
+        '''Petal Storm''' activates every 30th [[Ability Tokens#Boost|boost token]] collected. When
+        activated, it fires 30 Petal Shurikens around the player in a spiral pattern. When the
+        shuriken passes through a bee, the bee instantly converts 10,000 pollen, increased by 7% of
+        its conversion amount.
+
+        After activation, the player needs to wait for 30 seconds before they can trigger the
+        ability once again.
+
+        Petal Storm is granted by equipping the [[Petal Belt]], or the Coconut Belt, if the player
+        has the Petal Belt.
+
+        === Coconut Combo ===
+        [[File:Combococonuts.png|left|thumb|104x104px|The icon for Coconut Combo]]
+        Every 40th Coconut you drop onto a field (through items or abilities) becomes a Combo
+        Coconut. When caught by any player, Combo Coconuts are kicked and fall again onto your own
+        field if caught on the first drop within the blue circle, or onto another players field.
+        Every time they are kicked, they speed up, and gain stacks of Coconut Combo. Many more
+        stacks are granted if caught by other players in fields with different colors. Catching the
+        Coconut grants a buff that grants between 10% to 75% Unique Instant Conversion, between x1.1
+        to x1.5 Pollen and between +1% to +50% Pollen, Red Pollen, Blue Pollen, White Pollen, Bee
+        Attack, and Honey From Tokens. When the Coconut fails to be caught it despawns and reapplies
+        the buff to all players who caught it at least once.
+
+        After activation, this passive ability will reset back to 0.
+
+        Coconut Combo is granted by equipping the [[Coconut Belt]].
+
+        == [[Star Amulet]] Passives ==
+        {{Clear}}
+
+        === Guiding Star ===
+        [[File:GuidingStarIcon.png|thumb|left|100px|The icon for Guiding Star.]]
+        [[File:Guiding star.png|thumb|A Guiding Star in the Sunflower Field.]]
+        '''Guiding Star''' activates every 250th boost token collected. Additionally, it permanently
+        grants 1.25x capacity. When activated, it summons a Guiding Star over a random field for 10
+        minutes, granting x2.5 [[System Page#Pollen|Pollen]] and [[System Page#Capacity
+        Multiplier|Capacity]] to the player who summoned it and x1.25 Pollen and Capacity to other
+        players in that field. Chooses 1 of the 5 fields the player has collected the least from.
+        While active, the star pollinates 15 (+1 per Gifted Bee Type) flowers every 15 seconds. It
+        will disappear if the player who summoned it leaves the server.
+
+        Guiding Star has a cooldown of 5 minutes.
+
+        Guiding Star is granted by having a Diamond or Supreme Star Amulet with the Guiding Star
+        passive.
+
+        Guiding Star can also be summoned in a random field if a player used [[Onett's Lid Art]]
+        during the 2020, 2021, and 2022 Beesmas events.
+
+        {{Clear}}
+
+        === Star Shower ===
+        [[File:StarShowerIcon.png|thumb|left|100px|The icon for Star Shower.]]
+        '''Star Shower''' activates every 40th boost or mark token collected. Additionally, it
+        permanently grants 1.25x capacity. When activated, 10 shooting stars will fall onto the
+        field the player is standing on, which collect and instantly convert 30 pollen (+50% per
+        Gifted Bee Type) from 5 flowers. Catching a shooting star grants a stack of inspire, and
+        instantly converts 1 million pollen plus 200% of the player's total hive conversion.
+        [[File:Starshowere.png|thumb|A star shower on a field.]]
+        After activation, the player needs to wait for 30 seconds before they can trigger the
+        ability once again.
+
+        Star Shower is granted by having a Diamond or Supreme Star Amulet with the Star Shower
+        passive.
+
+        The passive is similar to the falling Beesmas lights, which could be activated by completing
+        [[Science Bear]]'s [[Beesmas Lights]] quest during the 2020, 2021, and 2022 Beesmas events.
+        For every individual star, the following audio plays: [[File:Starshowerstar.ogg]]
+
+        {{Clear}}
+
+        === Pop Star ===
+        [[File:PopStarIcon.png|thumb|left|100px|The icon for Pop Star.]]
+        [[File:PopStarHover.png|thumb|A Pop Star, Hovering near a player on the Field]]
+        '''Pop Star''' activates every 30th Blue Boost Token collected. Additionally, it permanently
+        grants x1.25 Blue Field Capacity. When activated, it summons a Pop Star which grants 10%
+        Instant Blue [[Instant Conversion]] and x2 [[System Page#Blue Pollen|Blue Pollen]] for 45
+        seconds. When the Pop Star is activated, it automatically applies 2 minutes of \"[[Buffs
+        & Debuffs#From Passives|Bubble Bloat]]\". While the Pop Star is active, every one of the
+        player's bubbles popped increases Blue Pollen by 1% (up to x4.5) and grants 4 seconds of
+        \"Bubble Bloat\" (6 seconds if bubble was gold, 1 second if the Bubble is not the player's)
+        which increases Blue [[Field Capacity]] and [[System Page#Hive Convert Rate|Convert Rate at
+        Hive]] by up to x6 for 2.5 hours. When it ends, the Pop Star spawns a number of bubbles over
+        the field that increases with the number of Bubbles popped.
+        [[File:Popstare.png|thumb|A Pop Star.|43x43px]]
+        After activation, the player needs to wait for 1 minute before they can trigger the ability
+        once again.
+
+        Pop Star is granted by having a Supreme Star Amulet with the Pop Star passive.
+
+        When Pop Star is activated, the following audio plays: [[File:Popstar.ogg]]
+
+        {{Clear}}
+
+        === Gummy Star ===
+        [[File:GummyStarIcon.png|thumb|left|100px|The icon for Gummy Star.]]
+        [[File:Gummystare.png|thumb|A Gummy Star.]]
+        '''Gummy Star''' is activated at a 2% chance when using Gumdrops, or at the 75th use if not
+        activated yet. Additionally, it permanently grants x1.25 White Field Capacity. When
+        activated, it summons a Gummy Star which grants 10% Instant [[System Page#White
+        Pollen|White]] and Goo Conversion for 45 seconds. Collecting goo during this time will make
+        the star grow, granting bonus White Pollen and Goo (up to x2). After the 45 seconds are up,
+        the Gummy Star will pop, scattering honey tokens worth, in total, 1.5% per gifted colorless
+        bee type on the player's hive of the goo collected, as well as an amount of Gumdrops tokens
+        depending on the amount of goo collected on the field the player is on.
+
+        After activation, the player needs to wait for 1 minute before they can trigger the ability
+        once again.
+
+        Gummy Star is granted by having a Supreme Star Amulet with the Gummy Star passive.
+
+        When Gummy Star is activated, the following audio plays: [[File:Gummystar.ogg]]
+
+        {{Clear}}
+
+        === Scorching Star ===
+        [[File:ScorchingStarIcon.png|thumb|left|100px|The icon for Scorching Star.]]
+        [[File:StarPopping.png|thumb|A Scorching Star popping behind a player once the time limit
+        ends.]]
+        '''Scorching Star''' activates every 30th boost token collected. Additionally, it
+        permanently grants x1.25 Red Field Capacity. When activated, it summons a Scorching Star for
+        45s, which grants 50% Instant Flame Conversion, +5 Conversion Links, and x2 [[System
+        Page#Red Pollen|Red Pollen]], and Convert Rate. Standing near flames causes the star to
+        grow, increasing the bonus Red Pollen and Convert Rate up to x5 and the number of Conversion
+        Links up to 30, When Scorching Star ends, it convert all of player's pollen in their bag
+        into Honey.
+
+        After activation, the player needs to wait for 1 minute before they can trigger the ability
+        once again.
+        [[File:DeadScorchingStar.webp|left|thumb|A Scorching Star when the player dies.]]
+        Scorching Star is granted by having a Supreme Star Amulet with the Scorching Star passive.
+        [[File:Scorchingstare.png|thumb|A Scorching Star.]]
+        When Scorching Star is activated, the following audio plays: [[File:Scorchingstar.ogg]]
+        {{Clear}}
+
+        === Star Saw ===
+        [[File:StarSawIcon.png|thumb|left|100px|The icon for Star Saw.]]
+        [[File:StarSawSpinning.gif|alt=|thumb|A star saw circling around a player.]]
+        '''Star Saw''' refunds the 3rd [[stinger]] used, while also summoning a Star Saw that lasts
+        for 30 seconds. Star Saw circles around the player, damaging hostile mobs (equal to 15% of
+        the player's [[System Page#Total Attack|Total Attack]] with accuracy equal to the average
+        bee level of the player's hive not including summons), collecting tokens, and collecting and
+        instantly converting 3 pollen (+0.5 for every 100 Total Attack) from 5 flowers 10 times a
+        second. The saw converts additional pollen in pollen capacity equal to the amount it
+        gathers.
+
+        Star Saw is granted by having a Supreme Star Amulet with the Star Saw passive.
+
+        When Star Saw is activated, the following audio plays: [[File:Starsaw.ogg]]
+
+        == Bee Passives ==
+        === Gathering Bubbles ===
+        {{Main|Bubble}}
+        [[File:2019-12-23_(7).png|thumb|A bubble in a field.]]
+        '''[[Bubble]]s''' have a percentage chance to be spawned by certain bees when gathering.
+        Bubbles can be generated by [[Bubble Bee]], [[Tadpole Bee]], and [[frog]]s. There is a 35%
+        chance (50% if gifted) for Bubble Bees to spawn a bubble while gathering, and a 55% (75% if
+        gifted) chance for Tadpole Bees to spawn a bubble while gathering.
+
+        When a bubble is popped, the following audio plays: [[File:Bubblepop.ogg]]
+
+        {{Clear}}
+
+        === Gathering Flames ===
+        {{Main|Flame}}
+        [[File:NewFlame.png|thumb|125px|A flame in a field.]]
+        [[File:Passive-gathering-flames.png|thumb|The old texture of a flame.]]
+        '''[[Flame]]s''' have a percentage chance to be spawned by certain bees when gathering.
+        Flames can be generated by the [[Scythe]], [[Fire Bee]], [[Demon Bee]], [[Spicy Bee|Spicy
+        Bee's]] [[Ability Tokens#Inferno|Inferno]], and bees with the [[Electric Candle]] Beequip.
+        There is a 35% chance (50% if gifted) for Fire Bees to spawn a flame while gathering, and a
+        55% (75% if gifted) chance for Demon Bees to spawn a flame while gathering.
+
+        {{Clear}}
+
+        === Steam Engine ===
+        '''Steam Engine''' is a passive ability exclusive to Spicy Bee. It boosts any Spicy Bee's
+        movement speed and gathering speed by up to 100% with flame heat. When Steam Engine is
+        active, Spicy Bee will increase the number of steam particles from its exhaust pipes
+        proportionately with the amount of flame heat.
+
+        {{Clear}}
+
+        === Fuzzy Coat ===
+        '''Fuzzy Coat''' is a passive ability exclusive to [[Fuzzy Bee]]. It has a chance to
+        [[Pollination|pollinate]] up to 5 surrounding [[flowers]] (9 if gifted) when gathering.
+        Lower tier flowers have a higher chance of being pollinated than higher tier flowers.
+        {{Clear}}
+
+        === Nectar Lover ===
+        '''Nectar Lover''' is a passive ability exclusive to [[Shy Bee]]. It makes Shy Bee twice as
+        likely to drink from a [[planter]] than any other bee. When drinking it also collects twice
+        as much [[nectar]] and contributes twice as much to the growth of the planter.
+
+        {{Clear}}
+
+        === Shimmering Honey ===
+        [[File:90935ED9-7B1D-47E4-94EE-B714907A58E7.jpg|thumb|Diamond Bee's Conversion Link color
+        when Shimmering Honey is activated.|alt=|120px]]
+        '''Shimmering Honey''' is a passive ability exclusive to [[Diamond Bee]]. Whenever this bee
+        converts at the hive, it grants 25% bonus honey (+2.5% per level). This bonus is doubled if
+        the bee is Gifted.
+
+        {{Clear}}
+
+        === Balloon Enthusiast ===
+        '''Balloon Enthusiast''' is a passive ability exclusive to [[Buoyant Bee]]. When converting
+        from Balloons, this bee has x3 convert amount. Additionally, this bee's base attack scales
+        up to x3 with [[Buffs & Debuffs#From Ability Tokens|Balloon Blessing]].
+
+        {{Clear}}
+
+        === Sniper ===
+        '''Sniper''' is a passive ability exclusive to [[Precise Bee]]. In battle, this bee uses
+        slow long ranged shots that are more accurate and deal x2 damage. The accuracy is calculated
+        as if the bee was 1 level higher (2 if gifted), and it can never be below 5%. If the shot is
+        a [[Critical Hits|Critical Hit]], the reload time after shots is cut in half. If it's a
+        [[Critical Hits#Super-Crit|Super-Crit]], it's reduced by 75%.
+
+        {{Clear}}
+
+        === Drive Expansion ===
+        '''Drive Expansion''' is a passive ability exclusive to [[Digital Bee]]. Using a
+        [[Drives|Drive]] while this bee is active in [[Robo Bear Challenge|Robo Bear's Challenge]]
+        corrupts the field you're standing in by an amount proportional to the number of flowers
+        that match the Drive's color (Glitched Drives corrupt all fields equally). Additionally, it
+        permanently enhances this bee, increasing the Corruption of its abilities and granting it
+        the following stats:
+        <br>- Red Drive: +0.03 [[Stats#Attack|Attack]]
+        <br>- Blue Drive: +2 [[Stats#Production Amount|Convert Amount]]
+        <br>- White Drive: +0.25 [[Stats#Gather Amount|Gather Amount]]
+        <br>- Glitched Drive: +0.05% [[System Page#Bee Ability Rate|Ability Rate]]
+
+        Every 10 Glitched Drive Enhancements grants a Hive Bonus of 0.02% Ability Duplication
+        Chance.
+
+        Digital Bee can be enhanced with up to 500 of each type of Drive. You can view the number of
+        enhancements by clicking on Digital Bee's [[Hive Slot|hive slot]].
+
+        Upon maxing out with all 2000 Drives, Digital Bee gains +10 [[Stats#Speed|Movespeed]].
+        {{Clear}}
+
+        == Other Passives ==
+        === Unlimited Gumdrops ===
+        [[File:Unlimited Gumdrops.png|thumb|left|100px|The icon for the Unlimited Gumdrops buff.]]
+        '''Free Gumdrops''' is a +Passive ability that can only be obtained through the [[Buffs
+        & Debuffs#From Areas|Unlimited Gumdrops]] buff, which can be activated through certain
+        [[codes]] and the [[Glue Dispenser]]. It allows the player to use their gumdrops without
+        losing any from their inventory for 3 minutes. Having this buff active does NOT increase the
+        amount of gumdrops in the player's inventory.
+
+        [[Category:Mechanics]]
+        [[zh-tw:被動技能]]"}

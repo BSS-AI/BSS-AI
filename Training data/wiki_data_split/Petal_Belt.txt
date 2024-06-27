@@ -1,0 +1,68 @@
+{"text": "{{Accessory
+        |image1 = Petal Belt.png
+        |description = Drape these petals about your waist to harness unlimited flower power.
+        |cost = 15,000,000,000 [[Honey]], 1 [[Spirit Petal]], 25 [[Royal Jelly#Royal Jelly
+        Variants|Star Jellies]], 50 [[Glitter]], and 100 [[Glue]].
+        |stats = +250,000 Capacity<br>+50% Capacity<br>+100 Convert
+        Amount<br>+101% Loot Luck<br>+75% Honey From Tokens<br>+25% Buzz Bomb
+        Pollen<br>+1 Colorless Bee Attack<br>+Passive: Petal Storm
+        }}
+        {{Quote|Drape these petals about your waist to harness unlimited flower power.}}
+        The '''Petal Belt''' is a [[:Category:Belts|belt accessory]] located in the [[Petal Shop]].
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|{{Hover|15B|15,000,000,000}}}}<br>{{Cost|Star
+        Jelly|25}}<br>{{Cost|Glitter|50}}<br>{{Cost|Glue|100}}<br>{{Cost|Spirit
+        Petal|1}}
+        |}
+
+        == Stats ==
+        * +250,000 [[Capacity]].
+        * +50% Capacity.
+        * +100 [[System Page#Convert Amount|Convert Amount]].
+        * +101% [[System Page#Loot Luck|Loot Luck]].
+        *+25% [[System Page#Buzz Bomb Pollen|Buzz Bomb Pollen]].
+        * +75% [[System Page#Honey From Tokens|Honey From Tokens]].
+        * +1 [[System Page#Colorless Attack|Colorless Bee Attack]].
+        * [[Passive Abilities#Petal Storm|+Passive: Petal Storm]].
+        ** Every 30th [[Ability Tokens#Boost|boost]] token collected fires 30 Petal Shurikens around
+        you. Every [[Bees|bee]] hit will instantly convert 10,000 (+7% of their [[System
+        Page#Convert Rate|Convert Rate]]) [[pollen]] into honey. It has a 30 second cooldown before
+        another usage.
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        PetalBeltIcon.png|Petal Belt's icon.
+        Screen Shot 2019-09-28 at 7.35.16 PM.png|Petal Belt crafting menu.
+        3DED01FD-F1C2-439B-A2C0-A8E9F8BD3E96.jpeg|A player wearing the Petal Belt.
+        Pstorm.png|The Petal Storm icon.
+        Petal storme.png|The Petal Storm being activated by the player.
+        </gallery>
+
+        == Trivia ==
+        * If the ingredients to craft this item were to be crafted, a total of 15,000,000,000 Honey,
+        1 [[Spirit Petal]], 61,875 [[Strawberry|Strawberries]], 61,875 [[Blueberries|Blueberries]],
+        77,500 [[Pineapple|Pineapples]], 125 [[Magic Bean]]s and 6,625 [[Royal Jelly|Royal Jellies]]
+        are needed.
+        * This is the 9th most expensive [[Items|item]] in terms of honey (excluding [[Hive
+        Slot|hive slots]]).
+        *This item emits a yellow particle effect in the center of the belt, similarly to the
+        [[Petal Wand]].
+        * This is one of the three belt accessories that were not obtainable from [[Sun Bear]].
+        * This is one of many accessories to be worn by an [[:Category:NPC|NPC]], following the
+        [[Mondo Belt Bag]] and the [[Beekeeper's Boots]] (both worn by [[Sun Bear]]), and the
+        Porcelain Port-O-Hive, worn by [[Onett]].
+        * The Petal Belt worn by [[Spirit Bear]] is much bigger than the one worn by a player.
+        * The Petal Shurikens can pop [[Passive Abilities#Gathering Bubbles|bubbles]] and [[Ability
+        Tokens#Fuzz Bombs|fuzz bombs]].
+        *This is the only belt on display which doesn't have a hitbox.
+        *This is one of two belts to have a [[Passive Abilities|passive]], the other being the
+        [[Coconut Belt]].
+
+        {{Items}}
+        [[Category:Belts]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]
+        [[Category:Items]]
+        [[zh-tw:花瓣腰帶]]"}

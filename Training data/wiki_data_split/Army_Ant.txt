@@ -1,0 +1,101 @@
+{"text": "An '''Army Ant''' is one of five mobs that is part of a family called [[Ants]] that are
+        exclusively found in the [[Ant Challenge]], past the [[Ant Gate]].
+
+        {{Mob|title=Army Ant|image=ArmyAnt.png|location=[[Ant Field]] while the [[Ant Challenge]] is
+        active.|hp=50 base; Increase by level|damage=40|points=None|bond=1|honey=None|level=1-16
+        (Varies with Wave)}}
+
+        This is one of the first Ant Challenge [[mobs]] that the player will encounter, capable of
+        appearing on the very first wave. Despite being able to appear on the first wave, Army Ants
+        usually start appearing at around the second or third waves.
+
+        Army Ants have army helmets on their heads and will pursue the player. They have the ability
+        to pounce on the player and have a little more health than most other ants. Less damage is
+        dealt to these ants because of their defense.
+
+        An Army Ant's level can increase depending on what wave of the Ant Challenge the player is
+        on. They can range from level 1 up to level 16.
+
+        == Health per Level ==
+        {| class=\"mw-collapsible mw-collapsed fandom-table\"
+        !Level
+        !Health
+        |-
+        |1
+        |50
+        |-
+        |2
+        |60
+        |-
+        |3
+        |70
+        |-
+        |4
+        |100
+        |-
+        |5
+        |130
+        |-
+        |6
+        |170
+        |-
+        |7
+        |210
+        |-
+        |8
+        |250
+        |-
+        |9
+        |300
+        |-
+        |10
+        |350
+        |-
+        |11
+        |400
+        |-
+        |12
+        |460
+        |-
+        |13
+        |520
+        |-
+        |14
+        |580
+        |-
+        |15
+        |640
+        |-
+        |16
+        |710
+        |}
+
+        == Strategies ==
+
+        * Army Ants are quite slow which gives the player time to react and dodge before they pounce
+        on the player.
+        * Jumping past the Army Ant will enable your bees to lock onto the Army Ant while letting
+        the player get around the Army Ant without getting pounced on.
+        * If they appear, they occasionally spawn in waves, but not always. [[Vicious Bee]] and
+        [[Windy Bee]] provide excellent crowd control with their abilities which could greatly help
+        counter the large amounts of Army Ants landing on the field. [[Digital Bee]] can also stun
+        many Army Ants at once and allow them to take extra damage via [[Ability Tokens#Mind
+        Hack|Mind Hack]].
+
+        == Gallery ==
+        <gallery>
+        File:ArmyAnt1.png|An Army Ant next to a Gifted Frog.
+        File:ArmyAnt2.png|A pair of Army Ants next to a Fire Ant.
+        File:ArmyAnt3.png|An Army Ant getting hit by Vicious Bee's Impale.
+        File:AntGateStatue.png|A statue of an Army Ant on the Ant Gate.
+        File:Ant pass.png|An Army Ant being depicted on the Ant Pass.
+        </gallery>
+
+        == Trivia ==
+
+        * These are the only mobs to wear equipment that gives defense against attacks.
+        * There is a [[:Category:Gates|gate]] dedicated to it, which is the Ant Gate.
+        * This mob is depicted on the [[Ant Pass]].
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Ant Challenge]]"}

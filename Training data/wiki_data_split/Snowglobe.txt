@@ -1,0 +1,58 @@
+{"text": "{{Unobtainable}}
+        {{Beequip
+        |color=Any
+        |level=7
+        |limit=2
+        |image1=Snowglobe.png
+        |beesmas=yes
+        |description=Keep a little ball of winter wonder with you all year long.
+        |requirement=Only For: {{Icon|Basic}} {{Icon|Bumble}} {{Icon|Cool}} {{Icon|Bucko}}
+        {{Icon|Frosty}} {{Icon|Windy}}
+        |stats=%Bomb Pollen<br/>+Ability: Snowglobe Shake
+        |bonusstats=%Ability Rate
+        |bonushive=%Bomb Pollen
+        }}A '''Snowglobe''' is a [[Bond|level]] 7 [[:Category:Beesmas|Beesmas]] [[beequip]]. It has
+        an equip limit of two. There is no color requirement. It can only be equipped to [[Basic
+        Bee|Basic]], [[Bumble Bee|Bumble]], [[Cool Bee|Cool]], [[Bucko Bee|Bucko]], [[Frosty
+        Bee|Frosty]], or [[Windy Bee|Windy]] [[bees]].
+
+        == Possible Stats ==
+
+        * Bomb [[Pollen]] (Guaranteed) - +30% to +50%. (up to 90% from waxing)
+        * Ability Rate (from [[Waxes|waxing]]) - +1%.
+        * [[Ability Tokens#Snowglobe Shake|Ability: Snowglobe Shake]] (Guaranteed).
+        ** Sends a cool, soothing breeze to all players on the server. This gives the same buff as
+        the \"[[Snowflake]]\" item, which grants x1.25 Capacity and other minor boosts for 20s.
+        Duration stacks up to 15 minutes, and the boosts increase with each stack.
+        * [Hive Bonus] Bomb Pollen (from waxing) - +1% to +5%.
+
+        == Ways to Obtain ==
+        ''There are currently no methods to obtain the Snowglobe.
+
+        === These methods are no longer possible. ===
+        *Purchasing the Beequip bundle in [[Bee Bear’s Catalog|Bee Bear's Catalog]] gives 1
+        Snowglobe for the cost of 75 snowflakes and 15 [[Gingerbread Bear|gingerbread bears]] +
+        other items.
+        *Dropped upon defeating a level 10 [[Snowbear]].
+        *Purchasing the Snowglobe bundle for 2000 snowflakes in Beesmas 2020.
+        *The [[Robux Shop|Snowey Starter Pack]] costs 400 robux and gives 1 Snowglobe and other
+        [[items]].
+        *By opening the [[Gift Boxes|Lapis Gift Box]].
+        *As a drop from [[Mondo Chick]] (rare).
+
+        == Gallery ==
+        <gallery>
+        File:Snowglobe1.png|A Snowglobe equipped to a Cool Bee.
+        File:Snowglobe2.png|Two Snowglobes in the Beequip Case.
+        </gallery>
+
+        == Trivia ==
+
+        * This is the one of three beequips to give a unique ability.
+        ** The Snowglobe's unique ability is also the only way to get the Cool Breeze buff outside
+        of Beesmas.
+        ** The other two are [[Reindeer Antlers]] and [[Festive Wreath]].
+        {{Items}}
+        [[Category:Beequips]]
+        [[Category:Beesmas]]
+        [[Category:Items]]"}

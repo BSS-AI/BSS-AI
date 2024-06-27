@@ -1,0 +1,39 @@
+{"text": "{{DailyCheck}}
+        ''(Leaderboard as of 04/11/2024)''
+        {{Lb|name1=Natmab|amount1=535|name2=BREALBWW3|amount2=532|name3=super_supermad|amount3=532|amount4=531|name4=hammer6870|amount5=531|name5=crazypepperson|name6=hoddog231|amount6=531|name7=PlayShootAndEatNoobs|amount7=531|name8=Having_Fun2228|amount8=531|name9=Icfiredog|amount9=530|name10=sajseruifu02|amount10=530}}
+        The '''Global Top Ant Exterminators Leaderboard''' is one of the 62 [[leaderboards]] in the
+        game. This leaderboard shows the top [[Ant Challenge]] scores of players. It shows 10
+        leaderboard positions at one time. However, the player can scroll down the leaderboard to
+        see more scores of other players, all the way down to the 100th place.
+
+        If the player steps on the white pad in front of it, the message <span
+        style=\"background-color:#0090BF; color:white;\">\"Your Highscore: X\"</span> will
+        appear. (X = Your Highscore)
+
+        The structure conceals a secret passage containing an [[Ant Pass|ant pass]], and the [[Gummy
+        Bee Egg Claim]].
+
+        == Location ==
+        It is located in front of the Ant Challenge room near the [[Ant Pass Dispenser]] and the
+        [[Free Ant Pass Dispenser]]s.
+
+        == Achievements ==
+
+        * On 8/1/2018, SDMittens was the first user to reach 200 Ant Exterminations.
+        * On 12/26/2018, SDMittens was the first user to reach 300 Ant Exterminations.
+        * On 12/14/2019, Lipsisas was the first user to reach 400 Ant Exterminations.
+        * On 1/10/2020, Zlib was the first user to reach 500 Ant Exterminations.
+
+        ==Trivia==
+        *When the [[Updates#2018.11.25|11/25/2018 update]] came out, all of the scores on this
+        leaderboard had been reset.
+        *The 2nd place with a player named \"crazypepperson\" and the 3rd place with a player named
+        \"Having_Fun2228\" are tied at 531 score.
+        *The lowest score on the leaderboard is 522 points, which was achieved by the players from
+        94th to 100th place.
+        *On 01/12/2024, many players on the leaderboard, including Natmab, lost their Top Ant
+        Exterminator points highscore. The reason behind the data wipe is currently unknown.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Leaderboards]]
+        [[Category:Ant Challenge]]"}

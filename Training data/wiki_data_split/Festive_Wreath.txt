@@ -1,0 +1,84 @@
+{"text": "{{Unobtainable}}
+        {{Beequip
+        |image1=Festive Wreath.png
+        |level=10
+        |color=Red
+        |limit=1
+        |description=This ornate wreath was specially made to suit Festive Bee's taste.
+        |beesmas=true
+        |stats=+Gather Amount <br/>+Convert Amount <br/>%Red Bomb Pollen
+        <br/>%Mark Duration <br/>+Ability: Festive Mark
+        |bonusstats=%Ability Rate
+        |hive=+Capacity
+        |requirement=Only For: {{Icon|Festive}}}}
+
+        The '''Festive Wreath''' is a [[Bond|level]] 10 [[:Category:Beesmas|Beesmas]] [[beequip]].
+        It has an equip limit of one. It has a red color requirement. It can only be equipped to
+        [[Festive Bee]].
+
+        == Possible Stats ==
+        * Gather Amount (Guaranteed) - +5 to +15. (up to +55 from [[Waxes|waxing]])
+        * [[System Page#Convert Amount|Convert Amount]] (Guaranteed) - +15 to +30. (up to +110 from
+        waxing)
+        *[https://bee-swarm-simulator.fandom.com/wiki/System_Page#Red_Bomb_Pollen Red Bomb Pollen]
+        (Guaranteed) - +20% to +40%.
+        * [[Ability Tokens#Mark|Mark]] Duration (Guaranteed) - +2% to +8%. (up to +13% from waxing)
+        *[https://bee-swarm-simulator.fandom.com/wiki/System_Page#Bee_Ability_Rate Ability Rate] -
+        +1%.
+        * [[Ability Tokens#Festive Mark|Ability: Festive Mark]] (Guaranteed).
+        ** Marks a very large random area on the [[Fields|field]] for 12 seconds (+0.5s per
+        [[Bond|level]]) that grants +10% [[Honey Per Pollen]], x1.4 [[System Page#Bomb Pollen|Bomb
+        Pollen]], x1.4 [[System Page#Red Bomb Pollen|Red Bomb Pollen]], 100% Instant Bomb
+        Conversion, and 5 Conversion Links to all players who stand in it. While active, it summons
+        [[Ability Tokens#Boost|Red Boosts]] and random gifts within its radius. Rarer gifts grow
+        more likely with bee level, and certain gifts are only possible if the bee is [[Gifted
+        Bee|Gifted]]. This mark can link with marks from all players.
+        * [Hive Bonus] [[Capacity]] (Guaranteed) - +10,000 to + 15,000. (up to 115,000 from waxing)
+        * [Hive Bonus] [[System Page|Ticket Chance]] (from waxing, extremely rare) - 1% to 5%.
+        * [Hive Bonus] [[System Page#Convert Rate|Red Bee Convert Rate]] - +10% (up to +20% from
+        waxing)
+        * [Hive Bonus] [[System Page#Honey At Hive|Honey At Hive]] (from waxing, extremely rare,
+        caustic only) - 1% to 10%.
+
+        ==Way(s) To Obtain ==
+        ''There are currently no methods to obtain the Festive Wreath.''
+
+        ===The methods below are no longer possible.===
+        * Opening the Festive Gift box during [[:Category:Beesmas|Beesmas]] 2021 and 2022, located
+        behind [[Onett's Lid Art]]. If you already have the festive wreath, you get 250 [[Ticket]]s
+        and a [[Festive Planter]] instead.
+        *Completing [[Bee Bear|Bee Bear's]] 25th Beesmas 2020 [[Quests|quest]].
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Screen Shot 2021-02-01 at 3.02.39 PM.png|left|thumb|Bee Bear's Festive Bee wearing a Festive
+        Wreath.
+        Festive Mark Image.jpg|thumb|Festive mark on a field.
+        File:1st Edition Gifted Festive Bee with Festive Wreath.png|A First Edition Mutated Gifted
+        Festive Bee wearing a Festive Wreath.
+        File:FestiveWreathInCase.jpg|Festive Wreath in a player's Beequip Case.
+        </gallery>
+
+        ==Trivia==
+        *The Festive Wreath and the [[Reindeer Antlers]] share many similarities:
+        **This and the Reindeer Antlers are the only permanent beequips in the game.
+        ***This is the second permanent beequip added to the game, preceded by the Reindeer Antlers.
+        **The two are the only beequips to have models visible on the bee that they are equipped to.
+        **They are the only beequips to have a set potential, with this beequip always having max
+        potential and the Reindeer Antlers always having a potential of 3.
+        **They are the only beequips that cannot be discarded.
+        **[[Caustic Wax]] is unable to be used on these two beequips.
+        *A model of a Festive Bee with the Festive Wreath can be found outside the map, next to a
+        model of a [[Puppy Bee]] with Reindeer Antlers.
+        *This is the one of three beequips to give a unique ability.
+        **The other two are [[Snowglobe]] and Reindeer Antlers.
+        *The model of the Festive Wreath on Festive Bee is the
+        [https://www.roblox.com/catalog/191097654/Deluxe-Christmas-Wreath Deluxe Christmas Wreath]
+        Roblox accessory.
+
+        {{Items}}
+        [[Category:Beequips]]
+        [[Category:Beesmas]]
+        [[Category:Items]]
+        [[Category:Permanent Beequip]]
+        [[Category:Red]]"}

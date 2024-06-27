@@ -1,0 +1,87 @@
+{"text": "{{Planter
+        |image1=Tacky Planter.png
+        |description=Grows in about 8hrs, but faster near the hives. Grants bonus Field Dice,
+        Sunflower Seeds, and x1.25 Satisfying and Comforting Nectar.
+        |reusable=Yes
+        |cost=50,000,000 [[Honey]], 10 [[Magic Bean]]s, 1 [[Purple Potion]], 5 [[Hard Wax]]es, and
+        20 [[Soft Wax]]es.
+        |grow=~8 hours
+        |growbonus=-25% grow time (6 hours) in the [[Starter Zone|Starting Zone]].
+        |pollen=15,000,000 Pollen
+        |pollenbonus=+100% Pollen in the [[Starter Zone|Starting Zone]].
+        |nectar=+25% Satisfying<br>+25% Comforting
+        |item=
+        *[[Field Dice]]
+        *[[Sunflower Seed]]
+        }}
+
+        The '''Tacky Planter''' is a reusable planter added in 12/26/21 update. It can be purchased
+        in [[Dapper Bear's Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|50,000,000}}<br>{{Cost|Magic Bean|10}}<br>{{Cost|Purple
+        Potion|1}}<br>{{Cost|Hard Wax|5}}<br>{{Cost|Soft Wax|20}}
+        |}
+
+        It grows 25% faster (6 hours), grants 100% more pollen on harvest in the [[Starter Zone]],
+        and grants 25% more Satisfying and Comforting Nectar. Harvesting a fully grown Tacky Planter
+        has a 1/7 (14.28%) chance to spawn a [[Puffshroom]].
+
+        == Drops ==
+        Note that some drops and buffs it gives are based on the field the planter is in.
+        <tabber>
+        Bonus=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Sunflower Seed}}<br>{{Cost|Field Dice}}<br>{{Cost|Smooth
+        Dice}}<br>{{Cost|Loaded Dice|||0}} (Rare)
+        |}
+
+        |-|Other=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Royal
+        Jelly}}<br>{{Cost|Ticket}}<br>{{Cost|Treat}}<br>{{Cost|Bitterberry}}<br>{{Cost|Blue
+        Extract}}<br>{{Cost|Red Extract}}<br>{{Cost|Coconut}}<br>{{Cost|Soft
+        Wax}}<br>{{Cost|Hard
+        Wax}}<br>{{Cost|Enzymes}}<br>{{Cost|Micro-Converter}}<br>{{Cost|Gumdrops}}<br>{{Cost|Stinger}}<br>{{Cost|Honeysuckle}}<br>{{Cost|Glitter}}<br>{{Cost|Oil}}<br>{{Cost|Jelly
+        Beans}}<br>{{Cost|Purple Potion|||0}} (Somewhat Rare, drops in increments of 1 or
+        2)<br>{{Cost|Gold Egg|||0}} (Rare)<br>{{Cost|Star Jelly|||0}}
+        (Rare)<br>{{Cost|Turpentine|||0}} (Extremely Rare)<br>{{Cost|Super
+        Smoothie|||0}} (Exceptionally Rare)<br>{{Cost|Sweatband|||0}} (Very Rare, probability
+        increased in [[Clover Field]])<br>{{Cost|Smiley Sticker|||0}} (Very
+        Rare)<br>{{Cost|Bead Lizard|||0}} (Very Rare)<br>{{Cost|Pink Shades|||0}}
+        (Exceptionally Rare, 1/100,000)<br>{{Cost|Colorful Buttons Sticker|||0}} (Rare)
+        |}
+
+        |-|Special=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Swirled Wax|1}}(When harvested from [[Pumpkin Patch]], 1 month
+        cooldown)<br>{{Cost|Caustic Wax|1}}(When harvested from [[Bamboo Field]], 1 month
+        cooldown)<br>{{Cost|Loaded Dice|1}}(When harvested from [[Mountain Top Field]], 1
+        month cooldown)<br>{{Cost|Dapper From Above Sticker|1}}(Once per player, requires
+        planting the Tacky Planter in a chain of five unknown fields, the name of the sticker is a
+        hint)
+        |}
+        </tabber>
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        Dwaddaw.png|The Tacky Planter.
+        Full grown Tacky Planter in Dandelion field2.png|A fully grown Tacky Planter.
+        File:PlantersShop.jpg|The Tacky Planter along with the 4 other planters for sale in Dapper
+        Bear's Shop.
+        File:TackyPlanterInventory.jpg|Tacky Planter in a player's inventory.
+        </gallery>
+
+        {{Items}}
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Crafted]]
+        [[zh-tw:民俗盆栽]]"}

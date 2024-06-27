@@ -1,0 +1,61 @@
+{"text": "{{Consumables|image=Invigorating vial.png|description=Grants 4 hours of Invigorating
+        Nectar. (Boosts: Red Pollen, Convert Rate, Bee Attack.)|cooldown=1 Second|cap=10}}
+
+        The '''Invigorating Vial''' is a consumable [[Nectar Vial|nectar vial]] [[Items|item]] that
+        was added in the [[Updates#2022.12.26|12/26/2022 update]]. Once used, it grants the player 4
+        hours of the [[Nectar|Invigorating Nectar]] [[Buffs & Debuffs|buff]] instantly. It can
+        also be used to craft other [[:Category:Accessories|accessories]] and [[tools]].
+
+        == Ways to Obtain ==
+        * Completing [[Dapper Bear|Dapper Bear's]] 9th and 12th quests.
+        * Using the [[Nectar Condenser]] to condense Invigorating Nectar.
+        * Adding the Invigorating Nectar Icon to the [[Sticker Stack]] grants 1 Invigorating Vial.
+        === The methods below are no longer possible. ===
+        * Purchasing the Charming Bundle in [[Bee Bear's Catalog]] gave an Invigorating Vial and
+        other items.
+        * Purchasing the Hefty Honeyday Bundle in Bee Bear’s Catalog gave 5 Invigorating Vials and
+        other items.
+        * Opening the [[Gift Boxes#2022|Obnoxious Gift Box]] gave an Invigorating Vial and other
+        items.
+        * Giving a [[present]] to [[Gifted Riley Bee]].
+        * Completing [[Stick Bug#2022 Beesmas Quest - Nymph Hats|Stick Bug's Beesmas 2022 quest]].
+        * Dropped by a Level 10 [[Snowbear]].
+        * Purchasing the Nighttime Nectar Pack in the [[Robux Shop]] granted 1 of each Nectar Vial.
+        == Crafting uses ==
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !style=\"text-align: center\"|Number of Invigorating Vials
+        !Other items required
+        !style=\"text-align: center\"|Crafted item
+        |-
+        |[[File:Invigorating_vial.png|thumb|left|30px]]1x Invigorating Vial
+        |[[File:HoneyDrop.png|thumb|left|20px]]5,000,000,000 [[Honey]]
+        {{clear}}[[File:Stinger.png|thumb|left|20px]]500x [[Stinger]]
+        {{clear}}[[File:Red Extract.png|thumb|left|20px]]250x [[Red Extract]]
+        {{clear}}[[File:Enzymes.png|thumb|left|20px]]150x [[Enzymes]]
+        {{clear}}[[File:Glitter.png|thumb|left|20px]]100x [[Glue]]
+        |[[File:Demon_Mask.png|thumb|left|40px]] [[Demon Mask]]
+        |-
+        |[[File:Invigorating_vial.png|thumb|left|30px]]3x Invigorating Vial
+        |[[File:HoneyDrop.png|thumb|left|20px]]2,500,000,000,000 Honey
+        {{clear}}[[File:Red Extract.png|thumb|left|20px]]1,500x Red Extract
+        {{clear}}[[File:Stinger.png|thumb|left|20px]]150x Stinger
+        {{clear}}[[File:Hardwax.png|thumb|left|20px]]100x [[Hard Wax]]
+        {{clear}}[[File:Causticwax.png|thumb|left|20px]]50x [[Caustic Wax]]
+        {{clear}}[[File:Super_Smoothie.png|thumb|left|20px]]50x [[Super Smoothie]]
+        |[[File:Dark_scythe.png|thumb|left|40px]] [[Dark Scythe]]
+        |}
+
+        == Gallery ==
+        <gallery>
+        File:InvigoratingVial1.png|An Invigorating Vial Token from the Obnoxious Gift Box from
+        Beesmas 2022.
+        File:InvigoratingVial2.png|An Invigorating Vial in the Inventory Menu.
+        </gallery>
+
+        == Trivia ==
+        * This and the [[Refreshing Vial]] are the only Nectar Vials to grant a red pollen boost.
+        * This is the only Nectar Vial to grant a bee attack boost.
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Nectar Vials]]
+        [[Category:Inventory]]"}

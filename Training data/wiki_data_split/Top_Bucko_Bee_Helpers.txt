@@ -1,0 +1,19 @@
+{"text": "{{DISPLAYTITLE:All-Time Top Bucko Bee Helpers}}
+        {{DailyCheck}}
+        ''(Leaderboard as of 04/11/2024)''
+        {{LB|amount1=3,991|name2=SofaSmirnova|amount2=3,309|name3=UncleDenniss|amount3=2,950|name4=riaz1987|amount4=2,787|name5=azbooboo|amount5=2,757|name1=nickname9999999999|name6=TTe4eHl0IIIka|amount6=2,738|name7=20BlackPanter20|amount7=2,665|name8=Fragments3|amount8=2,649|name9=FancySallyPants|amount9=2,645|name10=imnotthinkfanser|amount10=2,563}}
+        The '''Global Top Bucko Bee Helpers Leaderboard''' is one of the 62 [[leaderboards]] in the
+        game. It displays the top 100 people who've completed the most [[quests]] for Gifted Bucko
+        Bee. It can display 10 leaderboard positions at a time. If the player stands on the white
+        circle, they can see how many Gifted Bucko Bee quests that they have completed.
+
+        ==Location==
+        It is located on the second floor of the [[Blue HQ]] next to [[Gifted Bucko Bee]].
+        ==Achievements==
+
+        * imnotthinksfanser was the first user to reach 1,000 Gifted Bucko Bee quests completed.
+        * gfdftggv was the first user to reach 2,000 Gifted Bucko Bee quests completed.
+        * nickname9999999999 was the first user to reach 3,000 Gifted Bucko Bee quests completed.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Leaderboards]]"}

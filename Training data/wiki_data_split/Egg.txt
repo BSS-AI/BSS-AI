@@ -1,0 +1,525 @@
+{"text": "[[File:New egg page.png|thumb|Eggs available inside the [[Robux Shop]].]]
+        '''Eggs''' are a type of [[:Category:Inventory|inventory item]] where the player drags into
+        their [[hive]] to hatch a [[Bees|bee]] or can be donated to the [[Wind Shrine]]. They are
+        also the items that help players start playing in the [[Bee Swarm Simulator|game]]. Eggs
+        come in many different types, some offering chances at different rarities of bees, and some
+        hatching a specific bee. Currently, a total of 5 (or 10 if counting the [[Gifted
+        Bee|gifted]] variants of the eggs) different types of eggs exist in the game, not including
+        [[Plastic Egg]]s, specific bee eggs, the [[Flight of the Bumble Egg]], or the [[Swarming Egg
+        of the Hive]].
+
+        Ever since the [[Updates#2019.09.28|9/28/2019 update]], players do not need a vacant [[Hive
+        Slot|hive slot]] to hatch an egg. Now, players can hatch an egg on top of an existing bee to
+        replace it. The level of the bee remains the same, acting like a [[Royal Jelly]].
+
+        Please also note that due to regulations in Netherlands and Belgium, any eggs in the Robux
+        shop won't be available to purchase for Dutch and Belgian consumers. This restriction counts
+        for every egg in the shop.
+        ==General Egg Types==
+        <tabber>
+        Basic Egg=
+
+        == {{Color|Basic Egg}} ==
+        [[File:Basic_Egg.png|left|100px]] The '''Basic Egg''' is the most common type of egg found
+        in the game. It will almost always hatch into a [[Basic Bee]] (87% chance), but in rare
+        cases, it can hatch into a [[Bees/Rare|Rare Bee]] (10% chance), an [[Bees/Epic|Epic Bee]]
+        (2.5% chance), a [[Bees/Legendary|Legendary Bee]] (0.5% chance), a [[Bees/Mythic|Mythic
+        Bee]] (0% chance), or into a [[Gifted Bee]] (0.4% chance), with a 0.348% (1 out of
+        287.35632184) chance of getting a Gifted Basic Bee from the egg. [[Bees/Event|Event bees]]
+        cannot be hatched from this egg. This egg cannot be used on a Basic Bee.
+        {{clear}}
+
+        <u>Ways to obtain a Basic Egg:</u>
+
+        * First-time players receive a free Basic Egg in their inventory.
+        * Purchasing from the [[Basic Egg Shop]] located near the [[Sunflower Field]] for a base
+        price of {{Cost|Honey|1,000}} and capping at {{Cost|Honey|10,000,000}}. Every time the
+        player purchases a Basic Egg, the price of the next egg scales up.
+        * Adding the Round Basic Bee [[Sticker]] to the [[Sticker Stack]] rewards 1 Basic Egg.
+        |-|Silver Egg=
+
+        == {{Color|Silver Egg}} ==
+        [[File:Silver_Egg.png|left|100px]] The '''Silver Egg''' is a type of egg that will most
+        likely hatch into a Rare bee (64.9% chance), but it has a small chance to hatch into an Epic
+        bee (30% chance), a Legendary bee (5% chance), or a Mythic bee (0.1% chance). A Basic Bee or
+        an Event bee cannot be hatched from this egg.
+        {{clear}}
+
+        <u>Ways to obtain a Silver Egg:</u>
+
+        * Purchasing from the [[Robux Shop]] for {{Cost|Robux|100}}.
+        * Purchasing from [[Ticket Tent]] for {{Cost|Ticket|50}} each.
+        * Finishing [[Black Bear|Black Bear's]] and [[Panda Bear|Panda Bear's]] Silver Egg
+        [[quests|questline.]]
+        * As a reward from [[Brown Bear|Brown Bear's]] 25th quest.
+        * An extremely low chance of dropping from a [[Mantis]] (in increments of 1 or 5).
+        * A low chance of dropping from the [[King Beetle]] and [[Tunnel Bear]].
+        * A low chance to drop from [[Sprout|Rare sprouts]].
+        * An extremely rare chance from [[leaves]] when collecting [[pollen]] in the [[Clover
+        Field]].
+        * As a drop from a {{Cost|Festive Planter|||0}}.
+        * Completing the 25th Sticker-Seeker quest rewards you 1 Silver Egg.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Using the expired [[Codes|code]] \"PreUpdate\" gave 1 Silver Egg and other items.
+        * As a reward for completing [[Bubble Bee Man|Bubble Bee Man's]] quest \"B.B.M's Naughty
+        List\" during the Beesmas 2020 event.
+        * A rare chance to drop from [[stockings]].
+        * A rare reward from the [[Memory Match#Winter Memory Match|Winter Memory Match]].
+        * By purchasing the Silver Egg in [[Bee Bear's Catalog]] for 30 snowflakes and 3
+        [[Gingerbread Bear|gingerbread bears]] during Beesmas 2020 and 2021.
+        * By purchasing the Silver Egg in [[Bee Bear's Catalog]] for 5 [[Gingerbread Bear]]s during
+        Beesmas 2022.
+        |}
+
+        === {{Color|Gifted Silver Egg}} ===
+        [[File:Gifted Silver Egg.png|left|100px]] A '''Gifted Silver Egg''' shares the same
+        probabilities as a Silver Egg, but the egg will always hatch the bee into its gifted
+        variant.
+        {{clear}}
+
+        <u>Ways to obtain a Gifted Silver Egg:</u>
+
+        * Completing [[Black Bear|Black Bear's]] \"Getting Stumped\" quest.
+        * An exceptionally rare chance of dropping from [[Werewolf|werewolves]].
+        * Defeating [[Tunnel Bear]] for the first time guarantees any type of gifted egg including a
+        gifted silver egg, but with lower chances of obtaining upon subsequent defeats.
+        * A rare chance to obtain when defeating the [[Stump Snail]].
+        * An extremely rare chance of dropping from a [[Scorpion]].
+        * As a reward for getting Top 100 in the [[Daily Top Legendary Bee Pollen Collectors]] by
+        the end of a day.
+        * Completing the 100th quest of the [[Sticker-Seeker Quest Machine]] rewards you 1 Gifted
+        Silver Egg.
+
+        |-|Gold Egg=
+
+        == {{Color|Gold Egg}} ==
+        [[File:Gold_Egg.png|left|100px]] The '''Gold Egg''' is a type of egg most likely to hatch
+        into an Epic bee (79% chance), but it has a chance to hatch into a Legendary bee (20%
+        chance) or a Mythic bee (1% chance). A Basic Bee, Rare bee, or an Event bee cannot hatch
+        from this egg.
+
+        5 gold eggs are required in order to craft the [[Honey Mask]]!.
+        {{clear}}
+
+        <u>Ways to obtain a Gold Egg:</u>
+
+        * Purchasing from the [[Robux Shop]] for {{Cost|Robux|200}} each.
+        * Purchasing from the [[Ticket Tent]] for 100 {{Cost|Ticket}} each.
+        * Completing [[Black Bear|Black Bear's]] and [[Panda Bear|Panda Bear's]] gold egg
+        [[Quests|questline]].
+        * As a reward from [[Brown Bear|Brown Bear's]] 50th, 340th and 390th quest.
+        * In token form in the [[Werewolf's Cave]], which is guarded by two [[Cave Monster|cave
+        monsters]].
+        * A low chance of dropping upon defeating the [[King Beetle]].
+        * An extremely low chance of dropping upon defeating a [[scorpion]].
+        * Capturing [[Commando Chick]] 10 times.
+        * A rare chance to drop from [[Sprout|Epic sprouts]].
+        * A rare reward from the [[Memory Match#Extreme Memory Match|Extreme Memory Match]].
+        * A rare drop from a {{Cost|Ticket Planter}}, {{Cost|Candy Planter}}, {{Cost|Red Clay
+        Planter}}, {{Cost|Festive Planter}}, {{Cost|Pesticide Planter}} and {{Cost|Petal Planter}}.
+        * An extremely rare chance of dropping from [[leaves]] when collecting pollen in the
+        [[Clover Field]].
+        * A rare reward from the [[Robo Bear Challenge]].
+        * Completing the [[Sticker-Seeker Quest Machine]]'s 50th quest rewards 1 Gold Egg.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * A rare drop from the [[Stockings]].
+        * Opening the [[Ornament Presents|Golden Present]] gave 1 gold egg and other [[items]].
+        * Purchasing the Black Friday Bundle for {{Cost|Robux|800}} gave 1 gold egg and other items.
+        * A chance of getting from the [[Wind Shrine]] after donating {{Cost|Strawberry}}. This was
+        only possible if the player had completed Spirit Bear's Beesmas 2020 or 2021 quest for the
+        [[Galentine Wind Shrine]].
+        * A low chance to drop from a [[Festive Nymph]].
+        * During Beesmas 2020 and 2021, it could have been purchased in [[Bee Bear's Catalog]] for
+        {{Cost|Snowflake|40}} and {{Cost|Gingerbread Bear|4}}.
+        * As a rare reward from the [[Memory Match#Winter Memory Match|Winter Memory Match]].
+        * Opening the [[Gift Boxes|Gilded Gift Box]] gave 1 Gold Egg and other items.
+        |}
+
+        === {{Color|Gifted Gold Egg}} ===
+        [[File:Gifted Gold Egg.png|left|100px]] A '''Gifted Gold Egg''' shares the same
+        probabilities as a Gold Egg, but the egg will always hatch the bee into its gifted variant.
+        This type of egg cannot be applied to craft the [[Honey Mask]].
+        {{clear}}
+
+        <u>Ways to obtain a Gifted Gold Egg:</u>
+
+        * Defeating [[Tunnel Bear]] for the first time guarantees any type of gifted egg, including
+        a Gifted Gold Egg, but with lower chances of obtaining upon subsequent defeats.
+        * Completing 50 [[Gifted Bucko Bee]] quests or 50 [[Gifted Riley Bee]] quests awards 1
+        Gifted Gold Egg.
+        * Completing 275 [[Brown Bear]] quests awards 1 Gifted Gold Egg.
+        * A very rare chance of dropping upon defeating the [[Stump Snail]] and the [[Coconut
+        Crab]].
+        * As a Playtime Grandmaster [[Badges|badge]] reward from donating tickets to the [[Wind
+        Shrine]].
+        * An exceptionally rare chance to drop from [[mantis]]es.
+        * As a reward for getting Top 100 in the [[Daily Top Epic Bee Pollen Collectors]] by the end
+        of a day.
+        * Completing the 150th quest of the [[Sticker-Seeker Quest Machine]] rewards 1 Gifted Gold
+        Egg.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Opening the [[Ornament Presents|Mondo Present]] during Beesmas 2019 gave 2 gifted gold
+        eggs and other items.
+        |}
+
+        |-|Diamond Egg=
+
+        == {{Color|Diamond Egg}} ==
+        [[File:Diamond_Egg.png|left|100px]] The '''Diamond Egg''' is a type of egg that will most
+        likely hatch into a Legendary bee (95% chance), but it has a rare chance to hatch into a
+        Mythic bee (5% chance). A Basic Bee, Rare bee, Epic bee, or an Event bee cannot hatch from
+        this egg.
+
+        5 Diamond Eggs are required in order to craft the [[Diamond Mask]]!
+        {{clear}}
+
+        <u>Ways to obtain a Diamond Egg:</u>
+
+        * Purchasing from the [[Robux Shop]] for {{Cost|Robux|400}} each.
+        * Completing [[Black Bear|Black Bear's]] Diamond Egg questline.
+        * Purchasing from the [[Ticket Tent]] for {{Cost|Ticket|400}} each.
+        * Completing [[Panda Bear|Panda Bear's]] fifth [[Star Treat|star treat]]/[[Ants|ant]] quest,
+        \"Colossal Combat\".
+        * Completing [[Dapper Bear|Dapper Bear's]] tenth quest, \"The Long Haul\".
+        * Completing [[Brown Bear|Brown Bear's]] 75th and 525th quest.
+        * Completing [[Sticker-Seeker Quest Machine]] 75th quest.
+        * A Diamond Egg token is located past the [[Bear Gate]], under the platform where [[Onett]]
+        stands on. The player can use a [[glider]] or a [[parachute]] and glide towards the token in
+        front of [[Shadow Bear]].
+        * A rare chance of dropping upon defeating the [[Stump Snail]], [[Aphid#Diamond
+        Aphid|Diamond Aphids]], [[King Beetle]], [[Tunnel Bear]], and [[Coconut Crab]].
+        * A very rare chance of dropping upon defeating [[Spider]]s, [[Mantis]]es, and
+        [[Werewolf|Werewolves]].
+        * A rare chance to drop from [[Sprout|Legendary sprouts]].
+        * A guaranteed drop from [[Sprout|Supreme sprouts]].
+        * An extremely rare chance of dropping from [[leaves]] while collecting pollen from the
+        [[Clover Field]].
+        * A rare reward from the [[Memory Match#Extreme Memory Match|Extreme Memory Match]].
+        * A rare drop from a {{Cost|Festive Planter|||0}}.
+        * A very rare reward from catching a [[Mythic Meteor Shower|meteor]].
+        * A rare reward from [[Robo Bear Challenge]].
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Purchasing certain offers from the [[Robux Shop]]:
+        ** The Memorial Day Deal for {{Cost|Robux|700}} gave 1 Diamond Egg and other items.
+        ** The Summer Treat Pack for {{Cost|Robux|300}} gave 1 Diamond Egg and other items.
+        ** The Diamond Moon Pack for {{Cost|Robux|300}} gave 1 Diamond Egg and other items.
+        ** The Sparkly Starter Pack for {{Cost|Robux|400}} gave 1 Diamond Egg and other items.
+        ** The Stocking Stuffer Pack for {{Cost|Robux|450}} gave 1 Diamond Egg and other items.
+        ** The Dual-Diamond Basket for {{Cost|Robux|500}} gave 2 Diamond Eggs and other items.
+        *** This the only offer to give 2 Diamond Eggs instead of 1.
+        ** The Beginner's Bean Bundle for {{Cost|Robux|400}} gave 1 Diamond Egg and other items.
+        ** The Stocking Stuffer Special for {{Cost|Robux|400}} gave 1 Diamond Egg and other items.
+        ** The Black Friday Bundle for {{Cost|Robux|800}} gave 1 Diamond Egg and other items.
+        ** The Snowy Starter Pack for {{Cost|Robux|400}} gave 1 Diamond Egg and other items.
+        ** The New Year Booster Bundle for {{Cost|Robux|400}} gave 1 Diamond Egg and other items.
+        * By purchasing Diamond Eggs from [[Bee Bear's Catalog]] during certain years:
+        ** Purchasing it for {{Cost|Gingerbread Bear|20}} during Beesmas 2020.
+        ** Purchasing it for {{Cost|Snowflake|150}} and {{Cost|Gingerbread Bear|15}} during Beesmas
+        2021.
+        ** Purchasing it for {{Cost|Snowflake|750}} during Beesmas 2022.
+        * Redeeming the expired [[Codes|code]] \"NewMic\", gave 1 diamond egg.
+        * A very rare chance to drop from a [[Festive Nymph]].
+        * A very rare chance to drop from [[stockings]].
+        * A rare reward from [[Memory Match#Winter Memory Match|Winter Memory Match]].
+        |}
+
+        === {{Color|Gifted Diamond Egg}} ===
+        [[File:Gifted Diamond Egg.png|left|100px]] A '''Gifted Diamond Egg''' shares the same
+        probabilities as a Diamond Egg, but the egg will hatch that bee into its gifted variant.
+        This type of egg cannot be applied to craft the [[Diamond Mask]].
+        {{clear}}
+
+        <u>Ways to obtain a Gifted Diamond Egg:</u>
+
+        * An extremely rare chance of dropping upon defeating [[Tunnel Bear]], [[Stump Snail]], or
+        the [[Coconut Crab]].
+        * Defeating [[Tunnel Bear]] for the first time guarantees any type of gifted egg, including
+        a gifted diamond egg, but with lower chances of obtaining upon subsequent defeats as
+        mentioned above.
+        * Completing 100, 250, 500, 750 and 1,000 [[Gifted Bucko Bee]] or [[Gifted Riley Bee]]
+        quests awards one gifted diamond egg each.
+        * As a Quest Grandmaster badge reward from donating {{Cost|Ticket}} to the [[Wind Shrine]].
+        * Completing 425 [[Brown Bear]] quests awards one Gifted Diamond Egg.
+        * As a reward for being in the top 100 in the [[Daily Top Honey Gift Receivers|Daily Top
+        Honey Gift Recievers]].
+        * Completing the [[Sticker-Seeker Quest Machine]] 200th quest awards one Gifted Diamond Egg.
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Opening the [[Ornament Presents|Mondo Present]] during Beesmas 2019 gave 2 gifted diamond
+        eggs and other items.
+        |}
+
+        |-|Mythic Egg=
+
+        == {{Color|Mythic Egg}} ==
+        [[File:Mythic_Egg.png|left|100px]] The '''Mythic Egg''' is a type of egg that will always
+        hatch into a Mythic bee. The player cannot obtain any other type of bee from this egg
+        besides a Mythic bee. (The player can obtain a Gifted Mythic bee from this egg, although it
+        is very rare.)
+        {{clear}}
+
+        <u>Ways to obtain a Mythic Egg:</u>
+
+        * Purchasing from the [[Robux Shop]] for {{Cost|Robux|1200}} each (limited to 3 eggs per
+        player).
+        * Completing [[Black Bear|Black Bear's]] 75th quest, \"Myth in The Making\".
+        * Completing [[Dapper Bear|Dapper Bear's]] 15th quest, \"More Than Myth\".
+        * As a reward from [[Brown Bear|Brown Bear's]] 100th, 200th, and 400th quests.
+        * Purchasing from the [[Ticket Tent]] for {{Cost|Ticket|2500}} each.
+        * An extremely rare chance of dropping upon defeating the [[Stump Snail]], [[Mondo Chick]],
+        and [[Coconut Crab]]. Mondo Chick has a higher chance to drop when defeated faster.
+        * Capturing [[Commando Chick]] for the 50th time guarantees a Mythic Egg.
+        * An extremely rare chance of dropping when catching a [[Mythic Meteor Shower|meteor]].
+        * An extremely rare chance of getting from [[Memory Match#Extreme Memory Match|Extreme
+        Memory Match]].
+        * A very rare drop from a {{Cost|Festive Planter|||0}}.
+        * As a very rare reward from [[Robo Bear Challenge]].
+        * As a reward for getting Top 100 in the [[Daily Top Memory Matchers]] by the end of a day
+        * Completing the [[Sticker-Seeker Quest Machine]] 300th quest awards one Mythic Egg.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * As an extremely rare drop from a [[Party Mechsquito]].
+        * As an extremely rare drop from a [[Party Cogmower]].
+        * A very rare reward from the [[Memory Match#Winter Memory Match|Winter Memory Match]].
+        * Purchasing it for {{Cost|Snowflake|500}} and {{Cost|Gingerbread Bear|100}} in [[Bee Bear's
+        Catalog]] during beesmas 2020, 2021 and 2022.
+        * Opening the [[Gift Boxes|Mondo Gift Box]] awarded 5 Mythic Egg and other items.
+        * Opening the Mythic Gift Box awarded 1 Mythic Egg and other items.
+        * An extremely low chance to drop from [[Stockings]].
+        * Purchasing certain expired packs in the [[Robux Shop]]:
+        ** The Mythic Pack for {{Cost|Robux|800}} robux gave 1 Mythic Egg and other items.
+        ** The Jumbo June Pack for {{Cost|Robux|1700}} gave 1 Mythic Egg and other items.
+        ** The Black Friday Bundle for {{Cost|Robux|800}} robux gave 1 Mythic Egg and other items.
+        ** The Merry Mythic Pack for {{Cost|Robux|800}} gave 1 Mythic Egg and other items.
+        ** The Cyber Monday Deal for {{Cost|Robux|800}} robux gave 1 Mythic Egg and other items.
+        ** The Magical Mythic Pack for {{Cost|Robux|800}} gave 1 Mythic Egg and other items.
+        ** The Cyber Monday Special for {{Cost|Robux|800}} robux gave 1 Mythic Egg and other items.
+        * Opening the [[Ornament Presents|Mythic Present]] awarded 1 mythic egg and other items.
+        * Opening the Mondo Present awarded 2 mythic eggs and other items.
+        * Opening certain [[Gift Boxes]]:
+        ** The Purple Gift Box from Beesmas 2020 awarded 1 mythic egg and other items.
+        ** The Mondo Gift Box from Beesmas 2020 awarded 3 mythic eggs and other items.
+        ** The Mythic Gift Box from Beesmas 2021 and 2022 awarded 1 mythic egg and other items.
+        ** The Mondo Gift Box from Beesmas 2021 and 2022 awarded 5 mythic eggs and other items.
+        |}
+
+        === {{Color|Gifted Mythic Egg}} ===
+        [[File:Gifted Mythic Egg.png|left|100px]]
+        A '''Gifted Mythic Egg''' shares the same probabilities as the Mythic Egg, but the egg will
+        always hatch that bee into its gifted variant.
+        {{clear}}
+
+        <u>Ways to obtain a Gifted Mythic Egg:</u>
+
+        * As a reward for getting Top 25 in the [[Daily Top Rare Bee Pollen Collectors]] by the end
+        of a day.
+        ** Completing 500 [[Sticker-Seeker Quest Machine]] quests.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Purchasing the Merry Mondo Bundle in [[Bee Bear's Catalog]] for {{Cost|Snowflake|25,000}}
+        and {{Cost|Gingerbread Bear|250}} gave 1 Gifted Mythic Egg and other items.
+        * Purchasing the Hefty Honeyday Bundle in Bee Bear's Catalog for {{Cost|Snowflake|25,000}}
+        and {{Cost|Gingerbread Bear|250}} gave 1 Gifted Mythic Egg and other items.
+        * Opening the [[Gift Boxes#2022|Mondo Gift Box]] from Beesmas 2020, 2021, and 2022 awarded 1
+        Gifted Mythic Egg and other items.
+        * Purchasing certain limited-time offers in the [[Robux Shop]]:
+        ** The Mondo Robo Bundle for {{Cost|Robux|4,500}} gave 1 Gifted Mythic Egg and other items.
+        ** The Festive Frenzy Haul for {{Cost|Robux|4,500}} gave 1 Gifted Mythic Egg and other
+        items.
+        ** The Honeyday Mega-Haul for {{Cost|Robux|4,500}} gave 1 Gifted Mythic Egg and other items.
+        |}
+
+        |-|Star Egg=
+
+        == {{Color|Star Egg}} ==
+        [[File:StarEgg.png|left|100px]] The '''Star Egg''' is a type of egg that hatches into any
+        type of [[Gifted Bee|gifted bee]] that is not already in the player's hive, aside from
+        gifted Event bees. If the player already has all the different types of gifted bees in their
+        hive besides gifted event bees, the egg will hatch into a random type of gifted bee instead.
+        {{clear}}
+
+        <u>Ways to obtain a Star Egg:</u>
+
+        * Purchasing from the [[Robux Shop]] for {{Cost|Robux|800}} each (limited to 5 eggs per
+        player).
+        * Completing [[Mother Bear|Mother Bear's]] first ten [[quests]] (\"Seven To Seven\" quest) and
+        [[Panda Bear|Panda Bear's]] first ten star treat/ant quests (\"Royal Rumble\" quest).
+        * An exceptionally rare chance to drop upon defeating the [[King Beetle]] and [[Tunnel
+        Bear]].
+        * Defeating [[Tunnel Bear]] for the first time guarantees any type of gifted egg, including
+        a star egg, but with lower chances of obtaining upon subsequent defeats as mentioned above.
+        * An exceptionally rare chance of dropping from a [[Mythic Meteor Shower]].
+        * An exceptionally rare reward from [[Memory Match#Night Memory Match|Night Memory Match]].
+        * An exceptionally rare chance of dropping from a {{Cost|Festive Planter|||0}}.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Purchasing certain limited-time offers in the Robux Shop:
+        ** The Summer Star Pack for {{Cost|Robux|1,500}} gave 1 Star Egg and other items.
+        ** The Happy Honeyday Pack for {{Cost|Robux|900}} gave 1 Star Egg and other items.
+        ** The Silent Night Special for {{Cost|Robux|800}} gave 1 Star Egg and other items.
+        ** The Jolly Jumbo Pack for {{Cost|Robux|1,700}} gave 1 Star Egg and other items.
+        ** The Nighttime Nectar Pack for {{Cost|Robux|400}} gave 1 Star Egg and other items.
+        * As an extremely rare drop from the [[Party Mechsquito]].
+        |}
+
+        </tabber>
+
+        ==Specific Bee Eggs==
+        Instead of hatching into a random bee of a particular rarity, '''specific bee eggs''' will
+        always hatch into the egg's respective bee. All of these eggs share the same appearance of a
+        basic egg.
+        *A [[Rascal Bee]] egg can drop from a [[ladybug]] during rare occasions.
+        *A [[Bumble Bee]] egg can drop from a [[Rhino Beetle|rhino beetle]] during rare occasions.
+        *A [[Baby Bee]] egg can drop from a [[Tunnel Bear]] during rare occasions.
+        * A [[Honey Bee]] egg can drop from a [[Cave Monster]] during rare occasions.
+        *A [[Fuzzy Bee]] egg could have been purchased from Fuzzy Pack in the Robux Shop for 800
+        Robux, which gave 250 [[ticket]]s, 10 [[glue]], and 10 [[glitter]] along with the egg (no
+        longer available).
+        *A [[Tadpole Bee]] egg and other rewards were awarded upon giving [[Bubble Bee Man]] a
+        [[Present]] during the Beesmas 2020 event (no longer obtainable).
+        *A [[Bubble Bee]] egg could have been obtained by completing [[Bubble Bee Man|B.B.M's
+        Naughty List]] quest from Bubble Bee Man (no longer obtainable).
+        * A [[Commander Bee]] egg can be obtained by capturing the [[Commando Chick]] 200 times.
+        *A [[Buoyant Bee]] egg could have been obtained by purchasing the Buoyant Pack in the Robux
+        Shop for 800 Robux (no longer obtainable).
+        *A [[Precise Bee]] egg could have been obtained by purchasing the Precise Pack in the Robux
+        Shop for 1700 Robux (no longer obtainable).
+        Attempting to use a specific bee egg on a bee that is already the one that's guaranteed by
+        the egg will not work (Using a Honey Bee egg on a Honey Bee won't work and the egg won't be
+        used).
+
+        ===Event Bee Eggs===
+        [[Bees/Event|Event bee]] eggs are a special type of egg that will always hatch into a
+        specific type of Event bee. After an Event bee egg is hatched, the player will receive an
+        exclusive type of [[Royal Jelly#Royal Jelly Variants|permanent royal jelly]] for that
+        specific Event bee. The Event bee royal jelly will turn any bee into that kind of Event bee.
+        It cannot be applied if the player currently has that Event bee in their hive though.
+        * A [[Bear Bee]] egg can be obtained in the Robux Shop for 800 robux. This once cost 1000
+        robux, and on the game's release and certain events, it was reduced to 650 or 600 robux for
+        a short while.
+        *A [[Cobalt Bee]] egg can be obtained at the [[Ticket Tent]] for 250 [[ticket]]s.
+        *A [[Crimson Bee]] egg can be obtained at the [[Ticket Tent]] for 250 tickets.
+        *A [[Digital Bee]] egg can be obtained at [[Robo Bear's Shop]] after getting a Diamond [[Cog
+        Amulet]], 7,777,777 [[Honey]] and 5 of all [[Drives]]. This once could be bought from the
+        [[Robux Shop|Digital Bee Pack]] for 2500 robux.
+        *A [[Festive Bee]] egg can be obtained in the Ticket Tent for 500 tickets, from finishing
+        the 15th quest of [[Bee Bear]] (Festive Fight Finale) during Beesmas 2020 (if the player
+        doesn't have Festive Bee yet, otherwise it gives 500 [[ticket]]s), or from opening the
+        [[Ornament Presents|Festive Present]] during Beesmas 2019. This could once get received from
+        completing all of [[Bee Bear|Bee Bear's]] quests during his first visit, and it could once
+        have been bought from the Festive Bee Pack for 800 robux.
+        *A [[Gummy Bee]] egg can be obtained for 2500 [[gumdrops]] at the [[Gummy Bee Egg Claim]].
+        This could once have been obtained from completing all of [[Gummy Bear|Gummy Bear's]]
+        [[quests]] during the [[:Category:Gummy Invasion|Gummy Invasion event]], and it could once
+        have been purchased in the Ticket Tent for 500 tickets.
+        * A [[Photon Bee]] egg can be obtained at the Ticket Tent for 500 tickets.
+        *A [[Puppy Bee]] egg can be obtained at the Ticket Tent for 500 tickets. This was once on
+        sale for 250 tickets. This once could've been bought from the Reindeer Puppy Pack for 800
+        robux during Beesmas 2020.
+        *A [[Tabby Bee]] egg can be obtained at the [[Ticket Tent]] for 500 tickets. This was once
+        on sale for 250 tickets.
+        *A [[Vicious Bee]] egg can be obtained at the [[Vicious Bee Egg Claim]] for 250
+        [[stingers]].
+        *A [[Windy Bee]] egg can be obtained from the [[Wind Shrine]] if the player donates a
+        variable amount of [[Cloud Vial|cloud vials]] after donating a [[Spirit Petal]]. This once
+        could've been bought from the Windy Bee Pack for 800 robux.
+
+        == Gallery==
+        <gallery orientation=\"none\" hideaddbutton=\"true\">
+        Silver Egg Stocking.png|A Silver Egg token.
+        Goldeggtoken.png|A Gold Egg token.
+        Diamondegg.png|A Diamond Egg token.
+        Mythicegg.png|A Mythic Egg token (from a gift during Beesmas).
+        StarEgg Token.png|A Star Egg token.
+        GiftedSilverEgg Token.png|A Gifted Silver Egg token.
+        GiftedGoldEgg Token.png|A Gifted Gold Egg token.
+        A gifted diamond egg token.png|A Gifted Diamond Egg token.
+        GiftedMythicEggToken.webp|A Gifted Mythic Egg token (from a gift during Beesmas).
+        Diamond eggs gifted one.png|A Diamond Egg and Gifted Diamond Egg in inventory.
+        RascalBumble.png|A Bumble Bee egg and a Rascal Bee Egg in inventory.
+        </gallery>
+
+        ==Trivia==
+
+        *The [[Vicious Bee]], [[Windy Bee]], [[Festive Bee]], and [[Gummy Bee]] Eggs are the only
+        types of [[Bees/Event|Event bee]] eggs that could or can be obtained without spending robux
+        or [[ticket]]s. (The Festive Bee Egg can now be purchased in the [[Ticket Tent]] for 500
+        tickets.)
+        *Star Eggs and Basic Eggs are the only two eggs that can hatch into a [[Gifted Bee|Gifted]]
+        [[Basic Bee]].
+        *[[Plastic Egg]]s, the [[Flight of the Bumble Egg]] (Egg Hunt 2019), and the [[Swarming Egg
+        of the Hive]] (Egg Hunt 2020) are the only types of eggs that do not hatch into a
+        [[Bees|bee]].
+        * Any kind of specific bee egg and event bee egg will have the same icon as a Basic Egg in
+        the inventory.
+        *The [[Bear Bee]], [[Festive Bee]], [[Puppy Bee]], and [[Windy Bee]] Eggs are the only type
+        of Event bee eggs that can/could be obtained directly by spending robux.
+        *Basic Eggs are the only type of eggs that can be obtained with honey.
+        ** It is also tied with the Gifted Mythic Egg for the least number of ways to be obtained,
+        being only 2.
+        *The star that appears on the Star Egg is slightly larger than the stars on the other types
+        of gifted eggs.
+        *The Mythic Egg is the only type of egg with the name of the bee rarity that it hatches
+        into.
+        **The Mythic Egg is also the only egg that has a 100% of hatching into a certain bee rarity
+        (except for Event bee eggs and specific bee eggs). However, before mythic bees were added,
+        diamond eggs used to have a 100% chance of hatching into a legendary bee.
+        **The Mythic Egg is also the only egg with a letter on it.
+        **The letter on the Mythic Egg is Latin-Script.
+        *The [[Fuzzy Bee]] egg, [[Buoyant Bee]] egg and the [[Precise Bee]] egg are the only
+        non-event and the only specific bee eggs that could be bought from the Robux Shop.
+        * The Gifted Silver Egg and the Star Egg are the only Gifted eggs that can be obtained by
+        completing the main questlines from [[:Category:NPC|NPCs]] (Black Bear's \"Getting Stumped\",
+        Mother Bear's \"Seven To Seven\", and Panda Bear's \"Royal Rumble\").
+        * The player cannot hatch a specific bee egg on that specific bee. For example, a Bumble Bee
+        egg cannot be hatched on a Bumble Bee.
+        *The Basic Egg is the only egg without a gifted variant of itself, excluding specific bee
+        eggs.
+        **Similarly, the Star Egg is the only Gifted egg without a regular variant.
+        *The Diamond and Basic Eggs are the only non-specific or event eggs that can hatch into a
+        bee of their name (the [[Diamond Bee|Diamond]] and Basic Bees, respectively), though you can
+        get other bees from these eggs.
+        *The Bubble Bee Egg is the only non-Event specific bee egg that can be obtained from a quest
+        (B.B.M's Naughty List).
+        *The Tadpole Bee Egg is the only egg that can be obtained by giving a present (to Bubble Bee
+        Man).
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[zh-tw:蜂卵]]"}

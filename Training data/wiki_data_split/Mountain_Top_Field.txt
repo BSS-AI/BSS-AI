@@ -1,0 +1,171 @@
+{"text": "{{Field
+        |fieldcolor = Red/Blue
+        |bees = 25
+        |width = 24
+        |height = 28
+        |image = MountainTopField2024.png
+        }}
+        The [[Mountain Top Field]] is a [[Fields|field]] located behind the [[Lion Bee Gate]]. The
+        [[Mondo Chick]] protects this field and respawns every hour.
+
+        This is a 24×28 field, containing 672 [[flowers]]. The flowers are red and blue, and the
+        natural size is triple.
+
+        {| class=\"article-table\"
+        |-
+        !Flowers
+        ! colspan=\"2\" |White
+        ! colspan=\"2\" |Red
+        ! colspan=\"2\" |Blue
+        ! colspan=\"2\" |Total
+        |-
+        !Single
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |'''''0%'''''
+        |-
+        !Double
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |'''''0%'''''
+        |-
+        !Triple
+        |0
+        |''0%''
+        |336
+        |''50%''
+        |336
+        |''50%''
+        |672
+        |'''''100%'''''
+        |-
+        !Total
+        |'''0'''
+        |'''''0%'''''
+        |'''336'''
+        |'''''50%'''''
+        |'''336'''
+        |'''''50%'''''
+        |'''672'''
+        |'''''100%'''''
+        |}
+        '''Note: The flowers in fields are randomly generated, so the flower counts above may not be
+        100% accurate. The percentages should be roughly correct, however.'''
+
+        This field can spawn [[Ability Tokens#Boost|Red Boost]], [[Ability Tokens#Boost|Blue
+        Boost]], [[Honey]], [[Magic Bean]], [[Ticket]], [[Bitterberry|Bitterberry]], and
+        [[Neonberry|Neonberry]] Tokens while collecting pollen.
+
+        [[Bees]] that like the Mountain Top Field are [[Basic Bee]], [[Looker Bee]], [[Frosty Bee]],
+        [[Honey Bee]], [[Precise Bee]], [[Buoyant Bee]], [[Digital Bee]], [[Festive Bee]] and
+        [[Gummy Bee]]. Bees that dislike the Mountain Top Field are [[Carpenter Bee]] and [[Demon
+        Bee]].
+
+        This field gives Invigorating [[Nectar]] when a planter is placed here.
+
+        A level 6-8 [[Rogue Vicious Bee]] can spawn here.
+
+        A level 1-20 [[Wild Windy Bee]] can spawn here.
+
+        == Obtaining Boosts==
+        *Using [[Glitter]] will add 100% Mountain Top Field pollen onto the current boost for 15
+        minutes if the boost isn't already maxed out.
+        *Using [[Field Dice]], [[Smooth Dice]], or [[Loaded Dice]] may add +100% Mountain Top Field
+        pollen for 15 minutes if the current boost isn't maxed out yet.
+        *Mountain Top [[Field Wind]]s can be obtained through the [[Wind Shrine]] or [[codes]]. They
+        have a base of +20% instant Mountain Top Field conversion and give +5% instant Mountain Top
+        Field conversion and +10% Mountain Top Field pollen for each stack. Mountain Top Field can
+        stack up to a total of 13 times.
+        *Redeeming certain valid [[codes]]:
+        **(There are currently no valid codes that give a Mountain Top Field boost.)
+        ===The methods below are no longer possible.===
+        *Giving a [[Present]] to [[Onett]] in 2020 gave Mountain Top Field Boost x1 and other boosts
+        and [[items]]. In 2021, he gave Mountain Top Field Boost x3 and other boosts and items.
+        *Purchasing a Mountain Top Field [[Buffs & Debuffs#From Areas|Market Boost]] from the
+        [[Boost Market]] or certain codes will give x1.5 Mountain Top [[Field Capacity]], x1.25
+        Mountain Top Field Pollen, +25% [[System Page#Pollen From Tools|Pollen From Tools]], and
+        x1.25 [[System Page#Hive Convert Rate|Convert Rate At Hive]].
+        *Redeeming certain expired codes:
+        **Keen4 (Gave Mountain Top Field Boost x3 + other stuff).
+        **3YearParty (Gives Mountain Top Field Boost x3, Mountain Top Field Capacity x3, and
+        Mountain Top Field Market Boost + other stuff).
+        **100mVisits (Gave Mountain Top Field Boost x3 + other stuff).
+        **Xanthan (Gave Mountain Top Field Boost x3 + other stuff).
+        **Whoops (Gave Mountain Top Field Boost x3 + other stuff).
+        **SaleEnd (Gave Mountain Top Field Boost x3 + other stuff).
+        **Reboots (Gave Mountain Top Field Boost x4 + other stuff).
+        **MegaMittens (Gave Mountain Top Field Boost x3 + other stuff).
+        **PuppyPerk (Gave Mountain Top Field Boost x1 + other stuff).
+        **SunBearSendoff (Gave Mountain Top Field Boost x3 + other stuff).
+        **12HourGeneral (Gave Mountain Top Field Boost x1 + other stuff).
+        **Waiting (Gave Mountain Top Field Boost x3 + other stuff).
+        **1mFavorites (Gave Mountain Top Field Boost x1 + other stuff).
+        **MagicMittens (Gave Mountain Top Field Boost x1 + other stuff).
+        **SDMittens1T (Gave Mountain Top Field Boost x1 + other stuff).
+        **TallTallMountain (Gave Mountain Top Field Boost x2 + other stuff).
+        **BloxyCelebration (Gave Mountain Top Field Boost x3 + other stuff).
+        **WindyWeekend (Gave Mountain Top Field Boost x1 and Mountain Top Field Winds x3 + other
+        stuff).
+        **RebootCheer (Gave Mountain Top Field Boost x3 and Mountain Top Field Winds x3 + other
+        stuff).
+        **2Years (Gave Mountain Top Field Boost x3 + other stuff).
+        **2YearsAfterParty (Gave Mountain Top Field Capacity x3 and Mountain Top Field Market Boost
+        + other stuff).
+        **SpaceReboot (Gave Mountain Top Field Boost x3 and Mountain Top Field Capacity x3 + other
+        stuff).
+        **BillionVisits (Gave Mountain Top Field Winds x10 + other stuff).
+        **MondoOutage (Gave Mountain Top Field Code Buff + other stuff).
+        **FrozenBugReboot (Gave Mountain Top Field Boost x4 and Mountain Top Field Code Buff + other
+        stuff).
+        **1MLikes (Gave Mountain Top Field Boost x1 + other stuff)
+        **BlackReboot (Gave Mountain Top Field Boost x4 and Mountain Top Field Winds x15 + other
+        stuff)
+        **BeequipTradeReboot (Gave Mountain Top Field Boost x4, and Mountain Top Field Winds x15 +
+        other stuff).
+        ==Gallery==
+        <gallery>
+        Fis_mountain.png|The {{PAGENAME}}'s associated [[Field Boost|boost icon]].
+        Hivesticker mountain top field stamp.png|The {{PAGENAME}}'s associated
+        [[Sticker#Stickers|field stamp]].
+        </gallery>
+        ==Trivia==
+        *This is the only field that doesn't produce [[treats]] from farming. However, harvesting
+        [[sprout]]s in the Mountain Top Field will still drop normal rewards.
+        *Leaves in this field are more rare, and always either spawn bitterberries, [[aphid]]s, or a
+        [[Sticker]].
+        *This is the only field past the Lion Bee Gate.
+        *This was the only field that wasn't targeted by the [[Gummy Cannon]] during the
+        [[:Category:Gummy Invasion|Gummy Invasion]] event. (The [[Stump Field]], [[Coconut Field]],
+        [[Pepper Patch]], and the [[Ant Field]] were not in the game at that time.)
+        *The Mountain Top Field and the Ant Field were the only two fields that did not have their
+        own [[badges]].
+        **This was changed in the 1/12/2024 Update, when the Mountain Top Field received a badge,
+        thus making the Ant Field the only field without a badge.
+        *This is the first field that consists of only triple flowers, the second being the Stump
+        Field, the third and fourth being the Pepper Patch and the Coconut Field.
+        **This is also the only field without any white flowers.
+        *Following the [[Roblox: The Classic|Classic Event]],<ref>[[Roblox: The
+        Classic|Roblox: The Classic | Bee Swarm Simulator Wiki | Fandom]]</ref> this field,
+        the Ant Field, and Coconut Field cannot be boosted by traditional boosters.
+        **The Coconut Field can only be boosted with the [[Coconut Dispenser]].
+        *Before the [[Updates#2018.11.25|11/25/2018 update]], the [[Red Cannon]] required 22
+        discovered [[Bees|bee]] types, but now it requires 25 instead, so the player can't bypass
+        the Lion Bee Gate without 25 bees or 25 bee types discovered.
+        **After the 9/28/2019 update, even by bypassing the Lion Bee Gate with 25 bee types
+        discovered but not 25 bees, the player will be teleported back to spawn.
+
+        ==References==
+        {{Reflist}}
+        {{MapNav}}
+        [[Category:Fields]]
+        [[Category:Locations]]"}

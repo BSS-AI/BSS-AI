@@ -1,0 +1,106 @@
+{"text": "{{Bee
+        |image-orig = Windy_Bee.png
+        |image-gifted = WindyBee_Gifted.png
+        |description = An ethereal bee as powerful and unpredictable as the weather.
+        |rarity = Event
+        |color = Colorless
+        |energy = 20
+        |speed = 19.6
+        |attack = 4
+        |skincolor1 = #f2ffff
+        |skincolor2 = #f2ffff
+        |skincolor3 = #f2ffff
+        }}
+        ''<sup>This page is for the tamed version of Windy Bee. For the hostile version, see
+        [[Wild Windy Bee]].</sup>''
+
+        '''Windy Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Event|Event bee]] that hatches
+        from a [[Egg#Event Bee Eggs|Windy Bee egg]], which can be obtained from donating [[Cloud
+        Vial]]s after previously donating a [[Spirit Petal]] to the [[Wind Shrine]].
+
+        Like all other Event bees, this bee does not have a favorite Treat, and the only two ways to
+        make it gifted is by feeding it a [[Star Treat|Star Treat]], [[Gingerbread Bear]]s or [[Aged
+        Gingerbread Bear]]s.
+
+        Windy Bee likes the [[Dandelion Field]] and the [[Coconut Field]]. It dislikes the [[Bamboo
+        Field]] and the [[Strawberry Field]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 3 seconds.
+        * Makes 180 [[Honey]] in 2 seconds.
+        * +40% [[Stats#Speed|Movespeed]], +50% Convert Speed, +25% Gather Speed, +100 [[System
+        Page#Convert Amount|Convert Amount]], +3 [[Stats#Attack|Attack]].
+        * 🌟 [[Gifted Bee#List of Hive Bonuses|Gifted Hive Bonus]]: +15% [[System Page#Instant White
+        Conversion|Instant White Conversion]], x2 Boosts From [[Clouds]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Boost|[White Boost]]]''' Grants x1.2 pollen from White [[Flowers]] for
+        15s. Stacks up to 10 times.
+        * '''[[Ability Tokens#Rain Cloud|[Rain Cloud]]]''' Summons a Cloud in a different field that
+        lasts for 60s (+10s per level). Clouds make flowers grow and grant +25% Pollen and 10%
+        Unique Instant Conversion to nearby players (50% Pollen and 20% Unique IC if the player has
+        a gifted Windy Bee). If another player's Windy Bee spawns a cloud in the field the player is
+        on, a message will appear announcing \"<span style=\"background:grey;color:white; \">🌧️
+        [Username]'s Windy Bee summoned a Cloud in this field. 🌧️</span>\"
+        * '''[[Ability Tokens#Tornado|[Tornado]]]''' Spends your \"[[Ability Tokens#Haste|Haste]]\"
+        stacks to summon a Tornado which damages enemies and collects [[Tokens]] and Pollen.
+        Lifespan, speed, and damage are increased by the number of Haste stacks spent and bee level.
+        {{Stat|pollen = 10|pollentime = 3|honey = 180|honeytime = 2|rarity = event}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Windy Face.png|Windy Bee's face.
+        Screen Shot 2020-07-17 at 4.19.42 pm.png|A First Edition Windy Bee.
+        Windybee.png| A gifted Windy Bee hive slot.
+        Windy Bee.jpg|The now discontinued Windy Bee robux pack.
+        Tornado.png|Tornado token.
+        Whirlwind.png|A tornado spawned by a player.
+        Cloud.png|Rain Cloud token.
+        Windycover.png|Windy Bee on the game's icon along with Spirit Bear and Basic Bee.
+        Wd.jpg|A surprise message when a player obtained a Windy Bee egg from the Wind Shrine.
+        File:Windybeecloudmsg.png|A message from Windy Bee after collecting a Rain Cloud Token.
+        </gallery>
+
+        == Trivia ==
+        * It was formerly available to purchase for 800 Robux until the deadline, October 27 of
+        2019.
+        ** This was the 3rd bee available to be bought for Robux, with the eighth being [[Digital
+        Bee]], sixth and seventh being [[Buoyant Bee|Buoyant]] and [[Precise Bee]], the fifth being
+        [[Puppy Bee]], the fourth being [[Fuzzy Bee]], the second being [[Festive Bee]] and the
+        first being [[Bear Bee]].
+        * There is a gate dedicated to it, known as the [[Windy Bee Gate]] or the 35 bee gate.
+        * This, and [[Vicious Bee]] are the only bees to have a hostile variant.
+        * This bee, [[Music Bee]], [[Vector Bee]], [[Tadpole Bee]], [[Spicy Bee]], Fuzzy Bee,
+        Buoyant Bee, Festive Bee and [[Digital Bee]] are the only bees with three different ability
+        tokens, the most of any bee.
+        * This bee, [[Ninja Bee]], [[Shy Bee]], and Fuzzy Bee are the only bees that have only one
+        skin color.
+        * This bee is the only bee to have the same skin color when it turns [[Gifted Bee|gifted]].
+        * This bee, [[Cobalt Bee]], [[Crimson Bee]], and Puppy Bee are the only event bees that
+        don't have an 'enhanced' ability when gifted.
+        * This bee is the only bee to have 2 gifted bonuses, excluding other Event bees who enhance
+        their ability.
+        * Currently, this bee, Bear Bee, [[Gummy Bee]], Digital Bee and Vicious Bee are the only
+        event bees that can't be bought in the [[Ticket Tent]].
+        * This is the only Event Bee to dislike 2 fields.
+        * This, along with Buoyant Bee, are the only bees to be able to produce a White Boost token.
+        However Buoyant Bee only produces it through Surprise Parties.
+        * The Tornado ability, [[frog]]s, [[Puppy Bee|Puppy Bee's]] [[Ability Tokens#Fetch|Fetch]]
+        ability, the [[Cub Buddy]] and [[Passive Abilities#Star Saw|Star Saw]] are the only entities
+        that can pick up [[items]] outside of personal tokens for the player.
+        * This bee and Festive Bee are the only non-gifted bees that have tinted wings.
+        * This bee was hinted at during the [[Black Bear]] quest \"Black Bear, Why?\" when he says
+        this: \"Vicious Bee isn't the only bee that causes trouble! One time, I saw a strange bee
+        destroy a whole field with powerful gusts of wind! I wonder if there are any other
+        mysterious bees roaming free out there?\"
+        * At one point, a model of a Windy Bee could be found outside the map, alongside with a
+        model of a Vicious Bee.
+        * Supposedly, Windy Bee likes the [[Dandelion Field]] because dandelion seeds 'go wherever
+        the wind takes them.'
+        * Spirit Bear referred Windy Bee as a \"She\".
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Colorless]]
+        [[Category:Event]]
+        [[zh-tw:風蜂]]"}

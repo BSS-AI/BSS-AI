@@ -1,0 +1,32 @@
+{"text": "{{DailyCheck}}
+        ''(Leaderboard as of 04/11/2024)''
+        {{LB|name1=buffwhite_mikey|name2=sin040412|name3=ethanolodj|name4=ClawOlife|name5=NicolaiJee|amount1=11.022
+        qd|amount2=10.645 qd|amount3=7.1682 qd|amount4=3.7955 qd|amount5=3.7266
+        qd|name6=Cawuoo|amount6=3.6095 qd|name7=e_ioi|amount7=3.3722
+        qd|name8=pruudent|amount8=3.0488 qd|name9=Onett|amount9=2.8143
+        qd|name10=WhiteHiveKing|amount10=2.7215 qd}}
+
+        The '''All-Time Top White Pollen Collectors''' is one of the 62 [[leaderboards]] in the
+        game, and one of the 20 leaderboards with an in-game model. This leaderboard shows how much
+        white [[pollen]] players have collected over time. It shows 10 leaderboard positions at a
+        time. The player can scroll down the leaderboard to see more players, all the way to the
+        100th place. Only legitimate players appear on the leaderboards for lengths of time
+        (hackers/exploiters will be removed).
+
+        If the player steps on the white pad in front of it, the message <span
+        style=\"background-color:#0090BF; color:white;\">\"You've collected \"x\" White
+        Pollen\"</span> will appear. \"x\" being the amount of white pollen you have collected.
+
+        == Location ==
+        It is located inside the 35 Bee zone on the left wall of the [[Petal Shop]], near the
+        entrance.
+
+        == Achievements ==
+
+        * MrMocito was the first user to reach 10 trillion total white pollen collected.
+        * MrMocito was the first user to reach 100 trillion total white pollen collected.
+        * MrMocito was the first user to reach 1 quadrillion total white pollen collected.
+
+        {{MapNav}}
+        [[Category:Leaderboards]]
+        [[Category:Locations]]"}

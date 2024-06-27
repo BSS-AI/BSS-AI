@@ -1,0 +1,51 @@
+{"text": "{{Accessory
+        |image1 = Propeller.png
+        |description= A playful hat that keeps the sun out of your eyes.
+        |cost = 2,500,000 [[Honey]], 25 [[Gumdrops]], 100 [[Pineapple|Pineapples]], and 5 [[Moon
+        Charm|Moon Charms]].
+        |stats = +15% Pollen<br>+5% Bee Ability Rate<br>+10% Defense<br>+10 Jump
+        Power
+        }}
+        {{Quote|A playful hat that keeps the sun out of your eyes.}}
+        The '''Propeller Hat''' is a [[:Category:Hats|Hat Accessory]] that can be bought at the
+        [[Pro Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|2,500,000}}<br>{{Cost|Gumdrops|25}}<br>{{Cost|Pineapple|100}}<br>{{Cost|Moon
+        Charm|5}}
+        |}
+
+        == Stats ==
+        * +15% [[System Page#Pollen|Pollen]].
+        * +5% [[System Page#Bee Ability Rate|Bee Ability Rate]].
+        * +10% [[System Page#Defense|Defense]].
+        * +10 [[System Page#Jump Power|Jump Power]].
+
+        == Gallery ==
+        <gallery>
+        File:Playerwearingthepropelerhat.png|A player wearing the Propeller Hat
+        File:Propellerhaticon.png|The Propeller Hat icon.
+        </gallery>
+
+
+        == Trivia ==
+        *This is the only available Hat in the Pro Shop.
+        * This is the most expensive [[Items|Item]] available in the Pro Shop.
+        * This along with the [[Hiking Boots]] are required to access [[Dapper Bear's Shop]].
+        *This, the [[Beekeeper's Mask]], the [[Helmet]], and the [[Strange Goggles]] are the only
+        masks not to be based off bees.
+        * This hat can be used along with the [[Hiking Boots]] to access the [[Rose Field]] from the
+        [[Sunflower Field]] and enable access to various [[Royal Jelly]] tokens around the map.
+        * After the [[Updates#2018.09.10|9/10/2018 Update]], its stats were nerfed. +15 Jump Power
+        was reduced to +10, and +4 [[System Page#Movespeed|Movespeed]] was removed.
+        * Before the [[Updates#2018.11.25|11/25/2018 Update]], it cost 3,000,000 honey and no
+        [[Crafting|Crafting Materials]].
+        * After the 9/10/2018 update, this became the only hat to grant Jump Power.
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Hats]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

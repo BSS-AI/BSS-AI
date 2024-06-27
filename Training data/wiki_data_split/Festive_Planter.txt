@@ -1,0 +1,89 @@
+{"text": "{{Unobtainable}}
+        {{Planter
+        |image1=Festive Planter.png
+        |description=Grows in about 4 hours of playtime. Grants many rewards and x3 Nectar!
+        |reusable=No
+        |grow=~4 hours
+        |nectar=x3 Refreshing<br>x3 Comforting<br>x3 Satisfying<br>x3
+        Motivating<br>x3 Invigorating
+        |pollen=250,000 Pollen
+        |growbonus=-|pollenbonus=-|item=Gingerbread Bear<br>Silver Egg<br>Gold
+        Egg<br>Diamond Egg<br>Night Bell}}
+
+        The '''Festive Planter''' is a [[:Category:Beesmas|Beesmas]] exclusive single-use planter
+        added in the [[Updates#2021.12.26|12/26/21 Beesmas update]]. It grows in 4 hours of
+        playtime, and grants 3x more nectar. The chances of a Festive Planter spawning a
+        [[Puffshroom]] is 1/10 (10%).
+
+        Only 1 Festive Planter can be active at a time.
+        ==Drops==
+        ''Note that some drops and buffs it gives are based on the field the planter is in.''
+
+        {| class=\"article-table\"
+        !Possible Drops List
+        |-
+        |{{Cost|Ticket}}<br>{{Cost|Field Dice}}<br>{{Cost|Smooth
+        Dice}}<br>{{Cost|Loaded Dice}}<br>{{Cost|Soft
+        Wax}}<br>{{Cost|Whirligig}}<br>{{Cost|Jelly
+        Beans}}<br>{{Cost|Gumdrops}}<br>{{Cost|Honeysuckle}}<br>{{Cost|Enzymes}}<br>{{Cost|Oil}}<br>{{Cost|Red
+        Extract}}<br>{{Cost|Blue
+        Extract}}<br>{{Cost|Glitter}}<br>{{Cost|Glue}}<br>{{Cost|Micro-Converter}}<br>{{Cost|Pineapple}}<br>{{Cost|Strawberry}}<br>{{Cost|Blueberry}}<br>{{Cost|Sunflower
+        Seed}}<br>{{Cost|Bitterberry}}<br>{{Cost|Neonberry}}<br>{{Cost|Gingerbread
+        Bear}}<br>{{Cost|Magic Bean}}<br>{{Cost|Silver Egg}}<br>{{Cost|Gold
+        Egg}}<br>{{Cost|Diamond Egg}}<br>{{Cost|Star Jelly}}<br>{{Cost|Purple
+        Potion}}<br>{{Cost|Swirled Wax}}<br>{{Cost|Flying Bee Bear Sticker|||0}}
+        (Rare)<br>{{Cost|Super Smoothie|||0}} (Rare)<br>{{Cost|Night Bell|||0}}
+        (Rare)<br>{{Cost|Festive Bean|||0}} (Rare)<br>{{Cost|Mythic Egg|||0}} (Very
+        Rare)<br>{{Cost|Star Treat|||0}} (Very Rare)<br>{{Cost|Turpentine|||0}}
+        (Extremely Rare)<br>{{Cost|Star Egg|||0}} (Exceptionally Rare)
+        |}
+
+        == Ways to Obtain==
+        ''There are currently no methods to obtain the Festive Planter.''
+
+        ===The methods below are no longer possible.===
+
+        *By purchasing certain items/bundles from [[Bee Bear's Catalog]]:
+        **Buying the Festive Planter for 100 [[Snowflake]]s and 10 [[Gingerbread Bear]]s during the
+        2021 and 2022 [[Beesmas]] events.
+        **Buying the Merry Mondo Bundle for 25,000 Snowflakes and 250 Gingerbread Bears gave 10
+        Festive Planters and other items.
+        **Buying the Hefty Honeyday Bundle in Bee Bear's Catalog for 25,000 Snowflakes and 250
+        Gingerbread Bears gave 10 Festive Planters and other items.
+        *Completing [[Bee Bear|Bee Bear's]] 5th and 10th quest of Snow Cub Reformation.
+        *By opening certain [[Gift Boxes]]:
+        **Opening the Festive Gift Box from 2021 gave 1 Festive Planter, 2 if the player already had
+        the [[Festive Wreath]], it also gave other items.
+        **Opening the Festive Gift Box from 2022 gave 2 Festive Planters and other items.
+        **Opening the Mondo Gift Box from 2021 and 2022 gave 5 Festive Planters and other items.
+        *By purchasing certain offers in the [[Robux Shop]]:
+        **Purchasing the Festive Frenzy Haul for 4,500 robux gave 10 Festive Planters and other
+        items.
+        **Purchasing the Mondo Robo Bundle gave 10 Festive Planters and other items.
+        *Completing [[Spirit Bear|Spirit Bear's]] Beesmas quest rewarded 1 Festive Planter.
+        *As a reward for completing Onett's Beesmas 2022 Quest.
+        * As a reward for completing Spirit Bear's Beesmas 2022 Quest.
+        *Completing Bee Bear's 10th and 20th quest rewards the player with a Festive Planter.
+        * As a reward for completing your own Robo Party (Rank 40).
+
+        ==Gallery==
+        <gallery>
+        Full Grown Festive Planter.jpg|A fully grown Festive Planter.
+        Festive Planter with a puffshroom..png|A Festive Planter hosting a [[Puffshroom]].
+        Festive Planter Inventory.png|A Festive Planter in the inventory.
+        Floating festive planter.jpg|A newly placed Festive Planter in the Stump Field.
+        </gallery>
+
+        ==Trivia ==
+        *At this time, the max possible amount of Festive Planters a player can obtain is 101.
+        *This is the only planter that can drop Magic Beans.
+        *This planter gives the best Nectar multiplier in the game (3x), overtaking the [[Ticket
+        Planter]] and [[Sticker Planter]] that give a x2 nectar multiplier.
+        *This is one of the four planters that aren't reusable. Others being the [[Ticket Planter]],
+        [[Sticker Planter]] and the [[Paper Planter]].
+
+        {{Items}}
+        [[Category:Beesmas]]
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Consumables]]"}

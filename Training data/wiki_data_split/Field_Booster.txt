@@ -1,0 +1,55 @@
+{"text": "[[File:FieldBooster.png|thumb|220x220px|The Field Booster.]]
+        The '''Field Booster''' is a booster that provides a [[Field Boost|field boost]] to a random
+        [[field]] that is either [[:Category:Colorless|colorless]] or has no primary color (mixed
+        fields) for 15 minutes. The machine is located beyond the [[Lion Bee Gate]], between the
+        [[Mountain Top Shop]] and the [[Ticket Shop]]. In order to use it, the player needs to have
+        discovered 20 bee types. The cooldown is 45 minutes.
+
+        The following audio plays when the Field Booster has been
+        activated:[[File:Fieldbooster.ogg]]
+
+        == Boosts ==
+        * [[Sunflower Field]]: +300% [[pollen]]
+        * [[Dandelion Field]]: +300% pollen
+        * [[Spider Field]]: +200% pollen
+        * [[Clover Field]]: +200% pollen
+        * [[Pineapple Patch]]: +200% pollen
+        * [[Pumpkin Patch]]: +200% pollen
+        * [[Cactus Field]]: +100% pollen
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        SunflowerFieldBoostSparkles.png|A boosted Sunflower Field.
+        Fis sunflower.png|The Sunflower Field boost icon.
+        Fis dandelion.png|The Dandelion Field boost icon.
+        Fis pineapple.png|The Pineapple Patch boost icon.
+        Fis spider.png|The Spider Field boost icon.
+        Fis clover.png|The Clover Field boost icon.
+        Fis pumpkin.png|The Pumpkin Patch boost icon.
+        Fis cactus.png|The Cactus Field boost icon.
+        </gallery>
+
+        == Trivia ==
+        * This is one of the three field boosters in the game, along with the [[Blue Field Booster]]
+        and the [[Red Field Booster]].
+        ** The Field Booster has the same design as the Red and Blue Field Boosters, the only
+        difference being the colors and that it has a sign.
+        * The [[Coconut Field]] and the [[Mountain Top Field]] cannot be boosted using the Field
+        Booster, despite not being a specifically-colored field.
+        * Prior to the [[Updates#2019.09.28|9/28/2019 update]], the player could access the booster
+        without having 25 bees. They only needed to '''discover''' 25 bees to unlock the [[Red
+        Cannon]], which fires them to the Mountain Top Field. Since then, the player will now be
+        teleported back to spawn due to it being an attempt to bypass a [[:Category:Gates|gate]].
+        * Prior to the 9/28/2019 update, the cooldown of the booster used to be 2 hours.
+        * The Field Booster gives more pollen for fields that appear at the beginning of the game to
+        compensate for their smaller [[Flowers|flower]] sizes.
+        *The Field Booster's model came from EndorsedModel's
+        [https://www.roblox.com/library/530963839/Teleport Teleport], however with a different look.
+        *This is the only Field Booster to give a field boost of 200% today, as in the past, the Red
+        Field Booster granted 200% Strawberry Field boost and the Blue Field Booster granted 200%
+        Bamboo Field boost.
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Field Boosters]]"}

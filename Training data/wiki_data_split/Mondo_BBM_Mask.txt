@@ -1,0 +1,43 @@
+{"text": "{{Unobtainable}}
+        {{Accessory
+        |image1 = MONDOB.B.M.M.png
+        |stats = +250,000 Capacity<br>+50 Convert Amount<br>+100% Honey From
+        Tokens<br>+1 Bee Attack
+        }}
+        The '''Mondo B.B.M. Mask''', or '''Mondo Bubble Bee Man Mask''', is a
+        [[:Category:Masks|Mask]] that is bigger version of the [[B.B.M. Mask]]. It was obtained by
+        completing [[Bubble Bee Man|Bubble Bee Man's]] [[Quests|Quest]], \"B.B.M. Mission\", which was
+        given out in the [[Bear Gate|30 Bee Zone]] during the [[:Category:Beesmas|Beesmas 2018
+        Event]]. To obtain the quest the player would have needed to complete [[Bee Bear|Bee
+        Bear’s]] entire Beesmas 2018 questline (unavailable). Otherwise, Bubble Bee Man would say,
+        'uhh... ..ummm....'. After the completion of this quest, this hat would automatically
+        replace the hat the player was wearing. Currently, players can reequip this mask by talking
+        to BBM in the [[Bear Gate|30 Bee Zone]].
+
+        ==Stats==
+        *+500,000 [[Capacity]]
+        *+10% [[Pollen]]
+        *+10% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        *+50% [[System Page#Convert Rate|Conversion Rate]]
+        *+50% [[System Page#Honey From Tokens|Honey From Tokens]]
+        *+1 [[Bee Attack]]
+
+        ==Gallery==
+        <gallery>
+        MondoBBMMask.png|The Mondo B.B.M.Mask icon.
+        MondoOutageOnBBM.webp|A player wearing the Mondo B.B.M. Mask.
+        </gallery>
+
+        ==Trivia==
+        *This and the B.B.M. Mask are the only masks that cannot be purchased, and the only ones
+        with no description.
+        *This, the B.B.M. Mask, the [[Fire Mask]], and the [[Demon Mask]] are the only masks to have
+        [[System Page#Bee Attack|Bee Attack]] buffs.
+        *This and the [[Mondo Belt Bag]] are the only items that are a mondo version of an
+        [[:Category:Accessories|Accessory]].
+        {{Items}}
+        [[Category:Hats]]
+        [[Category:Accessories]]
+        [[Category:Items]]
+        [[Category:Beesmas]]
+        [[Category:Masks]]"}

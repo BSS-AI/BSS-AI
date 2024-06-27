@@ -1,0 +1,51 @@
+{"text": "{{Unobtainable}}
+        {{Beequip
+        |color=Any
+        |level=4
+        |limit=3
+        |image1=Beesmas Top.png
+        |description=Younger bees enjoy giving this traditional Beesmas toy a spin.
+        |beesmas=yes
+        |requirement=• Bee must be Common or Rare
+        |stats=%Critical Chance<br/>%Ability Rate<br/><span
+        style=\"color:red;\">-%Energy</span>
+        |hive=%Critical Power
+        |bonusstats=+Attack
+        }}A '''Beesmas Top''' is a [[Bond|level]] 4 [[:Category:Beesmas|Beesmas]] [[beequip]]. It
+        has an equip limit of three. There is no color requirement. It can only be equipped to
+        [[Bees/Common|common]] or [[Bees/Rare|rare]] [[bees]].
+
+        == Possible Stats ==
+        * [[Critical Hits#Critical Chance|Critical Chance]] (Guaranteed) - +5% to +10%. (up to +20%
+        from [[Waxes|waxing]])
+        * [[Energy]] (Guaranteed) - -25% to -35% (up to +125% from waxing)
+        * [[System Page#Bee Ability Rate|Ability Rate]] (Guaranteed) - +5% to +10%. (up to +20% from
+        waxing)
+        * [[Bee Attack|Attack]] - +1.
+        * [Hive Bonus] [[Critical Hits#Critical Power|Critical Power]] (Guaranteed) - +2% to +5%.
+        (up to +15% from waxing)
+
+        == Ways to Obtain ==
+        ''There are currently no methods to obtain the Beesmas Top.''
+
+        === These methods are no longer possible. ===
+        *As a reward from the [[Gift Boxes|Sky Blue Gift Box]].
+        *From the [[Stockings]].
+        *As a drop from a [[Mantis]].
+
+        == Gallery ==
+        <gallery>
+        File:BeesmasTop1.png|A Beesmas Top in the Beequip Case.
+        File:BeesmasTop2.png|A Beesmas Top in the Beequip Inbox.
+        File:BeesmasTopsEquipped.jpg|Two Beesmas Tops equipped to a Hasty and Looker Bee.
+        </gallery>
+
+        == Trivia ==
+
+        * This is one of six beequips to give a negative stat.
+        ** The other five are [[Kazoo]], [[Whistle]], [[Toy Horn]], [[Toy Drum]], and [[Lump Of
+        Coal]].
+        {{Items}}
+        [[Category:Beequips]]
+        [[Category:Beesmas]]
+        [[Category:Items]]"}

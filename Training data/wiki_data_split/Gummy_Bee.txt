@@ -1,0 +1,102 @@
+{"text": "{{Bee
+        |image-orig = Gummy_Bee.png
+        |image-gifted=GummyBee Gifted.png
+        |description = A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus
+        honey!
+        |rarity = Event
+        |color = Colorless
+        |energy = 50
+        |energylabel = more
+        |speed = 14
+        |attack = 3
+        |skincolor1 = #ff77f4
+        |skincolor2 = #1aff6b
+        |skincolor3 = #ff77f4
+        }}'''Gummy Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Event|Event bee]]. It can be
+        purchased for 2,500 [[Gumdrops]] from the [[Gummy Bee Egg Claim]].
+
+        Like all other [[Bees/Event|Event bees]], the Gummy Bee does not have a favorite treat, and
+        the only way to make it gifted is by feeding it a [[Star Treat|Star Treat]] or [[Gingerbread
+        Bear]]s.
+
+        Gummy Bee likes the [[Pineapple Patch]], [[Mountain Top Field]], and the [[Stump Field]]. It
+        dislikes the [[Pumpkin Patch]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 4 seconds.
+        * Makes 700 [[Honey]] in 4 seconds.
+        * +150% [[Energy]], +620 [[System Page#Convert Amount|Convert Amount]], +2
+        [[Stats#Attack|Attack]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +5% [[System Page#Honey Per Pollen|Honey Per
+        Pollen]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Gumdrop Barrage|[Gumdrop Barrage]]]''' Launches Gumdrops in a large
+        area, covering the field in goo. [[Flowers]] covered in goo grant bonus Honey that increases
+        with the size of the Goo puddle.
+        * '''[[Ability Tokens#Glob|[Glob]]]''' Covers 49 surrounding flowers in goo. If gifted,
+        covers 81 Flowers instead.
+
+        {{Stat|pollen = 10|pollentime = 4|honey = 700|honeytime = 4|rarity = event}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        Dfsfd.png|Gummy Bee's old hive slot design.
+        Gifted Gummy Bee hive.PNG|A Gifted Gummy Bee hive slot.
+        Kfff.png|Gummy Bee's face.
+        First edition gummy.png|A First Edition Gummy Bee.
+        Gifted First Edition Gummy Bee.png|A First Edition Gifted Gummy Bee.
+        RobloxScreenShot20180808 181426797.png|Gummy Bee in the Ticket Tent.
+        Normal Gummy bee when gummy morph is activated.jpeg|Gummy Bee when Gummy Morph is active.
+        GummyBee.png|Gifted Gummy Bee when Gummy Morph is active.
+        GummyBeeGlow.jpeg|Gummy Bee emitting a faint light.
+        GummyBeeEggClaim.png|The Gummy Bee egg claim.
+        File:Glob.png|A Glob token.
+        File:GumdropBarrage.png|Gumdrop Barrage token.
+        </gallery>
+
+        == Trivia ==
+
+        * There is a model of the Gummy Bee on the [[Gummy Bee Egg Claim]]. Using [[gumdrops]] right
+        after touching it and receiving the message; \"The Gummy Bee wants gumdrops\" will teleport
+        the player to [[Gummy Bear's Lair]]. The player must have the [[Badges#Goo Badge|Goo Hotshot
+        Badge]] to enter the lair, or else there is a message that says \"Only Goo Hotshots can hear
+        Gummy Bee...\".
+        * Gummy Bee is the only [[Bees/Event|Event bee]] that doesn't have extra body parts.
+        * Gummy Bee and [[Fireflies]] share the same face, which resembles [[Basic Bee|Basic Bee's]]
+        face.
+        * The Gummy Bee is the fourth [[Bees/Event|Event bee]] to be released in an
+        [[Updates|Update]].
+        ** This bee was also the first bee to ever be a prize for completing the [[Quests]] of a
+        [[:Category:Traveling Bears|Traveling Bear]].
+        ** It was also the third bee to have been unobtainable for a while.
+        * The Gummy Bee, [[Bear Bee]], [[Tabby Bee]], [[Puppy Bee]], [[Festive Bee]], [[Digital
+        Bee]], and [[Windy Bee]] are the only Event bees which can be a [[First Edition Bee]].
+        * This is the only bee that is translucent.
+        * The Gummy Bee was once obtainable through completing all 15 quests of [[Gummy Bear]].
+        ** Before the [[Updates#2019.04.05|4/5/2019 Update]], the player could buy Gummy Bee in the
+        [[Ticket Tent]] for 500 [[Ticket]]s.
+        ** [[Festive Bee]] took the place of Gummy Bee in the Ticket Tent after the 4/5/2019 Update.
+        * The Gummy Bee and [[Diamond Bee]] are the only bees that have a sparkle effect that
+        surrounds their bodies.
+        * Gummy Bee emits a faint light from its eyes that can be easily seen in dark places.
+        * This is the only Event bee to have a [[:Category:Hats|Mask]] based off of it, the [[Gummy
+        Mask]].
+        ** The other bees that have a mask based off them are [[Honey Bee]], [[Diamond Bee]],
+        [[Demon Bee]], [[Bubble Bee]], and [[Fire Bee]].
+        * Gummy Bee is the third bee in the game to at some point cost a currency besides tickets,
+        the first being Bear Bee (Robux), the second being [[Vicious Bee]] ([[Stinger]]s), and the
+        fourth being [[Windy Bee]] ([[Cloud Vial]]s).
+        * This bee, [[Bear Bee]], [[Festive Bee]], [[Photon Bee]], and [[Tabby Bee]] are the only
+        bees whose signature abilities are directly buffed by being gifted.
+        * If it were to be bought by buying gumdrops from the [[Gumdrop Shop]], it would cost 834
+        [[Ticket]]s, with 2 [[gumdrops]] left over.
+        * When [[Passive Abilities#Gummy Morph|Gummy Morph]] is active, this bee has the highest
+        base attack, an attack of 303 being about 30 times the base attack of [[Lion Bee]].
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Event]]
+        [[Category:Colorless]]
+        [[Category:Gummy Invasion]]
+        [[Category:Goo]]
+        [[zh-tw:軟糖蜂]]"}

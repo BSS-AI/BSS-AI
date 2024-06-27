@@ -1,0 +1,49 @@
+{"text": "{{DISPLAYTITLE:Legendary Bees}}
+        {| class=\"article-table\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\"
+        |-
+        ! style=\"width:20%\" |Bee
+        ! style=\"width:10%\" |Icon
+        ! style=\"width:40%\" |Description
+        |-
+        |[[File:Baby_Bee.png|50px]] [[Baby Bee]]
+        |{{Icon|Baby}}
+        |This little bee isn't very good at bee tasks yet, but it's guaranteed to bring you joy (and
+        luck).
+        |-
+        |[[File:Carpenter Bee.png|50px]] [[Carpenter Bee]]
+        |{{Icon|Carpenter}}
+        |A bee with a knack for construction. It built its own body out of wood.
+        |-
+        |[[File:Demon_Bee.png|50px]] [[Demon Bee]]
+        |{{Icon|Demon}}
+        |A powerful bee with magical powers fueled by pure hatred.
+        |-
+        |[[File:Diamond_Bee.png|50px]] [[Diamond Bee]]
+        |{{Icon|Diamond}}
+        |An extremely wealthy and pompous bee who has the money and talent to justify its attitude.
+        |-
+        |[[File:Lion_Bee.png|50px]] [[Lion Bee]]
+        |{{Icon|Lion}}
+        |Half lion, half bee. This is the king of both the jungle and bee hive.
+        |-
+        |[[File:Music_Bee.png|50px]] [[Music Bee]]
+        |{{Icon|Music}}
+        |This bee's buzz is so beautiful it can bring anyone to tears. It uses this gift to motivate
+        others.
+        |-
+        |[[File:Ninja_Bee.png|50px]] [[Ninja Bee]]
+        |{{Icon|Ninja}}
+        |This bee trained vigorously for years to become the swiftest bee that has ever lived.
+        |-
+        |[[File:Shy_Bee.png|50px]] [[Shy Bee]]
+        |{{Icon|Shy}}
+        |This talented bee doesn't like to socialize, it just wants to work and be left alone.
+        |}
+
+        {{Stat/Egg|rarity = legendary}}
+
+        The following audio plays when a legendary bee notification pops
+        up:[[File:Legenddiscover.ogg]]
+        [[Category:Bees]]
+        [[Category:Legendary]]
+        [[zh-tw:蜜蜂/傳說蜂]]"}

@@ -1,0 +1,176 @@
+{"text": "{{Consumables
+        |image = Gumdrops icon.png
+        |description = Use while standing in a field to cover flowers in goo. Goo grants bonus
+        honey.
+        |cooldown = 2 seconds
+        }}
+        {{Color|Gumdrops}} are an [[:Category:Inventory|inventory item]] that was introduced in the
+        [[Updates#2018.05.26|Gummy Invasion Event]]. When used, gumdrop blobs fall from the air and
+        splatter [[goo]] if they hit a [[Flowers|flower]]. Goo grants an additional 40% bonus
+        [[honey]], with bigger goo puddles granting even more bonus honey. '''Gumdrops''' can also
+        be used to craft other gear, such as the [[Gummyballer]].
+        [[File:GumdropsLandField.png|thumb|Gumdrops falling in a field.]]
+        When gumdrops are placed in the hotbar, there will be an ON/OFF switch. Turning it ON uses
+        gumdrops automatically with a cooldown of two seconds. Setting it OFF lets the player
+        manually use the gumdrops.
+
+        ==Ways to Obtain==
+        *[[Crafting]] via [[Blender]] for:
+        ** {{Cost|Blueberry|3}}
+        ** {{Cost|Strawberry|3}}
+        ** {{Cost|Pineapple|3}}.
+        *Spending {{Cost|Ticket}} at the [[Gumdrop Shop]] grants 3 gumdrops per 1.
+        *As a drop from certain [[mobs]]. (Anywhere from 0 to 2,500 gumdrops per mob, depending on
+        [[System Page#Loot Luck|Loot Luck]] and the type of mob.)
+        *As a drop from [[leaves]] in the [[Stump Field]].
+        *Popping a [[Sprout|gummy sprout]] or a [[Festive Bean|festive sprout]].
+        * As a reward for completing certain [[Black Bear]] and [[Brown Bear]] [[quests]]. Receiving
+        [[Science Bear|Science Bear's]] \"Chemical Analysis\" quest also gives the player 10 gumdrops.
+        *As a gift from a [[Ability Tokens#Festive Gift|festive gift]].
+        *As a [[Cub Buddy]] gift.
+        *As a possible reward for participating in the [[Stick Bug Challenge]].
+        *Collecting tokens from the [[Star Amulet|Supreme Star]] [[Amulet]] passive, \"Gummy Star\".
+        *As a common drop from catching [[Mythic Meteor Shower|mythic meteors]].
+        *As a drop from the {{Cost|Ticket Planter}}, {{Cost|Festive Planter}}, {{Cost|Plastic
+        Planter}}, {{Cost|Candy Planter}}, {{Cost|Red Clay Planter}}, {{Cost|Blue Clay Planter}},
+        {{Cost|Pesticide Planter}}, {{Cost|Petal Planter}}, {{Cost|Sticker Planter}} and {{Cost|The
+        Planter Of Plenty}}.
+        *As a drop from [[Puffshroom]]s.
+        *There is a token worth 5 gumdrops in a block near the Ant Gate, it is most likely the
+        gumdrop token left behind from the Goo Invasion event in 2018.
+        *Redeeming certain valid [[codes]]:
+        ** 500mil (Gives 5 gumdrops + other stuff).
+        ** GumdropsForScience (Gives 15 gumdrops).
+        **BeesBuzz123 (Gives 5 gumdrops + other stuff).
+        **1MLikes (Gives 1 gumdrop + other stuff).
+        **10mMembers (Gives 10 gumdrops + other stuff).
+        *As a Stack Reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        **The Silly Tongue rewards 25 gumdrops.
+        **The Yellow Walking Wiggly Person rewards 25 gumdrops.
+
+        ===Outdated Ways===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        *Using the [[Honey Dispenser]] during the Gummy Invasion (gave 1 gumdrop every use).
+        *Before [[Gummy Bear]] left, completing his quests each gave one gumdrop, except for the
+        last quest, for which the reward was a [[Egg#Specific Bee Eggs|Gummy Bee egg]].
+        **Finding the gumdrop token behind where Gummy Bear used to be (5 gumdrops).
+        *When the [[Egg Hunt 2019|Egg Hunt 2019 Event]] was active, the player could find a token
+        behind the [[Egg Hunt Info]]. The token is currently covered by a green platform; however,
+        it is close enough to be reached along its wall.
+        *Under the [[Beesmas Tree]], there was a gumdrop token worth 5 gumdrops.
+        *There was a gumdrop token worth 15 gumdrops behind the [[Ornament Presents|Golden
+        Present]].
+        *Opening the Gooey Present rewarded 100 gumdrops and other items.
+        *As a drop from [[stockings]].
+        *As 25 drops from [[Dapper Bear|Dapper Bear's]] [[Samovar]]. (Appears after every 5th use.)
+        *There used to be a gumdrop token behind the [[Gummy Cannon]].
+        * During a [[Gummy Siege]], the fields in which Gummy Bear is targeting has a chance to
+        spawn Gumdrops.
+        *Redeeming certain expired codes:
+        **Arizona (Gave 10 gumdrops + other stuff).
+        ** Tabby (Gave 5 gumdrops + other stuff).
+        **JellyHill (Gave 5 gumdrops + other stuff).
+        **MischiefMaker (Gave 10 gumdrops + other stuff).
+        ** CornSyrup (Gave 10 gumdrops).
+        **Unity (Gave 5 gumdrops + other stuff).
+        **Starch (Gave 30 gumdrops).
+        **100mVisits (Gave 5 gumdrops + other stuff).
+        **Xanthan (Gave 30 gumdrops + other stuff).
+        ** Gel (Gave 15 gumdrops + other stuff).
+        ** LateNightGumdrops (Gave 20 gumdrops + other stuff).
+        ** Afternoon (Gave 20 gumdrops + other stuff).
+        ** SugarRush (Gave 10 gumdrops + other stuff).
+        ** GummyBoost (Gave 30 gumdrops + other stuff).
+        ** Pectin (Gave 10 gumdrops).
+        **Tapioca (Gave 10 gumdrops).
+        ** MillionMembers (Gave 10 gumdrops + other stuff).
+        ** 1mFavorites (Gave 5 gumdrops + other stuff).
+        **Gumdrops (Gave 20 gumdrops + other stuff).
+        ** MayRuTreats (Gave 5 gumdrops + other stuff).
+        **GummySausage (Gave 10 gumdrops + other stuff).
+        ** WillGoold (Gave 10 gumdrops + other stuff).
+        ** Crafty (Gave 25 gumdrops + other stuff).
+        ** BeeDay2019 (Gave 1 gumdrop + other stuff).
+        **Leftovers (Gave 10 gumdrops + other stuff).
+        ** ClubBasket (Gave 10 gumdrops + other stuff).
+        ** WikiHonor (Gave 10 gumdrops + other stuff).
+        ** BeesmasBegins (Gave 5 gumdrops + other stuff).
+        **Discord100k (Gives 3 gumdrops + other stuff).
+        **Mocito100T (Gives 5 gumdrops + other stuff).
+        |}
+
+        ==Crafting Uses==
+        Total required for all in-game equipment: {{Cost|Gumdrops|5025}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" |{{Cost|Gumdrops}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Royal Jelly|1}}<br>{{Cost|Pineapple|5}}
+        |[[File:Moon.png|center|80px]]<div style=\"text-align: center;\">{{Color|Moon Charm}}
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|2,500,000}}<br>{{Cost|Pineapple|100}}<br>{{Cost|Moon Charm|1}}
+        |[[File:Propeller.png|center|80px]]<div style=\"text-align: center;\">[[Propeller Hat]]
+        |-
+        |<div style=\"text-align: center;\">50
+        |{{Cost|Royal Jelly|10}}
+        |[[File:Glue.png|center|80px]]<div style=\"text-align: center;\">{{Color|Glue}}
+        |-
+        |<div style=\"text-align: center;\">2500
+        |{{Cost|Glue|1500}}<br>{{Cost|Caustic Wax|50}}<br>{{Cost|Super
+        Smoothie|50}}<br>{{Cost|Turpentine|5}}
+        |[[File:Gummyballer.png|center|80px]]<div style=\"text-align: center;\">[[Gummyballer]]
+        |-
+        |<div style=\"text-align: center;\">2500
+        | -
+        |[[File:Gummy Bee.png|center|80px]]<div style=\"text-align: center;\">[[Gummy Bee]]
+        |}
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        GumdropToken.png|The gumdrops token behind the Gummy Cannon.
+        Unlimited Gumdrops.png|The unlimited gumdrops buff icon.
+        UseGumdrops2.gif|A player using gumdrops.
+        GumdropsLandField.png|Gumdrops falling from the sky.
+        GooPatches.jpg|Goo on a field.
+        GumdropShop1.png|The Gumdrop Shop.
+        GumdropsCooldown Former.png|The old cooldown notification in the chat box.
+        Gumdropflavors.png|Onett mentioning the flavors of the gumdrops.
+        File:Gumdropss.png|The \"Gumdropss\" typo appearing in chat.
+        </gallery>
+
+        ==Trivia==
+        *Gumdrops are the only item that changes the overlay on the [[Leaves]].
+        *Gumdrops are the cheapest items in the game that cost tickets, costing only 1/3 tickets,
+        and they are also the cheapest to speed up in the Blender, along with [[Moon Charm|moon
+        charms]], requiring only 1 ticket for every 10 gumdrops.
+        *If the player crafts glue in the Blender, it will say \"[Amount of glues crafting * 50]
+        ''Gumdropss''\" instead of \"''Gumdrops''\". This also happens when donating gumdrops to the
+        [[Wind Shrine]] and getting Gummy Bee from the Gummy Bee Egg Claim.
+        *There is a [[Buffs & Debuffs#From Areas|buff]] that allows the player to use gumdrops
+        without spending their own for 3 minutes (only obtainable from [[codes]] and the [[Glue
+        Dispenser]]). It is called Unlimited Gumdrops.
+        *To enter [[Gummy Bear's Lair]], the player will need to use a gumdrop on top of the Gummy
+        Bee at the Gummy Bee Egg Claim near the [[Ant Gate]] after earning the Goo Hotshot badge.
+        * Gumdrops are currently the only way to get Gummy Bee after the
+        [[Updates#2019.04.05|4/5/2019 update]].
+        *After the [[Updates#2019.09.28|9/28/2019 update]], the hotkey for gumdrops (G), along with
+        the hotkey of [[stinger]]s and [[Micro-Converter|micro-converters]], were removed.
+        *Before the 4/5/2019 update, if the player attempted to use gumdrops before the cooldown was
+        over, a message in the bottom right corner would say: [Must wait X seconds to use gumdrops
+        again]. If the player doesn’t have any gumdrops, a message will appear saying: [You don't
+        have any Gumdrops].
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Gummy Invasion]]
+        [[Category:Crafted]]
+        [[Category:Consumables]]
+        [[Category:Goo]]
+        [[Category:Inventory]]"}

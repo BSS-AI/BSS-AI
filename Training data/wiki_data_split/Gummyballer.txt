@@ -1,0 +1,108 @@
+{"text": "{{Quote|quote=Conjures up a delectable arsenal of gummy wrecking balls. Bombard Marks and
+        Honey Tokens for massive gooey gains.}}
+
+        {{Tool
+        |image =Gummyballer.png
+        |price=1,500 Glue, 2,000 Gumdrops, 50 Caustic Waxes, 50 Super Smoothies, 5 Turpentines, 3
+        Satisfying Vials, {{Hover|10T|10,000,000,000,000}}
+        |shop=Gummy Bear's Lair
+        |pattern=Ball
+        |range=29
+        |time=1
+        |collectbase=4
+        |specialmultiplier=Takes goo, if there is goo when collecting pollen it increases the stack
+        of your gummyball.|whitemultiplier=3|redmultiplier=2|bluemultiplier=2}}
+
+        The '''Gummyballer''' is a [[Tools|tool]] that can be crafted in [[Gummy Bear's Lair]].
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|{{Hover|10T|10,000,000,000,000}}}}<br>{{Cost|Glue|1,500}}<br>{{Cost|Gumdrops|2,000}}<br>{{Cost|Caustic
+        Wax|50}}<br>{{Cost|Super
+        Smoothie|50}}<br>{{Cost|Turpentine|5}}<br>{{Cost|Satisfying Vial|3}}
+        |}
+
+
+        It collects 8 [[pollen]] from 29 patches in 1 second and boosts it by x2 on red and blue
+        flowers, or x3 on white flowers. It has an average base pollen collection rate of 541.33
+        pollen per second: 696 from white flowers and 464 from red and blue flowers.
+
+        Every swing absorbs any collected [[goo]] and removes it from the flower. In return, it
+        gives 12 seconds of \"Gummyball\" buff with a max of 1000 stacks. The amount of Gummyball
+        stacks per collected goo patch is proportional to how fresh the goo is (the more faded the
+        goo is, the less it gives stack to the Gummyball). The more Gummyball stacks collected, the
+        bigger the ball on the collector becomes, along with a stronger aura around it and up to a
+        1.1x white pollen boost.
+
+        Upon reaching the max stack of Gummyball (1000) or swinging with the collector above the
+        ground (by jumping) while being inside a field, a Gummyball will launch forward from the
+        player's faced direction and bounce around the border of the field. It leaves a trail of goo
+        behind and collects pollen from the flowers it hits (collection and goo spread depends on
+        the size of the Gummyball). It will also grab any ability or honey token and pop bubbles
+        along the way. The larger the initial Gummyball stacks when it's launched, the larger the
+        Gummyball will start as and the longer the Gummyball will last.
+
+        The Gummyball rewards the player with \"Gummyball Combo\", giving 2 stacks for hitting a wall,
+        1 per [[Ability Tokens|ability token]], 3 per honey token, 8 per [[Ability
+        Tokens#mark|mark]] and 30 per precise mark for 8 seconds. Gummyball combo has a max stack of
+        1000 and always provides a 1.1x white pollen boost and up to a 11x goo boost depending on
+        the stack of Gummyball combo.
+
+        ==Gummyball Combo Strategies==
+        *Choose a narrow field, and align your character perpendicular to the field border that
+        you're facing by using the \"<\" and \">\" keys with shift lock (rotates the camera by 45
+        degrees) If on mobile, go in straight vertical lines across the field. When aligned, launch
+        the Gummyball at a place with lots of active marks, including the Honey Mark(+), Pollen
+        Mark(+), Festive Mark, and Precise Mark. This will cause the ball to go back and forth and
+        hit the mark(s) and other things that give stacks along the way without the Gummyball going
+        to the left/right.
+        *Time the Gummyball before [[Passive Abilities#Gummy Morph|Gummy Morph]] activates (at
+        around 21/30 if gumdrops are being dropped), so it has the time to stack up before the Gummy
+        Morph activates.
+
+        ==Gallery==
+        <gallery>
+        Hivesticker_gummyballer.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        Gummyballershop.png|The Gummyballer in Gummy Bear's shop.
+        FullyChargedGummyballer.png|A fully stacked Gummyballer's Gummyball.
+        GummyballerGummyball.png|The Gummyball buff.
+        GummyballerGummyballCombo.png|The Gummyball Combo buff.
+        GummyballerGummyballBall.gif|Gummyball in action.
+        </gallery>
+
+        ==Trivia==
+        *The Gummyballer is the second most expensive item in the game in terms of honey, only
+        behind [[The Planter Of Plenty]] which costs {{Hover|100T|100,000,000,000,000}} honey.
+        *Its red counterpart is the [[Dark Scythe]], and its blue counterpart is the [[Tide
+        Popper]]. However, this tool is more expensive than its counterparts. This is likely because
+        the Dark Scythe and Tide Popper require 250 quests to be finished from its corresponding
+        shop owner, while the Gummyballer does not.
+        *The Gummyballer is tied with the [[Pulsar]] for the slowest tool in the game (in terms of
+        how long the cooldown of each collection lasts).
+        *On December 28, 2021, the Gummyballer was obtainable through an exploit that gave the
+        Gummyballer for free, along with the Tide Popper and Dark Scythe.
+        **Onett later patched this, and everybody who used this exploit had their data reset on
+        their account.
+        * If the ingredients for the item were to be crafted, the total cost would be
+        {{Hover|10T|10,000,000,000,000}} honey, 412,500 [[Blueberry|blueberries]], 412,500
+        [[Strawberry|strawberries]], 902,500 [[Pineapple|pineapples]], 135,000 [[Sunflower
+        Seed|sunflower seeds]], 812,700 [[Royal Jelly|royal jellies]], 16,500
+        [[Bitterberry|bitterberries]], 3,700 [[Neonberry|neonberries]], 6,000 [[coconut]]s, 2,400
+        [[Magic Bean|magic beans]], 12,500 [[honeysuckle]]s.
+        **Behind The Planter Of Plenty, this requires the most base resources to craft.
+        * The Gummyballer is the only item to be added to Gummy Bear's Lair in an update after the
+        lair came out.
+        *This is the only tool that undergoes visual changes with its ability.
+        * This is the only tool that has the ability to take goo patches from flowers.
+        *The Gummyball on the tool moves similarly to amulets, meaning it drags behind the
+        collector's actual movement.
+        **On occasion, the Gummyball will appear to be dislocated from the collector, this occurs if
+        either the server or client ping (response delay) is at high levels.
+        *The Gummyballer, along with The Planter Of Plenty, The Hydroponic Planter, and the
+        Heat-Treated Planter are currently the only four items that require turpentine to craft,
+        needing 5, 25, 1, and 1 respectively.
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]
+        [[Category:Crafted]]
+        [[Category:Goo]]"}

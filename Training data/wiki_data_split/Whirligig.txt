@@ -1,0 +1,89 @@
+{"text": "{{DISPLAYTITLE: Whirligig}}
+        {{Consumables
+        |image = Whirligig.png
+        |description = Teleports you and your bees back to your hive and briefly increases Convert
+        Rate.
+        |cooldown = 1 second
+        |cap = 100
+        }}
+        {{Color|Whirligig|Whirligigs}} are inventory [[items]] added in the
+        [[Updates#2021.12.26|Beesmas 2021 update]]. Using one simply teleports the player and their
+        [[bees]] back to their [[hive]], aswell as temporarily increasing Convert Rate.
+
+        Whirligigs have a limit of 100. Obtaining any while having more than 100 whirligigs will not
+        add them to the player's inventory, unless they are obtained through [[quests]] or
+        [[codes]].
+
+        Attempting to use a Whirligig without claiming a hive will prompt the message: \"You must
+        claim a hive to use a Whirligig.\"
+
+        ==Ways to Obtain==
+
+        * A common drop from the [[Robo Bear Challenge]].
+        * A reward from [[Retro Swarm Challenge]]
+        * As a rare drop from [[mobs]] such as [[Rhino Beetle]]s and [[Mantis]]es.
+        * As a drop from certain [[Planter]]s.
+        ** Planters harvested in [[Pine Tree Forest]] have a higher chance to drop whirligigs than
+        other [[fields]]. [[Petal Planter]] gives the most whirligigs, although [[Blue Clay
+        Planter]] has the highest chance of dropping them.
+        * As a Stack Reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        ** The Launching Rocket rewards 10 whirligigs.
+        ** The Simple Mountain rewards 10 whirligigs.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * As a reward from quests.
+        ** Bee Bear's Bringing On Beesmas (#1) - x5 Whirligigs.
+        ** Bee Bear's Very Merry Berries (#7) - x2 Whirligigs.
+        ** Bee Bear's By Golly, Get Jolly (#9) - x10 Whirligigs.
+        ** Bee Bear's Merry Mushroom Mania (#12) - x10 Whirligigs.
+        ** Bee Bear's Cub Buddy Beckoning (#15) - x5 Whirligigs.
+        * In secret locations, such as inside the [[Beesmas Tree]].
+        * As a reward from finishing your own [[Robo Party]].
+        * As a drop from Robo Party mobs.
+        * Completing [[Bee Bear|Bee Bear's]] 8th, 10th, and 15th quest. (10, 10 and 25 for those
+        accordingly)
+        * As a reward from the Whirling Bundle from [[Bee Bear's Catalog]].
+        * Opening certain [[Gift Boxes]] across the map:
+        ** Beige Gift Box gave 10 whirligigs and other items.
+        |}
+        == Crafting Uses ==
+        Total required for all in-game equipment: {{Cost|Whirligig|0}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" |{{Cost|Whirligig}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">1
+        |{{Cost|Soft Wax|1}}<br>{{Cost|Red Extract|1}}<br>{{Cost|Blue Extract|1}}
+        |[[File:Field Dice.png|center|80px]]<div style=\"text-align: center;\">{{Color|Field
+        Dice}}</div>
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Field Dice|3}}<br>{{Cost|Oil|3}}<br>{{Cost|Soft Wax|3}}
+        |[[File:Smooth Dice.png|center|80px]]<div style=\"text-align: center;\">{{Color|Smooth
+        Dice}}</div>
+        |}
+
+        == Trivia ==
+        *Using a whirligig during an [[Ant Challenge]] will teleport the player to the starting
+        platform after teleporting to the hive, thus putting an end to the challenge.
+        *This is also one of the ways to exit the [[White Tunnel]] other than defeating or being
+        killed by [[Tunnel Bear]], leaving and rejoining the game, and using the gray plate at the
+        middle of the tunnel.
+        *They are based on maple tree seeds (nicknamed whirligigs), which, when falling, spin, thus
+        traveling further from the tree. This may have inspired the whirligig's mechanic of
+        teleporting or rather \"carrying\" you back to your hive.
+        *Before the [[Updates|12/26/22]] update, Whirligigs had a cooldown of 5 minutes, a minor
+        change compared to the current 3 minute cooldown.
+        *If the player is lagging, the whirligig may only teleport the player's bees.
+
+        {{Items}}
+        [[Category:Consumables]]
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Transport]]"}

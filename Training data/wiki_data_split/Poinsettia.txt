@@ -1,0 +1,48 @@
+{"text": "{{Beequip
+        |image1=Poinsettia.png
+        |level=6
+        |color=Any
+        |limit=3
+        |beesmas=yes
+        |requirement=• Bee must know \"Boost\" ability
+        |stats=%Red Gather Amount<br>%Gather Pollination Chance
+        |bonusstats=
+        |hive=
+        |bonushive=%Bee Gather Pollen<br>%Red Pollen
+        |description=A gorgeous red flower so vibrant it is reserved for a special time of the
+        year.}}A '''Poinsettia''' is a [[Bond|level]] 6 [[:Category:Beesmas|Beesmas]] [[beequip]].
+        It has an equip limit of three. There is no color requirement. They can only be equipped to
+        bees that know the [[Ability Tokens#Boost|Boost]] ability.
+
+        == Possible Stats ==
+        * Red Gather Amount (Guaranteed) - +10% to +25%. (up to +60% from [[Waxes|waxing]])
+        * Gather Pollination Chance (Guaranteed) - +10% to +20%. (up to +40% from waxing)
+        * [Hive Bonus] Bee Gather Pollen - +1%. (up to +31% from waxing)
+        * [Hive Bonus] Red Pollen (From waxing) - +2% to +25%.
+
+        == Ways To Obtain ==
+        *As a rare reward from the [[Ant Challenge]]. A higher score has a higher chance to drop a
+        Poinsettia.
+
+        ===These methods are no longer possible. ===
+        * Purchasing the Beequip Bundle in [[Bee Bear’s Catalog|Bee Bear's Catalog]] for 75
+        [[Snowflake]]s and 15 [[Gingerbread Bear]]s (Gave 1 Poinsettia + other items).
+        * As a reward from [[Spirit Bear|Spirit Bear's]] Galentine's Shrine quest in Beesmas 2021
+        (Gave 1 Poinsettia + other items).
+
+        == Gallery ==
+        <gallery>
+        File:Poinsettia1.png|A Poinsettia equipped to a Tadpole Bee.
+        File:Poinsettia2.png|A Poinsettia in the Beequip Case.
+        File:Poinsettia3.png|A Poinsettia along with other rewards from the Ant Challenge.
+        </gallery>
+
+        ==Trivia==
+        * After Beesmas 2022, this beequip was still available to be obtained in Ant Challenge.
+        ** This makes the Poinsettia the second beesmas beequip that still can be obtained after
+        Beesmas, with the first being [[Icicles]].
+
+        {{Items}}
+        [[Category:Beesmas]]
+        [[Category:Beequips]]
+        [[Category:Items]]"}

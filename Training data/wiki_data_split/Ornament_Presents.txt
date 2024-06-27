@@ -1,0 +1,139 @@
+{"text": "[[File:Present1.ogg|thumb|The sound when you open a gift.]]{{RemovedContent}}
+        ''<sup>Not to be confused with [[present]]s and [[Gift Boxes|gift
+        boxes]].</sup>''
+
+        '''Ornament Presents''' were presents that sat at different locations around the map during
+        the [[Updates#2019.12.23|Beesmas 2019 event]]. Since the event has ended, they have been
+        removed.
+
+        There were 10 different types of ornament presents that the player could have opened. In
+        order to open them up, the player would have needed to obtain a certain number of
+        [[ornaments]] from [[:Category:NPC|NPCs]]. When an ornament present was opened, it dropped
+        various [[items]] (in token form) around the present box. Even though the rewards were
+        tokens, the items given could stack past their limits if applicable. Each present could only
+        be opened once.
+
+        {| class=\"article-table\"i
+        !Appearance
+        !Name
+        !Location
+        !Ornaments Needed
+        !Rewards
+        |-
+        |[[File:Colourfulpresent.png|100px]]
+        |Colorful Present
+        |Between the [[Red HQ]] and the [[Windy Bee Gate]].
+        |3
+        |
+        * 1x [[Blue Extract]]
+        * 1x [[Red Extract]]
+        * 5x [[Royal Jelly]]
+        * 4x [[Jelly Beans]]
+        |-
+        |[[File:Goldenpresent.png|100px]]
+        |Golden Present
+        |Inside the [[Obstacle Courses#Golden Present Obby|Golden Present obby]] between the [[Blue
+        HQ]] and the [[Wealth Clock]].
+        |4
+        |
+        * 1x [[Egg#Gold Egg|Gold Egg]]
+        * 2x [[Oil]]
+        * 40x [[Pineapple|Pineapple]]
+        |-
+        |[[File:Funkypresent.png|100px]]
+        |Funky Present
+        |On top of the Blue HQ.
+        |5
+        |
+        * 1x [[Royal Jelly#Royal Jelly Variants|Music Bee Jelly]]
+        * 20x [[Coconut]]
+        * 4x [[Field Dice]]
+        |-
+        |[[File:Starrypresent.png|100px]]
+        |Starry Present
+        |On the ledge left of the [[Pine Tree Forest]].
+        |6
+        |
+        * 1x [[Royal Jelly#Star Jelly|Star Jelly]]
+        * 2x [[Glitter]]
+        * 20x [[Moon Charm|Moon Charm]]
+        |-
+        |[[File:Gooeypresent.png|100px]]
+        |Gooey Present
+        |Past a wide ledge behind the [[Gummy Bee Egg Claim]].
+        |7
+        |
+        * 100x [[Gumdrops]]
+        * 10x [[Glue]]
+        * 10x [[Neonberry|Neonberry]]
+        |-
+        |[[File:Festivepresent.png|100px]]
+        |Festive Present
+        |Next to [[Bee Bear]] and in front of the [[Dandelion Field]].
+        |8
+        |
+        * 2x [[Glitter]]
+        * 4x [[Red Extract]]
+        * [[Egg#Event Bee Eggs|Festive Bee Egg]] or 500 [[ticket]]s (If [[Festive Bee]] was already
+        owned)
+        |-
+        |[[File:Mythicpresent.png|100px]]
+        |Mythic Present
+        |Inside the [[Obstacle Courses#Mythic Present Obby|Mythic Present obby]] between the [[Stump
+        Field]] and the largest pineapple.
+        |9
+        |
+        * 50x [[Blueberry|Blueberry]]
+        * 50x [[Strawberry|Strawberry]]
+        * 3x [[Red Extract]]
+        * 3x [[Blue Extract]]
+        * 1x [[Eggs#Mythic Egg|Mythic Egg]]
+        |-
+        |[[File:Shadypresent.png|100px]]
+        |Shady Present
+        |On top of the [[Pro Shop]].
+        |10
+        |
+        * 5x [[Atomic Treat|Atomic Treat]]
+        * 6x [[Box-O-Frogs]]
+        * 24x [[Micro-Converter]]
+        |-
+        |[[File:Pearlypresent.png|100px]]
+        |Pearly Present
+        |On the ledge to the right of the [[Windy Bee Gate]].
+        |11
+        |
+        * 20x [[Tropical Drink]]s
+        * 30x [[Cloud Vial]]s
+        * 2x [[Marshmallow Bee]]s
+        * 5x [[Festive Bean]]s
+        |-
+        |[[File:Mondopresent.png|100px]]
+        |Mondo Present
+        |On top of the [[Mountain Top Shop]].
+        |12
+        |
+        * 48 Hours (2 Days) of [[Buffs & Debuffs#From Other|Honeyday Event]]
+        * 2x Mythic Eggs
+        * 6x Atomic Treats
+        * 2x Gifted Gold Eggs
+        * 2x Gifted Diamond Eggs
+        * 6x Festive Beans
+        |}
+
+        == Trivia ==
+        * A token that gave 15 [[gumdrops]] was located behind the Golden Present.
+        * Tokens that gave 1 [[Royal Jelly|royal jelly]] and 3 micro-converters were each next to
+        the Mythic Present.
+        * If some tokens weren't collected from an ornament present, the items from the tokens would
+        immediately go to the player's inventory upon despawning.
+        * The Golden Present's room has been replaced and reused as [[Commando Chick's Hideout]].
+        * The Gooey Present's room can still be found behind the [[Gummy Bee Egg Claim]]. The Mythic
+        Present's room, located to the left of the [[Stump Field]], could have also been found until
+        a few months later, when it was removed.
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Removed Content]]
+        [[Category:Beesmas]]
+        <br />"}

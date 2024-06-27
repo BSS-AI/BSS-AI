@@ -1,0 +1,44 @@
+{"text": "{{Accessory
+        |image1 = Blue Guard.png
+        |description = A durable pad worn on the right shoulder of Blue Beekeepers.
+        |cost = 1,000,000 [[Honey]], 50 [[Blueberry|Blueberries]], 1 [[Royal Jelly]], and 3 [[Moon
+        Charm|Moon Charms]].
+        |stats = +25,000 Capacity<br>+15% Blue Pollen<br>+5% Defense<br>+1 Blue
+        Bee Attack
+        }}
+        {{Quote|A durable pad worn on the right shoulder of Blue Beekeepers.}}
+        The '''Blue Guard''' is a [[:Category:Guards|guard]] purchasable in the [[Blue HQ]]. It is
+        equipped on the right shoulder.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|1,000,000}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Royal
+        Jelly|1}}<br>{{Cost|Moon Charm|3}}
+        |}
+
+        This guard is one of 3 guards in the Blue HQ, the others being the [[Elite Blue Guard]], and
+        the [[Bucko Guard]].
+
+        == Stats ==
+        * +25,000 [[Capacity]].
+        * +15% [[System Page#Blue Pollen|Blue Pollen]].
+        * +5% [[System Page#Defense|Defense]].
+        * +1 [[System Page#Blue Attack|Blue Bee Attack]].
+        == Gallery ==
+        <gallery>
+        Blueguardicon.png|The Blue Guard icon.
+        </gallery>
+        ==Trivia==
+        * Before the [[Updates#2018.11.25|11/25/2018 update]], the Blue Guard costed 1,000,000 (1
+        million) honey and no [[Crafting|crafting materials]].
+        * This guard’s [[:Category:Red|red]] counterpart is the [[Red Guard]].
+        * It is the cheapest guard in the Blue HQ.
+        ** It is also the cheapest item in the shop.
+
+        {{Items}}
+        [[Category:Guards]]
+        [[Category:Items]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]
+        [[Category:Blue]]"}

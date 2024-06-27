@@ -1,0 +1,193 @@
+{"text": "{{Consumables
+        |image = Red Extract.png
+        |description = Grants x1.25 Red Pollen for 10 minutes.
+        |cooldown = 1 second
+        }}'''Red Extract''' is an [[:Category:Inventory|inventory item]] that was added in the
+        [[Updates#2018.11.25|11/25/2018 update]]. The purpose of it is to use it as a material to
+        craft [[:Category:Accessories|accessories]], or for a 10-minute boost that grants x1.25
+        [[System Page#Red Pollen|Red Pollen]]. The [[Buffs & Debuffs#From Items|buff]] cannot
+        stack and will only reset its timer if you used a Red Extract when there is another one
+        active. Using a [[Purple Potion|purple potion]] or [[Super Smoothie|super smoothie]] will
+        override the buff.
+        [[File:Red extract token bss.png|thumb|A red extract token.]]
+
+        == Ways to Obtain ==
+        * [[Crafting]] it via [[Blender]] for:
+        ** {{Cost|Strawberry|50}}
+        ** {{Cost|Royal Jelly|10}}
+        * Matching a pair of red extracts in [[Memory Match#Mega Memory Match|Mega Memory Match]]
+        (worth 1 red extract) or [[Memory Match#Extreme Memory Match|Extreme Memory Match]] (worth 3
+        red extracts).
+        * As a reward from the [[Wind Shrine]].
+        * As a Stack Reward for adding certain [[Stickers]] to the [[Sticker Stack]]:
+        ** Flying Rad Bee rewards 1 red extract.
+        ** Round Rascal Bee rewards 1 red extract.
+        ** Little Scorpion rewards 1 red extract.
+        ** Red X rewards 1 red extract.
+        ** AFK rewards 1 red extract.
+        ** Small Flame rewards 1 red extract.
+        ** Shrugging Heart rewards 1 red extract.
+        ** Red Doodle Person rewards 1 red extract.
+        ** Scythe rewards 1 red extract.
+        ** Dark Scythe rewards 1 red extract.
+
+        === Drops ===
+        * As a rare drop from [[ladybug]]s and [[scorpion]]s.
+        * As a common drop from the [[King Beetle]] and [[Aphid#Rage Aphid|Rage Aphids]].
+        * Farming in the [[Mushroom Field]], [[Strawberry Field]], [[Rose Field]], or the [[Pepper
+        Patch]] can rarely drop red extracts.
+        * A rare drop from [[Leaves]] in the Mushroom Field, Strawberry Field, or the Rose Field.
+        * As a rare drop from [[Sprout]]s (the odds increase depending on the rarity of the sprout
+        and if the sprout is located in red fields).
+        * As a drop from a [[Ability Tokens#Festive Gift|Festive Gift]] (if [[Festive Bee]] is
+        [[Gifted Bee|gifted]]) or [[Ability Tokens#Festive%20Mark|Festive Mark]].
+        * As a rare gift from a [[Cub Buddy|cub buddy]].
+        * As a drop from the certain [[Planters]]:
+        ** The {{Cost|Red Clay Planter|||0}}, and {{Cost|Heat-Treated Planter|||0}} are guaranteed
+        to drop red extracts.
+        *** The {{Cost|Heat-Treated Planter|||0}} drops extra red extracts in red fields (the
+        Mushroom Field, Strawberry Field, Rose Field, and the Pepper Patch).
+        *** Planting the {{Cost|Heat-Treated Planter|||0}} in the Mushroom Field, then the
+        Strawberry Field, then the Rose Field, then the Pepper Patch results in an additional 100
+        Red Extracts (36 day cooldown).
+        ** Planters harvested in red fields may drop red extracts.
+
+        === Quests ===
+        * Completing every [[Gifted Riley Bee|Gifted Riley Bee's]] [[quests]] will always reward one
+        Red Extract.
+        * [[Black Bear]] gives Red Extracts on the following quests:
+        ** Get Red-y gives 1 Red Extract and other items.
+        ** Rocky Red Mountain gives 1 Red Extract and other items.
+        ** Capsaicin Collector gives 1 Red Extract and other items.
+        ** Black Bear's repeatable quests occasionally give Red Extracts.
+        * [[Science Bear]] gives red extracts on the following quests:
+        ** Meticulously Crafted gives 1 Red Extract and other items.
+        ** Mushroom Measurement Monotony gives 3 Red Extracts and other items.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * As a drop from the [[Stockings]].
+        *Giving a [[present]] to Gifted Riley Bee rewards 1 red extract, the buff itself, and other
+        items and boosts.
+        * Purchasing the Booster Bundle in [[Bee Bear's Catalog]] for 33 [[Snowflake]] and 3
+        [[Gingerbread Bear]] gives 5 red extracts and other items.
+        * [[Bee Bear]] gave red extracts on the following quests:
+        ** The Joy of Buying gave 1 Red Extract and other items.
+        **The Gift of Gifts gave 3 Red Extracts and other items
+        **Upgrading The Honeydays gave 3 Red Extracts and other items
+        * From various [[Gift Boxes]].
+        ** Opening the Kitsch Gift Box rewarded 3 Red Extracts and other items.
+        ** Opening the Mythic Gift Box rewarded 5 Red Extracts and other items.
+        * Purchasing the Precise Pack gave 50 Red Extracts + Other items.
+        * Giving a [[present]] to Gifted Riley Bee gave five red extracts, activated the buff, and
+        [[Field Boost|field boosts]].
+        * Completing [[Bubble Bee Man#Quest (Inside 30 Bee Gate)|Bubble Bee Man's]] 'B.B.M. Mission'
+        quest yielded one red extract.
+        * Purchasing the Extract Bundle in Bee Bear's Catalog granted 15 Red Extracts + Other items.
+        * Purchasing the Cozy Bundle from [[Bee Bear's Catalog]] gave 25 red extracts along with
+        other items.
+        * [[Bee Bear]] gave red extracts on the following quests:
+        ** Festive Bee Workshop 2 gave 1 red extract and other items.
+        * Opening certain [[Ornament Presents]]:
+        ** The Colorful Present rewarded 1 Red Extract and other items.
+        ** The Festive Present rewarded 4 Red Extracts and other items.
+        ** The Mythic Present rewarded 3 Red Extracts and other items.
+        * Opening certain [[Gift Boxes]]:
+        ** Opening the Peppermint Gift Box gave 2 Red Extracts and other items.
+        ** Opening the Purple Gift Box gave 10 Red Extracts and other items.
+        * Redeeming certain expired codes:
+        ** Using the code \"2YearsAfterParty\" (Activated the buff and other stuff).
+        ** Using the code \"Valentine\" (Activated the buff and other stuff).
+        ** Using the code \"Crafty\" (Gave 1 red extract and other stuff).
+        ** Using the code \"Discord50k\" (Activated the buff and other stuff).
+        ** Using the code \"RedCatBee\" (Gave 1 red extract and other stuff).
+        ** Using the code \"ExoExtract\" (Gave 1 red extract and other stuff).
+        ** Using the code \"3YearParty\" (Gave 1 red extract and other stuff).
+        |}
+
+        == Crafting Uses ==
+        Total required for all in-game equipment: {{Cost|Red Extract|3,081}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !{{Cost|Red Extract}}
+        !Other items required
+        !Crafted item
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Blue Extract|3}}<br>{{Cost|Glue|3}}<br>{{Cost|Neonberry|3}}
+        |[[File:Purple Potion.png|center|80px|link=Purple Potion]]<div style=\"text-align:
+        center;\">{{Color|Purple Potion}}</div>
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Honey|15,000,000}}<br>{{Cost|Oil|5}}<br>{{Cost|Blue Extract|3}}
+        |[[File:Beekeeper's Boots.png|center|80px|link=Beekeeper's Boots]]<div style=\"text-align:
+        center;\">[[Beekeeper's Boots]]</div>
+        |-
+        |<div style=\"text-align: center;\">3</div>
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Strawberry|50}}<br>{{Cost|Royal
+        Jelly|5}}<br>{{Cost|Stinger|5}}
+        |[[File:Elite Red Guard.png|center|80px|link=Elite Red Guard]]<div style=\"text-align:
+        center;\">[[Elite Red Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">10</div>
+        |{{Cost|Honey|30,000,000}}<br>{{Cost|Strawberry|100}}<br>{{Cost|Glue|5}}<br>{{Cost|Stinger|25}}
+        |[[File:Riley Guard.png|center|80px|link=Riley Guard]]<div style=\"text-align:
+        center;\">[[Riley Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">15
+        |{{Cost|Honey|10,000,000}}<br>{{Cost|Magic Bean|5}}<br>{{Cost|Soft Wax|20}}
+        |[[File:Red Clay Planter.png|center|80px|link=Red Clay Planter]]<div style=\"text-align:
+        center;\">{{Color|Red Clay Planter}}</div>
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Strawberry|500}}<br>{{Cost|Enzymes|25}}<br>{{Cost|Glue|15}}
+        |[[File:Fire Mask.png|center|80px|link=Fire Mask]]<div style=\"text-align:
+        center;\">[[Fire Mask]]</div>
+        |-
+        |<div style=\"text-align: center;\">100
+        |{{Cost|Honey|200,000,000}}<br>{{Cost|Stinger|100}}<br>{{Cost|Oil|50}}<br>{{Cost|Glitter|25}}
+        |[[File:Crimson Guard.png|center|80px|link=Crimson Guard]]<div style=\"text-align:
+        center;\">[[Crimson Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">150
+        |{{Cost|Honey|{{Hover|25B|25,000,000,000}}}}<br>{{Cost|Tropical
+        Drink|150}}<br>{{Cost|Coconut|150}}<br>{{Cost|Blue Extract|150}}
+        |[[File:Coconut Canister.png|center|80px|link=Coconut Canister]]<div style=\"text-align:
+        center;\">[[Coconut Canister]]</div>
+        |-
+        |<div style=\"text-align: center;\">250
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Stinger|500}}<br>{{Cost|Enzymes|150}}<br>{{Cost|Glue|100}}
+        |[[File:Demon Mask.png|center|80px|link=Demon Mask]]<div style=\"text-align:
+        center;\">[[Coconut Canister]]</div>
+        |-
+        |<div style=\"text-align: center;\">250
+        |{{Cost|Honey|{{Hover|100B|100,000,000,000}}}}<br>{{Cost|Glue|500}}<br>{{Cost|Blue
+        Extract|250}}<br>{{Cost|Glitter|250}}
+        |[[File:Gummy Boots.png|center|80px|link=Gummy Boots]]<div style=\"text-align:
+        center;\">[[Gummy Boots]]</div>
+        |-
+        |<div style=\"text-align: center;\">750
+        |150 [[Gifted Riley Bee]] quests
+        completed<br>{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Magic
+        Bean|75}}<br>{{Cost|Hard Wax|150}}<br>{{Cost|Swirled
+        Wax|25}}<br>{{Cost|Turpentine|1}}
+        |[[File:Heat-Treated Planter.png|center|80px|link=Heat-Treated Planter]]<div
+        style=\"text-align: center;\">{{Color|Heat-Treated Planter}}
+        |-
+        |<div style=\"text-align: center;\">1,500
+        |250 [[Gifted Riley Bee]] quests
+        completed<br>{{Cost|Honey|{{Hover|2.5T|2,500,000,000,000}}}}<br>{{Cost|Stinger|200}}<br>{{Cost|Hard
+        Wax|100}}<br>{{Cost|Caustic Wax|50}}<br>{{Cost|Super
+        Smoothie|50}}<br>{{Cost|Invigorating Vial|3}}
+        |[[File:Dark Scythe.png|center|80px|link=Dark Scythe]]<div style=\"text-align:
+        center;\">[[Dark Scythe]]
+        |}
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Crafted]]
+        [[Category:Consumables]]
+        [[Category:Red]]
+        [[Category:Inventory]]"}

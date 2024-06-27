@@ -1,0 +1,56 @@
+{"text": "{{Accessory
+        |image1 = Mondo Belt Bag.PNG
+        |description = A highly-embelished ''[sic]'' Belt Bag imported from a far away land.
+        |cost = 12,400,000 [[Honey]], 1 [[Soft Wax]], 150 [[Pineapple|Pineapples]], 150 [[Sunflower
+        Seed|Sunflower Seeds]], and 10 [[Stinger]]s.
+        |stats = +100,000 Capacity<br>+50 Convert Amount<br>+75% Loot Luck
+        }}
+        {{Quote|A highly-embelished ''[sic]'' Belt Bag imported from a far away land.}}
+        The '''Mondo Belt Bag''' is a [[:Category:Belts|belt accessory]] located in the [[Mountain
+        Top Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|12,400,000}}<br>{{Cost|Soft
+        Wax|1}}<br>{{Cost|Pineapple|150}}<br>{{Cost|Sunflower
+        Seed|150}}<br>{{Cost|Stinger|10}}
+        |}
+
+        ==Stats==
+
+        *+100,000 [[Capacity]].
+        *+50 [[System Page#Convert Amount|Convert Amount]].
+        *+75% [[System Page#Loot Luck|Loot Luck]].
+        *+10% [[System Page#Buzz Bomb Pollen|Buzz Bomb Pollen]].
+        *+1 [[Bee Attack|Colorless Bee Attack]].
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        Mondobeltbagicon.png|The {{PAGENAME}} icon.
+        Mondoonbear.png|Sun Bear and his {{PAGENAME}}.
+        MondoBeltBagDesc.jpeg|The old stats and price of the {{PAGENAME}} prior to the 11/25/2018
+        update.
+        </gallery>
+
+        ==Trivia==
+
+        *This is the second belt accessory awarded by [[Sun Bear]] on his first visit, the first
+        being the Belt Bag.
+        *In the [[Updates#2018.09.10|9/10/2018 update]], Sun Bear returned for a second visit
+        wearing the Mondo Belt Bag and the [[Beekeeper's Boots]]. The Mondo Belt Bag worn by Sun
+        Bear is much bigger than the player's.
+        *Before the [[Updates#2018.11.25|11/25/2018 update]], the Mondo Belt Bag didn't require
+        stingers, pineapples, or sunflower seeds to be purchased.
+        *This is the 4th strongest belt accessory in the game, behind the [[Honeycomb Belt]],
+        [[Petal Belt]] and the [[Coconut Belt]].
+        *This is one of the few items that went from being a quest reward to being purchasable in a
+        [[:Category:Shops|shop]].
+        **Other items with this quality are the [[Belt Bag]] and the original three pairs of
+        [[:Category:Boots|Boots]].
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Belts]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

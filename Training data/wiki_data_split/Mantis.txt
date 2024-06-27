@@ -1,0 +1,102 @@
+{"text": "{{Mob
+        |title = Mantis
+        |image =Transparent_mantis.png
+        |location = [[Pineapple Patch]], [[Pine Tree Forest]]
+        |timer = 20 minutes (17 minutes with a Gifted Vicious Bee in hive)
+        |hp =115 (Lvl 4)
+
+        140 (Lvl 5)
+
+        165 (Lvl 6)
+        |damage =20
+        |points = 5
+        |bond = 25
+        |honey = 250
+        |level = 4-6
+        }}The '''Mantis''' is a [[Mobs|Mob]] that defends the [[Pineapple Patch]] and the [[Pine
+        Tree Forest]].
+
+        It takes 20 minutes for a Mantis to respawn after being defeated (17 minutes if the player
+        has a [[Gifted Bee|Gifted]] [[Vicious Bee]]).
+
+        This Mob's level can range from 4-6 depending on the [[Field]] it is located at.
+
+        The Mantis is green with red eyes. Its arms stick out, similar to a praying mantis.
+
+        == Locations ==
+        {| class=\"article-table\"
+        !Field
+        !Quantity
+        !Level
+        |-
+        |Pineapple Patch
+        |1 (with 1 [[Rhino Beetle]])
+        |4
+        |-
+        |Pine Tree Forest
+        |2 (with 1 [[Werewolf]])
+        |5 (on left)
+        6 (on right)
+        |}
+
+        == Drops ==
+        Guaranteed:
+        * 5 [[Battle Points]].
+        * 250 [[Honey]]. ([[Loot Luck]]: + Honey From Tokens).
+
+        Possible:
+        * [[Ticket]]s (20% chance) (Loot Luck: + Drop rate).
+        *[[Snowflake]]s (increments of 1, 5, 50 or 100) (Beesmas only).
+        * [[Blueberry|Blueberries]] (increments of 1, 3, 5, 10, 25, 50 or (100 Exceptionally Rare).
+        * [[Pineapple|Pineapples]] (increments of 1, 3, 5, 10, 25, 50 or (100 Very Rare).
+        * [[Treat|Treats]] (increments of 3, 5, 10, and 25).
+        * [[Gumdrops]] (increments of 1, 5, 10 or 25).
+        * [[Moon Charm|Moon charms]]. (Rare).
+        *[[Robo Pass]]. (Rare)
+        * [[Royal Jelly|Royal jellies]] (increments of 1, 5, or 10).
+        * [[Micro-Converter|Micro-converters]] (increments of 1 or 5).
+        *[[Smooth Dice]] (Rare).
+        * [[Neonberry|Neonberries]] (Rare).
+        *[[Whirligig]]s (Rare).
+        * [[Oil]] (increments of 1, 5 or 10) (Rare).
+        * [[Glitter]] (increments of 1 or 5) (Rare).
+        * [[Beesmas Top]] (Beesmas only, Rare).
+        * Menacing Mantis [[Sticker]] (Extremely Rare).
+        * [[Egg#Silver Egg|Silver eggs]] (increments of 1 or 5) (Extremely Rare).
+        * [[Egg#Diamond Egg|Diamond Egg]] (Exceptionally Rare).
+        *[[Egg#Gifted Gold Egg|Gifted Gold Egg]] (Exceptionally Rare).
+
+        ==Strategy==
+        Due to the Mantis' long attack range, the player’s [[Bees]] normally won’t target it until
+        they get closer/when the mantis itself attacks. Try to get at the very edge of its enormous
+        jump range. Then, when it stops to get ready to attack, walk in a very wide circle around
+        it. If done correctly, the mantis will undershoot and land where you were a few seconds
+        before. This is often close enough for your Bees to start attacking, even once it retreats
+        back. Also, keep in mind the [[Glitches#Frozen Field Defenders|Frozen Field Defenders
+        Glitch]] can be used to defeat it, just like with most other mobs. When a Mantis is stuck in
+        an object, the player can also defeat it more easily.
+
+        ==Trivia ==
+
+        * When a [[:Category:Bears|Bear]] gives a quest that involves more than one mantis, its
+        plural form was spelled incorrectly, such as \"4 Mantiss\" rather than \"4 Mantises\" or \"4
+        Mantis\"; This was fixed at an unknown time.
+        **In [[Bee Bear|Bee Bear's]] dialogue for his quests, he asks you to defeat x \"Mantises\",
+        but in the quest list, it still says \"Mantiss\".
+        *In Bee Bear's quest, ‘''BEE-liz Honey-dad''’, he told the player to defeat 10 Mantises, but
+        if the player talked to him again, he didn't mention this.
+        *The mantis in the Pineapple Patch can get stuck in the wall surrounding the field or in the
+        smaller pineapple behind the [[Treat Dispenser]], though this is rare.
+        **Before the [[Updates#2019.09.28|9/28/2019 Update]], the pine trees in the [[Pine Tree
+        Forest]] could be collided with and the mantises could get stuck in them.
+        * Mantises have the longest attack jump length of any mob, only rivaled by the [[Werewolf]].
+        Because of this, the mantises can jump outside of the field that they're defending into
+        others.
+        * The mantis has the same respawn time as the [[Scorpion]].
+        *During Beesmas 2020, you could get the [[Beesmas Top]] from the Mantis.
+        *As stated by Number1Riker, a [[BSS Staff#Former BSS Staff|Former Moderator]] of the Bee
+        Swarm Simulator Discord server, the Mantis was originally supposed to be a cricket before
+        being changed into the former. The reason for the change is unknown.
+
+        {{MobNav}}
+        [[Category:Mobs]]"}

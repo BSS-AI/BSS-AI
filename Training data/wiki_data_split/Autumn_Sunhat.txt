@@ -1,0 +1,46 @@
+{"text": "{{Beequip
+        |image1=Autumn Sunhat.png
+        |level=16
+        |color=Any
+        |limit=1
+        |description=A lovely straw hat made from 100% fall-sourced materials.
+        |beesmas=no
+        |requirement=Only For: {{Icon|Hasty}} {{Icon|Bumble}} {{Icon|Looker}} {{Icon|Exhausted}}
+        {{Icon|Diamond}} {{Icon|Puppy}}
+        |stats=+Convert Amount<br/>+%Convert Amount<br/>+%White Gather
+        Amount<br/>+%Ability Rate
+        |hive=+Capacity<br/>+%Sunflower Field Pollen<br/>+%Pumpkin Patch
+        Pollen<br/>+%White Field Capacity
+
+        }}The '''Autumn Sunhat''' is a [[Bond|level]] 16 [[beequip]]. It has an equip limit of one.
+        There is no color requirement. It can only be equipped to [[Hasty Bee|Hasty]], [[Bumble
+        Bee|Bumble]], [[Looker Bee|Looker]], [[Exhausted Bee|Exhausted]], [[Diamond Bee|Diamond]]
+        and [[Puppy Bee|Puppy]] [[bees]].
+
+        ==Potential==
+        *[[System_Page#Convert_Amount|Convert Amount]] (Guaranteed) - +60 to +80 (up to +200 from
+        waxing)
+        *Convert Amount (Guaranteed) - +15% to +20% (up to +60% from waxing)
+        *White Gather Amount (Guaranteed) - +40% to +60% (up to +110% from waxing)
+        *[[System Page#Bee Ability Rate|Ability Rate]] (Guaranteed) - +8% to +15% (up to +25% from
+        waxing)
+        *[Hive Bonus] [[Capacity]] (Guaranteed) - +40,000 to +60,000 (up to +140,000 from waxing)
+        *[Hive Bonus] [[Sunflower Field]] [[Pollen]] (Guaranteed) - +18% to +24% (up to +44% from
+        waxing)
+        *[Hive Bonus] [[Pumpkin Patch]] [[Pollen]] (Guaranteed) - +18% to +24% (up to +44% from
+        waxing)
+        *[Hive Bonus] White [[Fields|Field]] [[Capacity]] (Guranteed) - +6% to +10% (up to +22% from
+        waxing)
+        *[Hive Bonus] [[System Page#White Pollen|White Pollen]] - +1% to +30% (from waxing, caustic
+        only)
+
+        ==Ways to obtain==
+        *Can be purchased from [[Dapper Bear's Shop|Dapper Bear's Beequip Shop.]]
+
+        ==Gallery==
+
+        {{Items}}
+
+        [[Category:Beequips]]
+        [[Category:Items]]
+        [[Category:Inventory]]"}

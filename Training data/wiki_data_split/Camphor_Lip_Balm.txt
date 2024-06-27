@@ -1,0 +1,38 @@
+{"text": "{{Beequip
+        |image1=Camphor Lip Balm.png
+        |level=12
+        |color=Any
+        |limit=1
+        |description=Soothes chapped lips with a slight cooling sensation.
+        |beesmas=no
+        |requirement=Only For: {{Icon|Cool}} {{Icon|Stubborn}} {{Icon|Commander}} {{Icon|Bubble}}
+        {{Icon|Crimson}}
+        |stats=+Gather Amount<br />+%Critical Power
+        |hive=xPepper Patch Pollen<br />+%Bubble Pollen
+        }}
+
+        The '''Camphor Lip Balm''' is a [[Bond|level]] 12 [[beequip]]. It has an equip limit of one.
+        There is no color requirement. It can only be equipped to [[Cool Bee|Cool]], [[Stubborn
+        Bee|Stubborn]], [[Commander Bee|Commander]], [[Bubble Bee|Bubble]] and [[Crimson
+        Bee|Crimson]] bees.
+
+        == Potential==
+        *Gather Amount (Guaranteed) - +20 to +30 (up to +75 from waxing)
+        *Critical Power (Guaranteed) - +50% to +70% (up to +145% from waxing)
+        *[Hive Bonus] [[Pepper Patch]] [[Pollen]] (Guaranteed) - x1.03 to x1.05 (up to x1.08 from
+        waxing)
+        *[Hive Bonus] [[System Page#Bubble Pollen|Bubble Pollen]] (Guaranteed) - +10% to +15% (up to
+        +25% from waxing)
+        *[Hive Bonus] [[System Page#Bubble Pollen|Gold Bubble Pollen]] - +2% to +12% (from waxing,
+        caustic only)
+        *[Hive Bonus] [[Honey]] From [[Instant Conversion]] - +1% (from waxing, rare, caustic only)
+        ==Ways to obtain==
+        *Can be purchased from [[Dapper Bear's Shop|Dapper Bear's Beequip Shop.]]
+
+        ==Gallery==
+
+        {{Items}}
+
+        [[Category:Beequips]]
+        [[Category:Items]]
+        [[Category:Inventory]]"}

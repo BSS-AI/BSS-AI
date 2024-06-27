@@ -1,0 +1,655 @@
+{"text": "[[File:Shop.png|thumb|85px|The icon for the Robux Shop.]]
+        The '''Robux Shop''' is a shop that requires robux () to purchase items. It can be accessed
+        through the Shop tab on the menu bar. It is directly next to the [[System Page|System Tab]].
+        This shop sells gamepasses, [[Egg]]s, [[Royal Jelly]], [[Honey]], [[Night Bell]]s, [[Magic
+        Bean]]s, and [[Ticket]]s. It sometimes sells limited-edition items, such as [[Festive
+        Bean]]s, and limited-time packs.
+
+        == Items ==
+
+        <tabber>
+        Eggs=
+        {| class=\"article-table\"
+        |-
+        !Icon
+        !Item Name
+        ! {{Cost|Robux}}
+        !Description
+        |-
+        |[[File:Silver Egg.png|100px]]
+        |{{Color|Silver Egg}}
+        |100
+        |
+        Hatches into a special [[Bees|bee]]!
+        (64.9% Rare, 30% Epic, 5% Legendary, 0.1% Mythic)
+        |-
+        |[[File:Gold Egg.png|100px]]
+        |{{Color|Gold Egg}}
+        |200
+        |
+        Always hatches into an [[Bees/Epic|Epic]], [[Bees/Legendary|Legendary]], or
+        [[Bees/Mythic|Mythic bee]]!
+        (79% Epic, 20% Legendary, 1% Mythic)
+        |-
+        |[[File:Diamond Egg.png|100px]]
+        |{{Color|Diamond Egg}}
+        |400
+        |
+        Always hatches into a Legendary or Mythic bee!
+        (95% Legendary, 5% Mythic)
+        |-
+        |[[File:Star Egg.png|100px]]
+        | {{Color|Star Egg}}
+        |800
+        |
+        Always hatches into a Gifted bee you don't already own! (Excludes [[Bees/Event|Event bees]].
+        Limit 5 per player.)
+        |-
+        |[[File:Mythic Egg.png|100px]]
+        |{{Color|Mythic Egg}}
+        |1200
+        |
+        Always hatches into a random Mythic bee! (Limit 3 per player.)
+        |}
+
+        |-|Royal Jelly=
+
+        {| class=\"article-table\"
+        |-
+        !Icon
+        !Item Name
+        ! {{Cost|Robux}}
+        !Description
+        |-
+        |[[File:Royal Jelly.png|100px]]
+        |{{Color|Royal Jelly}}
+        |45
+        |Transforms a bee's type (70% Rare, 27% Epic and 3% Legendary).
+        |-
+        |[[File:Royal Jelly.png|100px]]
+        |10 {{Color|Royal Jelly|Royal Jellies}}
+        |300
+        | A value pack of Royal Jellies (33% Discount).
+        |}
+
+        |-|Tickets=
+
+        {| class=\"article-table\"
+        |-
+        !Icon
+        !Item Name
+        !{{Cost|Robux}}
+        !Description
+        |-
+        |[[File:Ticket.png|100px]]
+        |{{Color|Ticket}}
+        |10
+        |Used to activate and purchase various things in the game.
+        |-
+        |[[File:Ticket.png|100px]]
+        |100 {{Color|Ticket|Tickets}}
+        |400
+        |A value pack of tickets! (x2.5 Value. 4 Per Ticket.)
+        |-
+        |[[File:Ticket.png|100px]]
+        |510 {{Color|Ticket|Tickets}}
+        |1700
+        |A value pack of tickets! (x3 Value. 3.33 Per Ticket.)
+        |-
+        |[[File:Ticket.png|100px]]
+        |1,800 {{Color|Ticket|Tickets}}
+        |4500
+        |A value pack of tickets! (x4 Value. 2.5 Per Ticket.)
+        |}
+
+        |-|Other Items=
+
+        {| class=\"article-table\"
+        |-
+        !Icon
+        !Item Name
+        !{{Cost|Robux}}
+        !Description
+        |-
+        |[[File:Magic Bean.png|100px]]
+        |{{Color|Magic Bean}}
+        |30
+        |Activate to plant a random [[Sprout]] in a field. Collect pollen to make it grow.
+        |-
+        |[[File:Magic Bean.png|100px]]
+        |10 {{Color|Magic Bean|Magic Beans}}
+        |200
+        |A value pack of 10 Magic Beans!
+        |-
+        |[[File:Sticker Planter.png|100x100px]]
+        |{{Color|Sticker Planter}}
+        |100
+        |Grows in around 3 hours playtime. Grants [[Nectar]], [[Sticker]]s (at least 5), and more.
+        Always spawns a [[Puffshroom|Rare Puffshroom]] (or better)! (Requires 20 Bees to purchase.
+        Limit 10 per player.)
+        |-
+        |[[File:Night Bell.png|100px]]
+        |{{Color|Night Bell}}
+        |80
+        |Summons [[Day/Night Cycle|Night time]]. A Moon Sprout and a [[Rogue Vicious Bee|Vicious
+        Bee]] are guaranteed to appear.
+        |-
+        |[[File:Cub Buddy Voucher.png|100px]]
+        |{{Color|Cub Buddy Voucher}}
+        |600
+        |A tradable Voucher that can be redeemed by another player for a [[Cub Buddy]].
+        |}
+
+        |-|Game Passes (One-Time Purchases)=
+
+        {| class=\"article-table\"
+        |-
+        ! Icon
+        !Item Name
+        ! {{Cost|Robux}}
+        !Description
+        |-
+        |[[File:Bear Bee Gamepass.png|100px]]
+        |[[Bear Bee]]
+        |800
+        |Gives permanent access to [[Bear Bee]]. It periodically transforms you into a bear,
+        granting x2 pollen, increased movement speed, and higher jump power!
+        <sup>(This part is not included in the description.)</sup> (This is the 2nd
+        Edition [[Bear Bee]] version. The 1st Edition version was available during the first month
+        of the game's release for 650 robux. For those that bought it during that time, it will
+        become gifted and will also have a [[First Edition Bee|1st Edition Flag]] on it.)
+        |-
+        |[[File:Honey Speed Pass.png|100px]]
+        |x2 [[System Page#Convert Rate At Hive|Honey Speed]] Pass
+        |250
+        |Allows your bees to convert pollen at the hive into honey twice as fast.
+        |-
+        |[[File:Bee .png|100px]]
+        |x2 [[System Page#Pollen from Bees|Bee Pollen]] Pass
+        |400
+        |Allows your bees to collect twice as much pollen at a time when gathering from flowers.
+        |-
+        |[[File:Ticket Chance Pass.png|100px]]
+        |x2 {{Color|Ticket}} Chance Pass
+        (Removed)
+        |700
+        |Doubled your chance of receiving a ticket when defeating mobs and collecting pollen.
+        |}
+
+        |-|Honey=
+
+        {| class=\"article-table\"
+        |-
+        !Icon
+        !Name
+        !{{Cost|Robux}}
+        !Description
+        |-
+        |[[File:Honey.png|100px]]
+        |Honey Pouch
+        |25
+        |Instantly gain 10,000 {{Color|Honey}}.
+        |-
+        |[[File:Honey.png|100px]]
+        |Honey Sack
+        |300
+        |Instantly gain 250,000 {{Color|Honey}}.
+        |-
+        |[[File:Honey.png|100px]]
+        |Honey Chest
+        |800
+        | Instantly gain 1,000,000 {{Color|Honey}}.
+        |-
+        |[[File:Honey.png|100px]]
+        |Honey Vault
+        |1,700
+        |Instantly gain 5,000,000 {{Color|Honey}}.
+        |}
+        </tabber>
+
+        <tabber>
+        |-|Live Limited Edition Items/Packs=
+
+        {| class=\"article-table\"
+        ! colspan=\"5\" style=\"text-align:center\" |
+        ''Limited to one per person.''
+        |-
+        !Icon
+        !Item Name
+        !{{Cost|Robux}}
+        !Description
+        !Expires on
+        |-
+        | colspan=\"5\" |There are currently no available packs in the Robux Shop.
+        |}
+
+        |-|Finished Limited Edition Items/Packs=
+
+        {| class=\"sortable mw-collapsible mw-collapsed article-table\" style=\"width: 100%\"
+        |-
+        !Icon
+        !Item Name
+        !{{Cost|Robux}}
+        !Description
+        !Ended on
+        |-
+        |[[File:Memorialday.png|100px]]
+        |Memorial Day Deal
+        | 700
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 100 [[Ticket]]s, 25,000 honey.
+        |May 26, 2018
+        |-
+        |[[File:Fruit.png|100px]]
+        |Summer Treat Pack
+        | 300
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 250 [[Treats]], 10,000 honey and 25 of each special
+        treat!
+        |August 1, 2018
+        |-
+        |[[File:Star-0.png|100px]]
+        |Summer Star Pack
+        |1500
+        |1 [[Egg#Star Egg|Star Egg]], 250 [[Ticket]]s, 10 [[Ant Pass]]es, 100,000 honey!
+        |August 1, 2018
+        |-
+        |[[File:Super.png|100px]]
+        | Super Summer Star Pack
+        | 3500
+        |1 [[Star Treat|Star Treat]], 1,000 [[Ticket]]s, 25 [[Ant Pass]]es, 1,000,000 honey!
+        |August 1, 2018
+        |-
+        |[[File:Diamond Moon Pack.png|100px]]
+        |Diamond Moon Pack
+        |300
+        |1 Diamond Egg, 25 [[Moon Charm]]s, 10 Tickets, 100 Treats, and 25,000 honey!
+        |Oct 8, 2018
+        |-
+        |[[File:Stars And Spikes Pack.png|100px]]
+        |Stars And Spikes
+        |1500
+        | 1 [[Egg#Star Egg|Star Egg]], 150 [[Ticket]]s, 100 [[Stinger]]s, 1 [[Royal Jelly#Star
+        Jelly|Star Jelly]], and 250,000 honey!
+        |Oct 8, 2018
+        |-
+        |[[File:September Star Special.png|100px]]
+        |September Star Special
+        |3500
+        |1 [[Treats|Star Treat]], 600 [[Ticket]]s, 100 [[Stinger]]s, 50 [[Treats|Moon Charms]], 1
+        [[Royal Jelly|Star Jelly]], and 1,500,000 honey!
+        |Oct 8, 2018
+        |-
+        |[[File:SparklyStarter.png|100px]]
+        |Sparkly Starter Pack
+        |400
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 5 [[Magic Bean]]s, 5 [[Royal Jelly|Royal Jellies]], 25
+        [[Ticket]]s, 25 [[Treats|Moon Charms]], 150k honey
+        |Dec 16, 2018
+        |-
+        |[[File:ExtremeExtract.png|100px]]
+        |Extreme Extract Pack
+        |1200
+        |300 [[Ticket]]s, 100 [[Stinger]]s, 50 [[Red Extract]]s, 50 [[Blue Extract]]s, 500
+        [[Gumdrops]], 500k honey
+        |Dec 16, 2018
+        |-
+        |[[File:ShiningStar.png|100px]]
+        |Shining Star Pack
+        |2000
+        |1 [[Treats|Star Treat]], 50 [[Glitter]]s, 25 [[Magic Bean]]s, 100 [[Treats|Moon Charms]], 1
+        [[Royal Jelly|Star Jelly]], 1M honey.
+        |Dec 16, 2018
+        |-
+        |[[File:ColossalCrafts.png|100px]]
+        |Colossal Crafts Pack
+        |3400
+        |1200 [[Ticket]]s, 200 [[Stinger]]s, 50 [[Glue]]s, 50 [[Oil]]s, 50 [[Enzymes]], 3 [[Royal
+        Jelly|Star Jellies]], 3M honey.
+        |Dec 16, 2018
+        |-
+        |[[File:Ticket.png|100px]]
+        |700 Ticket Offer
+        |1200
+        |A Discounted Pack of 700 [[Ticket]]s.
+        |Jan 2, 2019
+        |-
+        |[[File:Bear Bee Gamepass.png|100px]]
+        |Bear Bee (35% Off)
+        |650
+        |Periodically transforms you into a bear, granting x2 pollen!
+        |Jan 2, 2019
+        |-
+        |[[File:Festive Bean.png|100px]]
+        |Festive Bean
+        | 250
+        |Activate to plant a [[Sprout|Festive Sprout]] in a field. Grants [[Ticket]]s, rare
+        ingredients, and powerful boosts! Limit 5.
+        |Jan 2, 2019
+        |-
+        |[[File:Fbpbss.png|100px]]
+        | Festive Bee Pack
+        |1600
+        |1st Edition [[Festive Bee]] Egg, 30 [[Red Extract]]s, 30 [[Oil]]s, 30 [[Magic Bean]]s, 1M
+        honey.
+        |February 1, 2019
+        |-
+        |[[File:Winterwonderlandpack.png|100px]]
+        |Winter Wonder Pack
+        |3400
+        | 1 [[Treats|Star Treat]], 200 [[Stinger]]s, 60 [[Glitter]]s, 60 [[Blue Extract]]s, 60
+        [[Enzymes]], 800 [[Ticket]]s, 4M honey.
+        |February 1, 2019
+        |-
+        |[[File:Ba38f2cf930d17d985689669c6b075d4.png|100px]]
+        |Stocking Stuffer Pack
+        |450
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 100 [[Ticket]]s, 5 [[Night Bell]]s, 5 [[Magic Bean]]s,
+        50 [[Treats|Moon Charms]], 200k honey.
+        |February 1, 2019
+        |-
+        |[[File:285f0b412b09d1b7e4f06e06692f41fb.png|100px]]
+        |Happy Honeyday Pack
+        |900
+        |1 [[Egg#Star Egg|Star Egg]], 5 [[Festive Bean]]s, 10 [[Night Bell]]s, 10 [[Glitter]]s, 500
+        [[Gumdrops]], 500k honey.
+        |February 1, 2019
+        |-
+        |[[File:Ticket.png|100px]]
+        |700 Ticket Offer
+        |1200
+        | A discounted pack of 700 [[Ticket]]s.
+        |May 12, 2019
+        |-
+        |[[File:Dualdia.png|100px]]
+        |Dual-Diamond Basket
+        |700
+        |2 [[Egg#Diamond Egg|Diamond Eggs]], 500 [[Gumdrops]], 15 [[Jelly Beans]], 15 [[Field
+        Dice]], 15 [[Red Extract]]s, [[Blue Extract|15 Blue Extracts]], 250k honey.
+        |May 12, 2019
+        |-
+        |[[File:Spikeyspring.png|100px]]
+        |Spikey Spring Basket
+        |2700
+        |1000 [[Ticket]]s, 250 [[Stinger]]s, 50 [[Jelly Beans]], 15 [[Micro-Converter]]s, 75
+        [[Glue]]s, 75 [[Oil]]s, 5M honey.
+        |May 12, 2019
+        |-
+        |[[File:WindyBeePack.png|100px]]
+        |[[Windy Bee]] (First Edition)
+        |800
+        |Summons [[Ability Tokens#Tornado|Tornadoes]] to Collect Pollen and Tokens!
+        Blows [[Ability Tokens#Rain Cloud|Rain Clouds]] around the map to help others!
+        (Permanently obtainable for free as a rare prize from the [[Wind Shrine]]. Shop offer ends
+        Oct 27.)
+        |Oct 27, 2019
+        |-
+        |[[File:Beginnerbeanbundle.png|100px]]
+        |Beginner's Bean Bundle
+        |400
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 100 [[Ticket]]s, 25 [[Magic Bean]]s, 25 [[Jelly Beans]],
+        10 [[Field Dice]], 5 [[Cloud Vial]]s, 150k Honey
+        (Limit 1. Offer ends Oct 27.)
+        |Oct 27, 2019
+        |-
+        |[[File:Gooeygoodies.png|100px]]
+        |Gooey Goodies Pack
+        |800
+        |1 [[Royal Jelly|Star Jelly]], 250 [[Ticket]]s, 1000 [[Gumdrops]], 100 [[Coconut]]s, 100
+        [[Stinger]]s, 50 [[Oil]]s, 500k Honey
+        (Limit 1. Offer ends Oct 27.)
+        |Oct 27, 2019
+        |-
+        |[[File:Startreatspecial.png|100px]]
+        |Star Treat Special
+        |1700
+        |1 [[Treats|Star Treat]], 100 [[Glitter]]s, 100 [[Tropical Drink]]s, 100 [[Glue]]s, 50
+        [[Jelly Beans]], 10 [[Cloud Vial]]s, 2.5M Honey
+        |Oct 27, 2019
+        |-
+        |[[File:MythicalTrio.png|100px]]
+        |Mythic Pack
+        |800
+        |Introducing the Mythic Bees!
+        [[Tadpole Bee|Tadpole]], [[Vector Bee|Vector]], and [[Spicy Bee]]!
+        Each possesses powerful and unique abilities!
+        Pack contains: 1 Mythic Egg, 250 Tickets, 25 Red Extracts, 25 Blue Extracts. (Contains 1
+        Mythic Egg, which always hatches into a random Mythic Bee. Offer ends Feb 9th.)
+        |Feb 9, 2020
+        |-
+        |[[File:Capture654.jpg|100px]]
+        |Cub Buddy Launch Pack
+        |800
+        |Cub Buddy follows you collecting tokens and occasionally granting random gifts!
+        Collect skins to customize your Cub Buddy!
+        Pack Contains: 1 Cub Buddy, 1 [[Cub Buddy#Skins|Noob Cub Skin]] (Limited Ed.),
+        500 Tickets and Noob Cub Skin (If player purchased pack after completing [[Bee Bear|Bee
+        Bear's]] tenth quest)
+        (Cub Buddy is obtainable in game for free. Noob Cub Skin is a limited exclusive. Offer ends
+        Feb 9th.)
+        |Feb 9, 2020
+        |-
+        |[[File:Stockingstuffer.png|100px]]
+        |Stocking Stuffer Special
+        |400
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 100 [[Ticket]]s, 10 [[Box-O-Frogs]], 500 [[Gumdrops]],
+        25 [[Jelly Beans]], 25 [[Coconut]]s, 5 [[Magic Bean]]s, 150k Honey (Limit 1. Offer ends Feb
+        9.)
+        |Feb 9, 2020
+        |-
+        |[[File:Silentnight.png|100px]]
+        |Silent Night Special
+        |800
+        |1 [[Egg#Star Egg|Star Egg]], 100 [[Stinger]]s, 25 [[Glitter]]s, 5 [[Night Bell]]s, 100
+        [[Treats|Moon Charms]], 25 [[Jelly Beans]], 500k Honey (Limit 1. Offer ends Feb 9.)
+        |Feb 9, 2020
+        |-
+        |[[File:Merrymutations.png|100px]]
+        |Merry Mutations Pack
+        |1700
+        |5 [[Atomic Treat|Atomic Treats]], 500 [[Ticket]]s, 25 [[Neonberry|Neonberries]], 250
+        [[Bitterberry|Bitterberries]], 100 [[Glue]]s, 100 [[Enzymes]], 50 [[Tropical Drink]]s, 2.5m
+        Honey (Limit 1. Offer ends Feb 9.)
+        |Feb 9, 2020
+        |-
+        |[[File:FuzzyBeePack.png|100px]]
+        | Fuzzy Pack
+        |800
+        |Meet [[Fuzzy Bee|Fuzzy]], the new Mythic Bee!
+        Pollinates flowers, upgrading them to the next level!
+        Pack Contains: 1 Fuzzy Bee Egg, 250 Tickets, 10 Glitters ''[sic]'' and 10 Glues ''[sic]''
+        (Limit 1 pack per player. Offer ends May 17.)
+        |May 17, 2020
+        |-
+        |[[File:June.png|100px]]
+        |Jumbo June Pack
+        |1700
+        |1 [[Egg#Mythic Egg|Mythic Egg]], 750 [[Ticket]]s, 10 [[Super Smoothie]]s, 25 [[Glitter]]s,
+        25 [[Magic Bean]]s, 25 [[Enzymes]], 2.5m Honey (Limit 1. Offer ends July 5.)
+        |July 5, 2020
+        |-
+        |[[File:Black Friday.png|100px]]
+        |Black Friday Bundle
+        |800
+        |1 [[Egg#Mythic Egg|Mythic Egg]], 1 [[Egg#Diamond Egg|Diamond Egg]], 1 [[Egg#Gold Egg|Gold
+        Egg]], 10 [[Jelly Beans]] (Limit 1. Offer ends December 13.)
+        |December 13, 2020
+        |-
+        |[[File:Reindeer Puppy Pack2.png|100px]]
+        |Reindeer Puppy Pack
+        |800
+        |[[Puppy Bee]] and exclusive [[Reindeer Antlers]] [[Beequip]]!
+        Enhances Puppy Bee and adds a Festive Theming!
+        Pack Contains: Puppy Bee (500 tickets if the player already owns Puppy Bee), Reindeer Puppy
+        Antlers (refund of cost in Bee Bear's Catalog if Reindeer Antlers are already owned), 50
+        [[Gingerbread Bear]]s
+        |Feb 28, 2021
+        |-
+        |[[File:Snowey Starter Pack.png|100px]]
+        |Snowey ''[sic]'' Starter Pack
+        |400
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 100 [[Ticket]]s, 1 [[Snowglobe]], 1 [[Single Mitten]],
+        500 [[Snowflake]]s, 10 [[Glitter]]s, 10 [[Magic Bean]]s, 200k Honey
+        | Feb 28, 2021
+        |-
+        |[[File:Merry Mythic Pack.png|100px]]
+        |Merry Mythic Pack
+        | 800
+        |1 [[Egg#Mythic Egg|Mythic Egg]], 250 [[Ticket]]s, 1 [[Toy Drum]], 1 [[Pinecone]], 25
+        [[Glue]], 10 [[Gingerbread Bear]]s, 5 [[Treats|Atomic Treats]], 500k Honey
+        | Feb 28, 2021
+        |-
+        |[[File:Jolly Jumbo Pack.png|100px]]
+        |Jolly Jumbo Pack
+        |1700
+        |1 [[Egg#Star Egg|Star Egg]], 500 [[Ticket]]s, 1 [[Toy Horn]], 1 [[Icicles]], 5 [[Festive
+        Bean]]s, 25 [[Gingerbread Bear]]s, 50 [[Enzymes]], 2500 [[Gumdrops]], 5m Honey
+        |Feb 28, 2021
+        |-
+        |[[File:Honeyday Mega-Haul2.png|100px]]
+        |Honeyday Mega-Haul
+        | 4500
+        |1 [[Egg#Mythic Egg|Gifted Mythic Egg]], 1500 [[Ticket]]s, 1 [[Beesmas Tree Hat]], 1 [[Paper
+        Angel]], 25 [[Super Smoothie]]s, 500 [[Stinger]]s, 100 [[Glitter]]s, 50 [[Gingerbread
+        Bear]]s, 10m Honey
+        |Feb 28, 2021
+        |-
+        |[[File:CyberMondayDealIngame.png|100px]]
+        |Cyber Monday Pack
+        |800
+        |1 [[Egg#Mythic Egg|Mythic Egg]], 1 [[Treats|Atomic Treat]], 100 [[Ticket]]s, 10 [[Magic
+        Bean]]s, 10 [[Micro-Converter]]s, 5 [[Glue]]s, 5 [[Night Bell]]s
+        (Limited 1 per player. Offer ends December 5.)
+        |Dec 5, 2021
+        |-
+        |[[File:Buoyant Pack.PNG|100px]]
+        |Buoyant Pack
+        |800
+        |Meet [[Buoyant Bee]], the Blue Mythic Bee
+        Spawns [[Balloon]]s to carry Pollen and inflate your bag!
+        Pack Contains: 1 Buoyant Bee Egg, 250 [[Ticket]]s, 25 [[Glue]]s, 25 [[Blue Extract]]s, 10
+        [[Purple Potion]]s, and 3 [[Red Balloon|Red]], [[White Balloon|White]], and [[Black
+        Balloon]]s (Limit 1 pack per player. Offer ends March 31.)
+        | March 31, 2022
+        |-
+        |[[File:Precise Pack.png|100px]]
+        |Precise Pack
+        |1700
+        |Meet [[Precise Bee]], the Red Mythic Bee
+        Shoots lasers and unleashes Super-Critical power!
+        Pack Contains: 1 Precise Bee Egg, 500 [[Ticket]]s, 50 [[Red Extract]]s, 50 [[Hard Wax]], 150
+        [[Stinger]]s, 250 [[Treats|Neonberries]], and 10 [[Loaded Dice]]
+        (Limit 1 pack per player. Offer ends March 31.)
+        |March 31, 2022
+        |-
+        |[[File:NewYearBoosterBundle.PNG|100px]]
+        |New Year Booster Bundle
+        |400
+        |1 [[Egg#Diamond Egg|Diamond Egg]], 100 [[Ticket]]s, 5 [[Ticket Planter]]s, 10 [[Magic
+        Bean]]s, 15 [[Oil]]s, 15 [[Enzymes]], 15 [[Soft Wax]], 250k Honey (Limit 1. Offer ends March
+        31.)
+        |March 31, 2022
+        |-
+        |[[File:FestiveFrenzyHaul.PNG|100px]]
+        |Festive Frenzy Haul
+        |4500
+        |1 [[Egg#Mythic Egg|Gifted Mythic Egg]], 1500 [[Ticket]]s, 25 [[Swirled Wax]], 25 [[Purple
+        Potion]]s, 25 [[Glitter]]s, 10 [[Super Smoothie]]s, 5 [[Festive Planter]]s, 5 [[Festive
+        Bean]]s, 1000 [[Gumdrops]], 10m Honey
+        (Limit 1 pack per player. Offer ends March 31.)
+        |March 31, 2022
+        |-
+        |[[File:Cybermondomonday.png|100px]]
+        |Cyber Mondo-Monday Pack
+        |800
+        |1 [[Egg#Mythic Egg|Mythic Egg]], 10 [[Ticket Planter]]s, 10 [[Loaded Dice]], 10 [[Magic
+        Bean]]s, 500 [[Gumdrops]]
+        (Limit 1 per player. Offer ends Dec 5th.)
+        |December 5, 2022
+        |-
+        |[[File:Ticket.png|100px]]
+        |250 [[Ticket]]s
+        |400
+        |Tickets discounted for Black Friday!
+        (Limit 1 per player. Offer ends Dec 5th.)
+        |December 5, 2022
+        |-
+        |[[File:Digitalpack.png|100px]]
+        |[[Digital Bee|Digital Bee Pack]]
+        |2500
+        |Pack Contains: Digital Bee Egg (1st Edition)
+        10 [[Robo Pass]]es, 10 [[Drives#Glitched Drive|Glitched Drives]], 10 [[Drives#White
+        Drive|White Drives]], 10 [[Drives#Blue Drive|Blue Drives]], 10 [[Drives#Red Drive|Red
+        Drives]]
+        Permanently obtainable in game as a reward from [[Robo Bear Challenge|Robo Bear's
+        Challenge]].
+        |May 7, 2023
+        |-
+        |[[File:Nighttimenectarpack.png|100px]]
+        |Nighttime Nectar Pack
+        |400
+        |
+        Pack Contains: 1 [[Egg#Star Egg|Star Egg]], 1 of each [[Nectar Vial]], 20 [[Glue]]s, 5
+        [[Night Bell]]s, 100 [[Ticket]]s, 500 [[Snowflake]]s
+        |May 7, 2023
+        |-
+        |[[File:Magicalmythicpack.png|100px]]
+        |Magical Mythic Pack
+        |800
+        | Pack Contains: 1 [[Egg#Mythic Egg|Mythic Egg]], 25 [[Gingerbread Bear]]s, 25 [[Glitter]]s,
+        25 [[Loaded Dice]], 5 [[Festive Bean]]s, 5 [[Super Smoothie]]s, 25 [[Red Extract]]s and
+        [[Blue Extract]]s
+        |May 7, 2023
+        |-
+        |[[File:Mondorobobundle.png|100px]]
+        |Mondo Robo-Bundle
+        |4500
+        | Pack Contains: 1 [[Egg#Mythic Egg|Gifted Mythic Egg]], 25 [[Robo Pass]]es, 10 [[Festive
+        Planter]]s, 500 [[Stinger]]s, 25 [[Swirled Wax]], 25 [[Caustic Wax]], 1 [[Turpentine]], 10
+        [[Drives#Glitched Drive|Glitched Drives]], 1500 [[Ticket]]s
+        |May 7, 2023
+        |-
+        |[[File:Cybermondayspecial.png|100px]]
+        |Cyber Monday Special
+        |800
+        |1 [[Egg#Mythic Egg|Mythic Egg]], 250 [[Ticket]]s, 50 [[Stinger]]s, 10 [[Loaded Dice]], 10
+        [[Glitter]]s, 5 [[Night Bell]]s, 1 [[Black Balloon]], 1 [[Atomic Treat]]
+        (Limit 1 per player. Offer ends December 5.)
+        |December 5, 2023
+        |-
+        |[[File:Ticket Planter.png|100px]]
+        |15 Ticket Planters
+        |400
+        |Black Friday offer. Plant to collect rewards and Nectar buffs! At least 10 Tickets per
+        planter.
+        |December 5, 2023
+        |}
+        </tabber>
+
+        ==Trivia ==
+        *Those who bought the x2 Ticket Chance Pass before it was removed got to keep it.
+        *With the exception of the gamepasses, Bear Bee, and the Noob Cub Buddy skin, everything
+        else in the shop can be earned without spending robux.
+        *The Robux Shop and [[Bee Bear's Catalog]] are the only shops that are in a menu.
+        *The Robux Shop has more items than any other shop in-game.
+        *The Festive Bee Pack, Fuzzy Bee Pack, Buoyant Pack, Precise Pack, and Digital Bee Pack are
+        the only packs in the Robux Shop that gave a [[Egg#Specific Bee Eggs|Bee Egg]], as Bear Bee
+        is not a pack, nor was the Windy Bee deal.
+        *The honey offers got increased at one point, as the Honey Vault used to only give 200,000
+        honey.
+        *Royal jelly used to cost 50 robux each and the pack of 10 used to cost 400 robux each.
+        *Bear Bee used to cost 1000 robux before the [[Updates#2019.09.28|9/28/2019 update]]. It now
+        costs 800 robux.
+        ** Similar to Bear Bee, Star Eggs are now 800 robux after being lowered from 1000 robux.
+        *Bear Bee was the only gamepass that was removed for a certain amount of time, then
+        re-added.
+        *The total amount of robux spent for all of the robux packs is 43,450, not including the
+        Windy Bee, festive bean, ticket offers, and Bear Bee discounts. This would be a total of
+        $152.08 USD.<!-- outdated -->
+        * The Mondo Robo-Bundle, Honeyday Megahaul, Festive Frenzy Haul and 1800 tickets are the
+        most expensive items in the Robux Shop (4500 robux for each item) and 1 ticket is the
+        cheapest item in the Robux Shop (10 robux for each ticket).
+        * The Mondo Robo-Bundle used to not contain 1500 tickets until in a later update Onett added
+        the tickets in.
+
+        {{MapNav}}
+        [[Category:Shops]]
+        [[Category:Mechanics]]"}

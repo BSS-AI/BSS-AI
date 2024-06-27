@@ -1,0 +1,318 @@
+{"text": "{{Mob
+        |title = Wild Windy Bee
+        |image = Windy Bee.png
+        |location = All Fields except the [[Stump Field]], [[Ant Field]]. and the [[Hive Hub]].
+        |hp = 500 base; Increases by level
+        |damage = 40 (contact)
+        Minimum 1/0.5s; Increases on every defeat and the proximity between the player and the
+        tornado.
+        |points = None
+        |level = 1-No limit
+        }}''<sup>This page is for the Wild version of Windy Bee. For the tamed version, see
+        [[Windy Bee]].</sup>''
+
+        The '''Wild Windy Bee''' is a [[:Category:Mini Bosses|Mini-Boss]] that usually spawns in the
+        [[Dandelion Field]], [[Pineapple Patch]], [[Pumpkin Patch]], [[Mountain Top Field]], and
+        [[Coconut Field]].
+
+        During the [[Beesmas]] event, Wild Windy Bee could also spawn in the [[Clover Field]],
+        [[Spider Field]], [[Bamboo Field]] and [[Pepper Patch]] in addition to the [[Fields]] that
+        it normally appears in.
+
+        A Wild Windy Bee may spawn naturally every two in-game [[Day/Night Cycle]]s or from an
+        offering to the [[Wind Shrine]]. If the first line of dialogue from offering to the Wind
+        Shrine is “A sudden breeze sweeps the {item} into the sky\" a Wild Windy Bee will spawn in a
+        random [[Fields|Field]]. If the player does not touch the cloud Wild Windy Bee is in for 3
+        minutes, it will de-spawn.
+
+        It can also be spawned by receiving [[Spirit Bear|Spirit Bear's]] \"Tickle The Wind\" [20]
+        [[Quests|Quest]] that summons 3 Wild Windy Bees at Mountain Top Field, by completing Spirit
+        Bear's \"Space Oblivion\" [24] quest that summons a single Wild Windy Bee, And by receiving
+        Spirit Bear's \"Spring Out Of The Mountain\" [30] Quest that summons a single Wild Windy Bee.
+        When a Wild Windy Bee spawns, the player needs to find a floating [[Clouds|Cloud]] over a
+        field with Windy Bee inside. It will be camouflaged inside the cloud and have a distinct
+        white trail. Touching the Wild Windy Bee in time will initiate the fight. The starting level
+        of Wild Windy Bee upon discovery is random but can only go up to level 6 (unless spawned by
+        [[Onett (Developer)|Onett]]).
+
+        When Windy Bee starts its attack, all players on the server receive the message: \"<span
+        style=\"color:white;background-color:gray\">☁️ (Username of the Player) found Windy Bee in
+        the (Dandelion Field/Pineapple Patch/Pumpkin Patch/Mountain Top Field/Coconut Field) (Clover
+        Field/Spider Field/Bamboo Field/Pepper Patch Only for Beesmas)! ☁️</span>\". When the
+        Windy Bee's HP reaches 0, the bee will drop rewards and immediately move to a random field,
+        excluding the [[Ant Field]] and [[Stump Field]]. It leaves successively better rewards
+        behind each time it's forced to move. When it leaves the map after its 5-minute timer
+        elapses, the server states: \"<span style=\"color:white;background-color:gray\">☁️ Windy
+        Bee is fleeing... ☁️</span>\"
+
+        If the chimes on the Wind Shrine moves continuously from left to right, it indicates that
+        Wild Windy Bee is on the map, either camouflaged in a cloud or fighting in the open.
+
+        == Attack Pattern and Rewarding==
+        Wild Windy Bee uses 2 different attacks. Its first attack is summoning 3 tornados that wipes
+        [[Pollen]] off the field and deals damage every 0.5 seconds. The damage dealt depends on the
+        proximity between the tornado and the player, plus the number of times Wild Windy Bee is
+        defeated. The duration and speed of the tornadoes also depend on the number of times Wild
+        Windy Bee is defeated. This attack can damage other mobs. The damage will vary from 1-20.
+        This attack will happen first, then cycled after 3 Wind blows
+
+        Wild Windy Bee's second attack is forming a gust of wind that blows players away with great
+        force in a rectangular area. It will deal no damage, but the player(s) will be flung away if
+        caught in the rectangular area, unable to deal damage for some time. A red attack indicator
+        is shown for about one second to show where Wild Windy Bee is about to attack. The direction
+        of attack depends on Wild Windy Bee's current position and the position of a randomly
+        targeted player on the field. The size of the attack is based on how far the edge of the
+        field is from where Wild Windy Bee is looking. If Wild Windy Bee cannot detect any players
+        on the field, it will attack in a random direction. This attack is cycled in after Wild
+        Windy Bee finishes the tornado attack.
+
+        Upon defeat, Wild Windy Bee leaves behind a cloud in the middle of the field that regrows
+        flowers. A ring of tokens then appears underneath Windy Bee like [[Stick Bug]], and each
+        player gets their own loot ring unless the player does not deal enough damage. Afterward,
+        Windy Bee flies off to a different field. Wild Windy Bee will continue doing this for 5
+        minutes before fleeing.
+
+        Every time Wild Windy Bee is defeated, it levels up with more health, similar to Stick Bug.
+        It also has a higher chance of dropping Cloud Vials and rarer items.
+
+        ==Health per Level ==
+        The formula to tell how much health Wild Windy Bee has per level is:
+
+        <math>(level ^ 2 * 250) + 250</math>
+
+        ''Note: This table only goes up to level 25. If you want to go beyond that, use the formula
+        shown above. However, do not add more to this.''
+        {| class=\"mw-collapsible mw-collapsed wikitable\"
+        !Level!!Health
+        |-
+        |1||500
+        |-
+        |2 || 1,250
+        |-
+        |3 || 2,500
+        |-
+        |4 || 4,250
+        |-
+        |5 || 6,500
+        |-
+        |6 || 9,250
+        |-
+        |7||12,500
+        |-
+        |8||16,250
+        |-
+        |9||20,500
+        |-
+        |10||25,250
+        |-
+        |11||30,500
+        |-
+        |12||36,250
+        |-
+        |13||42,500
+        |-
+        |14||49,250
+        |-
+        |15||56,500
+        |-
+        |16||64,250
+        |-
+        |17||72,500
+        |-
+        |18||81,250
+        |-
+        |19||90,500
+        |-
+        |20|| 100,250
+        |-
+        |21|| 110,500
+        |-
+        |22|| 121,250
+        |-
+        |23|| 132,500
+        |-
+        |24|| 144,250
+        |-
+        |25
+        |156,500
+        |}
+
+        ==Path==
+        After the Wild Windy Bee's health is depleted, it will drop loots and then move to another
+        field. The field the bee moves on next depends on the current field it is standing by. These
+        are all the possible outcomes.
+        {| class=\"mw-collapsible mw-collapsed wikitable\"
+        !Current Field!!Possible Fields to go
+        |-
+        |Sunflower Field||Mushroom Field<br />Dandelion Field<br />Coconut Field
+        |-
+        |Dandelion Field||Clover Field<br/>Rose Field<br />Sunflower Field<br
+        />Blue Flower Field
+        |-
+        |Mushroom Field||Sunflower Field<br />Strawberry Field<br />Coconut Field
+        |-
+        |Blue Flower Field||Bamboo Field<br />Spider Field<br />Coconut Field
+        |-
+        |Clover Field||Dandelion Field<br />Mushroom Field<br />Blue Flower Field<br
+        />Bamboo Field
+        |-
+        |Spider Field||Dandelion Field<br />Strawberry Field<br />Bamboo Field<br
+        />Coconut Field
+        |-
+        |Strawberry Field||Sunflower Field<br />Spider Field<br />Cactus Field<br
+        />Rose Field
+        |-
+        |Bamboo Field||Spider Field<br />Pineapple Patch
+        |-
+        |Pineapple Patch||Mountain Top Field<br />Clover Field
+        |-
+        |Cactus Field||Pumpkin Patch<br />Pine Tree Forest<br />Mountain Top Field<br
+        />Coconut Field
+        |-
+        |Pumpkin Patch||Cactus Field<br />Pine Tree Forest<br />Mountain Top Field
+        |-
+        |Pine Tree Forest||Cactus Field<br />Pumpkin Patch<br />Mountain Top Field
+        |-
+        |Rose Field||Sunflower Field<br />Dandelion Field<br />Strawberry Field<br
+        />Coconut Field
+        |-
+        |Mountain Top Field||Pineapple Patch<br />Coconut Field<br />Pepper Patch
+        |-
+        |Coconut Field||Dandelion Field<br />Sunflower Field<br />Clover Field<br
+        />Pepper Patch
+        |-
+        |Pepper Patch||Sunflower Field<br/>Rose Field<br />Coconut Field<br
+        />Dandelion Field
+        |}
+
+        ==Drops==
+        Every time Wild Windy Bee is defeated, the following rewards may be dropped. Defeating Wild
+        Windy Bee too many times in a day will greatly weaken drops. The value of drops depends on
+        how much damage the player deals to it (For example, If a Wild Windy Bee has 1000 health,
+        two players are fighting it and one deals 200 damage and the other 800, the second player
+        would get better rewards).
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Honey}}<br>{{Cost|Treat}}<br>{{Cost|Cloud Vial}}<br>{{Cost|Royal
+        Jelly}}<br>{{Cost|Sunflower Seed}} (Limited per day)<br>{{Cost|Ticket}} (Limited
+        per day, Increments of 1-8)<br>{{Cost|Snowflake}} (Limited per day; During Beesmas
+        Only)<br>{{Cost|Field Dice|||0}} (Quite Uncommon)<br>{{Cost|Oil|||0}}
+        (Uncommon)<br>{{Cost|Magic Bean|||0}} (Uncommon)<br>{{Cost|Glitter|||0}}
+        (Somewhat Rare)<br>{{Cost|Star Jelly|||0}} (Rare)<br>{{Cost|Tropical Drink|||0}}
+        (Very Rare; higher chance in [[Coconut Field]])<br>{{Cost|Night Bell|||0}} (Extremely
+        Rare)<br>{{Cost|Purple Potion|||0}} (Exceptionally
+        Rare)<br><br>{{Cost|Simple Cloud Sticker}}<br>{{Cost|Blowing Leaf
+        Sticker|||0}} (Rare)<br>{{Cost|Grey Raining Cloud Sticker|||0}} (Very
+        Rare)<br>{{Cost|Tornado Sticker|||0}} (Extremely Rare)<br>{{Cost|Stretched Head
+        Bear Sticker|||0}} (Extremely Rare)
+        |}
+
+
+        ==Tips==
+        * When summoning one, 5 - 10 Field Dice/3-5 Oils/5-10 Glue is the best way if the player
+        wants a cheap but reliable way.
+        ** Other options include: 1 Star Jelly, 3-5 Glitters.
+        *Kill your mobs beforehand, especially ones like the [[Coconut Crab]] and [[Chicks#Mondo
+        Chick|Mondo Chick]] that tend to interfere the most.
+        *[[Nectar]]s such as Invigorating Nectar grants x1.01 - x1.10 Bee attack and Motivating for
+        1% - 5% Bee Ability Rate.
+        * Equip accessories that improve bee attack, such as the [[Fire Mask]] or the [[Demon
+        Mask]].
+        **Equipping [[Coconut Clogs]] or [[Gummy Boots]] gives an extra 5% and 10% bee attack each.
+        **You can use [[Stinger]]s for an extra 1.5x bee attack, though if you don’t have a Vicious
+        Bee it is not recommended.
+        *Use [[Oil]] and/or [[Tropical Drink]]s for 1.2x player and bee movespeed and 5% [[Critical
+        Hits|critical chance]].
+        **Use [[Super Smoothie]] for both improved movespeed, bee movespeed, critical chance and
+        super-crit chance. Though it's not recommended due to its expensive crafting recipe and its
+        rarity.
+        *Try and build up a [[Ability Tokens#Focus|Focus]] stack before starting the battle as
+        critical chance improves the chances of a critical hit, increasing attack damage.
+        **Try and build up a precision stack before starting the battle as precision grants
+        Super-Crit chance that are 33% stronger than a critical hit and also reduces the cooldown
+        for your precise bees to attack again by 75%.
+        **You can also collect Melody to gain 100% critical power for 30 seconds.
+        *The player can use the sound effects created by the windy bee to tell what attack it is
+        going to execute next.
+        *During the wind gust attack, the player should go into an open space to avoid the attack
+        easily.
+        *If possible, use the decorations around the field to stand on. This makes the bee think
+        there is no one in the field and it won't target the player.
+        **Going out of the field but near the Wild Windy Bee makes the bee think there is no one in
+        the field but player's bees will still attack.
+        *Since the tokens from Wild Windy Bee have a relatively long lifespan, the player should
+        follow the Windy Bee to it's next field first, and then collect the rewards using a
+        [[Ability Tokens#Token Link|Token Link]] or get hit by a bullet or hitting all targets from
+        [[Precise Bee|Precise Bee's]] target practice.
+        *Use the [[:Category:Transport|Transportation Devices]] to get to certain fields quicker.
+        ==Gallery ==
+        <gallery widths=\"185\" hideaddbutton=\"true\">
+        WindyBeeCoconut.png|A cloud with Wild Windy Bee inside in the [[Coconut Field]].
+        Whirlwind.png|A tornado summoned by Wild Windy Bee in the dandelion field.
+        RobloxScreenShot20200324 054248231.png|The Wind Gust attack.
+        RogueWindyFoundMountainTop.png|The message when someone finds a Wild Windy Bee.
+        WildWindyBeeFleeingMessage.png|The message when Wild Windy Bee leaves the server when the
+        timer reaching 0 secs.
+        Wild windy and stick bug.png|A Wild Windy Bee with [[Stick Bug]].
+        2Windy.PNG|Multiple Wild Windy Bees on the Mountain Top Field spawned by Spirit Bear.
+        RobloxScreenShot20200321 015620398.png|A Wild Windy Bee in a cloud growing a [[Sprout|moon
+        sprout]].
+        RobloxScreenShot20200321 051646723.png|A Wild Windy Bee with a [[Rogue Vicious Bee]].
+        Capture d’écran (116).png|Wild Windy Bee in the cloud seen from the front.
+        WildWindyLootCircle.png|The circle of loot Wild Windy Bee drops when defeated.
+        Windy gang.png|Onett summoning Wild Windy Bees at the end of Beesmas.
+        A wild windy bee with Mondo Chick and a Gifted Vicious Bee.png|A Wild Windy Bee with Mondo
+        Chick and a Gifted Vicious Bee.
+        WindyBeeDestroyerofWorldsFullHP.png|Wild Windy Bee- Destroyer of Worlds at full HP
+        WindyBeeDestroyerofWorldsHQ.png|Wild Windy Bee- Destroyer of Worlds but higher quality
+        WindyBeeDestroyerofWorldsMessage.png|Wild Windy Bee- Destroyer of Worlds spawn message
+        File:The Windy Gang Clean-up Crew of Beesmas 2022.png|The Windy Gang Clean-up Crew of
+        Beesmas 2022
+        File:Three windy bees.png|Another image of three Wild Windy Bees.
+        </gallery>
+
+        == Trivia ==
+        * The player can tell if a Wild Windy Bee is in a field when the wind chimes of the [[Wind
+        Shrine]] are continuously moving.
+        * If the timer ends before it generates reward tokens, it will leave without making any
+        rewards. However, if it has already started producing them, it will finish spawning them as
+        Windy Bee flees.
+        *Like [[Mythic Meteor Shower]]s and [[Puffshroom]]s, the quality of its rewards are affected
+        by the law of diminishing marginal utility. The more times the player receives loot from
+        Wild Windy Bees in one day, the worse the rewards gradually get.
+        *Windy Bee and [[Vicious Bee]] are the only bosses/mobs that are [[Bees]], Vicious Bee’s
+        counterpart being [[Rogue Vicious Bee]].
+        **Unlike Rogue Vicious Bee, the Wild Windy Bee does not have a gifted variant.
+        * Similar to Rogue Vicious Bee's [[Ability Tokens#Impale|Impale]] attack, the tornado can
+        deal damage to other mobs.
+        *[[Onett (Developer)|Onett]] would sometimes spawn Wild Windy Bee in fields, including
+        fields where it wouldn't naturally appear, usually to help grow [[Sprout]]s that he also
+        spawns.
+        ** If Onett spawns them in the [[Stump Field]], the Windy Bees freeze in the air upon defeat
+        until the timer is up, as they are not programmed to fly to any other field from Stump
+        Field.
+        **At the end of Beesmas 2020, Onett spawned a couple of Wild Windy Bees called \"The Windy
+        Gang\".
+        **The Windy Gang made a return in Beesmas 2021, spawning a festive sprout and appearing in
+        the [[Mountain Top Field]].
+        *[[Black Bear]] mentioned this bee in one of his dialogues before it was added to the game,
+        where he said \"A powerful bee destroyed fields with gusts of wind.\"
+        *This is the only mob/enemy that can knock players back.
+        *This is the fifth [[Mobs|Mob]] to have non-fixed levels, the first four being [[Ants]],
+        [[Stick Bug]], and [[Stick Nymph|Stick/Festive Nymphs]].
+
+        *It is possible to damage a Wild Windy Bee while it is summoning rewards, by using flames.
+        *This, along with the [[Commando Chick]] and [[Snowbear]] are the only Mini-bosses that drop
+        loot in a circle
+        *This, [[King Beetle|King beetle]] and [[Commando Chick]] are the only mobs that drop loot
+        only in the center of the location they are in. Even when they are not close to the center.
+        *When Wild Windy Bee flees, it will face all players in the server before flying off. This
+        most likely explains why when Wild Windy Bee flees, it starts to move in random directions.
+        *If the player collides with Wild Windy Bee's body by jumping into it, they will take some
+        damage.
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Mini Bosses]]
+        [[Category:Multiplayer Bosses]]
+        [[Category:Bees]]"}

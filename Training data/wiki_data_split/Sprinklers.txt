@@ -1,0 +1,117 @@
+{"text": "{{Consumables
+        |image = Sprinkler builder.png
+        |description = Use while standing in flowers to place a Sprinkler.
+        |cooldown = 1 second
+        |cap = }}
+        '''Sprinklers''' are items that can be placed in [[fields]] by players to help with
+        [[Flowers|flower]] regeneration. They can be bought in the [[Badge Bearer's Guild]],
+        accessible by obtaining 15 [[badges]] of any kind. There are five sprinklers in the game:
+        the [[Basic Sprinkler]], the [[Silver Soakers]], the [[Golden Gushers]], the [[Diamond
+        Drenchers]] and [[The Supreme Saturator]]. They all look similar; a simple sprinkler that
+        stands up from the ground beneath the flower the player is standing on. The material the
+        sprinkler is made of is based on the tier color. (The only exception to this is The Supreme
+        Saturator, which has a giant golden sprinkler sticking through a neon blue bear head.) The
+        higher level the sprinkler is, the more players can place (with the exception of The Supreme
+        Saturator) and the more effective it can be. Sprinklers can't be placed in the [[Hub
+        Field]].
+        [[File:Sprinkler shop.webp|thumb|All five sprinklers in the [[Badge Bearer's
+        Guild]].|300px]]
+        The Basic Sprinkler is unlocked as soon as a player is able to enter the Badge Bearer's
+        Guild. However, the Silver Soakers require 10 Hotshot badges, the Golden Gushers require 10
+        Ace badges, the Diamond Drenchers require 10 Master badges and The Supreme Saturator
+        requires 10 Grandmaster badges.
+
+        Players cannot place their own sprinklers within 8 flowers of each other. However, they can
+        place their sprinklers right next to a different player's sprinkler. When they place their
+        sprinkler too close to another one of theirs, the player gets a message that says <span
+        style=\"background-color:red; color:white;\">\"Cannot place sprinklers this close to
+        eachother ''[sic]''.\"</span> However, if the player places the sprinkler in mid-air,
+        they can override this error and plant sprinklers as close as they wish. This is a glitch
+        known as the [[Glitches#Close Sprinklers Glitch|Close Sprinklers Glitch]].
+
+        Note that what players are able to buy is actually a sprinkler ''builder'', which is a
+        permanent tool that players can access via the eggs/items tab whenever they like. Players
+        can activate it by placing the item on the bottom middle of their screen and clicking it (or
+        their corresponding hotkeys, if the player is on a PC). If a player places more sprinklers
+        than they can place, the oldest one will be removed. A sprinkler that is placed in a field
+        will stay there until the player who placed it removes it by placing it elsewhere, or until
+        the player dies or leaves the game.
+        {| class=\"article-table\"
+        !
+        ! style=\"text-align:center\" | Basic Sprinkler<br/>[[File:Basic Sprinkler.png|40px]]
+        ! style=\"text-align:center\" | Silver Soakers<br/>[[File:Silver Soakers.png|40px]]
+        ! style=\"text-align:center\" | Golden Gushers<br/>[[File:Golden Gushers.png|40px]]
+        ! style=\"text-align:center\" | Diamond Drenchers<br/>[[File:Diamond
+        Drenchers.png|40px]]
+        ! style=\"text-align:center\" | The Supreme Saturator<br/>[[File:Supreme
+        Saturator.png|40px]]
+        |-
+        |'''Count'''<br/>(How many can be placed at once)
+        |1
+        |2
+        |3
+        |4
+        |1
+        |-
+        |'''Radius'''<br/>(How far the sprinkler reaches)
+        |7
+        |7
+        |8
+        |8
+        |16
+        |-
+        |'''Power'''<br/>(How much pollen the flower increases by)
+        |7
+        |7
+        |8
+        |9
+        |10
+        |-
+        |'''Rate'''<br/>(How often the sprinkler activates)
+        |5 sec
+        |4.5 sec
+        |4.5 sec
+        |4 sec
+        |1 sec
+        |-
+        |'''Setup'''<br/>(How long it takes for the sprinkler to build)
+        |6 sec
+        |5 sec
+        |5 sec
+        |4 sec
+        |3 sec
+        |-
+        |'''Badges'''<br/>(the number and tier of badges need to unlock)
+        |10 Cadet<br/>(Tier 1)
+        |10 Hotshot<br/>(Tier 2)
+        |10 Ace<br/>(Tier 3)
+        |10 Master<br/>(Tier 4)
+        |10 Grandmaster<br/>(Tier 5)
+        |-
+        |'''Cost''' in {{Cost|Honey}}
+        |1,111,111
+        |22,222,222
+        |333,333,333
+        |4,444,444,444
+        |55,555,555,555
+        |}
+
+        ==Audio==
+        When a sprinkler is placed in a field, the following audio
+        plays:<br/>[[File:Sprinklerbuild.ogg]]
+
+        When a sprinkler regenerates flowers, the following audio
+        plays:<br/>[[File:Sprinklerwater.ogg]]
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        RobloxScreenShot20180910_183618931.png|A Silver Soaker sprinkler in a field.
+        Water of Sprinkler.png|Text becoming invisible through the water of the sprinkler.
+        Img.png|An aerial shot of the \"golden\" effect emitted by the sprinkler water during a
+        honeystorm.
+        Sprinkler during snowstorm.png|An aerial shot of the \"white\" effect emitted by the sprinkler
+        water during a snow storm.
+        </gallery>
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Sprinklers]]"}

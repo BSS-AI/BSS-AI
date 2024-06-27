@@ -1,0 +1,18 @@
+{"text": "The '''Daily Top Ant Field Collectors''' is one of the 62 [[leaderboards]] in the game.
+        Unlike other leaderboards, it does not appear in the [[System Page]], nor anywhere else
+        in-game. This leaderboard measures how much pollen players have collected in the [[Ant
+        Field]] on that day. It resets every day at 12:00 AM CST.
+
+        ==Prizes==
+        For being in the Top 100 when the leaderboard resets, you will be awarded with the '''Ant
+        Field Stamp [[Sticker]]'''
+        <gallery widths=\"185\" hideaddbutton=\"true\">
+        File:Hivesticker ant field stamp.png|Top 100 Prize for Daily Top Ant Field Collectors.
+        </gallery>
+
+        ==Trivia==
+        * This is the only leaderboard not to be displayed anywhere in the game.
+        * This leaderboard shares a reward with the [[Top Ant Exterminators]] leaderboard.
+        ** These are the only leaderboards to have shared rewards.
+
+        [[Category:Leaderboards]]"}

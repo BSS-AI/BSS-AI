@@ -1,0 +1,205 @@
+{"text": "[[File:GummyLairBeesmas2021.png|thumb|220px|Gummy Bear&#39;s Lair.]]
+        [[File:QuestPlatform.png|thumb|The Talk To platform in which the player can talk to Gummy
+        Bear. This was used for Gummy Bear's Beesmas 2020 quest, or now to teleport out of the lair.
+        Only players with the Gummy Mask can use this.|alt=]]
+        [[Gummy Bear&#39;s Lair]] is a location that can only be accessed by having a
+        [[Badges#Goo Badge|Goo Hotshot Badge]] or above.
+        [[File:Eee4a72469aa45acd97d01685d93a3e1.png|thumb|250px|The prompt to enter the Gummy
+        Lair.]]
+
+        To get into the lair, touch the [[Gummy Bee]] model on the [[Gummy Bee Egg Claim]] and use a
+        [[Gumdrops|gumdrop]]. The player can reach the egg claim by going behind the [[Top Ant
+        Exterminators|Ant Leaderboard]] and following the path (where there's also an [[Ant Pass|ant
+        pass]] token). They can also use a cannon, such as the [[Red Cannon]], in combination with
+        the [[Parachute]]/[[Glider]].
+
+        If the player doesn't have the Goo Hotshot Badge, then the following message will prompt:
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"Only
+        Goo Hotshots can hear Gummy Bee...\"</div>
+
+        [[File:Capture73762.jpg|thumb|250px|The notification that appears when the player is on top
+        of the Gummy Bee model and does not have the Goo Hotshot Badge.]]Otherwise, the player will
+        be prompted to use gumdrops to enter the Lair with this message:<div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">The
+        Gummy Bee wants Gumdrops</div>
+
+        == Shop ==
+        When entered, you are greeted with [[Gummy Bear]] and [[Gummy Bee]]. The lair contains the
+        [[Glue Dispenser]], which activates the \"[[Passive Abilities|Unlimited Gumdrops]]\" passive,
+        with 3 minutes of unlimited [[gumdrops]] when using them, as well as a shop that sells the
+        [[Gummy Mask]], [[Gummy Boots]] and the [[Gummyballer]].
+
+        {| class=\"article-table\"
+        !width=\"25%\"|Item
+        !width=\"20%\"|Cost
+        !width=\"55%\"|Description
+        |-
+        |[[File:Gummy Mask.png|center|50px]]<br><div style=\"text-align: center;\">[[Gummy
+        Mask]]</div>
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Glue|250}}<br>{{Cost|Enzymes|100}}<br>{{Cost|Oil|100}}<br>{{Cost|Glitter|100}}<br>{{Cost|Satisfying
+        Vial|1}}
+        |
+        \"The official mask of a Gummy Soldier.\"
+
+        *+75% [[System Page#Goo|Goo]].
+        *+10% [[System Page#Goo Conversion|Goo Conversion]].
+        *x1.25 [[System Page#White Pollen|White Pollen]].
+        *+25% [[System Page#Pollen|Pollen]].
+        *x1.5 [[System Page#Capacity Multiplier|Capacity]].
+        *x1.5 [[Field Capacity|White Field Capacity]].
+        *+30% [[System Page#Defense|Defense]].
+        * +20% [[System Page#Bee Ability Rate|Bee Ability Rate]].
+        *[[Passive Abilities#Coin Scatter|+Passive: Coin Scatter]] (see [[Honey Mask]], needs
+        [[Honey Mask]] in order to use).
+        *[[Passive Abilities#Gummy Morph|+Passive: Gummy Morph]].
+        |-
+        |[[File:Gummy Boots.png|center|50px]]<br><div style=\"text-align:
+        center;\">[[Gummy Boots]]</div>
+        |{{Cost|Honey|{{Hover|100B|100,000,000,000}}}}<br>{{Cost|Glue|500}}<br>{{Cost|Glitter|250}}<br>{{Cost|Red
+        Extract|250}}<br>{{Cost|Blue Extract|250}}<br>{{Cost|Satisfying
+        Vial|1}}<br>{{Cost|Motivating Vial|1}}
+        |
+        \"Squishy boots that leave a trail of Goo wherever you go.\"
+
+        *+25% [[Goo]].
+        *+20% [[Pollen]].
+        *+3 [[System Page#Attack Multiplier|Bee Attack]].
+        *+50% [[System Page#Honey From Tokens|Honey From Tokens]].
+        *+8 [[System Page#Movespeed|Player Movespeed]].
+        *+22 [[System Page#Jump Power|Jump Power]].
+        *+16 [[Movement Collection]].
+        *[[Passive Abilities#Coconut Haste|+Passive: Coconut Haste]] (see [[Coconut Clogs]], needs
+        [[Coconut Clogs]] in order to use).
+        *[[Passive Abilities#Goo Trail|+Passive: Goo Trail]].
+        |-
+        |[[File:Gummyballer.png|center|50px]]<br><div style=\"text-align:
+        center;\">[[Gummyballer]]</div>
+        |{{Cost|Honey|{{Hover|10T|10,000,000,000,000}}}}<br>{{Cost|Glue|1,500}}<br>{{Cost|Gumdrops|2,000}}<br>{{Cost|Caustic
+        Wax|50}}<br>{{Cost|Super
+        Smoothie|50}}<br>{{Cost|Turpentine|5}}<br>{{Cost|Satisfying Vial|3}}
+        |
+
+        *Conjures up a delectible arsenal of gummy wrecking balls. Bombard Marks and Honey Tokens
+        for massive gooey gains.
+        |}<br />
+        <br />
+
+        ==Gummy Bear's Dialogue==
+        When the player walks up to Gummy Bear without having the Gummy Mask or Gummy Boots bought,
+        he will say the following in chat and through <font
+        style=\"color:93,223,193\">'''notifications'''</font>:
+        [[File:Dialog.png|thumb|220px|The in-game dialogue of Gummy Bear (old)]]
+        [[File:Gooyearsmessage.png|thumb|The dialogue from Gummy Bear that appears when the [[Gummy
+        Beacon]] is activated]]
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"Gummy
+        Bear: \"What's sweeter than honey?\"</div>
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"Glorious
+        gumdrops... they're just the start!\"</div>
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"A
+        sweet and sour, ooey-gooey universe...\"</div>
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"Can't
+        you see it too?\" (slight pause)</div>
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"What's
+        that Gummy Bee?\"</div>
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"They're
+        not seeing clearly?\"</div>
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"YOU'RE
+        ALWAYS RIGHT!\"</div>
+        <div
+        style=\"background-color:rgb(93,223,193);margin:6px;width:300px;text-align:center;color:black\">\"GOO-dbye,
+        beekeeper... HAH!\"</div>
+
+        After he finishes his speech, Gummy Bear will instantly kill the player, sending the player
+        back to their [[hive]].
+
+        If the player owns the Gummy Mask or the Gummy Boots, they can talk to Gummy Bear, but he
+        does not give a quest. It is not required to have either of the two equipped to talk to him.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        ! Dialogue
+        |-
+        |A beekeeper approaches, Gummy Bee!
+
+        ''The player is given two options: \"Talk to Gummy Bear\" or \"Return to hive\".''
+
+        ''-Talk to Gummy Bear-''
+
+        Our Gummy Army marches forward at a steady, viscous pace. An inevitable ooze that envelopes
+        all things, uniting us all! This glorious gummy world awaits you and your Gummy Bee as well.
+        A place where nothing is bitter, and EVERYTHING is sweet!
+
+        ''-Return to hive-''
+
+        Back to work, soldier!
+
+        ''The player is teleported to their hive.''
+
+
+        If the player has bought the Gummy Mask after Beesmas 2021, only the dialogue of talking to
+        Gummy Bear will activate.
+        |}
+
+        ==Notes ==
+        *Players should avoid going to Gummy Bear&#39;s Lair if they have a lot of [[pollen]] in
+        their [[Bags|container]], as they will eventually die due to Gummy Bear killing them or by
+        the player needing to reset their character. However, the player can avoid losing pollen by
+        rejoining the game, using a [[Micro-Converter]] to convert all of the pollen beforehand, or
+        using a [[Whirligig]].
+        **During Beesmas 2020 and 2021, the player would be able to exit the lair if they have given
+        Gummy Bear a present.
+        * The player’s bees do not go to the lair with the player. This is because the lair is high
+        up in the sky, so the bees will take a while to get there.
+
+        ==Glitches==
+        *When the player walks up to Gummy Bear, he sometimes fails to kill the player after he
+        finishes his speech.
+        * After Gummy Bear kills the player, their body parts will slip down until they reach the
+        end of the shop. If the player presses E at the right time, they will be stuck in the shop,
+        resulting in the [[Glitches#Shop Trap|Shop Trap glitch]]. Only leaving the game could fix
+        this glitch.
+        *On rare occasions, [[Wild Windy Bee]] can push the player to Gummy Bear&#39;s Lair,
+        making them glitch into it.
+
+        == Token locations==
+        * A glitter token behind the Gummy Boots case. (Contains 1 Glitter)
+        *A [[Royal Jelly#Star Jelly|star jelly]] token in front of Gummy Bear. (Contains 1 Star
+        Jelly)
+        *An enzymes token in the corner of the lair. (Contains 1 Enzymes)
+
+        ==Trivia==
+        *Before Beesmas 2020, the only way to leave the lair without exiting or losing connection to
+        the game is to die. The player can die by either courtesy of [[Gummy Bear]] or by resetting
+        their character.
+        *This is currently the only location not connected to the mountain; instead, it is high up
+        in the sky. The player is able to see the silhouette of the lair if they look closely at the
+        sky.
+        *[[Bee Bear]] refers to [[Gummy Bear]] as '''naughty''' in 2018, most likely because he
+        kills the player upon finishing his dialogue, and the fact that he tried to \"invade\" the
+        mountain.
+        *Originally, the lair required the Goo Ace Badge or above, which was a mistake on [[Onett
+        (Developer)|Onett]]'s end. It was quickly fixed to allow people with Goo Hotshot as well, so
+        there could be more players that could actually access the lair.
+        *This and the [[Badge Bearer's Guild]] are the only places that require [[badges]] to enter
+        them.
+        **Gummy Bear&#39;s Lair is the only location that requires a specific badge to enter.
+        * Before the [[Updates#2019.04.05|4/5/2019 update]], the [[Gummy Bee]] that was used to
+        teleport was on top of the [[Ticket Tent]]. Now [[Gummy Bee]] is replaced with a model of
+        [[Festive Bee]] and was instead put at the [[Fields|Ant Field]].
+        *WhenGummy Bear&#39;s Lair first came out, it said, “Gummy Bee wants 1
+        [[Gumdrops|Gumdrop]].” Now, it says “The Gummy Bee wants Gumdrops.”
+        **However, if the player is visiting Gummy Bear&#39;s Lair for the first time, standing
+        on the [[Gummy Bee]] model will say \"The Gummy Bee wants 1 Gumdrops.\"
+        *[[Spirit Bear]] mentions how to get to the lair in her quest dialogue.
+        *Some players may experience lag when they are getting close to [[Gummy Bear]].
+        *This and the [[Petal Shop]] are the only shops with items in a triangular formation.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Shops]]
+        [[Category:Goo]]"}

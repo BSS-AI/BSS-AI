@@ -1,0 +1,66 @@
+{"text": "{{Accessory
+        |image1 = Cobaltguard.PNG
+        |description = A guard bestowed with the heroic power of Cobalt Bee - Defender of the Blue
+        Bees.
+        |cost = 200,000,000 [[Honey]], 100 [[Blue Extract]]s, 100 [[Stinger]]s, 50 [[Enzymes]], and
+        25 [[Glitter]].
+        |stats = +250,000 Capacity<br>+50% Blue Pollen<br>+20% Blue Bomb
+        Pollen<br>+3 Blue Bee Attack<br>+10% Defense<br>+100% Critical
+        Power<br>+Passive: Haste Pulser
+        }}The '''Cobalt Guard''' is a [[:Category:Guards|guard]] that can be crafted in the [[Badge
+        Bearer's Guild]]. It is currently the highest tier [[:Category:Blue|blue]] guard. Its
+        description reads, \"A guard bestowed with the heroic power of [[Cobalt Bee]] - Defender of
+        the Blue Bees.\"
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|200,000,000}}<br>{{Cost|Blue
+        Extract|100}}<br>{{Cost|Stinger|100}}<br>{{Cost|Enzymes|50}}<br>{{Cost|Glitter|25}}
+        |}
+        It is equipped on the right shoulder. When equipped, it leaves a trail behind it, similar to
+        Cobalt Bee's trail.
+
+        == Stats ==
+        * +250,000 [[Capacity]].
+        * +50% [[System Page#Blue Pollen|Blue Pollen]].
+        * +20% [[System Page#Blue Bomb Pollen|Blue Bomb Pollen]].
+        * +3 [[System Page#Blue Attack|Blue Bee Attack]].
+        * +10% [[System Page#Defense|Defense]].
+        * +100% [[Critical Hits|Critical Power]].
+        * [[Passive Abilities#Haste Pulser|+Passive Ability: Haste Pulser]].
+        ** Effects: Each 30th [[Ability Tokens#Haste|haste]] token releases a [[Ability
+        Tokens#Pulse|blue pulse]] that hops to each blue [[Bees|bee]], collecting [[pollen]] around
+        them. Power increases with each hop.
+        *** Unlike the ability token, this effect cannot trigger a [[Ability Tokens#Pulse|red
+        pulse]], even if the player owns a [[Crimson Bee]] or the [[Crimson Guard]].
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        HastePulser.png|The Haste Pulser icon.
+        Cobaltguardicon.png|The Cobalt Guard icon.
+        ColbaltGuard.png|The trail the Cobalt Guard leaves behind.
+        File:Cobalt Guard Worn on player.jpg| The Cobalt Guard worn on a player.
+        </gallery>
+
+        == Trivia ==
+        * If the ingredients to craft this item were to be crafted, a total of 200,000,000 (200
+        million) honey, 5000 [[Blueberry|blueberries]], 2500 [[Pineapple|pineapples]], 25 [[Magic
+        Bean|magic beans]], 1500 [[Royal Jelly|royal jellies]] and 100 stingers are needed. The
+        total crafting time is 13375 minutes (or ~223 hours) of playtime.
+        * This is the only blue guard that isn't purchasable in the [[Blue HQ]].
+        * This is one of the two guards that have a passive ability, the other being the [[Crimson
+        Guard]].
+        * Its [[:Category:Red|red]] counterpart is the Crimson Guard.
+        * This and the Crimson Guard are the only guards to be based off an [[Bees/Event|Event
+        bee]].
+        * This is the only blue guard that leaves a trail.
+        * The blue trail's ''min length value'' is higher than the [[Crimson Guard]]'s trail, making
+        the blue trail to be less smoother than the red one. This could be to not show the trail
+        when using a petal wand.
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Guards]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]
+        [[Category:Blue]]"}

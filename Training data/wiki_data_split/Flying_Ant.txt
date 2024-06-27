@@ -1,0 +1,99 @@
+{"text": "'''Flying Ant'''s are one of five mobs that is part of a family called [[Ants]] that are
+        exclusively found in the [[Ant Challenge]], past the [[Ant Gate]].
+
+        {{Mob|title=Flying Ant|image=FlyingAnt.png|location=[[Ant Field]] while the [[Ant
+        Challenge]] is active.|hp=? base; Increases by
+        level|damage=40|points=None|bond=1|honey=None|level=1-16 (Varies with Wave)}}
+
+        This is one of the first Ant Challenge [[mobs]] that the player will encounter, capable of
+        appearing on the very first wave. Despite being able to appear on the first wave, Flying
+        Ants usually start appearing at around the second or third waves.
+
+        Flying Ants are ants with wings and they will pursue the player. They have the ability to
+        pounce on players from quite a distance are the fastest out of the five ant types. However,
+        they also have low health, much lower than any other ant type.
+
+        A Flying Ant's level can increase depending on what wave of the Ant Challenge the player is
+        on. They can range from level 1 up to level 16.
+
+        == Health per Level ==
+        {| class=\"mw-collapsible mw-collapsed fandom-table\"
+        !Level
+        !Health
+        |-
+        |1
+        |?
+        |-
+        |2
+        |25
+        |-
+        |3
+        |30
+        |-
+        |4
+        |45
+        |-
+        |5
+        |60
+        |-
+        |6
+        |75
+        |-
+        |7
+        |90
+        |-
+        |8
+        |110
+        |-
+        |9
+        |130
+        |-
+        |10
+        |155
+        |-
+        |11
+        |175
+        |-
+        |12
+        |200
+        |-
+        |13
+        |225
+        |-
+        |14
+        |250
+        |-
+        |15
+        |280
+        |-
+        |16
+        |310
+        |}
+
+        == Strategies ==
+
+        * Due to their quick speed, the player will need to react more quickly in order to dodge
+        Flying Ants trying to pounce them.
+        * Having [[bees]] that can produce [[Ability Tokens#Haste|Haste tokens]] can help the player
+        gain more speed needed to maneuver around Flying Ants.
+        * Flying Ants occasionally spawn in waves which could overwhelm the player. [[Vicious Bee]]
+        and [[Windy Bee]] provide excellent crowd control with their abilities which could greatly
+        help counter the large amounts of Flying Ants landing on the field. [[Digital Bee]] can also
+        stun many Flying Ants at once and allow them to take extra damage via [[Ability Tokens#Mind
+        Hack|Mind Hack]].
+
+        == Gallery ==
+        <gallery>
+        File:FlyingAnt1.png|A Flying Ant.
+        File:FlyingAnt2.png|A pair of Flying Ants.
+        File:FlyingAnt3.png|A Flying Ant getting hit by Vicious Bee's Impale.
+        </gallery>
+
+        == Trivia ==
+
+        * The [[Ant Amulet|Supreme Ant Amulet]] resembles a Flying Ant.
+        * Despite having \"flying\" in its name, it doesn't actually fly, but it simply jumps.
+        ** Flying could mean to move quickly in this context since the Flying Ant moves quite fast.
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Ant Challenge]]"}

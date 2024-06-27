@@ -1,0 +1,228 @@
+{"text": "{{Consumables
+        |image = Stinger.png
+        |description = Grants your bees x1.5 attack for 30 seconds.
+        |cooldown = 1 second
+        }}
+        '''Stingers''' are an [[:Category:Inventory|inventory item]] added in the
+        [[Updates#2018.09.10|9/10/2018 update]]. When used, it will grant x1.5 [[Bee Attack|Bee
+        attack]] for 30 seconds. It can also be used to obtain [[Vicious Bee]] (costs 250 stingers).
+        Stingers are also used in many [[crafting]] recipes.
+
+        == Ways to Obtain ==
+        * Defeating [[Rogue Vicious Bee]] always grants stingers. The number of stingers dropped
+        depends on the Rogue Vicious Bee's level, and whether it is gifted or not.
+        * A rare drop from a [[Aphid#Rage Aphid|Rage Aphid]], [[Aphid#Armored Aphid|Armored Aphid]],
+        [[scorpion]], or [[spider]].
+        * As a Stack Reward for adding certain [[Stickers]] to the [[Sticker Stack]]:
+        ** Flying Brave Bee rewards 3 stingers.
+        ** Walking Stick Nymph rewards 3 stingers.
+        ** Coiled Snake rewards 3 stingers.
+        ** Dark Flame rewards 5 stingers.
+        ** Cyan Hilted Sword rewards 10 stingers.
+        ** Red Wailing Cry rewards 3 stingers.
+        ** Tough Potato rewards 3 stingers.
+        * Capturing certain amounts of [[Commando Chick]]s:
+        ** 3 captures give 1 stinger and other [[items]].
+        ** 12 captures gives 3 stingers and other [[items]].
+        ** 30 captures gives 10 stingers and other [[items]].
+        ** 40 captures gives 10 stingers and other [[items]].
+        * Buying one for 10 tickets in the [[Stinger Shop]].
+        * A rare drop from [[leaves]] in the [[Cactus Field]].
+        * Shivering certain [[badges]] in the [[Wind Shrine]] by donating certain items (Battle,
+        Clover, Spider, Cactus, and Rose badge rewards Stinger + other stuff).
+        * Donating 10 or less ant passes to the wind shrine may also give a large amount of
+        stingers.
+        * Completing certain [[quests]] ([[Black Bear]], [[Gifted Riley Bee]], and [[Spirit Bear]]).
+        * Redeeming certain valid [[codes]]:
+        ** Using the code \"1MLikes\" (Gives 1 stinger and other stuff).
+        * Winning it from the [[Memory Match#Mega Memory Match|Mega]], [[Memory Match#Night Memory
+        Match|Night]] or [[Memory Match#Extreme Memory Match|Extreme]] [[Memory Match]]es.
+        * Very rarely, as a [[Cub Buddy]] gift.
+        * As a drop from [[Planter]]s harvested in the [[Cactus Field]] or [[Rose Field]].
+        * Fully growing [[Red Clay Planter]] in [[Clover Field]], [[Spider Field]] and [[Cactus
+        Field]] (in that order) rewards 10 Stingers (2 weeks cooldown).
+
+        === Looting from Rogue Vicious Bee===
+        The Rogue Vicious Bee can be summoned by touching or being close to a spike in a field. It
+        has a higher chance of spawn during the [[Day/Night Cycle|nighttime]], and is guaranteed to
+        spawn when using a [[Night Bell|night bell]]. Depending on the level, if it’s gifted, and if
+        it’s the first defeat of the day, a Rogue Vicious Bee can drop 1-20 stingers.
+
+        ====If Regular====
+        {| class=\"sortable mw-collapsible article-table\"
+        |+
+        !Level
+        !{{Cost|Stinger}}
+        |-
+        | Level 1-3
+        | 1
+        |-
+        |Level 4-6
+        | 2
+        |-
+        | Level 7-9
+        | 3
+        |-
+        |Level 10-12
+        |4
+        |}
+
+        ====If Gifted====
+        {| class=\"sortable mw-collapsible article-table\"
+        |+
+        !Level
+        !{{Cost|Stinger}}
+        |-
+        |Level 1-3
+        |6
+        |-
+        |Level 4-6
+        | 9
+        |-
+        |Level 7-9
+        | 12
+        |-
+        |Level 10-12
+        |15
+        |}
+
+        A daily bonus of 5 stingers is also given for the first Vicious Bee defeated that day, with
+        a cooldown of 22 hours after the daily reward. This also applies to Gifted Vicious Bees,
+        having their own separate daily bonus.
+
+        There are 6 fields where the [[Rogue Vicious Bee]] can spawn at. They are:
+        *[[Clover Field]].
+        *[[Spider Field]].
+        *[[Cactus Field]].
+        *[[Rose Field]].
+        * [[Mountain Top Field]].
+        *[[Pepper Patch]].
+
+        ===Outdated Ways===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        *Certain event quests gave stingers:
+        ** Receiving [[Brown Bear#Egg Hunt Quest 2020|Brown Bear's Egg Hunt 2020 quest]] gave 5
+        stingers and other stuff.
+        **The 20th Bee Bear's quest gave 100 Stingers and other stuff.
+        *By giving a [[present]] to:
+        **[[Panda Bear]] or [[Stick Bug]] during the 2018 Beesmas Event.
+        ** Panda Bear during the 2022 Beesmas Event.
+        * Opening certain [[Gift Boxes]]:
+        **The Midnight Gift Box gave 6 stingers + other stuff during the 2021 Beesmas Event.
+        ** The Charcoal Gift Box gave 10 stingers + other stuff during the 2022 Beesmas Event.
+        *Buying bundles in [[Bee Bear's Catalog]]:
+        ** The Night Bundle gave 25 stingers and other items for 1,000 [[Snowflake]]s.
+        **The Anti-Ant Bundle gave 50 stingers and other items for 1,000 Snowflakes.
+        **The Robotic Bundle gave 100 stingers and other items for 2,500 Snowflakes and 50
+        [[Gingerbread Bear]]s.
+        *Purchasing certain packs from the [[Robux Shop]]:
+        **Purchasing the September Star Special for 3,500 robux gave 100 stingers and other items.
+        **Purchasing the Stars and Spikes offer for 1,500 robux gave 100 stingers and other items.
+        **Purchasing the Colossal Crafts Pack for 3,400 robux gave 200 stingers and other items.
+        **Purchasing the Extreme Extract Pack for 1,200 robux gave 100 stingers and other items.
+        ** Purchasing the Winter Wonder Pack for 3,400 robux gave 200 stingers and other items.
+        **Purchasing the Spikey Spring Basket offer for 2,700 robux gave 250 stingers and other
+        items.
+        **Purchasing the Gooey Goodies Pack for 800 robux gave 100 stingers and other items.
+        **Purchasing the Silent Night Special for 800 robux gave 100 stingers and other items.
+        **Purchasing the Precise Pack for 1,700 robux gave 150 stingers and other items.
+        **Purchasing the Honeyday Mega-Haul for 4,500 robux gave 500 stingers and other items.
+        **Purchasing the Mondo-Robo Bundle for 4,500 robux gave 500 stingers and other items.
+        ** Purchasing the Cyber Monday Special for 800 robux gave 50 stingers and other items.
+        *As a guaranteed reward from defeating all party mobs of your [[Robo Party]].
+        *Redeeming codes:
+        **Using the code \"Mocito100T\" (Gives 3 stingers and other stuff).
+        |}
+
+        ==Crafting Uses==
+        Total required for all in-game equipment: {{Cost|Stinger|1297}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" | {{Cost|Stinger}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">1
+        |{{Cost|Honey|750,000}}<br>{{Cost|Strawberry|50}}<br>{{Cost|Royal Jelly|1}}
+        |[[File:Red Guard.png|center|80px]]<div style=\"text-align: center;\">[[Red Guard]]
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Honey|300,000}}
+        |[[File:Brave Guard.png|center|80px]]<div style=\"text-align: center;\">[[Brave Guard]]
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Honey|440,000}}<br>{{Cost|Pineapple|50}}<br>{{Cost|Sunflower Seed|50}}
+        |[[File:Belt Bag.png|center|80px]]<div style=\"text-align: center;\">[[Belt Bag]]
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Red
+        Extract|3}}<br>{{Cost|Strawberry|50}}<br>{{Cost|Royal Jelly|5}}
+        |[[File:Elite Red Guard.png|center|80px]]<div style=\"text-align: center;\">[[Elite Red
+        Guard]]
+        |-
+        |<div style=\"text-align: center;\">10
+        |{{Cost|Honey|12,400,000}}<br>{{Cost|Soft
+        Wax|1}}<br>{{Cost|Pineapple|150}}<br>{{Cost|Sunflower Seed|150}}
+        |[[File:Mondo Belt Bag.PNG|center|80px]]<div style=\"text-align: center;\">[[Mondo Belt
+        Bag]]
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|30,000,000}}<br>{{Cost|Red
+        Extract|10}}<br>{{Cost|Strawberry|100}}<br>{{Cost|Glue|5}}
+        |[[File:Riley Guard.png|center|80px]]<div style=\"text-align: center;\">[[Riley Guard]]
+        |-
+        |<div style=\"text-align: center;\">100
+        |{{Cost|Honey|200,000,000}}<br>{{Cost|Red
+        Extract|100}}<br>{{Cost|Oil|50}}<br>{{Cost|Glitter|25}}
+        |[[File:Crimson Guard.png|center|80px]]<div style=\"text-align: center;\">[[Crimson
+        Guard]]
+        |-
+        |<div style=\"text-align: center;\">100
+        |{{Cost|Honey|200,000,000}}<br>{{Cost|Blue
+        Extract|100}}<br>{{Cost|Enzymes|50}}<br>{{Cost|Glitter|25}}
+        |[[File:Cobalt Guard.png|center|80px]]<div style=\"text-align: center;\">[[Cobalt
+        Guard]]
+        |-
+        |<div style=\"text-align: center;\">150
+        |{{Cost|Honey|{{Hover|2.5T|2,500,000,000,000}}}}<br>{{Cost|Red
+        Extract|1500}}<br>{{Cost|Hard Wax|100}}<br>{{Cost|Caustic
+        Wax|50}}<br>{{Cost|Super Smoothie|50}}<br>{{Cost|Invigorating Vial|3}}
+        |[[File:Dark Scythe.png|center|80px]]<div style=\"text-align: center;\">[[Dark Scythe]]
+        |-
+        |<div style=\"text-align: center;\">150
+        |{{Cost|Honey|{{Hover|2.5T|2,500,000,000,000}}}}<br>{{Cost|Blue
+        Extract|1500}}<br>{{Cost|Tropical Drink|150}}<br>{{Cost|Swirled
+        Wax|75}}<br>{{Cost|Super Smoothie|50}}<br>{{Cost|Comforting Vial|3}}
+        |[[File:Tide Popper.png|center|80px]]<div style=\"text-align: center;\">[[Tide Popper]]
+        |-
+        |<div style=\"text-align: center;\">250
+        | -
+        | [[File:Vicious Bee.png|center|80px]]<div style=\"text-align: center;\">[[Vicious Bee]]
+        |-
+        |<div style=\"text-align: center;\">500
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Red
+        Extract|250}}<br>{{Cost|Enzymes|150}}<br>{{Cost|Glue|100}}<br>{{Cost|Invigorating
+        Vial|1}}
+        |[[File:Demon Mask.png|center|80px]]<div style=\"text-align: center;\">[[Demon Mask]]
+        |}
+
+        ==Gallery==
+        <gallery>
+        Stingericon2.png|The Stinger buff.
+        Stinger token.png|A stinger token.
+        Stinger dropped from spider.png|A Stinger from a spider.
+        </gallery>
+
+        ==Trivia==
+        *The old hotkey for stingers, 'U', was removed a few days after the 9/10/2018 update because
+        people were repeatedly unintentionally using them.
+        *3 stingers are used to activate the [[Star Amulet|Supreme Star Amulet]] passive, \"[[Passive
+        Abilities#Star Saw|Star Saw]]\". The passive also refunds 1 stinger.
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Inventory]]"}

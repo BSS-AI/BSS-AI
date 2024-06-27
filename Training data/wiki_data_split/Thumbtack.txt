@@ -1,0 +1,44 @@
+{"text": "{{Beequip
+        |image1=Thumbtack.png
+        |level=6
+        |color=Red
+        |limit=2
+        |description=A small pin used to fasten stuff down or as a makeshift stinger.
+        |beesmas=no
+        |stats=+Gather Amount<br/>+Critical Power%<br/>+Attack%<br/>+Attack
+        |hive=+Red Bee Attack%<br/>+Bee Attack%}}
+
+        The '''Thumbtack''' is a [[Bond|level]] 6 [[beequip]]. It has an equip limit of two. There
+        is a red color requirement.
+
+        == Potential ==
+        * [[System Page#Gather Amount|Gather Amount]] (Guaranteed) - +1 to +3. (up to +33 from
+        [[Waxes|waxing]])
+        * [[System Page#Critical Power|Critical Power]] (Guaranteed) - +5% to +10%. (up to +40% from
+        waxing)
+        * [[Updates|Attack]] (Guaranteed) - +2% to +5%. (up to +40% from waxing)
+        *Attack - +1. (up to +2 from waxing)
+        *[Hive Bonus] [[System Page#Red Bee Attack|Red Bee Attack]] - +1% to +3% (up to +6% from
+        waxing)
+        *[Hive Bonus] [[System Page#Bee Attack|Bee Attack]] (from waxing, rare, caustic only) - +1%
+        to +3%.
+
+        == Ways to Obtain ==
+        * As a very rare drop from the [[Red Clay Planter]] and the [[Heat-Treated Planter]].
+        * Can be an available product in [[Dapper Bear's Shop|Dapper Bear's Beequip Shop]].
+
+        ===These methods are no longer possible. ===
+        * As a drop from a Level 7 [[Snowbear]].
+
+        == Gallery ==
+        <gallery>
+        File:Thumbtack1.png|A Thumbtack in Dapper Bear's Shop able to be crafted.
+        File:ThumbtackStorage.jpg|A Thumbtack in the Beequip Storage.
+        File:ThumbtackSpicy.jpg|A Thumbtack equipped to a Spicy Bee.
+        </gallery>
+        [[Category:Beequips]]
+        [[Category:Inventory]]
+        [[Category:Items]]
+
+        {{Items}}
+        [[Category:Red]]"}

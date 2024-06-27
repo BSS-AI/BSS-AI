@@ -1,0 +1,217 @@
+{"text": "'''Emoticons''' are a mechanic for showing a bee's mood. The mood can be affect how much
+        [[bond]] a [[Bees|bee]] gets when it collects [[pollen]], how fast the bee flies, and can
+        even enable some bees to find certain [[sticker]]s when collecting. It does not affect other
+        [[stats]], such as [[Stats#Gather Amount|pollen collection rate]] or [[Stats#Production
+        Amount|honey conversion speed]].
+
+        == Bee Moods ==
+        [[File:Happy.png|left|thumb|85x85px]]
+        A bee will express happiness if it is fed a [[Treats|treat]] or if it is working (or most
+        recently was working) in a [[fields|field]] that it likes. Bees gain extra bond from
+        gathering when working in a field they like and also move slightly faster than usual.
+        [[Precise Bee]] will also express happiness when it shoots all the targets during it's
+        Target Practice ability.
+
+        {{clear}}
+        [[File:Sad.png|left|thumb|85x85px]]
+        A bee will express unhappiness if it is working in a field it dislikes or if the last field
+        it worked in was one it dislikes. Bees gain less bond from gathering in fields they dislike,
+        and move slower than usual.
+
+        == Field Preferences ==
+        '''Note:''' Bee preferences will remain unchanged after leaving a field, only updating after
+        entering another.
+        {| class=\"article-table\"
+        !Bee Type
+        !Likes
+        !Dislikes
+        |-
+        |[[Basic Bee]]
+        |Sunflower, Clover, Mountain Top
+        |Spider
+        |-
+        |[[Bomber Bee]]
+        |Dandelion, Cactus
+        |Pumpkin
+        |-
+        |[[Brave Bee]]
+        |Spider, Clover
+        |Dandelion
+        |-
+        |[[Bumble Bee]]
+        |Blue Flower, Pine Tree Forest, Stump
+        |Mushroom
+        |-
+        |[[Cool Bee]]
+        |Bamboo, Pine Tree Forest
+        |Strawberry
+        |-
+        |[[Hasty Bee]]
+        |Sunflower, Cactus
+        |Pumpkin, Stump
+        |-
+        |[[Looker Bee]]
+        |Clover, Mountain Top
+        |Sunflower
+        |-
+        |[[Rad Bee]]
+        |Mushroom, Rose
+        |Pine Tree Forest
+        |-
+        |[[Rascal Bee]]
+        |Mushroom, Rose
+        |Pine Tree Forest
+        |-
+        |[[Stubborn Bee]]
+        |Dandelion, Clover
+        |Rose
+        |-
+        |[[Bubble Bee]]
+        |Blue Flower, Pine Tree Forest
+        |Strawberry
+        |-
+        |[[Bucko Bee]]
+        |Blue Flower, Bamboo, Pine Tree Forest
+        |Strawberry, Rose
+        |-
+        |[[Commander Bee]]
+        |Spider, Cactus
+        |Dandelion
+        |-
+        |[[Demo Bee]]
+        |Dandelion, Cactus
+        |Rose
+        |-
+        |[[Exhausted Bee]]
+        |Dandelion, Sunflower, Stump
+        |Cactus
+        |-
+        |[[Fire Bee]]
+        |Mushroom, Strawberry
+        |Pine Tree Forest
+        |-
+        |[[Frosty Bee]]
+        |Blue Flower, Mountain Top
+        |Mushroom
+        |-
+        |[[Honey Bee]]
+        |Pumpkin, Mountain Top
+        |Spider
+        |-
+        |[[Rage Bee]]
+        |Spider, Rose
+        |Blue Flower
+        |-
+        |[[Riley Bee]]
+        |Mushroom, Strawberry, Rose
+        |Bamboo, Pine Tree Forest
+        |-
+        |[[Shocked Bee]]
+        |Spider, Pineapple
+        |Mushroom
+        |-
+        |[[Baby Bee]]
+        |Dandelion, Sunflower, Mushroom, Blue Flower
+        |Spider, Cactus, Rose, Pine Tree Forest, Stump
+        |-
+        |[[Carpenter Bee]]
+        |Bamboo, Pine Tree Forest
+        |Mountain Top
+        |-
+        |[[Demon Bee]]
+        |Mushroom, Spider
+        |Mountain Top
+        |-
+        |[[Diamond Bee]]
+        |Blue Flower, Pineapple
+        |Rose
+        |-
+        |[[Lion Bee]]
+        |Pineapple, Ant Challenge
+        |Clover
+        |-
+        |[[Music Bee]]
+        |Dandelion, Clover
+        |Cactus
+        |-
+        |[[Ninja Bee]]
+        |Blue Flower, Bamboo
+        |Mushroom
+        |-
+        |[[Shy Bee]]
+        |Strawberry, Pumpkin
+        |Pine Tree Forest
+        |-
+        |[[Buoyant Bee]]
+        |Blue Flower, Bamboo, Mountain Top, Coconut
+        |N/A
+        |-
+        |[[Fuzzy Bee]]
+        |Dandelion, Pine Tree
+        |Pepper
+        |-
+        |[[Precise Bee]]
+        |Mountain Top, Rose
+        |Bamboo, Pine Tree
+        |-
+        |[[Spicy Bee]]
+        |Pepper
+        |Stump
+        |-
+        |[[Tadpole Bee]]
+        |Pine Tree Forest, Stump
+        |Cactus
+        |-
+        |[[Vector Bee]]
+        |Spider, Coconut
+        |Pineapple
+        |-
+        |[[Bear Bee]]
+        |Pumpkin, Pine Tree Forest
+        |Blue Flower
+        |-
+        |[[Cobalt Bee]]
+        |Clover, Pine Tree Forest
+        |Pineapple
+        |-
+        |[[Crimson Bee]]
+        |Clover, Rose
+        |Pineapple
+        |-
+        |[[Digital Bee]]
+        |Dandelion, Mountain Top, Coconut
+        |Pine Tree
+        |-
+        |[[Festive Bee]]
+        |Mushroom, Pine Tree Forest, Mountain Top
+        |Blue Flower
+        |-
+        |[[Gummy Bee]]
+        |Pineapple, Stump, Mountain Top
+        |Pumpkin
+        |-
+        |[[Photon Bee]]
+        |Pineapple, Pumpkin
+        |Clover
+        |-
+        |[[Puppy Bee]]
+        |Clover
+        |Rose
+        |-
+        |[[Tabby Bee]]
+        |Clover, Spider
+        |Cactus
+        |-
+        |[[Vicious Bee]]
+        |Cactus, Rose
+        | Dandelion
+        |-
+        |[[Windy Bee]]
+        |Dandelion, Coconut
+        |Bamboo, Strawberry
+        |}
+
+        == Trivia ==
+        * The Emoticons were removed for an unknown period of time<!-- time needed -->, but
+        were reimplemented in the [[Updates#2024.01.12|1/12/24 update]].
+        [[Category:Mechanics]]"}

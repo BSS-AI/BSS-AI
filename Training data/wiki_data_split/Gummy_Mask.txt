@@ -1,0 +1,121 @@
+{"text": "{{Accessory
+        |image1 =Gummy Mask.png
+        |description =The official mask of a Gummy Soldier.
+        |cost =5,000,000,000 [[Honey]], 250 [[Glue]], 100 [[Enzymes]], 100 [[Oil]], 100 [[Glitter]]
+        and 1 [[Nectar Vial#Satisfying Vial|Satisfying Vial]].
+        |stats =+75% Goo<br>+10% Instant Goo Conversion<br>x1.25 White
+        Pollen<br>+25% Pollen<br>x1.5 Capacity<br>x1.5 White Field
+        Capacity<br>+30% Defense<br>+20% Bee Ability Rate<br>+Passive: Coin
+        Scatter (Needs Honey Mask)<br>+Passive: Gummy Morph
+        }}
+        {{Quote|The official mask of a Gummy Soldier.}}
+        The '''Gummy Mask''' is a [[:Category:Masks|Mask]] available for purchase in [[Gummy Bear's
+        Lair]]. It can be reached by touching the [[Gummy Bee]] model on the [[Gummy Bee Egg Claim]]
+        and using a [[Gumdrops|Gumdrop]] (This only works if the [[Badges#Goo Badge|Goo Hotshot]]
+        badge is/was owned).
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Glue|250}}<br>{{Cost|Enzymes|100}}<br>{{Cost|Oil|100}}<br>{{Cost|Glitter|100}}<br>{{Cost|Satisfying
+        Vial|1}}
+        |}
+
+
+        Once 30 regular gumdrops are used or 10 [[Ability Tokens]] from Gummy Bee are collected,
+        Gummy Mask's passive ability (Gummy Morph) activates with the following sound file:
+        [[File:gbm.ogg]]
+
+        The appearance of the Gummy Mask has a teal gumdrop on top emitting tiny bubbles. Below that
+        is a pink dome with a neon teal disc and a pink disc underneath. The Gummy Bee face is
+        placed on a pink barrier surrounding the player's face.
+
+        ==Stats==
+        *+75% [[Goo]]
+        * +10% [[System Page#Goo Conversion|Instant Goo Conversion]]
+        *x1.25 [[System Page#White Pollen|White Pollen]]
+        *+25% [[Pollen]]
+        *x1.5 [[Capacity]]
+        *x1.5 [[Field Capacity|White Field Capacity]]
+        *+30% [[System Page#Defense|Defense]]
+        * +20% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        *[[Passive Abilities#Coin Scatter|+Passive: Coin Scatter]] (Requires [[Honey Mask]] in order
+        to use):
+        **The passive is activated every 20 [[Ability Tokens#Mark|Mark Tokens]]. When it does, 300%
+        of the player's total [[System Page#Convert Total|Hive Convert Amount]] will be converted
+        and scattered into honey tokens, which cannot be collected through a [[Ability Tokens#Token
+        Link|Token Link]] (visible only to the player, Honey Tokens last one minute). The passive
+        has a cooldown of two minutes before re-use.
+        *[[Passive Abilities#Gummy Morph|+Passive: Gummy Morph]]:
+        **The Gummy Morph will trigger every 30 gumdrops used OR 10 Gummy Bee ability tokens
+        collected (+1 stack per gumdrops used, +3 stacks every Gummy Bee ability). When it triggers,
+        it will turn you into [[Gummy Bear]], your Gummy Bee will glow and leave a trail. In
+        addition, the field will be fully covered in goo. As Gummy Bear, you will gain +75% goo,
+        instantly converting all of it, and have increased jump power and player speed. As Gummy Bee
+        glows, it will gather 1000% more pollen, gain +300 attack, and move 200% faster for 10
+        seconds. This passive does not have any cooldown time.
+
+        ==Gallery==
+        <gallery>
+        Gummymaskicon.png|The Gummy Mask icon
+        GummyMorph.png|The Gummy Morph icon
+        Coinscatter.png|The Coin Scatter icon
+        GummyBearMorph.png|A player with the Gummy Bear Morph.
+        GummyBee.png|When Gummy Morph is activated, Gummy Bee (if you have one) will change colors,
+        glow brighter, and leave a trail.
+        RobloxScreenShot20220207 190300610.png|The rose field covered in goo by the Gummy Bear Morph
+        passive.
+        GummyHatShop.png|The Gummy Mask in its shop.
+        Gummy mask.png|Gummy Mask's stats when it first released.
+        Gummystats.png|Gummy Mask's stats before the [[Updates#2019.12.23|12/23/2019 update]].
+        Gummymasknoow.png|Current Gummy Mask's stats
+        Gummy mask stats.png|Gummy Mask's stats before the [[Updates#2020.04.06|4/6/2020 update]].
+        Boostgummy.png|Gummy Bear Morph's first stats when it came out.
+        RobloxScreenShot20191217 180715356.png|Gummy Bear Morph's old stats.
+        GBMS.png|Gummy Bear Morph's current stats.
+        </gallery><!-- I think we should get rid of these stat pics, like how the other
+        mask pages are.-->
+
+        ==Trivia==
+        * If the ingredients to craft this item were to be crafted, a total of 5,000,000,000 Honey,
+        75,000 [[Bluberry|Blueberries]], 75,000 [[Strawberry|Strawberries]], 92,500
+        [[Pineapple|Pineapples]], 5,000 [[Sunflower Seed|Sunflower Seeds]], 7,000 [[Royal
+        Jelly|Royal Jellies]], 100 [[Magic Bean]]s and 1 [[Satisfying Vial]] of nectar are needed.
+        *Upon activating the Gummy Morph, [[Gummy Bee]] will have the highest Base Attack Power of
+        303 Damage in total.
+        * This is the only mask that represents an [[Bees/Event|Event bee]] (Gummy Bee), as the
+        other masks are based on [[Bees/Epic|Epic]] and [[Bees/Legendary|Legendary Bees]].
+        *The Gummy Mask was nerfed in the [[Updates#2019.04.05|4/5/2019 Update]] because it was too
+        powerful.
+        **It was later buffed a little in the [[Updates#2019.04.17|4/17/2019 Update]], as people
+        were complaining that it was extremely bad with the nerf.
+        *Before the [[Updates#2019.09.28|9/28/2019 Update]], if the [[Buffs & Debuffs#From
+        Areas|Unlimited Gumdrops]] buff is active, the passive ability would not be activated from
+        gumdrops. This is because gumdrops in the inventory weren't technically consumed upon use
+        with the Unlimited Gumdrops buff.
+        **After the update, it can now be activated with Unlimited Gumdrops.
+        * The [[Music]] that plays when the Gummy Bear Morph is active is a slight rendition of
+        [[Gummy Bear|Gummy Bear's]] theme that plays in the Gummy Bear's Lair.
+        *This and the [[Honey Mask]] are the only masks in the game that requires a badge to access
+        and purchase.
+        ** Coincidentally, the [[Honey Mask]] is also required to unlock the coin scatter ability on
+        this mask.
+        *The Gummy Mask is the only mask in the game that requires a specific badge to access it.
+        * This mask is the only way to get the Gummy Morph ability, and the only way to get a Bear
+        Morph ability without Robux and codes.
+        *Either this mask or the [[Gummy Boots]] were needed in order to receive Gummy Bear's
+        [[Beesmas]] quest.
+        *The Gummy Morph icon is the same icon as the one for the Goo badge.
+        *This and the [[Strange Goggles]] are the only items that are required to interact with
+        NPCs. However, during Beesmas, the Honey Mask was also needed to give [[Honey Bee
+        (NPC)|Honey Bee]] a present and to receive its Beesmas quest.
+        *This, the [[Demon Mask]] and the [[Diamond Mask]] are the only masks with decorative
+        accessories (Gummy Mask has a teal gumdrop).
+        *This is the 3rd most expensive item requiring [[Glue]]. In front of the Gummy Mask is
+        [[Gummy Boots]] (2nd) and [[Gummyballer]] (1st).
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Accessories]]
+        [[Category:Hats]]
+        [[Category:Crafted]]
+        [[Category:Goo]]
+        [[Category:Masks]]"}

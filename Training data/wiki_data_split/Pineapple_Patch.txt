@@ -1,0 +1,157 @@
+{"text": "{{Field
+        |image = PineapplePatch2.png
+        |fieldcolor = White
+        |bees = 10
+        |width = 33
+        |height = 23
+        }}The '''Pineapple Patch''' is a [[Fields|field]] located behind the [[Brave Bee Gate]] and
+        to the right of the [[Pro Shop]]. It is protected by a level 4 [[mantis]] and a level 5
+        [[Rhino Beetle|rhino beetle]].
+
+        This is a 33x23 field, containing 759 [[flowers]]. The flowers are white, red, and blue, in
+        sizes of single, double, and triple.
+
+        {| class=\"article-table\"
+        !
+        Flowers
+        !White
+        !Red
+        !Blue
+        !Total
+        |-
+        !Single
+        |17%
+        |1%
+        |1%
+        |'''19%'''
+        |-
+        !Double
+        |45%
+        |3%
+        |2%
+        |'''50%'''
+        |-
+        !Triple
+        |27%
+        |2%
+        |2%
+        |'''31%'''
+        |-
+        !Total
+        |'''89%'''
+        |'''6%'''
+        |'''5%'''
+        |'''100%'''
+        |}
+
+        '''Note: the flowers in fields are randomly generated, so the flower counts above may not be
+        100% accurate. However, the percentages should be roughly correct.'''
+
+        This field can spawn [[honey]], [[Pineapple|pineapples]], [[Bitterberry|bitterberries]],
+        [[Neonberry|neonberries]], [[enzymes]], [[ticket]]s, [[Magic Bean|magic beans]], [[glue]]
+        and [[glitter]] tokens when collecting [[pollen]].
+
+        This field gives Satisfying [[Nectar]] when a planter is placed here.
+
+        [[Bees]] that like the Pineapple Patch are [[Shocked Bee]], [[Diamond Bee]], [[Lion Bee]],
+        [[Gummy Bee]], and [[Photon Bee]]. Bees that dislike the Pineapple Patch are [[Vector Bee]],
+        [[Cobalt Bee]], and [[Crimson Bee]].
+
+        A level 1-20 [[Wild Windy Bee]] can spawn here.
+
+        == Obtaining Boosts ==
+        * Using the [[Field Booster]] may give a [[Field Boost|Pineapple Patch Boost]]. When it
+        does, it will give +200% Pineapple Patch pollen for 15 minutes.
+        [[File:Fis_pineapple.png|thumb|75px|The Pineapple Patch Boost icon.]]
+        * Using [[glitter]] will add 100% Pineapple Patch pollen onto the current boost for 15
+        minutes if it isn't already maxed out.
+        * Using [[Field Dice|field dice]], [[Smooth Dice|smooth dice]], or [[Loaded Dice|loaded
+        dice]] may add +100% - +300% Pineapple Patch pollen for 15 minutes if the current boost
+        isn't already maxed out.
+        * Pineapple Patch [[Field Wind|winds]] can be obtained through the [[Wind Shrine]] or
+        [[codes]]. They have a base of +20% instant Pineapple Patch conversion, and give +5% instant
+        Pineapple Patch conversion and +20% Pineapple Patch pollen for each stack. Pineapple Patch
+        Winds can stack up to a total of 13 times.
+        * Redeeming certain valid codes:
+        ** ClubBean (Gives Pineapple Patch Boost x2 + other stuff).
+        ** 1MLikes (Gives Pineapple Patch Boost x1 + other stuff).
+        **10MilMembers (Gives Pineapple Patch code buff + other stuff).
+        **WalmartToys (Gives Pineapple Patch code buff, boost x4, and winds x10 + other stuff).
+        * The [[Moon Amulet]] can give a pollen boost for the Pineapple Patch between +1% and +150%.
+        * It can be boosted by the [[Shell Amulet]]. If it has a Pineapple Patch Boost, it can boost
+        the field by +7% to +30% depending on the amulet rarity.
+        *Donating either the Menacing Mantis or Pineapple Patch Stamp [[Sticker]] to the [[Sticker
+        Stack]] boosts the Pineapple Patch by 5% and 10% respectively.
+
+        === The methods below are no longer possible ===
+        * Giving a [[present]] to certain NPCs during Beesmas:
+        **[[Science Bear]] gave Pineapple Patch Boost x4 and other items (Beesmas 2018).
+        ** [[Onett]] gave Pineapple Patch Boost x1 and other boosts and items (Beesmas 2018).
+        **Giving Science Bear a present gave Pineapple Patch Boost x3 and other [[items]] (Beesmas
+        2020).
+        **Giving Science Bear a present gave Pineapple Patch Boost x3 and other items (Beesmas
+        2021).
+        * Purchasing a Pineapple Patch [[Buffs & Debuffs#From Areas|Market Boost]] from the
+        [[Boost Market]] will give x1.5 Pineapple [[Field Capacity|Patch Capacity]] x1.25 Pineapple
+        Patch Pollen, x1.25 White Pollen, and x1.25 [[System Page#Hive Convert Rate|Convert Rate At
+        Hive]].
+        * Redeeming certain expired codes:
+        ** Tabby (Gave Pineapple Patch Boost x1 + other stuff).
+        ** LateNightGumdrops (Gave Pineapple Patch Boost x2 + other stuff).
+        ** SugarRush (Gave Pineapple Patch Boost x4 + other stuff).
+        ** Shutdown (Gave Pineapple Patch Boost x5 + other stuff).
+        ** 1MoreTime (Gave Pineapple Patch Boost x2 + other stuff).
+        ** Reboots (Gave Pineapple Patch Boost x5 + other stuff).
+        ** DarzethDonation (Gave Pineapple Patch Boost x5 + other stuff).
+        ** 1mFavorites (Gave Pineapple Patch Boost x1 + other stuff).
+        ** Trying (Gave Pineapple Patch Boost x3 + other stuff).
+        ** OffToOrlando (Gave Pineapple Patch Boost x3 and Pineapple Patch Winds x5 + other stuff).
+        ** Market (Gave Pineapple Patch Market Boost + other stuff).
+        ** PineappleParty (Gave Pineapple Patch Boost x3, Pineapple Patch Capacity x3, and Pineapple
+        Market Boost x3 + other stuff.)
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\" orientation=\"landscape\">
+        Pineapple face.png|The Pineapple's face when it is blowing [[sparkles]].
+        Currentpineappletoken.png|The pineapple token behind the pineapple closest to the Pro Shop.
+        Ticketonpineapple.png|The ticket token on the giant pineapple.
+        File:PineappleSpitFace.png|The Pineapple's face before blowing sparkles.
+        </gallery>
+
+        == Trivia ==
+        * Oddly, the mobs in this field ([[Rhino Beetle]] and [[Mantis]]) are affiliated with blue,
+        despite the field being white.
+        * There is a [[Pineapple|pineapple]] token behind the pineapple closest to the shop.
+        Collecting it grants the player five pineapples.
+        * There is a [[ticket]] token worth three tickets on top of the giant pineapple. It can be
+        obtain by using the [[Red Cannon]] and the [[Parachute]] or [[Glider]], or by jumping up
+        from the side of the pineapple.
+        * There is a [[glue]] token behind the biggest pineapple between the [[Stump Field]].
+        * This was the third biggest field in the game before the [[Updates#2018.07.11|7/11/2018
+        update]].
+        * This field is one of the three fields to have the word \"Patch\" in their name instead of
+        \"Field,\" along with the [[Pumpkin Patch]] and the [[Pepper Patch]].
+        ** The [[Pine Tree Forest]] is another field without the word \"Field\" in it, having \"Forest\"
+        in its name instead.
+        * This is one of six fields that [[fireflies]] can travel to, with the others being [[Bamboo
+        Field]], [[Cactus Field]], [[Rose Field]], [[Spider Field]], and [[Strawberry Field]].
+        * This is one of the fields that the [[Stick Bug]] can move to during the [[Stick Bug
+        Challenge]].
+        * This field along with the [[Sunflower Field]] and the [[Pumpkin Patch]] are the only
+        fields where an object may come to life and shoot sparkles.
+        * The biggest pineapple will occasionally grow a face, where it will blow bubbles at patches
+        of flowers, producing [[sparkles]] (in diamond formation) upon contact. Collecting pollen on
+        the affected flowers can produce tickets, pineapples, [[Moon Charm|moon charm]], [[Royal
+        Jelly|royal jelly]], [[enzymes]], or honey tokens.
+        * While doing one of [[Spirit Bear]]'s quests, Spirit Bear states that the Pineapple Patch
+        was originally supposed to be a Rhubarb Field. Instead, she and Stick Bug planted
+        pineapples.
+        *This is the only field to be guarded by two mobs of different tiers (Rhino Beetle and
+        Mantis), if you don't include the [[Werewolf]] guarding the Pine Tree Forest as it merely
+        happens to be located in the Werewolf's attack territory.
+        *This is the currently the biggest field in the game.
+
+        {{MapNav}}
+        [[Category:Fields]]
+        [[Category:Locations]]
+        [[Category:Colorless]]"}

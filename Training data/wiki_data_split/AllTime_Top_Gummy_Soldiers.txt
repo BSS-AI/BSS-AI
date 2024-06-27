@@ -1,0 +1,17 @@
+{"text": "{{DailyCheck}}
+        ''(Leaderboard as of 4/11/2024)''
+        {{LB|name1=buffwhite_mikey|name2=sin040412|name3=ethanolodj|name4=e_IoI|name5=pruudent|amount1=69.429
+        qd|amount2=62.614 qd|amount3=39.301 qd|amount4=21.915 qd|amount5=16.040
+        qd|name6=NicolaiJee|amount6=15.976 qd|name7=e_lolalt|amount7=15.869
+        qd|name8=Cawuoo|amount8=15.142 qd|name9=WhiteHiveKing|amount9=13.647
+        qd|name10=BenMYu1|amount10=14.121 qd}}
+
+        The '''All-Time Top Gummy Soldiers''' is one of the 62 [[leaderboards]] in the game, and is
+        only viewable via the Global Leaderboards menu in the [[System Page]]. This leaderboard
+        shows how much [[Goo]] players have collected over time. It shows 10 leaderboard positions
+        at a time. The player can scroll down the leaderboard to see more players, all the way to
+        the 100th place. Only legitimate players appear on the leaderboards for lengths of time
+        (hackers/exploiters will be removed).
+
+        {{MapNav}}
+        [[Category:Leaderboards]]"}

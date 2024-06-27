@@ -1,0 +1,79 @@
+{"text": "[[File:TheComputer.png|thumb|The Computer.]]
+        '''The Computer''' is a green screen located between the [[Windy Bee Gate]] and the [[Red
+        HQ]]. It is involved with the [[Ready Player Two]] event. It has an ellipsis (...) written
+        on it and can be interacted with.
+
+        == Interior ==
+        When interacted with when wearing the [[Strange Goggles]], the player will see [[Digital Bee
+        (NPC)|Digital Bee]] appear and give the player certain puzzles to complete in order to get
+        the [[How to Program BASIC]] cosmetic hat. Only after when the player finishes all puzzles
+        given by Digital Bee will then be able to enter the computer to receive a Star Jelly and
+        Robo-challenge ticket as a reward with the [[How to Program BASIC]] cosmetic floating in
+        Digital Bee's original spot. When inside, the music, overflowin4, that plays in the 30 Bee
+        Zone and 35 Bee Zone is also played here.
+
+        == Puzzles ==
+        '''Note: The table below shows the guides to completing the three puzzles from Digital Bee.
+        If you wish to complete the puzzles on your own, do''' '''NOT open the table below. The same
+        table is on the Digital Bee page.'''
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        ! style=\"width:3%\" |Puzzle
+        ! style=\"width:40%\" |Guide
+        ! style=\"width:35%\" |Example
+        ! style=\"width:10%\" |Reward
+        |-
+        |Puzzle 1
+        |Upon interacting with The Computer, Digital Bee will flash 4 symbols, acting as a code. Go
+        to the [[Dandelion Field]] and use your collector to reveal and change to the appropriate
+        symbols left to right, with the first symbol closest to the [[Sunflower Field]]. If done
+        right, a sound will play, and the symbols are replaced with happy faces.
+        |Digital Bee signals '''? * ~ {'''. Therefore, the first symbol is '''?''', then '''*''',
+        then '''~''', and last '''{'''.
+        |1x [[Royal Jelly]], [[Honey]]
+        |-
+        |Puzzle 2
+        |After the first puzzle is done, upon interacting with The Computer, Digital Bee will
+        disappear, and begin teleporting around the Sunflower, [[Clover Field|Clover]], and
+        [[Mushroom Field]]. At a field, Digital Bee will continuously flash 3 symbols, '''& ~
+        *'''. Then, you will have to uncover the hidden symbols with your collector and change them
+        into the right sequence. The combination is always:<br />Sunflower = '''&'''<br
+        />Clover = '''*'''<br />Mushroom = '''~'''<br />When entered, the symbols
+        will change into happy faces and a sound will play.
+        |N/A
+        |1x [[Royal Jelly]], 8x [[Gumdrops]]
+        |-
+        |Puzzle 3
+        |After the second puzzle is done, upon interacting with The Computer, Digital Bee will flash
+        4 letters. The 4 letters are '''S'''unflower, '''D'''andelion, '''M'''ushroom, and
+        '''C'''lover. In each of the 4 fields, a symbol can be revealed with your collector. In the
+        order of the fields flashed by Digital Bee, reveal the symbols left to right in the [[Blue
+        Flower Field]], with the first symbol closest to the [[Basic Bee Gate|5 Bee Gate]]. If done
+        right, a sound will play, and the symbols are replaced with happy faces.
+        |Digital Bee flashes '''DSMC'''.<br />Dandelion shows '''*'''<br />Sunflower
+        shows '''&'''<br />Mushroom shows '''?'''<br />Clover shows '''~'''<br
+        />Therefore, the right combination in this example is '''*&?~'''.
+        |1x [[Atomic Treat]], 8x [[Ticket]]
+        |}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        FieldAsterisk.png|The asterisk * symbol uncovered in a field.
+        Field?.jpg|The question mark ? symbol uncovered in a field.
+        Field~.jpg|The tilde ~ symbol uncovered in a field.
+        Field(.jpg|The bracket { symbol uncovered in a field.
+        Field&.jpg|The ampersand & symbol uncovered in a field.
+        FieldSmile.png|The smile ☺ symbol that appears in place of the other symbols after a puzzle
+        is complete.
+        Sadface2.png|The sad faces present on the left, right and top of The Computer before
+        interacting and completing Digital Bee's tasks.
+        Dbsmiley1.png|The smiley face that replaces the sad faces whenever one of Digital Bee's
+        tasks is complete.
+        DigitalBee.png|Digital Bee in the computer.
+        BSSRoboBearUpdateThumb.png|The Computer being used as a background prop in a version of the
+        game's icon.
+        </gallery>
+
+        {{MapNav}}
+        [[Category:Ready Player Two]]
+        [[Category:Locations]]
+        [[Category:Machines]]"}

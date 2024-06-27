@@ -1,0 +1,111 @@
+{"text": "{{Planter
+        |image1=Petalplanter.png
+        |description=Alone, grows in about 14 hours. Stores around 100 billion Pollen. Grants bonus
+        Jelly Beans, Field Dice, and Glitter.
+        |reusable=Yes
+        |cost=5,000,000,000,000 [[Honey]], 100 [[Magic Bean]]s, 100 [[Glitter]]s, 250 [[Soft
+        Wax]]es, 50 [[Swirled Wax]]es, 25 [[Super Smoothie]]s.
+        |grow=~14 hours
+        |growbonus=+50% in fields with white flowers.
+        |pollen=About 100,000,000,000 Pollen
+        |pollenbonus=+33% White Pollen
+        |nectar=+50% Comforting<br>+50% Satisfying
+        |item=
+        *[[Jelly Beans]]
+        *[[Field Dice]]
+        *[[Glitter]]
+        }}
+        {{Quote|Alone, grows in about 14 hours. Stores around 100 billion Pollen. Grants bonus Jelly
+        Beans, Field Dice, and Glitter.}}
+        The '''Petal Planter''' is a reusable [[planter]] added in the [[Updates|12/26/2021
+        update]], it grows in about 14 hours and stores 100 billion [[Pollen]]. When harvested, it
+        grants bonus Jelly Beans, Field Dice, and Glitter. It can be purchased at the [[Petal
+        Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|{{Hover|5T|5,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|100}}<br>{{Cost|Glitter|100}}<br>{{Cost|Soft
+        Wax|250}}<br>{{Cost|Swirled Wax|50}}<br>{{Cost|Super Smoothie|25}}
+        |}
+
+        The planter grows 50% faster in [[fields]] with white flowers, and grants 33% bonus white
+        pollen on harvest. Colorless bees are 50% more likely to sip [[nectar]] from this planter,
+        and it grants 50% more Comforting and Satisfying nectar. Harvesting a fully grown Petal
+        Planter has a 1/5 (20%) chance to spawn a [[puffshroom]].
+
+        == Drops==
+        Note that some drops and buffs it gives are based on the field the planter is in.
+        <tabber>
+        |-|Bonus=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Jelly Beans}}<br>{{Cost|Glitter}}<br>{{Cost|Field
+        Dice}}<br>{{Cost|Smooth Dice}}<br>{{Cost|Loaded Dice}}<br>{{Cost|Star
+        Jelly}}
+        |}
+
+        |-|Other=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Treat}}<br>{{Cost|Sunflower
+        Seed}}<br>{{Cost|Pineapple}}<br>{{Cost|Blueberry}}<br>{{Cost|Strawberry}}<br>{{Cost|Oil}}<br>{{Cost|Honeysuckle}}<br>{{Cost|Ticket}}<br>{{Cost|Gumdrops}}<br>{{Cost|Soft
+        Wax}}<br>{{Cost|Hard Wax}}<br>{{Cost|Royal Jelly}}<br>{{Cost|Gold
+        Egg|||0}} (Very Rare)<br>{{Cost|Super Smoothie|||0}} (Very Rare, approximately 2%
+        chance)<br>{{Cost|Kazoo|||0}} (Rare)<br>{{Cost|Smiley Sticker|||0}}
+        (Rare)<br>{{Cost|Swirled Wax|||0}} (Very Rare)<br>{{Cost|Caustic Wax|||0}} (Very
+        Rare)<br>{{Cost|Turpentine|||0}} (Very Rare, approximately >1%
+        chance)<br>{{Cost|Paperclip|||0}} (Very Rare)<br>{{Cost|Charm Bracelet|||0}}
+        (Very Rare)<br>{{Cost|Bead Lizard|||0}} (Very Rare)<br>{{Cost|Lei|||0}} (Very
+        Rare)<br>{{Cost|Sweatband|||0}} (Very Rare, probability increased in the Clover Field)
+        |}
+
+        |-|Special=
+
+        {| class=\"article-table\"
+        |-
+        |{{Cost|Swirled Wax|1}} (When harvested from [[Strawberry Field]], 1 month
+        cooldown)<br>{{Cost|Caustic Wax|1}} (When harvested from [[Dandelion Field]], 1 month
+        cooldown<br>{{Cost|Star Jelly|10}} (When harvested from any white field, unknown
+        cooldown)<br>{{Cost|Glitter|10}} (When harvested from any white fields, unknown
+        cooldown)<br>{{Cost|Pale Heart Sticker|1}} (Very rarely when harvested from
+        [[Strawberry Field]])
+        |}
+        </tabber>
+
+        ==Gallery==
+        <gallery>
+        Eead.png|The Petal Planter in the Petal Shop.
+        RobloxScreenShot20220108 102357701.png|A Petal Planter in a field.
+        File:PPlanter full.png|A fully grown Petal Planter.
+        File:PetalPlanterPuffshroom.jpg|A Petal Planter hosting a Puffshroom.
+        File:PetalPlanter.png|The Petal Planter.
+        </gallery>
+
+        ==Trivia==
+
+        *This is the fourth most expensive item in the game in terms of honey, only behind the
+        [[Coconut Belt]], which costs 7.5 trillion honey, the [[Gummyballer]], which costs 10
+        trillion honey, and [[The Planter Of Plenty]], which costs 100 trillion honey.
+        *Its red counterpart is the [[Heat-Treated Planter]] and its blue counterpart is the
+        [[Hydroponic Planter]].
+        *The Petal Planter is currently the only item in the Petal Shop not to require a [[Spirit
+        Petal]].
+        *It is the only item in the Petal Shop added after the shop was added.
+        * If the ingredients for item were to be crafted, it will cost 5,000,000,000,000 Honey, 425
+        Magic Beans, 346,875 [[Strawberry|Strawberries]], 346,875 [[Blueberry|Blueberries]], 426,250
+        [[Pineapple|Pineapples]], 72,500 Sunflower Seeds, 1,200 [[Neonberry|Neonberries]], 4,950
+        [[Bitterberry|Bitterberries]], 5,650 Honeysuckles, 1,500 [[Coconut]]s, and 97,990 Royal
+        Jellies.
+        * This is currently one of the five reusable planters to not be sold in [[Dapper Bear's
+        Shop]], the others being the [[Red Clay Planter]], [[Blue Clay Planter]], [[Hydroponic
+        Planter]], and the [[Heat-Treated Planter]].
+        ** Of those, this is the only planter to not be sold in a headquarters shop.
+
+        {{Items}}
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Crafted]]"}

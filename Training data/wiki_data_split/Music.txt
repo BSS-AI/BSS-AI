@@ -1,0 +1,72 @@
+{"text": "'''Music''' is a component in [[Bee Swarm Simulator]]. It is heard in the background
+        during gameplay. Certain areas of the map have different songs. Music can be turned on or
+        off in the [[System Page]].
+
+        There are 15 songs principally used, all found in [[Onett (Developer)|Onett]]'s inventory.
+
+        {| class=\"wikitable\"
+        ! Title !! Length !! Roblox Library ID !! Audio !! Where does it play?
+        |-
+        | wax || 1:24 || [https://www.roblox.com/library/1479981863/wax 1479981863] ||
+        [[File:Wax.ogg]] || '''Plays in the [[Starter Zone]] and past the [[Ant Gate]]. (Does not
+        play during Beesmas, drone plays instead)'''
+        |-
+        | bpatrol || 1:52 || [https://www.roblox.com/library/1482721762/bpatrol 1482721762] ||
+        [[File:Bpatrol.ogg]] || '''Plays anywhere past the [[Basic Bee Gate]].'''
+        |-
+        | crawlers || 2:29 || [https://www.roblox.com/library/1598349092/crawlers 1598349092] ||
+        [[File:Crawlers.ogg]] || '''Plays inside the [[King Beetle Lair]], [[White Tunnel]], and in
+        [[Commando Chick's Hideout]].'''
+        |-
+        | antmarch1 || 1:41 || [https://www.roblox.com/library/1954880569/antmarch1 1954880569] ||
+        [[File:Antmarch1.ogg]] || '''Plays while performing the [[Ant Challenge]].'''
+        |-
+        | starhall || 4:31 || [https://www.roblox.com/library/2062483297/starhall 2062483297] ||
+        [[File:Starhall.ogg]] || '''Plays inside the [[Star Hall]] (the audio in-game is slowed
+        down).'''
+        |-
+        | overflowin4 || 1:37 || [https://www.roblox.com/catalog/2052242315/overflowin4 2052242315]
+        || [[File:Overflowin4.ogg]] || '''Plays past the [[Bear Gate]], inside [[The Computer]], and
+        the [[Windy Bee Gate]].'''
+        |-
+        | mountaincall || 2:36 || [https://www.roblox.com/library/2281113770/mountaincall
+        2281113770] || [[File:Mountaincall.ogg]] || '''Plays during [[Day/Night
+        Cycle|nighttime]].'''
+        |-
+        | gbtune1 || 1:27 || [https://www.roblox.com/library/2529553350/gbtune1 2529553350] ||
+        [[File:Gbtune1.ogg]] || '''Plays inside [[Gummy Bear's Lair]], near the [[Gummy Bee Egg
+        Claim]], and near the [[Ornament Presents|Gooey Present]] area.'''
+        |-
+        | vendor || 1:48 || [https://www.roblox.com/catalog/2529614730/vendor 2529614730] ||
+        [[File:Vendor.ogg]] || '''Plays inside the [[Noob Shop]], [[Pro Shop]], [[Mountain Top
+        Shop]], [[Badge Bearer's Guild]], [[Blue HQ]], [[Red HQ]], [[Petal Shop]], [[Hub Field]],
+        and in the [[Mazes#Blue Maze|Blue Maze]].'''
+        |-
+        | stickbug || 1:29 || [https://www.roblox.com/catalog/2562631515/stickbug 2562631515] ||
+        [[File:Stickbug.ogg]] || '''Plays during the [[Stick Bug Challenge]].'''
+        |-
+        | drone || 3:24 || [https://www.roblox.com/library/2677450793/drone 2677450793] ||
+        [[File:Drone.ogg]] || '''Plays in the [[Starter Zone]] and past the [[Ant Gate]] during the
+        [[:Category:Beesmas|Beesmas Event]].'''
+        |-
+        | hibernation1 || 3:42 || [https://www.roblox.com/library/2993535935/hibernation1
+        2993535935] || [[File:Hibernation.ogg]] || '''Plays inside the [[Easter Eggs#Honey
+        Void|secret area]] below the game.'''
+        |-
+        | nectar || 1:25 || [https://www.roblox.com/library/8275544372/Audio-nectar 8275544372] ||
+        [[File:Nectar.mp3]] || '''Plays inside of [[Dapper Bear's Shop]].'''
+
+        |-
+        | digitize || 1:14 || [https://www.roblox.com/library/11791297411/Audio-digitize
+        11791297411] || [[File:digitize.ogg]] || '''Plays during a round of the [[Robo Bear
+        Challenge]] or when a [[Robo Party]] is active.'''
+        |-
+        |rbcloading
+        |0:29
+        |[https://www.roblox.com/library/11791584693/Audio-rbcloading 11791584693]
+        |[[File:Rbcloading.ogg]]
+        |'''Plays before a round of the [[Robo Bear Challenge]] starts.'''
+        |}
+        [[Category:Gameplay]]
+        [[Category:Mechanics]]
+        [[Category:Bee Swarm Simulator]]"}

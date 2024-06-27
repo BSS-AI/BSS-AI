@@ -1,0 +1,28 @@
+{"text": "<blockquote>''<small>Not to be confused with the [[Robo Pass Dispenser]] which
+        requires tickets.</small>''</blockquote>
+        [[File:Free robo dispenser.png|thumb|The Free Robo Pass Dispenser.]]
+        The '''Free Robo Pass Dispenser''' is a [[dispenser]] located in the [[Bear Gate|30 Bee
+        Zone]], directly right of the [[Nectar Pot]]. When used, gives the player a free [[Robo
+        Pass]] every 22 hours, which can be used to participate in the [[Robo Bear Challenge]].
+        Players cannot use the dispenser if they already have 10 or more Robo Passes in their
+        inventory.
+
+        == Trivia ==
+        * There used to be a free Robo Pass token behind the Free Robo Pass Dispenser, this has been
+        replaced with the [[Broken Drive]].
+        * This, the [[Royal Jelly Dispenser#Free Royal Jelly Dispenser|Free Royal Jelly Dispenser]]
+        and the [[Glue Dispenser]], have a cooldown of 22 hours, being tied with the longest
+        cooldown of any dispenser in the game.
+        * This and the [[Free Ant Pass Dispenser]] are the only free dispensers in the game that do
+        not give any [[Buffs & Debuffs|buffs]] when used.
+        ** This, [[Robo Pass Dispenser]], the [[Free Ant Pass Dispenser]], the [[Ant Pass
+        Dispenser]], the [[Coconut Dispenser]], and the [[Glue Dispenser]] are the only dispensers
+        that do not grant [[Ability Tokens#Haste|Haste]] when used.
+        * This, the [[Robo Pass Dispenser]], the [[Ant Pass Dispenser]], and the [[Free Ant Pass
+        Dispenser]] are the only dispensers that don't have any visible faucets. Instead, they have
+        a small compartment, similar to a vending machine or an ATM.
+
+        [[Category:Dispenser]]
+        [[Category:Machines]]
+        [[Category:Locations]]
+        [[Category:Robo Bear Challenge]]"}

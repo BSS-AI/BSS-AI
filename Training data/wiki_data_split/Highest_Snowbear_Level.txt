@@ -1,0 +1,23 @@
+{"text": "{{RemovedContent}}
+        {{LB|name1=Light5525|amount1=41|name2=BenMYui|amount2=29|name3=ethanolodj|amount3=28|name4=Matvey_uu2|name5=MyAltForVic|amount4=28|amount5=28|name6=MrsBenMYu|amount6=28|name7=Treeanle|amount7=28|name8=extro_740|amount8=28|name9=HavingFun2228|amount10=27|name10=sunnytsaab|amount9=27}}
+        ''(Leaderboard as of 4/29/2023)''
+
+        The '''Highest Snowbear Level Leaderboard''' was one of 18 [[leaderboards]] in the game. It
+        was added on the [[Updates#2020.12.25|12/25/2020 update]] and returned on
+        [[:Category:Beesmas|Beesmas]] 2021 and 2022. It is next to the [[Spider Field]], [[Bamboo
+        Field]], [[Gumdrop Shop]], [[Snowbear Summoner]], and [[Panda Bear]]. To summon a
+        [[Snowbear]], the player must complete Panda Bear's Beesmas [[Quests|quest]] to gain access
+        to the summoner, allowing them to use the Snowbear Summoner. Each time the player defeats
+        the Snowbear, its level increases by one. The leaderboard displays the players who have the
+        highest top 100 Snowbear levels. This leaderboard does not have a white pad to stand on.
+
+        == Trivia ==
+        * This was the second leaderboard to be removed, the first being the [[Most Commando
+        Captures]] leaderboard.
+        ** This is one of two leaderboards that were temporarily removed, the other being the
+        [[Highest Robo Party Cake Rank]] leaderboard.
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Leaderboards]]
+        [[Category:Beesmas]]"}

@@ -1,0 +1,115 @@
+{"text": "{{Consumables
+        |image=Strawberry.png
+        |description=Increases your bond with a bee by 25.
+        }}
+        A {{Color|Strawberry}} is a type of [[Treats|Treat]] that can be fed to a [[Bees|bee]] to
+        raise its bond by 25. However, when fed to a [[Rascal Bee|Rascal]], [[Rad Bee|Rad]], [[Rage
+        Bee|Rage]], [[Riley Bee|Riley]], [[Baby Bee|Baby]], [[Stubborn Bee|Stubborn]], [[Shy
+        Bee|Shy]], or [[Spicy Bee|Spicy]] Bee, the amount of [[bond]] they gain is doubled. These
+        bees also have a small chance of becoming gifted when fed strawberries.
+
+        == Ways to Obtain ==
+        * There is a strawberry token hidden behind the largest strawberry in the corner of
+        [[Strawberry Field]].
+        * From using the [[Strawberry Dispenser]] near the [[Red HQ]].
+        * As a reward from the [[Ant Challenge]].
+        * Redeeming certain valid [[codes]]:
+        ** 1MLikes (Gives 1 strawberry + other stuff).
+        ** 15MMembers (Gives 15 strawberries + other stuff).
+        * As a reward from [[Memory Match|memory matches]].
+        * As a stack reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        ** {{Cost|Pink Cupcake Sticker|||0}} rewards 50 strawberries.
+        ** {{Cost|Pale Heart Sticker|||0}} rewards 50 strawberries.
+
+        === Drops ===
+        * Farming in the [[Mushroom Field]], [[Strawberry Field]], [[Rose Field]], [[Cactus Field]],
+        and the [[Pepper Patch]].
+        ** Harvesting [[Leaves]] in these fields may also yield strawberries.
+        * As a drop from [[Ladybug|Ladybugs]], [[Scorpion|Scorpions]], and [[King Beetle]].
+        * As a drop from a [[Ability Tokens#Festive Gift|Festive Gift]] or [[Ability Tokens#Festive
+        Mark|Festive Mark]].
+        * As a gift from a [[Cub Buddy|cub buddy]].
+        * As a reward for completely growing any kind of [[Sprout]] except for Moon, Gummy, and
+        Debug sprouts.
+        ** Planting a sprout in the [[Mushroom Field]], [[Rose Field]], and [[Pepper Patch]] yields
+        4x more strawberries than other fields. Planting a sprout in the [[Strawberry Field]] yields
+        8x more strawberries than other fields.
+        * Harvesting [[Sparkles]] (Higher chances in red fields).
+        * As a drop from [[Puffshroom]]s in red fields or fields with high amounts of red flowers
+        ([[Clover Field]], [[Cactus Field]], and [[Mountain Top Field]]).
+        * As a drop from planters (besides {{Cost|Tacky Planter|||0}}, {{Cost|Blue Clay
+        Planter|||0}} and {{Cost|The Planter Of Plenty|||0}}), most likely in red fields.
+        ** The {{Cost|Red Clay Planter|||0}} Always drop strawberries upon harvest at full growth.
+        === Quests ===
+        <!--missing data-->
+
+        ==='''Outdated Ways'''===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Digging in to the [[Beesmas Feast]].
+        * As a drop from [[Chicks#Hostage Chick|Hostage]] and [[Chicks#Spotted Chick|Spotted]]
+        Chicks.
+        * Redeeming certain expired codes:
+        ** The code 10mMembers gave 10 strawberries + other stuff.
+        ** The code 5mMembers gave 5 strawberries + other stuff.
+        ** The code FourYearFiesta gave 4 strawberries + other stuff.
+        |}
+        ==Crafting Uses==
+        Total required for all in-game equipment: {{Cost|Strawberry|750}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        ! style=\"text-align: center\" |{{Cost|Strawberry}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">3</div>
+        |{{Cost|Pineapple|3}}<br>{{Cost|Blueberry|3}}
+        |[[File:Gumdrops.png|center|80px|link=Gumdrops]]<div style=\"text-align:
+        center;\">{{Color|Gumdrops}}
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Royal Jelly|10}}
+        |[[File:Red Extract.png|center|80px|link=Red Extract]]<div style=\"text-align:
+        center;\">{{Color|Red Extract}}</div>
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Honey|2,200,000}}<br>{{Cost|Blueberry|50}}
+        |[[File:Hiking Boots.png|center|80px|link=Hiking Boots]]<div style=\"text-align:
+        center;\">[[Hiking Boots]]</div>
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Honey|750,000}}<br>{{Cost|Royal Jelly|1}}<br>{{Cost|Stinger|1}}
+        |[[File:Red Guard.png|center|80px|link=Red Guard]]<div style=\"text-align:
+        center;\">[[Red Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">50</div>
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Red Extract|3}}<br>{{Cost|Royal
+        Jelly|5}}<br>{{Cost|Stinger|5}}
+        |[[File:Elite Red Guard.png|center|80px|link=Elite Red Guard]]<div style=\"text-align:
+        center;\">[[Elite Red Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">100</div>
+        |{{Cost|Honey|30,000,000}}<br>{{Cost|Red
+        Extract|10}}<br>{{Cost|Glue|5}}<br>{{Cost|Stinger|25}}
+        |[[File:Riley Guard.png|center|80px|link=Riley Guard]]<div style=\"text-align:
+        center;\">[[Riley Guard]]</div>
+        |-
+        |<div style=\"text-align: center;\">500</div>
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Red
+        Extract|50}}<br>{{Cost|Enzymes|25}}<br>{{Cost|Glue|15}}
+        |[[File:Fire Mask.png|center|80px|link=Fire Mask]]<div style=\"text-align:
+        center;\">[[Fire Mask]]</div>
+        |}
+
+        == Gallery ==
+        <!--
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        need clear strawberry token image
+        </gallery>
+        -->
+        == Trivia ==
+        {{Inventory}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Treats]]"}

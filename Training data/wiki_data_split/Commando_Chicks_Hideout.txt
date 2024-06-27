@@ -1,0 +1,37 @@
+{"text": "[[File:CommandoChickHideout.jpeg|thumb|The location of the Commando Chick’s hideout.]]
+        The '''Commando Chick’s Hideout''' is a location in the [[Starter Zone|starter zone]] that
+        can be entered by completing the [[Obstacle Courses#Commando Chick&#39;s Hideout
+        Obby|obby]] between the [[Blue HQ]] and the [[Wealth Clock]]. To enter the parkour, the
+        player first needs to cut the vines with either the [[Clippers]], [[Scissors]], or the
+        [[Scythe]]. It is home to the [[Commando Chick]].
+
+        == Strategy ==
+        Standing on the last stair, nearest to Commando Chick's hideout normally makes the chick
+        flee. However, if the player stands on the edge of that stair (as close as possible to the
+        hideout where one of your body parts is inside of the hideout), the Commando Chick does not
+        flee; therefore, the player's bees can defeat the Commando Chick whilst they take no damage.
+        This strategy does not 100% work as there could be a slight chance of the Commando Chick
+        fleeing. The player could just move into the hideout and then back onto the stair again to
+        fix this.
+
+        == Music ==
+        When in the hideout, the following audio plays: [[File:Crawlers.ogg]]<br />
+        This audio also plays in [[King Beetle's Lair]] and the [[White Tunnel]].
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Commando 100.png|The inside of the hideout.
+        Commando Chick.png|The Commando Chick inside its Hideout.
+        Commandochickleaderboard.png|The Most Commando Captures leaderboard.
+        File:CommandoChickHideoutPurpleFog.webp|The Commando Chick Hideout during a Mythic Meteor
+        Shower.
+        </gallery>
+
+        == Trivia ==
+        * This location used to house the [[Most Commando Captures|Most Commando Captures
+        leaderboard]] before it was removed from the game.
+        * In Beesmas 2019, this location contained the [[Ornament Presents|Golden Present]].
+        ** The obstacle course remained after the presents were removed. When the
+        [[Updates#2020.04.06|4/6/2020 update]] came out, it was repurposed into the hideout.
+        [[Category:Locations]]
+        [[Category:Starter Zone]]"}

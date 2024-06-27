@@ -1,0 +1,34 @@
+{"text": "[[File:Moon_Amulet_Generator.jpg|thumb|214px|The Moon Amulet Generator.]] The '''Moon
+        Amulet Generator''' is a [[:Category:Machines|machine]] located between [[Spider Field]] and
+        [[Bamboo Field]] that allows the player to generate and/or replace a [[Moon Amulet]]. To use
+        this machine, {{Cost|Moon Charm|100}} are needed to generate a moon amulet.
+
+        It can be reached by traversing the [[Obstacle Courses#Bamboo Field Obby|obstacle course]]
+        between the Spider Field and [[Bamboo Field]], by dropping in from above by cannon and using
+        a [[:Category:Gliding Tools|gliding tool]], or by falling off the ramp leading to the [[Lion
+        Bee Gate]] and onto the platform.
+
+        Every time the player uses the generator, the capacity buff increases, starting at 25k and
+        increasing by 25k each. This buff stops at the maximum of 250k capacity. However, to obtain
+        the Moon Amulet at its highest potential, the player would have to use the generator 25
+        times, being when the other (potential) stat boosts max out.
+
+        When using the generator, it will say, \"🌙 The moon seems to grow brighter... 🌙\". If the
+        player has reached the maximum [[System Page#Capacity Multiplier|capacity]] [[Buffs &
+        Debuffs|buff]] (+250k), the chat instead states, \"🌙 The moon seems happy! 🌙\".
+
+        When the player generates a Moon Amulet, the following audio plays:
+        [[File:MoonAmuletGet.ogg]]
+        [[File:Efde88f1a538b4dad97f6942f1a70f1f.png|thumb|The Moon Amulet Generator at night.]]
+
+        == Trivia ==
+        * The Moon Amulet Generator glows at [[Day/Night Cycle|night]], although nothing changes
+        mechanically.
+        * The Moon Amulet Generator is one of the 6 amulet generators, the other 5 being the [[Star
+        Amulet|star amulet]] generators in the [[Star Hall]].
+        * This is the only amulet generator that requires something other than [[honey]] to
+        activate.
+        * This is the only Generator that increases the Capacity Buff and stops at maximum.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Machines]]"}

@@ -1,0 +1,132 @@
+{"text": "'''Instant Conversion''' is a [[Mechanics|mechanic]] that instantly converts some of the
+        player's collected [[pollen]] into [[honey]]. The amount of the converted pollen depends on
+        how much % of instant conversion you have with the support of the respective type of instant
+        conversion (white, red, and blue instant conversion etc.). This effectively makes the
+        player's [[Bags|bag]] bigger, in the sense that the player can collect more pollen than the
+        bag will hold. The player's [[Honey Per Pollen]] stat will boost the amount of honey
+        received from instant conversion. There are also color variants for each [[Flowers|flower]]
+        color ([[:Category:Blue|blue]], [[:Category:Red|red]], [[:Category:Colorless|white]]) that
+        only instantly convert from their respective pollen colors.
+
+        == Instant Conversion Variants ==
+        Instant Conversion has 7 variants, consisting of Flame Conversion, Field Conversion (e.g.
+        [[Field Wind|field winds]]), Colored Conversion, Goo Conversion, Bomb Conversion, Unique
+        Instant Conversion, and during the Beesmas 2020 update, Bee Gather Conversion. Instant
+        Conversion functions in the order of Goo Conversion, Field Conversion, Colored Conversion,
+        then finally regular Instant Conversion, For example, if a player were to have 50% of the 4
+        variants of conversion, and they collected 10,000 red pollen, it would convert 50% of that,
+        then another 50% of that outcome, and so on. Goo conversion converts a flat amount of pollen
+        equal to a percentage of the [[goo]] collected from a flower. Unique Instant Conversion is
+        applied independently of all other instant conversion, for example if you have 2 different
+        sources of 50% Unique Instant Conversion it would apply the 50% conversion twice giving you
+        effectively 75% Instant Conversion instead of 100%.
+
+        == Increasing Instant Conversion ==
+
+        * Instant Conversion is increased by [[Enzymes]], [[Tropical Drink]]s, the [[Badge#Cactus
+        Badges|Cactus Badge]], [[Gifted Bee|Gifted]] [[Photon Bee]] or with certain [[items]].
+        * Instant White Conversion is increased by amulets, the [[Badges#Pineapple Badge|Pineapple
+        Badge]], Gifted [[Windy Bee]] or with the [[Coconut Canister]].
+        * Instant Red Conversion is increased by the [[Badges#Mushroom Badge|Mushroom Badge]],
+        Gifted [[Crimson Bee]] or with certain items.
+        * Instant Blue Conversion is increased by the [[Badges#Blue Flower Badge|Blue Flower
+        Badge]], Gifted [[Cobalt Bee]] or with certain items.
+        * Instant Field Conversion (field winds) are granted by donating to the [[Wind Shrine]] or
+        from certain [[codes]].
+        * Goo Conversion is increased by the [[Shell Amulet]], [[Passive Abilities#Gummy Morph|Gummy
+        Morph]], or [[Passive Abilities#Gummy Star|Gummy Star]].
+        * Instant Flame Conversion is granted by the [[Demon Mask]] and [[Passive
+        Abilities#Scorching Star|Scorching Star]].
+        * Instant Bomb Conversion is granted by [[Ability Tokens#Festive Mark|Festive Mark]] and
+        Gifted [[Demon Bee]].
+        * Unique Instant Conversion is granted by Coconut Combo, [[Clouds]], Puffshroom Blessing,
+        [[Beequip]]s and Refreshing [[Nectar]].
+
+        == Effects ==
+
+        * When instant conversion is in effect, and pollen text is turned on, the player will see
+        yellow numbers in addition to the blue/red/white pollen numbers while they're working in the
+        [[fields]]. Those yellow numbers are the amount of pollen that instantly became honey;
+        Collected honey amounts also show up in yellow, but those are also listed in the bottom
+        right corner of the player's screen.
+
+        * The formula for the effective increase in capacity given by instant conversion is:
+        (x/(100-x)), where x is the player's instant conversion.
+
+        {| class=\"article-table\"
+        |-
+        !Instant Conversion
+        !{{texttip|Increase in effective capacity|Also represents how much additional pollen must be
+        collected and how much honey will be earned in filling an entire container, relative to the
+        container's actual size.}}
+        |-
+        |5%
+        |{{texttip|5.26%|5/95}}
+        |-
+        |10%
+        |{{texttip|11.11%|10/90}}
+        |-
+        |15%
+        |{{texttip|17.65%|15/85}}
+        |-
+        |20%
+        |{{texttip|25%|20/80}}
+        |-
+        |25%
+        |{{texttip|33.33%|25/75}}
+        |-
+        |30%
+        |{{texttip|42.86%|30/70}}
+        |-
+        |35%
+        |{{texttip|53.85%|35/65}}
+        |-
+        |40%
+        |{{texttip|66.67%|40/60}}
+        |-
+        |45%
+        |{{texttip|81.82%|45/55}}
+        |-
+        |50%
+        |{{texttip|100%|50/50}}
+        |-
+        |55%
+        |{{texttip|122.22%|55/45}}
+        |-
+        |60%
+        |{{Hover|150%|60/40}}
+        |-
+        |65%
+        |{{texttip|185.71%|65/35}}
+        |-
+        |70%
+        |{{texttip|233.33%|70/30}}
+        |-
+        |75%
+        |{{texttip|300%|75/25}}
+        |-
+        |80%
+        |{{texttip|400%|80/20}}
+        |-
+        |85%
+        |{{texttip|566.67%|85/15}}
+        |-
+        |90%
+        |{{texttip|900%|90/10}}
+        |-
+        |95%
+        |{{texttip|1,900%|95/5}}
+        |-
+        |100%
+        |{{texttip|∞|100/0}}
+        |}
+
+        == Trivia ==
+
+        * The ability token \"[[Ability Tokens#Festive Blessing|Festive Blessing]]\" from [[Festive
+        Bee|Festive Bee's]] Festive Gift token grants 100% Instant Conversion temporarily. If the
+        player has a full container with 100% Instant Conversion, collecting pollen will not
+        transfer into honey.
+        ** The Gummy Morph also grants 200% Goo Conversion while covering the whole field in goo.
+        * Tadpole Bee used to give 25% Instant Bubble Conversion before the 5/23/2024 update
+        [[Category:Mechanics]]"}

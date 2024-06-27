@@ -1,0 +1,123 @@
+{"text": "[[File:DigitalBee.png|thumb|Digital Bee's appearance.]]
+        <sup>'' Not to be confused with [[Digital Bee|Digital Bee (The Hive
+        Counterpart)]].''</sup>
+
+        '''Digital Bee''' (also known as '''?NULL''', '''0x4C4F4C''', and '''>> ☺''') is an
+        NPC located inside [[The Computer]]. Digital Bee is involved in the [[Ready Player Two]]
+        event, acting as a quest NPC, giving out three puzzles for the player to complete.
+
+        The player cannot interact with Digital Bee until they buy, and equip, the [[Strange
+        Goggles]] that can be found in the [[Noob Shop]].
+
+        Upon completing puzzle 3, the player can walk into the screen where Digital Bee originally
+        was and claim a [[Royal Jelly#Star Jelly|Star Jelly]]. The “[[How to Program BASIC]]” book
+        also takes Digital Bee’s place until the player leaves the game.
+
+        Its appearance is a computer with a pixelated smiley face (or the symbols it gives). It has
+        an antenna and a body and wings similar to a regular bee.
+
+        == Audio ==
+        [[File:E6c00315990ee6c6376e31d40f58763d.ogg]]
+
+        [[File:4b36f2a90a2bad9195c9b19f3576908e (1).ogg]]
+        [[File:29052749d7f752c58a1c32a5ed64c9ac.ogg]]
+
+        [[File:20c7cfd6c96e9e565b4309f39666b2c3.ogg]]
+
+        [[File:67e45bb2f02f5c14612b57965239a4d5.ogg]]
+
+        [[File:5e5f700d6c1f1d3b0f466ef134a1bfb0.ogg]]
+
+
+        == Puzzles ==
+        '''NOTE''': The table below shows the guides to completing the three puzzles from Digital
+        Bee. If you wish to complete the puzzles on your own, do '''NOT''' open the table below. The
+        same table is on The Computer page. '''SIDE NOTE''': Every player has their own unique code,
+        so you must do it yourself. Use these examples below as a guide.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        ! style=\"width:3%\" |Puzzle
+        ! style=\"width:40%\" |Guide
+        ! style=\"width:35%\" |Example
+        ! style=\"width:10%\" |Reward
+        |-
+        |Puzzle 1
+        |Upon interacting with The Computer, Digital Bee will flash 4 symbols, acting as a code. Go
+        to the [[Dandelion Field]] and use your collector to reveal and change to the appropriate
+        symbols left to right, with the first symbol closest to the [[Sunflower Field]]. If done
+        right, a sound will play, and the symbols are replaced with happy faces.
+        |Digital Bee flashes '''*?~&'''.
+        Therefore, the right combination to enter in the Dandelion Field is '''*''', '''?''',
+        '''~''', and '''&'''.
+        |1x [[Royal Jelly]], [[Honey]]
+        |-
+        |Puzzle 2
+        |After the first puzzle is done, upon interacting with The Computer, Digital Bee will
+        disappear, and begin teleporting around the Sunflower, [[Clover Field|Clover]], and
+        [[Mushroom Field]]. At a field, Digital Bee will continuously flash 3 symbols, '''& ~
+        *'''. Then, you will have to uncover the hidden symbols with your collector and change them
+        into the right sequence. The combination is always:<br />Sunflower = '''&'''<br
+        />Clover = '''*'''<br />Mushroom = '''~'''<br />When entered, the symbols
+        will change into happy faces and a sound will play.
+        |The code is the same for everyone, see the guide.
+        |1x [[Royal Jelly]], 8x [[Gumdrops]]
+        |-
+        |Puzzle 3
+        |After the second puzzle is done, upon interacting with The Computer, Digital Bee will flash
+        4 letters. The 4 letters are '''S'''unflower, '''D'''andelion, '''M'''ushroom, and
+        '''C'''lover. In each of the 4 fields, a symbol can be revealed with your collector. In the
+        order of the fields flashed by Digital Bee, reveal the symbols left to right in the [[Blue
+        Flower Field]], with the first symbol closest to the [[Basic Bee Gate|5 Bee Gate]]. If done
+        right, a sound will play, and the symbols are replaced with happy faces.
+        |Digital Bee flashes '''DSMC'''.
+        Dandelion shows '''*'''
+
+        Sunflower shows '''&'''
+
+        Mushroom shows '''?'''
+
+        Clover shows '''~'''
+
+        Therefore, the right combination in this example is '''*&?~'''.
+        |1x [[Atomic Treat|Atomic Treat]], 8x [[Ticket]],[[How to Program BASIC|How To Program
+        BASIC]] UGC
+        |}<br />
+
+        ==Gallery==
+        <gallery navigation=\"true\" widths=\"185\" hideaddbutton=\"true\">
+        Digital Bee's first appearance.gif|Digital Bee's first appearance.
+        Digital Bee goodbye.gif|Digital Bee giving the player a Star Jelly.
+        DigitalBee.gif|Digital Bee displaying some symbols.
+        RobloxScreenShot20201202 210619728 (2).png|Digital Bee, as it is about to enter the Bee
+        Swarm portal in the RP-2 Hub.
+        </gallery>
+
+        ==Symbols==
+        <gallery navigation=\"true\" widths=\"185\" hideaddbutton=\"true\">
+        Fampersand.png|Ampersand
+        Fasterix.png|Asterisk
+        Fbracer.png|Bracket
+        Fquestion.png|Question
+        Ftilde.png|Tilde
+        LetterM.png|M ([[Mushroom Field]])
+        LetterC.png|C ([[Clover Field]])
+        LetterD.png|D ([[Dandelion Field]])
+        LetterS.png|S ([[Sunflower Field]])
+        </gallery>
+
+        ==Trivia==
+        *Digital Bee is the only NPC that doesn't communicate using words/dialogue and uses symbols
+        instead.
+        *Some of the sounds it makes are Windows XP sounds but modified slightly. When it first
+        appears, the (slightly modified) Windows XP startup sound will play.
+        *Before the [[Updates|12/26/22]] update, Digital Bee and [[Marshmallow Bee]] were the only
+        bees that the player couldn't have in their hive.
+        **Since Digital Bee has now been added in as an obtainable bee for the player's hive, this
+        only applies to Marshmallow Bee now.
+        *This bee is the only NPC bee that gives puzzles rather than quests.
+        *This is one of the two bees that give star jellies for completing quests, the other one
+        being [[Honey Bee (NPC)|Honey Bee.]]
+
+        [[Category:Ready Player Two]]
+        [[Category:NPC]]
+        [[Category:Quest Bees]]
+        [[Category:Quest giver]]"}

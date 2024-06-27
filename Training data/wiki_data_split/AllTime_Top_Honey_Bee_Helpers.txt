@@ -1,0 +1,11 @@
+{"text": "{{DailyCheck}}''(Leaderboard as of 04/11/2024)''
+        {{LB|name1=0LNIKYE|amount1=560|name2=FreeSpiritAquae|amount2=548|name3=a_znanat|amount3=528|name4=UncleDenniss|amount4=514|name5=rokyczech73|amount5=482|name6=Xevious1968|amount6=476|name7=dondreak|amount7=475|name8=PrincessIvyRayne|amount8=471|name9=nEiCyNeSs|amount9=470|name10=SuperFlyGamingYT|amount10=469}}
+        The '''All-Time Top Honey Bee Helpers''' is one of the 62 [[leaderboards]] in the game, and
+        one of the 20 leaderboards with an in-game model. This leaderboard shows how many [[Honey
+        Bee (NPC)|Honey Bee]] quests players have completed over time. It shows 10 leaderboard
+        positions at a time. The player can scroll down the leaderboard to see more players, all the
+        way to the 100th place. Only legitimate players appear on the leaderboards for lengths of
+        time (hackers/exploiters will be removed).
+
+        {{MapNav}}
+        [[Category:Leaderboards]]"}

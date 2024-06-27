@@ -1,0 +1,53 @@
+{"text": "{{Bee
+        |image-orig = Rad_Bee.png
+        |image-gifted= RadBee Gifted.png
+        |description = A stylish bee with a taste for red flowers. Everyone wants to be this bee.
+        |rarity = Rare
+        |color = Red
+        |energy = 20
+        |speed = 14
+        |attack = 1
+        |skincolor1 = #f1f1f1
+        |skincolor2 = #f3492d
+        |skincolor3 = #f1f1f1
+        }}'''Rad Bee''' is a [[:Category:Red|Red]] [[Bees/Rare|Rare bee]].
+
+        Rad Bee's favorite treat are [[Strawberry|strawberries]].
+
+        Rad Bee likes the [[Mushroom Field]] and the [[Rose Field]]. It dislikes the [[Pine Tree
+        Forest]].
+
+        == Stats ==
+        * Collects 13 [[pollen]] in 4 seconds.
+        * Makes 80 [[honey]] in 3 seconds.
+        * +25% convert speed, +3 [[Stats#Gather Amount|gather amount]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: x1.1 [[System Page#Red Pollen|Red Pollen]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Boost|[Red Boost]]]''' Grants x1.2 pollen from red [[flowers]] for
+        15s. Stacks up to 10 times.
+
+        {{Stat|pollen = 13|pollentime = 4|honey = 80|honeytime = 3|rarity = rare|color = red}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        RadBee Hive.png|Rad Bee's old hive design.
+        GiftedRadBeeHive.PNG|A Gifted Rad Bee hive slot.
+        Png (6).png|Rad Bee's face.
+        Radbeejelly.png|A Rad Bee jelly in a player's inventory.
+        File:Mutated rad bee.png|A mutated Rad Bee.
+        </gallery>
+
+        == Trivia ==
+        * Rad Bee description used to be \"A stylish bee with a taste for red flowers. Everyone wants
+        to be him.\", but it is then changed to use ‘it’ instead of ‘him’. This makes him, [[Bucko
+        Bee]] and [[Lion Bee]] the only confirmed male bees in the game.
+        * Its [[:Category:Blue|blue]] counterpart is [[Cool Bee]].
+        * A [[Royal Jelly#Specific Bee Jelly|special jelly]] that changes a bee into a Rad Bee can
+        be obtained from the codes, 'Nonchalant' and 'Strawbeary' (both expired).
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Rare]]
+        [[Category:Red]]
+        [[zh-tw:紅炫蜂]]"}

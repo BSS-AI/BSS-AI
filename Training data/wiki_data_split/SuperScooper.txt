@@ -1,0 +1,36 @@
+{"text": "{{Tool
+        |price = 40,000
+        |shop = Pro Shop
+        |pollen = 5
+        |pattern = Line
+        |time = 0.5
+        |collectbase = 4
+        |image =Super_Scooper.png
+        |range = 5
+        }}
+        The '''Super-Scooper''' is a [[:Category:Tools|tool]] that can be purchased in the [[Pro
+        Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|40,000}}
+        |}
+
+        It collects 4 [[pollen]] from 5 [[flowers]] in a line every 0.5 seconds, which comes out to
+        a base pollen collection rate of 40 pollen per second.
+
+        == Appearance ==
+        The Super Scooper is the advanced version of the [[Scooper]]. Its blade is noticeably bigger
+        than the Scooper and has a more rectangular shape along with it's blue and yellow scheme.
+        The handle is the same grey as the Scooper with dark red in the middle. The pole is dark red
+        and has 6 yellow and blue attachments on it. The player holds the Super Scooper so that it
+        appears to be pointing upwards.
+
+        ==Gallery==
+        <gallery>
+        Hivesticker super-scooper.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        </gallery>
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]"}

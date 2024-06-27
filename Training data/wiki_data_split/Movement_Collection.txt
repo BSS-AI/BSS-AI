@@ -1,0 +1,28 @@
+{"text": "[[File:Moon amulet movement collection.png|thumb|A moon amulet with the movement
+        collection buff.]]
+        '''Movement Collection''' is a type of boost that allows the player to collect [[pollen]]
+        when walking on [[flowers]]. The higher the movement collection, the greater amount of
+        pollen the player collects from walking on flowers. This boost also collects [[goo]] if the
+        player walks on any goo patches.
+
+        == Ways to Increase ==
+        The player can get this boost from wearing [[:Category:Boots|boots]] or from a [[Moon
+        Amulet]].
+
+        * The Moon Amulet can give from +1 Movement Collection to +3 Movement Collection.
+        * Boots:
+        ** The [[Basic Boots]] give +2 Movement Collection.
+        ** The [[Hiking Boots]] give +6 Movement Collection.
+        ** The [[Beekeeper's Boots]] give +10 Movement Collection.
+        ** The [[Coconut Clogs]] give +12 Movement Collection.
+        ** The [[Gummy Boots]] give +15 Movement Collection.
+
+        == Trivia ==
+        * Movement Collection isn't shown in the [[System Page]], unlike most other boosts, such as
+        [[Loot Luck]] and [[Instant Conversion]].
+        *If the player has movement collection on their Moon Amulet, they can still collect pollen
+        even without boots equipped.
+        *The maximum Movement Collection a player can have is 18. This can be achieved by having a
+        Gummy Boots (+15) and a Moon Amulet (+3).
+
+        [[Category:Mechanics]]"}

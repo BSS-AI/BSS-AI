@@ -1,0 +1,160 @@
+{"text": "[[File:Screenshot 2022-03-26 120621.png|thumb|A field wind showing it's length, field
+        boost and conversion.]]
+        A '''Field Wind''' is a stacking buff that grants a bonus to [[pollen]] and [[Instant
+        Conversion|instant conversion]] to a specific [[Fields|field]]. Each stack of a field wind
+        increases pollen gained from its field by a set amount depending on the field, and also
+        gives 3% instant conversion to the field starting with a base of 25%. Field winds last for
+        30 minutes. Field winds are obtained by donating certain [[items]] to the [[Wind Shrine]] or
+        using various [[codes]]. Field wind tokens from the Wind Shrine have a lifespan of 30
+        seconds.
+
+        With each application, the field winds stacks add up, and the duration resets to 30 minutes.
+        If there's another code that gives a boost for that same field, this can be used to extend
+        or reset the timer for another 30 minutes. The max stack for field winds is x15. Field winds
+        can stack up to x15 if the item donated is rare enough and the player has enough [[Wind
+        Shrine#Favor|favor]].
+
+        Unlike its field boost counterpart, fields boosted with winds do not give off [[sparkles]].
+        However, the icons used to identify field winds are the same as field boosts, except they
+        have a white background.
+
+        Lower level [[Fields]] tend to have more field pollen than other fields.
+
+        == Each Field Buff ==
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        |-
+        ! scope=\"col\" |'''Field'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Individual'''
+        Boost
+        ! scope=\"col\" |'''Effect at x15'''
+        Cap (Stack)
+        |-
+        |[[Sunflower Field]]
+        |[[File:Fis sunflower.png]]
+        | +25% Instant Sunflower Field Conversion
+        +32% Sunflower Field Pollen
+        | +67% Instant Sunflower Field Conversion
+        +102% Sunflower Field Pollen
+        |-
+        |[[Dandelion Field]]
+        |[[File:Fis dandelion.png]]
+        | +25% Instant Dandelion Field Conversion
+        +32% Dandelion Field Pollen
+        | +67% Instant Dandelion Field Conversion
+        +102% Dandelion Field Pollen
+        |-
+        |[[Mushroom Field]]
+        |[[File:Fis mushroom.png]]
+        | +25% Instant Mushroom Field Conversion
+        +32% Mushroom Field Pollen
+        | +67% Instant Mushroom Field Conversion
+        +102% Mushroom Field Pollen
+        |-
+        |[[Blue Flower Field]]
+        |[[File:Fis blueflower.png]]
+        | +25% Instant Blue Flower Field Conversion
+        +32% Blue Flower Field Pollen
+        | +67% Instant Blue Flower Field Conversion
+        +102% Blue Flower Field Pollen
+        |-
+        |[[Clover Field]]
+        |[[File:Fis clover.png]]
+        | +25% Instant Clover Field Conversion
+        +30% Clover Field Pollen
+        | +67% Instant Clover Field Conversion
+        +100% Clover Field Pollen
+        |-
+        |[[Bamboo Field]]
+        |[[File:Fis bamboo.png]]
+        | +25% Instant Bamboo Field Conversion
+        +28% Bamboo Field Pollen
+        | +67% Instant Bamboo Field Conversion
+        +98% Bamboo Field Pollen
+        |-
+        |[[Spider Field]]
+        |[[File:Fis spider.png]]
+        | +25% Instant Spider Field Conversion
+        +30% Spider Field Pollen
+        | +67% Instant Spider Field Conversion
+        +100% Spider Field Pollen
+        |-
+        |[[Strawberry Field]]
+        |[[File:Fis strawberry.png]]
+        | +25% Instant Strawberry Field Conversion
+        +28% Strawberry Field Pollen
+        | +67% Instant Strawberry Field Conversion
+        +98% Strawberry Field Pollen
+        |-
+        |[[Pineapple Patch]]
+        |[[File:Fis pineapple.png]]
+        | +25% Instant Pineapple Patch Conversion
+        +30% Pineapple Patch Pollen
+        | +67% Instant Pineapple Patch Conversion
+        +100% Pineapple Patch Pollen
+        |-
+        |[[Cactus Field]]
+        |[[File:Fis cactus.png]]
+        | +25% Instant Cactus Field Conversion
+        +28% Cactus Field Pollen
+        | +67% Instant Cactus Field Conversion
+        +98% Cactus Field Pollen
+        |-
+        |[[Pumpkin Patch]]
+        |[[File:Fis pumpkin.png]]
+        | +25% Instant Pumpkin Patch Conversion
+        +28% Pumpkin Patch Pollen
+        | +67% Instant Pumpkin Patch Conversion
+        +98% Pumpkin Patch Pollen
+        |-
+        |[[Pine Tree Forest]]
+        |[[File:Fis pinetree.png]]
+        | +25% Instant Pine Tree Forest Conversion
+        +28% Pine Tree Forest Pollen
+        | +67% Instant Pine Tree Forest Conversion
+        +98% Pine Tree Forest Pollen
+        |-
+        |[[Rose Field]]
+        |[[File:Fis rose.png]]
+        | +25% Instant Rose Field Conversion
+        +28% Rose Field Pollen
+        | +67% Instant Rose Field Conversion
+        +98% Rose Field Pollen
+        |-
+        |[[Mountain Top Field]]
+        |[[File:Fis mountain.png]]
+        | +25% Instant Mountain Top Field Conversion
+        +28% Mountain Top Field Pollen
+        | +67% Instant Mountain Top Field Conversion
+        +98% Mountain Top Field Pollen
+        |-
+        |[[Stump Field]]
+        |[[File:Fis stump.png]]
+        | +25% Instant Stump Field Conversion
+        +28% Stump Field Pollen
+        | +67% Instant Stump Field Conversion
+        +98% Stump Field Pollen
+        |-
+        |[[Coconut Field]]
+        |[[File:CoconutFieldBoost.png]]
+        | +25% Instant Coconut Field Conversion
+        +28% Coconut Field Pollen
+        | +67% Instant Coconut Field Conversion
+        +98% Coconut Field Pollen
+        |-
+        |[[Pepper Patch]]
+        |[[File:PepperFieldBoost.png]]
+        | +25% Instant Pepper Patch Conversion
+        +28% Pepper Patch Pollen
+        | +67% Instant Pepper Patch Conversion
+        +98% Pepper Patch Pollen
+        |-
+        |[[Hub Field]]
+        |[[File:Hivesticker_hub_field_stamp.png|The [[Hub Field]] boost icon.|114px]]
+        | N/A
+        | +67% Instant Hub Field Conversion
+        +175% Hub Field Pollen
+        |}
+
+        [[Category:Mechanics]]
+        [[Category:Fields]]"}

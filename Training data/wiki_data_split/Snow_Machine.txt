@@ -1,0 +1,45 @@
+{"text": "{{RemovedContent}}
+
+        [[File:Snow Machine2.png|thumb|169px|The snow machine.|alt=The snow machine.]]
+        The '''Snow Machine''' is a machine added in the [[Updates#2020.12.25|Beesmas 2020]], 2021,
+        and 2022 Event. It's usable after completing [[Gifted Bucko Bee|Gifted Bucko Bee's]] Beesmas
+        quest. The snow machine has only one primary purpose, which is to summon a [[Snow Storm]]
+        across the map.
+
+        When a player uses the snow machine, the following message would appear: \"<span
+        style=\"background-color:#FFFFFF; color:black;\">\"❄ {Username} has activated the snow
+        machine!❄</span>\" This machine has a cooldown of 2 hours before the player can use it
+        again.
+
+        If a player stepped on the pad before completing Gifted Bucko Bee's Beesmas Quest, a red
+        text box would appear on top of the player's screen saying: \"''The Snow Machine is missing
+        some integral parts...''\"
+
+        == Appearance ==
+        The snow machine looks like a machine with a green light situated on top of the [[Blue HQ]].
+        Before completing Gifted Bucko Bee's quest, the light would be red, the inside of the
+        machine appearing empty and hollow, except for the wire netting on the back. After
+        completing the quest, 2 fans will be installed in it.
+
+        == Gallery ==
+        <gallery widths=\"310\">
+        Unfinished Snow Machine.png|The snow machine before completing Gifted Bucko Bee's Beesmas
+        2021 quest.
+        Unfinished Snow Machine Message.png|The pop-up that appears when attempting to use it before
+        completing Gifted Bucko Bee's Beesmas 2021 quest.
+        Snowmachine complete.png|A front view of the snow machine after completing Bucko Bee's
+        Beesmas Quest. Notice that a fan is present.
+        Snowmachine complete front.png|The back of the snow machine after completing Bucko Bee's
+        Beesmas 2021 Quest.
+        </gallery>
+
+        == Trivia ==
+        * The snow machine is the third machine to summon a server-wide event, the first being the
+        [[Honeystorm|Honeystorm summoner]] and the second being the [[Mythic Meteor Shower|Mythic
+        Meteor Shower summoner]].
+
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Beesmas]]
+        [[Category:Summoner]]
+        [[Category:Beesmas Decorations]]"}

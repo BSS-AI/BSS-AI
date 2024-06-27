@@ -1,0 +1,121 @@
+{"text": "{{Bee
+        |color = Red
+        |rarity = Event
+        |image-orig = Festive Bee.png
+        |image-gifted = FestiveBee Gifted.png
+        |description = A jolly bee who loves giving gifts! It's purely motivated by the joy of
+        others.
+        |energy = 20
+        |speed = 16.1
+        |attack = 1
+        |skincolor1 = #ad2222
+        |skincolor2 = #227d3d
+        |skincolor3 = #ad2222
+        }}'''Festive Bee''' is a [[:Category:Red|Red]] [[Bees/Event|Event bee]]. It can be purchased
+        in the [[Ticket Tent]] for 500 [[ticket]]s, where it replaced [[Gummy Bee|Gummy Bee's]]
+        former spot.
+
+        Like all other Event bees, this bee does not have a favorite treat, and the only way to make
+        it gifted is by feeding it a [[Star Treat|Star Treat]] or [[Gingerbread Bear]]s.
+
+        It likes the [[Mountain Top Field]], [[Mushroom Field]], and the [[Pine Tree Forest]]. It
+        dislikes the [[Blue Flower Field]].
+
+        == Stats ==
+        * Collects 40 [[Pollen]] in 4 seconds.
+        * Makes 150 [[honey]] in 1 second.
+        * +20% [[Stats#Speed|Movespeed]], +30 [[Stats#Gather Amount|Gather Amount]], +70 [[System
+        Page#Convert Amount|Convert Amount]], +75% [[System Page#Convert Rate|Convert Speed]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: x1.25 [[System Page#Convert Rate At Hive|Convert Rate
+        at Hive]]
+
+        === Abilities ===
+        * '''[[Ability Tokens#Festive Gift|[Festive Gift]]]''': Grants random gifts including
+        [[Treats]], honey, and \"[[Ability Tokens#Festive Blessing|Festive Blessing]]\" to all players
+        on the server. Gifts are improved with [[Level]]. A message will appear saying \"<span
+        style=\"background:red;color:white\">🎁 Festive Gifts from [Player's Display Name]!
+        🎁</span>\". If Gifted, can grant rarer gifts and \"[[Ability Tokens#Beesmas
+        Cheer|Beesmas Cheer]]\".
+        * '''[[Ability Tokens#Mark|[Honey Mark]]]''': Marks a random area on the [[Fields|field]]
+        for 7 seconds (+0.2s per level) that grants 2 Conversion Links and x1.25 Convert Rate while
+        you stand in it. Stacks up to 3 times.
+        * '''[[Ability Tokens#Bomb|[Red Bomb+]]]''': Collects 10 pollen from 29 surrounding red
+        [[Flowers]] (+10% pollen per level). You can combo with other bombs to increase power.
+        * '''[[Ability Tokens|[Festive Mark]]]''': Marks a very large random area on the field for
+        12 seconds (+0.5s per level) that grants +10% [[Honey Per Pollen|Honey per Pollen]], x1.4
+        bomb pollen, x1.4 red bomb pollen, 100% instant bomb conversion, and 5 conversion links to
+        all players who stand in it. While active, it summons Red Boosts and random gifts within its
+        radius. Rarer gifts grow more likely with bee level, and certain gifts are only possible if
+        the bee is Gifted. This mark can link with marks from all players. '''This ability token can
+        only be obtained with the [[Festive Wreath]] [[Beequip]] when it’s equipped to Festive
+        Bee.''' The beequip could’ve been obtained by completing all of [[Bee Bear]]'s quests during
+        the 2020 [[:Category:Beesmas|Beesmas]] event or by opening the [[Gift Boxes|Festive Gift
+        Box]] during the Beesmas 2021 and Beesmas 2022 events.
+
+        {{Stat|pollen = 40|pollentime = 4|color = Red|honey = 150|honeytime = 1|rarity = event}}
+
+        == Gallery ==
+        <gallery widths=\"172\" orientation=\"none\" hideaddbutton=\"true\">
+        FestiveFaceOutline.png|Festive Bee's face.
+        RobloxScreenShot20181221 085755690 (2).png|Gifted Festive Bee's hive slot.
+        2x event.PNG|Festive Bee in the 2x Event Beesmas Event icon.
+        Fbpbss.png|1st Edition Festive Bee in the Festive Bee pack.
+        Festiveossas.png|Festive Bee on top of the Ticket Tent.
+        Festive.PNG.png|1st Edition Festive Bee.
+        Festive but with bear.png|Festive Bee alongside Bee Bear, Puppy Bee, and the Gingerbread Cub
+        Buddy.
+        Gifted 1st.PNG|1st Edition Gifted Festive Bee.
+        RobloxScreenShot20210211 140532300 (2).png|Festive Bee wearing a Festive Wreath.
+        File:Festive Gift Token Repicture.png|Festive gift token.
+        File:Festive Mark.png|Festive Mark token.
+        File:Festive Mark Image.jpg|An active Festive Mark on a field.
+        </gallery>
+
+        == Trivia ==
+        * This was the third Event bee to have ability tokens that can be summoned by non-Event bees
+        (Honey Mark and Red Bomb+), the first being [[Photon Bee]] ([[Ability Token#Haste|Haste]])
+        and the second being [[Vicious Bee]] (Blue Bomb+).
+        * This bee likes the [[Pine Tree Forest]]. This is a reference due to most Christmas trees
+        being pine trees.
+        ** This also makes it the only red bee to like this field.
+        * This bee, [[Buoyant Bee]], and [[Digital Bee]] are the only bees that can apply buffs to
+        the entire server. (More specifically, balloons, festive gifts, and Field Corruption.)
+        * This bee, [[Rage Bee]] and [[Spicy Bee]] are the only red bees to produce tokens that
+        don't give primary benefit to only red (Festive Bee yields Honey Mark tokens and both Rage
+        Bee and Spicy Bee yield [[Ability Tokens#Rage|Rage]] tokens).
+        * This was the second bee available to be bought for robux, the first being [[Bear Bee]].
+        ** However, this was the first bee to be obtainable through both [[Quests]] and robux; and
+        the second bee to be obtained through quests overall, the first being Gummy Bee.
+        * When Festive Gift activates, it plays the first few notes from the classic Christmas song
+        \"[[Wikipedia:Deck the Halls|Deck the Halls]]\". When collecting the Festive Blessing and
+        Beesmas Cheer tokens, the players can hear the next few notes.
+        * A [[First Edition Bee|First Edition]] Festive Bee's flag is offset and is placed behind
+        where it normally is to make room for the bee's bow.
+        * Due to a bug, Festive Bees obtained from the Ticket Tent before the
+        [[Updates#2019.09.28|9/28/2019 Update]] might have received a First Edition Flag in that
+        update despite not being a true First Edition Bee.
+        * It was the only Event bee that could have been obtained in two different ways (excluding
+        robux packs) at the same time: The Festive Present next to Bee Bear and in the Ticket Tent
+        for 500 tickets during Beesmas 2019.
+        * This bee, along with [[Windy Bee]], are the only bees with tinted wings when not gifted.
+        * According to Bee Bear, Festive Bee is a female.
+        * It could be received during [[:Category:Beesmas|Beesmas 2018]] by completing the Bee Bear
+        questline or by purchasing the Festive Bee Pack for 1600 robux in the [[Robux Shop]].
+        * It could have been obtained through the [[Ornament Presents|Festive Present]], in the
+        Beesmas 2019 Event. If the player already had Festive Bee, they would instead get 500
+        tickets.
+        * In Beesmas 2020, this bee can be obtained after finishing Bee Bear’s questline. If the
+        player already has a Festive Bee, they are awarded 500 tickets instead.
+        * This and [[Puppy Bee]] are the only [[Bees]] that have an exclusive [[Beequip]] for
+        themselves.
+        * Festive Bee is the only non-colorless bee capable of making Mark tokens.
+        * After Beesmas 2020, the models of Festive and Puppy Bee, wearing their respective
+        exclusive beequips, were moved outside of the main map, just behind [[Commando Chick's
+        Hideout]].
+        * Festive Bee and [[Riley Bee]] are the only Red bees to like three fields.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Red]]
+        [[Category:Event]]
+        [[zh-tw:歡樂蜂]]"}

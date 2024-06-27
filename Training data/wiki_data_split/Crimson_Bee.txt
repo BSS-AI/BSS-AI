@@ -1,0 +1,96 @@
+{"text": "{{Bee
+        |color = Red
+        |rarity = Event
+        |image-orig = Crimson Bee.png
+        |image-gifted = CrimsonBee Gifted.png
+        |description = \"Defender of all things Red! Excels in hives with many Red Bees. Has enhanced
+        abilities when working with Cobalt Bee.\"
+        |energylabel = more
+        |energy = 35
+        |speed = 18.2
+        |attack = 7
+        |skincolor1 = #FF0000
+        |skincolor2 = #FFFFFF
+        |skincolor3 = #FF0000
+        }}'''Crimson Bee''' is a [[:Category:Red|Red]] [[Bees/Event|Event Bee]]. It can be obtained
+        by purchasing a [[Egg#Event Bee Eggs|Crimson Bee egg]] in the [[Ticket Tent]] for 250
+        [[Ticket]]s.
+
+        This bee is better with a [[Hive]] with more red [[Bees]] than
+        [[:Category:Blue|Blue]]/[[:Category:Colorless|Colorless]] bees. Its abilities are enhanced
+        when [[Cobalt Bee]] is also in the hive.
+
+        Like all other Event bees, this bee does not have a favorite treat, and the two known ways
+        to make it gifted is by feeding it a [[Star Treat|Star Treat]] or by feeding it
+        [[Gingerbread Bear|Gingerbread Bears.]]
+
+        Crimson Bee likes the [[Clover Field]] and the [[Rose Field]]. It dislikes the [[Pineapple
+        Patch]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 4 seconds.
+        * Makes 140 [[Honey]] in 3 seconds.
+        * +75% [[Energy]], +30% [[Stats#Speed|Movespeed]], +25% Convert Speed, +60 [[System
+        Page#Convert Amount|Convert Amount]], 10% [[Instant Conversion]], +6
+        [[Stats#Attack|Attack]], 5% [[Critical Hits|Critical Chance]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +15% [[System Page#Instant Red Conversion|Instant Red
+        Conversion]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Pulse|[Red Pulse]]]''' Fires a pulse that hops between your red bees,
+        collecting pollen around them (+10% per level). Power increases with each hop. If you own
+        Cobalt Bee, fires a [[Ability Tokens#Pulse|Blue Pulse]] as well.
+        ** If Gifted, the pulse also causes bees to instantly convert pollen equal to 25% of the
+        bee's Convert Amount (+25% per Field Boost stack).
+        * '''[[Ability Tokens#Bomb Sync|[Red Bomb Sync]]]''' Grants 10% Red Pollen and Instant Red
+        Conversion and allows [[Ability Tokens#Bomb|Red Bombs]] to collect from white [[Flowers]]
+        for 30 sec. If [[Ability Tokens#Bomb Sync|Blue Bomb Sync]] is active, applies to blue
+        flowers as well.
+
+        {{Stat|pollen = 10|pollentime = 4|honey = 140|honeytime = 3|rarity = event|color = red}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        GiftedCrimsonBee Slot.png|A Gifted Crimson Bee hive slot.
+        CrimsonFace.png|Crimson Bee's face.
+        Red Pulse.png|The Red Pulse icon.
+        Red Bomb Sync.png|The Red Bomb Sync icon.
+        </gallery>
+
+        == Trivia ==
+        * The only difference between Crimson Bee and Cobalt Bee's [[Fields|Field]] preferences is
+        that the Crimson Bee likes the Rose Field, whereas Cobalt Bee prefers the [[Pine Tree
+        Forest]].
+        * This is one of the two [[Bees]] which have [[Ability Tokens|Abilities]] that can trigger
+        another bee's ability, the other being its counterpart, Cobalt Bee.
+        * This is one of the four Event bees who have different color faces on the hive rather than
+        the bee itself, the others being Cobalt Bee, [[Festive Bee]], and [[Vicious Bee]].
+        ** This is the first bee that is both a red bee and an Event bee, with Festive Bee being the
+        second.
+        * When Crimson and Cobalt Bee are both in the same hive, the player gets the following
+        bonuses from these ability tokens:
+        ** Red pulse additionally fires a Blue Pulse to collect from blue bees.
+        ** If both red bomb sync and blue bomb sync are activated, red bombs can collect from blue
+        and white flowers.
+        * This bee, along with Cobalt Bee, are currently the only Event bees to cost 250 tickets.
+        ** The [[First Edition Bee|first edition]] [[Tabby Bee]] and [[Puppy Bee]] could once be
+        purchased with 250 tickets as well.
+        [[File:Apples.png|thumb]]
+        * The description of the Red Bomb Sync ability while it is active is spelled incorrectly as
+        \"apples\" instead of \"applies\".
+        **[[Onett (Developer)|Onett]] was aware of this and instead changed the \"apples\" to \"🍎 s\".
+        **This mistake has recently been corrected.
+        * This bee, Cobalt Bee, [[Photon Bee]], [[Windy Bee]], [[Tadpole Bee]], [[Ninja Bee]] and
+        [[Shy Bee]] are the only bees that create a trail.
+        * The [[Crimson Guard]], which can be purchased in the [[Badge Bearer's Guild]], has a
+        special design, name, and stats dedicated to Crimson Bee.
+        ** The Crimson Guard has a [[Passive Abilities|Passive Ability]] similar to Crimson Bee's
+        red pulse ability.
+        * This bee, [[Cobalt Bee]], [[Puppy Bee]], and [[Windy Bee]] are the only event bees that
+        don't have an 'enhanced' ability if gifted.
+
+        {{BeeNav}}
+        [[Category:Red]]
+        [[Category:Bees]]
+        [[Category:Event]]
+        [[zh-tw:鮮紅蜂]]"}

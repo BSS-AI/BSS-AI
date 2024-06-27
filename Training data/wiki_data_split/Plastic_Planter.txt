@@ -1,0 +1,76 @@
+{"text": "{{Planter
+        |image1=Plastic Planter.png
+        |description=Grows in about 2 hours. Harvest to collect pollen, items, and Nectar boosts!
+        |reusable=Yes
+        |cost=750,000 [[Honey]], 3 [[Magic Bean]]s, 1 [[Soft Wax]].
+        |grow=~2 hours
+        |pollen=250,000 Pollen
+        }}
+
+        The '''Plastic Planter''' is a [[planter]] added in [[Updates|12/26/21 update]]. It takes 2
+        in-game hours to fully grow unless boosted by using a [[Glitter]], [[Cloud Vial]]s, or the
+        player's [[bees]] sipping on it. The planter can be bought from [[Dapper Bear's Shop]].
+        Harvesting a fully grown Plastic Planter has a 1/10 (10%) chance to spawn a [[Puffshroom]]
+        and will return the Planter back into the player's inventory.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|750,000}}<br>{{Cost|Magic Bean|3}}<br>{{Cost|Soft Wax|1}}
+        |}
+
+
+        == Drops ==
+        ''Note that some of the drops and [[Buffs & Debuffs|buffs]] it gives are based on the
+        field the planter is in.''
+        <tabber>
+        |-|Other Drops=
+
+        {|class=\"article-table\"
+        |-
+        |{{Cost|Treat}}<br>{{Cost|Ticket}}<br>{{Cost|Sunflower
+        Seed}}<br>{{Cost|Pineapple}}<br>{{Cost|Blueberry}}<br>{{Cost|Strawberry}}<br>{{Cost|Bitterberry}}<br>{{Cost|Enzymes}}<br>{{Cost|Gumdrops}}<br>{{Cost|Field
+        Dice}}<br>{{Cost|Whirligig}}<br>{{Cost|Soft
+        Wax}}<br>{{Cost|Honeysuckle}}<br>{{Cost|Hard Wax}}<br>{{Cost|Blue
+        Extract}}<br>{{Cost|Red
+        Extract}}<br>{{Cost|Stinger}}<br>{{Cost|Micro-Converter}}<br>{{Cost|Royal
+        Jelly}}<br>{{Cost|Star
+        Jelly}}<br>{{Cost|Oil}}<br>{{Cost|Glitter}}<br>{{Cost|Coconut|}} (Only in
+        35 Bee Zone Fields)<br>{{Cost|Moon Charm}} (Exclusive in Pineapple Patch, or during
+        night)<br>{{Cost|Purple Potion|||0}} (Rare)<br>{{Cost|Swirled Wax|||0}} (Very
+        Rare)<br>{{Cost|Caustic Wax|||0}} (Very Rare)<br>{{Cost|Bottle Cap|||0}} (Very
+        Rare)<br>{{Cost|Turpentine|||0}} (Exceptionally Rare)<br>{{Cost|Gold Egg|||0}}
+        (Exceptionally Rare)<br>{{Cost|Whistle|||0}} (Exceptionally Rare)<br>
+        |}
+
+        |-|Special Drops=
+
+        {|class=\"article-table\"
+        |-
+        |{{Cost|Swirled Wax|1}} (When harvested from [[Coconut Field]], 1 month
+        cooldown)<br>{{Cost|Caustic Wax|1}} (When harvested from [[Rose Field]], 1 month
+        cooldown)<br>{{Cost|Super Smoothie|1}} (Uncommon, 1 month cooldown)
+        |}
+        </tabber>
+
+        ==Gallery ==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        Ewqasdaw.png|The Plastic Planter.
+        Plastic Planter.jpg| A Plastic Planter growing.
+        Plastic Planter when fully grown.jpg|A fully grown Plastic Planter.
+        Inventory-Plastic-Planter.png|A plastic planter in the player's inventory.
+        Turnpentine in a plastic.png|Turpentine from a Plastic Planter.
+        Whistle plastic planter.png|Whistle from a Plastic Planter.
+        </gallery>
+
+        ==Trivia==
+        * Plastic Planter and [[Ticket Planter]] ties as the 2nd fastest growing planters, the first
+        being the [[Paper Planter]] with only 1 hour of in-game playtime.
+        * This is the cheapest planter in [[Dapper Bear's Shop]].
+        ** It's also the 2nd cheapest purchasable planter in-game behind the Paper Planter.
+
+        {{Items}}
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Crafted]]
+        [[zh-tw:塑膠盆栽]]"}

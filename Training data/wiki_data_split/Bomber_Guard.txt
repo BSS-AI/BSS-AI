@@ -1,0 +1,39 @@
+{"text": "{{Accessory
+        |image1 = Bomber Guard.png
+        |description = A left shoulder pad crafted by a Bomber Bee.
+        |cost = 300,000 [[Honey]] and 25 [[Sunflower Seed|Sunflower Seeds]].
+        |stats = +15,000 Capacity<br>+5% White Pollen<br>+15% Bomb Pollen
+        }}
+        {{Quote|A left shoulder pad crafted by a [[Bomber Bee]].}}
+        The '''Bomber Guard''' is a [[:Category:Guards|guard]] purchasable in the [[Pro Shop]]. It
+        is equipped on the left shoulder.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|300,000}}<br>{{Cost|Sunflower Seed|25}}
+
+        |}
+
+
+        ==Stats==
+        *+15,000 [[Capacity]].
+        *+5% [[System Page#White Pollen|White Pollen]].
+        *+15% [[System Page#Bomb Pollen|Bomb Pollen]].
+        ==Gallery==
+        <gallery>
+        Bomberguardicon.png|The Bomber Guard icon.
+        </gallery>
+
+        == Trivia ==
+
+        *This is one of the 4 guards in the Pro Shop, the others being the [[Looker Guard]], the
+        [[Hasty Guard]], and the [[Brave Guard]].
+        *The Bomber Guard and the Looker Guard both cost the exact same amount of honey and crafting
+        materials.
+
+        {{Items}}
+        [[Category:Guards]]
+        [[Category:Items]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

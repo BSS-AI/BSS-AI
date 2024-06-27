@@ -1,0 +1,266 @@
+{"text": "{{Consumables
+        |image = Magic Bean.png
+        |description = Plants a random [[Sprout]] in the field you're in
+        |cooldown = 5 seconds
+        }}
+        <blockquote>Were you looking for [[Sprout]] or [[Festive Bean]]?</blockquote>
+        A {{Color|Magic Bean}} is an [[:Category:Inventory|inventory item]] that was added in the
+        [[Updates#2018.11.25|11/25/2018 update]]. It can be used to summon a random sprout in the
+        [[Fields|field]] the player is standing in. When one is planted, a server-wide message will
+        appear saying, \"🌱{Username} has planted a (Sprout Type) Sprout...🌱\".
+
+        == Ways to Obtain ==
+        * Purchasing for {{Cost|Ticket|20}} each in the [[Magic Bean Shop]] on the right side of
+        [[Stump Field]].
+        * As a reward from the [[Stick Bug Challenge]].
+        * As a reward from donating to the [[Wind Shrine]].
+        * As a reward from [[Memory Match]] games.
+        * As a stack reward for adding certain [[Stickers]] to the [[Sticker Stack]]:
+        ** Forward Facing Aphid rewards 1 magic bean.
+        ** Round Green Critter rewards 1 magic bean.
+        ** Flying Magenta Critter rewards 1 magic bean.
+        ** Blue Triangle Critter rewards 1 magic bean.
+        ** Purple Pointed Critter rewards 1 magic bean.
+        ** Orange Leg Critter rewards 1 magic bean.
+        ** Sprout rewards 1 magic bean.
+        ** Critter in a Stocking rewards 1 magic bean.
+        ** Festive Pea rewards 1 magic bean.
+        * Redeeming certain valid [[codes]].
+        ** ClubBean (Gives 1 magic bean and other stuff, requires being a member of the
+        [https://www.roblox.com/My/Groups.aspx?gid=3982592 Bee Swarm Simulator Club]).
+        * Purchasing in the [[Robux Shop]] for {{Cost|Robux|30}} each.
+        ** Additionally, a value pack of 10 Magic Beans are also purchasable for {{Cost|Robux|200}}
+        ({{Cost|Robux|30}} each).
+
+        === Drops ===
+        * Unknown chance of dropping when collecting pollen in [[fields]].
+        * As an unknown chance from [[Leaves]].
+        * As a drop from [[aphid]]s and the [[Coconut Crab]].
+        * As a rare drop from a [[Rhino Beetle|rhino beetle]], [[ladybug]], [[spider]], [[Stick
+        Nymph]]s, [[Stick Bug]], [[King Beetle]], [[Wild Windy Bee]], [[Tunnel Bear]], [[Stump
+        Snail]], and the [[Mondo Chick]].
+        * As a rare drop from [[Ability Tokens#Festive Gift|Festive Gift]] and [[Ability
+        Tokens#Festive Mark|Festive Mark]].
+        * As a rare gift from a [[Cub Buddy|cub buddy]].
+        * A chance of dropping from any [[sprout]] except for Moon, Gummy, and Debug sprouts.
+
+        === Quests ===
+        * [[Black Bear]] gives magic beans on the following quests:
+        ** Pumpkins, Please! rewards 1 magic bean along with other items.
+        ** Rocky Red Mountain rewards 1 magic bean along with other items.
+        ** Rare Red Clover rewards 1 magic bean along with other items.
+        ** Okey-Pokey rewards 1 magic bean along with other items.
+        ** Capsaicin Collector rewards 1 magic bean along with other items.
+        ** Mountain Mix rewards 1 magic bean along with other items.
+        ** Variety Fetcher 2 rewards 1 magic bean along with other items.
+        ** Weed Wacker 3 rewards 3 magic beans along with other items.
+        ** Boss Battles rewards 3 magic beans along with other items.
+        ** Black Bear has a chance to reward magic beans on some of his repeatable quests.
+        * Completing [[Brown Bear]]'s 55th, 120th, 190th, 220th and 280th quest each reward 1 magic
+        bean.
+        * [[Science Bear]] gives magic beans on the following quests:
+        ** Subsidized Agriculture yields 1 magic bean upon receiving the quest.
+        ** Mark Mechanics rewards 1 magic bean and other items.
+        ** Testing Teamwork rewards 3 magic beans and other items.
+        * [[Polar Bear]] occasionally gives magic beans upon completing one of his quests.
+        * [[Spirit Bear]] gives magic beans on the following quests:
+        ** Out-Questing Questions rewards 1 magic bean and other items.
+        ** Memories of Memories rewards 3 magic beans and other items.
+        ** Beans Becoming gives the player a magic bean when they start the quest.
+        ** Do You Bee-lieve In Magic? rewards 5 magic beans and other items.
+        ** Beeternity rewards 5 magic beans and other items.
+        ** A Breath Of Blue rewards 10 magic beans and other items.
+        ** Rhubarb Could That Have Been rewards 5 magic beans and other items.
+        ** Dreams Of Being A Bee rewards 5 magic beans and other items.
+        ** The Sky Over The Stump rewards 5 magic beans and other items.
+        ** Bear Without Despair rewards 10 magic beans and other items.
+        ** Echoing Call rewards 50 magic beans and other items.
+        * As a rare 5th quest reward from [[Gifted Riley Bee]] and [[Gifted Bucko Bee]].
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * If the player completed [[Science Bear|Science Bear's]] \"Epistemological Endeavor\" quest
+        before its nerf in the [[Updates#2019.04.05|4/5/2019 update]], they would be rewarded 10
+        magic beans along with 100 tickets.
+        * Was a rare drop from a [[Festive Nymph]].
+        * Was a drop from [[stockings]].
+        * Was a rare reward of [[Brown Bear|Brown Bear's]] former repeatable quests.
+        * Giving [[present]]s to certain [[:Category:NPC|NPCs]] during [[:Category:Beesmas|Beesmas
+        2018]]:
+        ** [[Black Bear]] gave 1 magic bean and other items.
+        ** [[Onett]] gave 5 magic beans and other items.
+        * Giving presents to certain NPCs during Beesmas 2020:
+        ** [[Gifted Bucko Bee]] gave 2 magic beans and other items.
+        * Giving presents to certain NPCs during Beesmas 2021:
+        ** Gifted Bucko Bee gave 2 magic beans and other items.
+        * Giving presents to certain NPCs during Beesmas 2022:
+        ** Onett gave 1 magic bean and other items.
+        * Purchasing the Blessed Bean Bundle in [[Bee Bear's Catalog]] gave 50 Magic Beans + other
+        items.
+        * Completing [[Honey Bee (NPC)|Honey Bee's]] Beesmas 2022 quest gave 9 Magic Beans + other
+        items.
+        * [[Bee Bear]] gave magic beans on the following quests during certain Beesmas years:
+        ** Beesmas 2018:
+        *** Bee-liz Honeydad rewarded 1 magic bean and other items.
+        *** Festive Bee Workshop 1 rewarded 1 magic bean and other items.
+        *** Festive Bee Workshop 2 rewarded 1 magic bean and other items.
+        ** Beesmas 2019:
+        *** Naughty Or Nice rewarded 2 magic beans upon receiving the quest.
+        *** A Beesmas Miracle rewarded 3 magic beans and other items.
+        *** Bee Cub Workshop 1 rewarded 3 magic beans and other items.
+        *** Bee Cub Workshop 5 rewarded 5 magic beans and other items.
+        ** Beesmas 2020:
+        *** Presents to Polar Bear rewarded 1 magic bean and other items.
+        *** Holly Jolly Tokens rewarded 1 magic bean and other items.
+        ***Festive Wreath Workshop 4 rewarded 3 magic beans and other items.
+        ** Beesmas 2021:
+        *** The Wonders of Unwrapping rewarded 1 magic bean and other items.
+        *** Puffshrooms for Presents rewarded 3 magic beans and other items.
+        *** Snow Cub Reformation (4/5) rewarded 3 magic beans and other items.
+        ** Beesmas 2022:
+        *** Shiverin' in the Snow rewarded 1 magic bean and other items.
+        *** Peppermint Preparation (2/5) rewarded 5 magic beans and other items.
+        *** Peppermint Preparation (4/5) rewarded 5 magic beans and other items.
+        * Purchasing certain packs in the Robux Shop:
+        ** The Sparkly Starter Pack cost 400 robux and gave 5 magic beans and other items.
+        ** The Shining Star Pack cost 2000 robux and gave 25 magic beans and other items.
+        ** The Festive Bee pack cost 1600 robux and gave 30 magic beans and other items.
+        ** The Stocking Stuffer Pack cost 450 robux and gave 5 magic beans and other items.
+        ** The Beginner's Bean Bundle cost 400 robux and gave 25 magic beans and other items.
+        ** The Stocking Suffer Pack cost 400 robux and gave 5 magic beans and other items.
+        ** The Jumbo June Pack cost 1700 robux and gave 25 magic beans and other items.
+        ** Purchasing the Cyber Monday Deal gave 10 magic beans and other items.
+        * Redeeming certain expired codes:
+        ** BloxyCelebration (Gave 1 magic bean and other stuff).
+        ** Breeze (Gave 1 magic bean and other stuff).
+        ** NoobashaBonus (Gave 1 magic bean and other stuff).
+        ** MagicMittens (Gave 1 magic bean and other stuff).
+        ** kotиkbean (Gave 1 magic bean and other stuff).
+        |}
+
+        ==Sprout Chance Table==
+        {{Main|Sprout}}
+        '''''Note: The values below are an estimate. Not all chances listed below may be
+        correct.'''''
+        {| class=\"article-table\"
+        |'''Sprout Rarity'''
+        |'''Daytime Chance'''
+        |'''Nighttime Chance'''
+        |-
+        |Normal
+        |61%
+        |28%
+        |-
+        |Rare
+        |21%
+        |12%
+        |-
+        |Epic
+        |8%
+        | 3%
+        |-
+        |Legendary
+        |2.5%
+        |3%
+        |-
+        |Supreme
+        |0.5%
+        |2%
+        |-
+        |Gummy
+        |7%
+        |3%
+        |-
+        |Moon
+        |0%
+        |65%
+        |}
+
+        == Crafting Uses ==
+        Total required for all in-game equipment: {{Cost|Magic Bean|801}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" |{{Cost|Magic Bean}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">1
+        |{{Cost|Moon Charm|25}}
+        |[[File:Glitter.png|thumb|center|80px|link=Glitter]]<div style=\"text-align:
+        center;\">{{Color|Glitter}}
+        |-
+        |<div style=\"text-align: center;\">1
+        |{{Cost|Honey|750,000}}<br>{{Cost|Soft Wax|3}}
+        |[[File:Plastic Planter.png|center|80px|link=Plastic Planter]]<div style=\"text-align:
+        center;\">{{Color|Plastic Planter}}
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Gumdrops|30}}<br>{{Cost|Jelly
+        Beans|3}}<br>{{Cost|Soft Wax|5}}
+        |[[File:Candy Planter.png|center|80px|link=Candy Planter]]<div style=\"text-align:
+        center;\">{{Color|Candy Planter}}
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Honey|10,000,000}}<br>{{Cost|Red Extract|15}}<br>{{Cost|Soft Wax|20}}
+        |[[File:Red Clay Planter.png|center|80px|link=Red Clay Planter]]<div style=\"text-align:
+        center;\">{{Color|Red Clay Planter}}
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Honey|10,000,000}}<br>{{Cost|Blue Extract|15}}<br>{{Cost|Soft Wax|20}}
+        |[[File:Blue Clay Planter.png|center|80px|link=Blue Clay Planter]]<div style=\"text-align:
+        center;\">{{Color|Blue Clay Planter}}
+        |-
+        |<div style=\"text-align: center;\">10
+        |{{Cost|Honey|50,000,000}}<br>{{Cost|Purple Potion|1}}<br>{{Cost|Hard
+        Wax|5}}<br>{{Cost|Soft Wax|20}}
+        |[[File:Tacky Planter.png|center|80px|link=Tacky Planter]]<div style=\"text-align:
+        center;\">{{Color|Tacky Planter}}
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|750,000,000}}<br>{{Cost|Neonberry|25}}<br>{{Cost|Glue|15}}<br>{{Cost|Caustic
+        Wax|3}}<br>{{Cost|Hard Wax|10}}
+        |[[File:Pesticide Planter.png|center|80px|link=Pesticide Planter]]<div style=\"text-align:
+        center;\">{{Color|Pesticide Planter}}
+        |-
+        |<div style=\"text-align: center;\">75
+        |{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Red
+        Extract|750}}<br>{{Cost|Hard Wax|150}}<br>{{Cost|Swirled
+        Wax|25}}<br>{{Cost|Turpentine|1}}
+        |[[File:Heat-Treated Planter.png|center|80px|link=Heat-Treated Planter]]<div
+        style=\"text-align: center;\">{{Color|Heat-Treated Planter}}
+        |-
+        |<div style=\"text-align: center;\">75
+        |{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Blue
+        Extract|750}}<br>{{Cost|Soft Wax|500}}<br>{{Cost|Caustic
+        Wax|25}}<br>{{Cost|Turpentine|1}}
+        |[[File:Hydroponic Planter.png|center|80px|link=Hydroponic Planter]]<div
+        style=\"text-align: center;\">{{Color|Hydroponic Planter}}
+        |-
+        |<div style=\"text-align: center;\">100
+        |{{Cost|Honey|{{Hover|5T|5,000,000,000,000}}}}<br>{{Cost|Glitter|100}}<br>{{Cost|Soft
+        Wax|250}}<br>{{Cost|Swirled Wax|50}}<br>{{Cost|Super Smoothie|25}}
+        |[[File:Petal Planter.png|center|80px|link=Petal Planter]]<div style=\"text-align:
+        center;\">{{Color|Petal Planter}}
+        |-
+        |<div style=\"text-align: center;\">500
+        |{{Cost|Honey|{{Hover|100T|100,000,000,000,000}}}}<br>{{Cost|Super
+        Smoothie|100}}<br>{{Cost|Swirled Wax|100}}<br>{{Cost|Caustic
+        Wax|100}}<br>{{Cost|Turpentine|25}}
+        |[[File:The Planter Of Plenty.png|center|80px|link=The Planter Of Plenty]]<div
+        style=\"text-align: center;\">{{Color|The Planter Of Plenty}}
+        |}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        MagicBeanInventory.png|Magic Beans in a player inventory
+        Magicbeanshop1.png|The Magic Bean In The Shop
+        Magicbeanshop10.png|A pack of 10 Magic Beans in the shop
+        Magic Bean Shop.png|The Magic Bean Shop
+        </gallery>
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Inventory]]"}

@@ -1,0 +1,28 @@
+{"text": "{{Sprinkler
+        |image1 = DiamondDrenchers.png
+        |requires = 10 Master Badges
+        |cost = 4,444,444,444 Honey
+        |description = Four enhanced sprinklers made of durable artificial diamond!
+        |count = 4
+        |radius = 8
+        |power = 9
+        |rate = 4 seconds
+        |setup = 4 seconds
+        }}The [[Diamond Drenchers]] are the 4th tier [[Sprinklers|sprinkler]] available for purchase
+        in the [[Badge Bearer's Guild]]. To unlock it, the player must obtain 10 different
+        [[Badges|Master badges]]. Once the player unlocks it, they can purchase it for 4,444,444,444
+        (~4.4 billion) [[honey]]. Its description reads, “Four enhanced sprinklers made of durable
+        artificial diamond!\"
+
+        The Diamond Drenchers are comprised of 4 individual sprinklers.
+
+        Its radius extends to 8 [[Flowers|flower]] tiles, its rate is 4 seconds, and its power is 9.
+        == Audio ==
+        When a sprinkler is placed in a field, the following audio plays:
+        [[File:Sprinklerbuild.ogg]]
+
+        When a sprinkler regenerates flowers, the following audio plays:
+        [[File:Sprinklerwater.ogg]]
+
+        {{Items}}
+        [[zh-tw:鑽石澆水器]]"}

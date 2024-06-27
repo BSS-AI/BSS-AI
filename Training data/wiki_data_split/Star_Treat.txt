@@ -1,0 +1,60 @@
+{"text": "{{Consumables
+        |image=Star Treat.png
+        |description=Turns a bee into a Gifted bee!
+        }}
+        [[File:Giftedvectorbee.png|thumb|280px|The text that appears in the chat when a bee turns
+        gifted via a treat.]]
+        A {{Color|Star Treat}} is a special type of [[Treats|Treat]] that, when fed to a
+        [[Bees|bee]], raises its [[bond]] by 1,000, along with the bee transforming into its
+        [[Gifted Bee|gifted form]]. It is the only treat in the game which is guaranteed to turn a
+        bee gifted. It is also one of the only ways to get gifted [[Bees/Event|Event bees]],
+        including the {{Cost|Gingerbread Bear}} and [[Aged Gingerbread Bear|aged gingerbread bear]].
+        == Ways to Obtain ==
+        * Buying it with {{Cost|Ticket|1,000}} inside the [[Ticket Tent]].
+        * Playing [[Memory Match#Night Memory Match|Night Memory Match]]/[[Memory Match#Extreme
+        Memory Match|Extreme Memory Match]] (exceptionally rare).
+        * Given by the [[Wind Shrine]] if you already have a [[Windy Bee]] after buying the [[Robux
+        Shop|Windy Bee Pack]].
+
+        === Drops ===
+        * An exceptionally rare drop from the [[Mondo Chick]], [[Coconut Crab]], and [[Fireflies]].
+        * Capturing [[Commando Chick]] for the 100th time guarantees a star treat.
+        * An exceptionally low chance of dropping from [[Mythic Meteor Shower|Mythic Meteors]].
+        * An extremely rare drop from {{Cost|Festive Planter}}.
+
+        === Quests ===
+        * Completing all of [[Onett|Onett's]] quests, [[Mother Bear|Mother Bear's]] quests, and
+        [[Panda Bear|Panda Bear's]] quests.
+        * Completing 750 [[Brown Bear]] quests rewards a star treat. Every 500 quests after the
+        750th Brown Bear quest also rewards a star treat.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Buying the Gingerbread Cub Bundle in [[Bee Bear's Catalog]] (1 if the player didn't have a
+        cub buddy, 2 if they already had one.)
+        * An extremely low chance of getting it from [[Memory Match#Winter Memory Match|Winter
+        Memory Match]].
+        * Completing the 15th [[Bee Bear]] quest rewards a star treat if the player already owns a
+        cub buddy.
+        * An exceptionally rare drop from [[Festive Nymph]]s.
+        * An extremely rare drop from the [[Stockings]].
+        * Buying it from Bee Bear's Catalog for {{Cost|Snowflake|10,000}}.
+        * By opening certain [[Gift Boxes]]:
+        ** The [[Gift Boxes|Mondo Gift Box]] gave 1 star treat + other items during Beesmas 2020,
+        2021 and 2022.
+        |}
+
+        == Trivia ==
+        * This and the {{Cost|Atomic Treat}} give the most [[bond]] (1,000 bond) out of any treat,
+        followed by a single {{Cost|Neonberry|||0}} and [[Aged Gingerbread Bear|aged gingerbread
+        bear]] (500 bond), then {{Cost|Gingerbread Bear}} and {{Cost|Moon Charm}} (250 bond).
+        * The star treat is the only treat that cannot be obtained from sprouts.
+        * The star treat formerly gave 100 bond instead of 1,000.
+
+        {{Inventory}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Treats]]"}

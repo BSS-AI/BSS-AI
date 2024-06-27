@@ -1,0 +1,72 @@
+{"text": "{{RemovedContent}}
+        '''Stockings''' is a Beesmas exclusive machine that can be unlocked after completing [[Brown
+        Bear]]'s 2022 Beesmas quest. They were introduced on [[Updates#2020.12.25|Beesmas 2020]],
+        returned on Beesmas 2021, and returned for Beesmas 2022. The Stockings is located at the
+        bottom of the hill that Brown Bear is on, next to the [[Clover Field]]. When used, they
+        spawn a random [[beequip]], as well as 2 random items in front of the stockings. It has a
+        1-hour cooldown.
+
+        ==Drops==
+
+        ===Beequips (1 per use)===
+
+        *[[Elf Cap]].
+        *[[Beesmas Top]].
+        *[[Warm Scarf]].
+        *[[Single Mitten]].
+        *[[Toy Horn]] (Rare)
+        *[[Toy Drum]] (Rare).
+        *[[Bubble Light]] (Rare).
+        *[[Paper Angel]] (Rare).
+        *[[Beesmas Tree Hat]] (Rare).
+        *[[Electric Candle]] (Rare).
+        *[[Lump Of Coal]] (Extremely rare).
+
+        ===Other items (2 per use) ===
+
+        *[[Royal Jelly|Royal jelly]].
+        *[[Ticket]]s.
+        *[[Gumdrops]] (in increments of 1 or 5).
+        *[[Magic Bean|Magic beans]].
+        *[[Moon Charm|Moon charms]] (in increments of 1 to 10).
+        *[[Micro-Converter|Micro-converters]].
+        *[[Field Dice|Field dice]].
+        *[[Red Extract|Red extracts]].
+        *[[Blue Extract|Blue extracts]].
+        *[[Oil]].
+        *[[Enzymes]].
+        *[[Night Bell|Night bells]] (Rare).
+        *[[Box-O-Frogs]] (Rare).
+        *[[Egg#Silver Egg|Silver eggs]] (Rare).
+        *[[Egg#Gold Egg|Gold eggs]] (Rare).
+        *[[Purple Potion|Purple potions]] (Rare).
+        *[[Egg#Diamond Egg|Diamond eggs]] (Rare).
+        *[[Egg#Mythic Egg|Mythic eggs]] (Very rare).
+        *[[Festive Bean|Festive beans]] (Very rare).
+        *[[Star Treat|Star treats]] (Extremely rare).
+        *[[Turpentine]] (Extremely rare).
+
+        ==Gallery==
+        <gallery widths=\"185\">
+        Brownbearstockingsincomplete.png|The Stockings' appearance before the player completed the
+        \"Brown Bear's Stockings\" quest.
+        Brownbearstockingscomplete.png|The Stockings' appearance after the player completed the
+        \"Brown Bear's Stockings\" quest.
+        Megettingstockingsloot.png|A player claiming items after checking inside the Stockings.
+        </gallery>
+
+        ==Trivia==
+        *If the player attempts to use the Stockings before the player completed Brown Bear's 2021
+        Beesmas quest, it will display text saying ''\"This mantle looks so barren without Stockings
+        on the hooks...\"''
+        * Every time the player uses the Stockings, they can only get 1 of each item, excluding
+        gumdrops and moon charms.
+        *Tokens spawned by the Stockings can be collected by a [[Ability Tokens#Token Link|token
+        link]].
+        *[[Loot Luck]] does not affect the Stocking drops.
+
+        [[Category:Machines]]
+        [[Category:Beesmas]]
+        [[Category:Locations]]
+        [[Category:Beesmas Decorations]]
+        [[Category:Removed Content]]"}

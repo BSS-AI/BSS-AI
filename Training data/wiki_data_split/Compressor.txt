@@ -1,0 +1,25 @@
+{"text": "{{Bag|image1 = Compressor.png|description = \"A machine which packs pollen to increase
+        storage.\"|cost = 160,000 Honey|capacity = 50,000 Pollen|stats = +55% Convert Rate}}
+        {{Quote|A machine which packs pollen to increase space.}}
+        The '''Compressor''' is a [[:Category:Bags|Bag]] that can be purchased from the [[Pro
+        Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|160,000}}
+        |}
+
+        ==Stats==
+        *+50,000 Capacity.
+        *+55% [[System Page#Convert Rate|Convert Rate]].
+
+        ==Trivia==
+        *This is the third most expensive Bag in the Pro Shop, behind the [[Elite Barrel]] and the
+        [[Port-O-Hive]].
+        *This is the fifth Cheapest Item in the Pro Shop, behind the [[Pulsar]], [[Mega-Jug]],
+        [[Super-Scooper]], and the [[Paper Planter]] respectively.
+        {{Items}}
+        [[Category:Bags]]
+        [[Category:Items]]
+        [[zh-tw:壓縮機]]"}

@@ -1,0 +1,42 @@
+{"text": "{{RemovedContent}}
+
+        The '''Gummy Cannon''' is [[Gummy Bear|Gummy Bear's]] personal cannon that he used to fire
+        [[gumdrops]] onto [[fields]]. It was brought to the mountain in the
+        [[Updates#2018.05.26|5/26/2018]] update, and was removed alongside Gummy Bear at a later
+        date. The Gummy Cannon's color scheme is identical to the color of [[goo]], gumdrops,
+        [[Gummy Bee]], and Gummy Bear, with a teal base and a pink barrel. It was found next to
+        Gummy Bear and Gummy Bee.
+
+        When Gummy Bear launched the cannon, all players in the server would get a notification that
+        said: <span style=\"background-color:#33ffb7;\"><span style=\"color:black;\">\"Sights
+        Set on the [Field Name]!\"</span></span> and gumdrops would be scattered all over
+        the selected field until the field changed.
+
+        During Beesmas 2020 and Beesmas 2021, it could be summoned by using the [[Gummy Beacon]] to
+        summon a [[Gummy Siege]] after completing Gummy Bear's [[Gummy Bear#2021 Beesmas Quest -
+        Gummy Beacon|Beesmas Quest]]. Each time gumdrops are scattered on a field, a gumdrops token
+        appeared in its place.
+        [[File:Gummy bear's plataform.png|thumb|200px|Gummy Bear next to the Gummy Cannon during a
+        Gummy Siege.]]
+
+        == Trivia ==
+        * The Gummy Cannon was the only cannon that wasn't used for player
+        [[:Category:Transport|transportation]]. It was only used for decoration.
+        ** It was also the first and only cannon to launch [[items]].
+        * When the Gummy Cannon launched gumdrops, the animation of the gumdrops falling onto the
+        selected field was the same one as the player using gumdrops in the field.
+        * The Gummy Cannon was not completely accurate; the gumdrops it launched could miss the
+        fields it was aimed at, and possibly even splatter goo into nearby fields.
+        * This is the only cannon that was removed in-game and returned.
+        * The cannon shot 5-7 gumdrops before aiming at other fields.
+        * There used to be a gumdrop token behind the cannon.
+        ** After the [[:Category:Gummy Invasion|event]] ended, the gumdrop token was covered with a
+        green path, which made it more difficult to get, although it is possible to get it if the
+        player moves along the edge.
+
+        [[Category:Gummy Invasion]]
+        [[Category:Goo]]
+        [[Category:Machines]]
+        [[Category:Beesmas]]
+        [[Category:Summoner]]
+        [[Category:Removed Content]]"}

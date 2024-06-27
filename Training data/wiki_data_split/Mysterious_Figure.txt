@@ -1,0 +1,27 @@
+{"text": "{{RemovedContent}}[[File:Static-assets-upload2667563678635273646.png|thumb|246px|The
+        Mysterious Figure.]]
+        The '''Mysterious Figure''' (named '''Eggwick''' or '''Evilwick''') was a short figure with
+        a light gray hood, gray skin, and no face. He could be found in the [[Mazes#Blue Maze|Blue
+        Maze]] behind the glass wall on the path to the right. He could neither be interacted with
+        nor be collided with. There are also two tiny hallways to the right and left of where the
+        figure was. The player could enter the hallway using a glitch to bypass the wall.
+
+        Since the [[Updates#2019.09.28|9/28/2019 update]], there is a [[Royal Jelly#Star Jelly|star
+        jelly]] token in his place and can only be obtained by entering a passage in the [[Petal
+        Shop]] located in the [[Windy Bee Gate]].
+
+        == Trivia ==
+        * He, along with [[Onett]], [[Stick Bug]], [[Gifted Riley Bee]], [[Gifted Bucko Bee]],
+        [[Honey Bee (NPC)|Honey Bee]], and [[Digital Bee (NPC)|Digital Bee]] are the only
+        [[:Category:NPC|NPCs]] that aren't [[:Category:Bears|bears]].
+        ** He and Onett are the only Robloxian-species NPCs.
+        * This figure represents the Hooded Figure in the Roblox [[Egg Hunt 2019]] Event, who also
+        appeared in other games that participated in the Egg Hunt, and in the hub world.
+        * He would occasionally wave at the player.
+        * This is the only NPC that the player normally couldn't get close to, as a glass wall
+        prevented players from reaching him.
+        * This is the third NPC to not originate in Bee Swarm Simulator, the first being Onett and
+        the second being [[Bubble Bee Man]].
+        [[Category:NPC]]
+        [[Category:Egg Hunt 2019]]
+        [[Category:Removed Content]]"}

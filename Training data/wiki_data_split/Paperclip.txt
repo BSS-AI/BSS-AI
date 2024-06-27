@@ -1,0 +1,41 @@
+{"text": "{{Beequip
+        |image1=Paperclip.png
+        |level=7
+        |color=Any
+        |limit=2
+        |description=A helpful trinket that keeps stacks of paper together without staples, tape, or
+        glue.
+        |stats=+Ability Rate%<br/>+Ability Pollen%<br/>+Convert Rate At
+        Hive%<br/>+Ability: Token Link
+        |hive=+Ability Token Lifespan%
+        |bonushive=+Bee Ability Pollen%
+        |requirement=Bee must be Rare or Epic}}
+        A '''Paperclip''' is a [[Bond|level]] 7 [[beequip]]. It has an equip limit of two. There is
+        no color requirement. It can only be equipped to [[Bees/Rare|rare]] or [[Bees/Epic|epic]]
+        [[bees]].
+
+        ==Potential==
+        * [[System Page#Bee Ability Rate|Ability Rate]] (Guaranteed) - +1% to +3%. (up to +6% from
+        [[Waxes|waxing]])
+        * Ability Pollen (Guaranteed) - +5% to +15%. (up to +65% from waxing)
+        * [[System Page#Convert Rate At Hive|Convert Rate At Hive]] (from waxing) - +2% to +30%.
+        * Ability: [[Ability Tokens#Token Link|Token Link]] (from waxing, extremely rare, caustic
+        only)
+        ** Collects all [[Ability Tokens|ability tokens]], granting 25 [[Honey]] (+10 per lvl) per
+        token collected.
+        * [Hive Bonus] Ability Token Lifespan (Guaranteed) - +1% to +3%. (up to +9% from waxing)
+        * [Hive Bonus] Bee Ability Pollen (from waxing, rare) - +1% to +3%.
+
+        ==Ways to obtain==
+        *As a very rare drop from the [[Petal Planter]].
+        *Purchasing it from [[Dapper Bear's Shop]].
+
+        == Gallery ==
+        <gallery>
+        File:Paperclip1.png|A Paperclip in Dapper Bear's Shop able to be crafted.
+        File:PaperclipRage.jpg|A Paperclip equipped to a Rage Bee.
+        </gallery>
+        {{Items}}
+        [[Category:Beequips]]
+        [[Category:Items]]
+        [[Category:Inventory]]"}
