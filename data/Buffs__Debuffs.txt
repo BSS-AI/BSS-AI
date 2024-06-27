@@ -1,0 +1,1248 @@
+{"text": "{{Update}}
+        '''Buffs and Debuffs''' are one of the core gameplay [[mechanics]]. The player can obtain
+        them from [[amulet]]s, [[Quest Givers|quest givers]], [[items]], [[Ability Tokens|ability
+        tokens]], [[codes]], and different dispensers. Some buffs and debuffs are exclusive to one
+        source, such as the Splinter Trap can only be obtained from the [[Stick Bug Challenge]],
+        while others can be obtained in different ways, such as [[Ability Tokens#Boost|blue boosts]]
+        can be obtained from the [[Blueberry Dispenser]], [[bees]], and [[flowers]].
+
+        All status effects can be found in the top margin of the screen, above the main menu. The
+        effects are sorted from left to right, with newer effects appearing on the right. Hovering
+        over the icon for a buff/debuff will give information on the stack amount, effect, and
+        duration (if possible). On certain devices, icons for [[:Category:Accessories|accessories]]
+        can also be found here instead of next to the hotbar.
+
+        ==Buffs==
+
+        ===From Ability Tokens===
+        Buffs that can be obtained from collecting ability tokens.
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\"|'''Ability Token Buffs'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Boost
+        |[[File:Boost.png|84px]]
+        |Ability tokens from specific [[:Category:Red|red]] or [[:Category:Blue|blue]] bees or
+        [[Windy Bee]] and tokens from red or blue [[flowers]].
+        |x1.2 [[System Page#Red Pollen|Red]], [[System Page#Blue Pollen|Blue]], or [[System
+        Page#White Pollen|White Pollen]] (depends on boost color)
+        |{{texttip|x3 Red, White, or Blue Pollen|10 Stacks}}
+        |15 seconds
+        |-
+        |Bomb Combo
+        |[[File:RobloxScreenShot20190217 145831984.png|40px]]
+        |Collecting any [[Ability Tokens#Bomb|bomb ability tokens]] and catching [[Ability
+        Tokens#Fuzz Bombs|fuzz bombs]].
+        |x1.25 [[System Page#Bomb Pollen|Bomb Power]]
+        |{{texttip|x3.50 Bomb Power|10 Stacks}}
+        |5 seconds
+        |-
+        |Haste
+        |[[File:Haste Buff.png|40px]]
+        |Ability tokens from [[Hasty Bee|Hasty]], [[Shocked Bee|Shocked]], [[Ninja Bee|Ninja]], and
+        [[Photon Bee]]s, and bees with the [[Toy Drum]] [[Beequip]] equipped.
+        |x1.1 [[System Page#Movespeed|Player Movespeed]]
+        |{{texttip|x2 Player Movespeed|10 Stacks}}
+        |20 seconds
+        |-
+        |Focus
+        |[[File:Focus_Buff.png|40px]]
+        |Ability tokens from [[Looker Bee|Looker]], [[Commander Bee|Commander]], and [[Music Bee]]s,
+        and [[Puppy Bee]] with the [[Reindeer Antlers]] Beequip equipped.
+        | +3% [[System Page#Critical Chance|Critical Chance]]
+        |{{texttip|+30% Critical Chance|10 Stacks}}
+        |20 seconds
+        |-
+        |Melody
+        |[[File:Melody Buff.png|40px]]
+        |Ability tokens from Music Bee and bees with the [[Toy Horn]] Beequip equipped.
+        | +100% [[System Page#Critical Power|Critical Power]]
+        | -
+        |30 seconds
+        |-
+        |Rage
+        |[[File:Rage Buff.png|40px]]
+        |Ability tokens from [[Rage Bee]] and [[Spicy Bee]].
+        | +1 [[System Page#Bee Attack|Bee Attack]]
+        |{{texttip|+4 Bee Attack|4 Stacks}}
+        |45 seconds
+        |-
+        |Baby Love
+        |[[File:Baby Love.png|40px]]
+        |Ability tokens from [[Baby Bee]] and [[Gifted Bee|Gifted]] [[Tadpole Bee]].
+        |x2 [[System Page#Pollen|Pollen]] and +50% [[System Page#Loot Luck|Loot Luck]]
+        | -
+        |30 seconds
+        |-
+        |Tabby Love
+        |[[File:Tabby Love.png|40px]]
+        |Ability tokens from [[Tabby Bee]].
+        | +1% Tabby Bee Convert Rate, +1% Tabby Bee Pollen Collection, and +1% Pollen from Scratch
+        |{{texttip|+1000% Tabby Bee Convert Rate, +1000% Tabby Bee Pollen Collection, and +1000%
+        Pollen from Scratch|1000 Stacks}}
+        | -
+        |-
+        |Tabby Blessing
+        |[[File:Tabby Love.png|40px]]
+        |Ability tokens from Tabby Bee.
+        | +25% Critical Power, +1% Critical Chance
+        | -
+        |20 seconds (+2 seconds for every Tabby bee's level)
+        |-
+        |Tabby Blessing+
+        |[[File:Tabby Love.png|40px]]
+        |Ability tokens from [[Gifted Bee|Gifted]] Tabby Bee.
+        | +25% Critical Power, +1% Critical Chance, +1% Super Critical Chance
+        | -
+        |20 seconds (+2 seconds for every Tabby bee's level)
+        |-
+        |Puppy Love
+        |[[File:Puppy Love Token.png|40px]]
+        |Ability token from Puppy Bee.
+        | +10% Bee Movespeed, +50% Bee Gather Amount
+        | -
+        | 10 seconds (+1 second for every puppy bee's level)
+        |-
+        |Balloon Aura
+        |[[File:BalloonAura.png|40px]]
+        |By being in an area of a balloon.
+        |x1.02 Pollen, +2% Honey From Tokens
+        |x1.2 Pollen, +20% Honey From Tokens
+        | -
+        |-
+        |Pollen Mark
+        |[[File:Pollen Mark.png|40px]]
+        |Stand in range of a Pollen Mark.
+        |x1.5 Pollen
+        |{{texttip|x2.5 Pollen|3 Stacks}}
+        |When the player steps away from Pollen Mark or it disappears
+        |-
+        |Honey Mark
+        |[[File:Honey Mark Buff.png|40px]]
+        |Stand in range of a Honey Mark.
+        |x1.25 [[System Page#Convert Rate|Convert Rate]], 2 Conversion Links which convert pollen
+        through random bees
+        |{{texttip|x1.75 Convert Rate, 6 Conversion Links|3 Stacks}}
+        |When the player steps away from Honey Mark or it disappears
+        |-
+        |Festive Mark
+        |[[File:Festive Mark Buff.png|40px]]
+        |Stand in range of a Festive Mark.
+        | +10% Honey Per Pollen, x1.4 Bomb Pollen, x1.4 Red Bomb Pollen, 100% Instant Bomb
+        Conversion, +5 Conversion Links
+        | -
+        |When the player steps away from Festive Mark or it disappears
+        |-
+        |Bomb Sync
+        |[[File:Bomb Sync.png|84px]]
+        |Ability tokens from [[Cobalt Bee|Cobalt]] and [[Crimson Bee]]s.
+        | +10% red/blue pollen (depends on color)
+        +10% instant red/ blue conversion (depends on color)
+        Allow red/blue bombs (depends on color) to collect from white [[flowers]]. If both are
+        active, bombs can collect from any flower.
+        | -
+        |30 seconds
+        |-
+        |Bear Morph
+        |[[File:Bear Morph.png|84px]]
+        |Ability tokens from [[Bear Bee]] and through [[codes]].
+        |x2 Pollen, +24 Movespeed, and +65 [[System Page#Jump Power|Jump Power]]
+        | -
+        |30 seconds
+        |-
+        |Science Bear Morph
+        |[[File:Sciencecloseup.png|40px]]
+        |Ability tokens from Gifted Bear Bee and through codes.
+        |x2 Pollen, +1 Conversion Link, +24 Movespeed, and +65 Jump Power
+        | -
+        |30 seconds
+        |-
+        |Mother Bear Morph
+        |[[File:Screen Shot 2018-07-12 at 2.51.07 pm.png|40px]]
+        |Ability tokens from Gifted Bear Bee and through codes.
+        |x2.5 pollen, x1.5 [[System Page#Bee Gather Pollen|Bee Gather Pollen]], +24 Movespeed, and
+        +65 Jump Power
+        | -
+        |30 seconds
+        |-
+        |Inspire
+        |[[File:Inspire.png|40px]]
+        |Ability tokens from [[Gifted Bee|Gifted bees]] and through codes.
+        |x2 Pollen
+        |{{texttip|x51 Pollen|50 Stacks}}
+        |5 Seconds
+        |-
+        |Festive Blessing
+        |[[File:Festive Blessing.png|40px]]
+        |[[Ability Tokens#Festive Gift|Festive Gift]] and [[Festive Bean|Festive Sprout]].
+        | +100% Instant Conversion, x2 Convert Rate
+        | -
+        |Festive Gift: +10 seconds
+        [[Sprout|Festive Sprout]]: +30 seconds<br />
+        Up to 5 minutes
+        |-
+        |Beesmas Cheer
+        |[[File:Beesmas Cheer.png|40px]]
+        |Festive Gift (when [[Festive Bee]] is gifted) and [[Festive Bean|Festive Sprout]].
+        |x2 [[Stats#Speed|Bee Movespeed]] and x1.5 Pollen
+        | -
+        |Festive Gift: +10 seconds
+        Festive Sprout: +30 seconds<br />
+        Up to 5 minutes
+        |-
+        |Flame Fuel
+        |[[File:Flame_Fuel_Effect.png|40px]]
+        |Ability tokens from [[Spicy Bee|Gifted Spicy Bee]].
+        |x1.5 Flame Duration;<br />When [[Passive Abilities#Gathering Flames|flames]] are
+        created, they instantly convert 50,000 +5% of [[System Page#Convert Total|Convert Total]]
+        | -
+        |15 seconds
+        |-
+        |Cool Breeze
+        |[[File:Cool Breeze.png|40px]]
+        |The [[Ability Tokens#Snowglobe Shake|Snowglobe Shake]] ability token from bees with the
+        [[Snowglobe]] Beequip equipped.
+        | +10% Convert Rate At Hive, +5% Pollen From Tools, +5% Bee Gather Pollen, +1% Honey Per
+        Pollen, +1% Loot Luck, x1.25 Capacity (fixed to x1.25)
+        |{{texttip|+50% Convert Rate At Hive, +25% Pollen From Tools, +25% Bee Gather Pollen, +5%
+        Honey Per Pollen, +10% Loot Luck, x1.25 Capacity|100%}}
+        | +20 seconds<br />
+        Up to 15 minutes
+        |-
+        |Reindeer Guidance
+        |[[File:Reindeer Guidance.png|40px]]
+        |Making combos with [[Ability Tokens#Fetch|Reindeer Fetch]] from Puppy Bee with the Reindeer
+        Antlers Beequip equipped.
+        |x1.01 Capacity
+        |{{texttip|x1.1 Capacity|10 Stacks}}
+        |15 minutes or until the player leaves the game
+        |-
+        |Precision
+        |[[File:Precision.png|40px]]
+        |Hitting all 3 targets of Precise Bee's Target Practice Ability.
+        |2% Super-Crit Chance
+        |{{Texttip|20% Super-Crit Chance|10 Stacks}}
+        |1 minute
+        |-
+        |Precise Mark
+        |[[File:PreciseMark.png|40px]]
+        |Hitting the purple (Farthest) target of Gifted Precise Bee's Target Practice.
+        |7% Critical Chance, 7% Super-Crit Chance
+        |{{Texttip|21% Critical Chance, 21% Super-Crit Chance|3 Stacks}}
+        | When the player steps away from Precise Mark or it disappears
+        |-
+        |Field Corruption
+        |[[File:Fieldcorruption.png|40px]]
+        |Ability tokens from [[Digital Bee]].
+        | +1% Ability Duplication Chance, x1.01 Duped Ability Pollen, +1% Instant Duped Ability
+        Conversion
+        |{{Texttip|+25% Ability Duplication Chance, x2 Duped Ability Pollen, +75% Instant Duped
+        Ability Conversion|100%}}
+        | When the player steps away from the field, or when the corruption ends
+        |-
+        |APM
+        |[[File:APMIcon1.png|frameless]]
+        |Collecting Focus tokens with the APM upgrade purchased during a Robo Bear Challenge round.
+        |x1.03 Pollen from Tools, x1.03 Collector Tool Speed
+        |{{Texttip|x1.3 Pollen from Tools, x1.3 Collector Tool Speed|10 Stacks}}
+        |20 seconds
+        |-
+        |Demarcate
+        |TBA
+        |Collecting Mark tokens with the Demarcate upgrade purchased during a Robo Bear Challenge
+        round.
+        |x1.03 Critical Power
+        |{{Texttip|x1.3 Critical Power|10 Stacks}}
+        |15 seconds
+        |-
+        |Blue Screen
+        |[[File:BlueScreenIcon1.png|frameless|42x42px]]
+        |Collecting Blue Boost tokens with the Blue Screen upgrade purchased during a Robo Bear
+        Challenge round.
+        |x1.03 Attack x1.03 Blue Bee Attack
+        |{{Texttip|x1.3 Attack, x1.3 Blue Bee Attack|10 Stacks}}
+        |15 seconds
+        |-
+        |Proxy
+        |TBA
+        |Collecting Haste tokens with the Proxy upgrade purchased during a Robo Bear Challenge
+        Round.
+        | +2% Dodge Chance
+        |{{Texttip|+20% Dodge Chance|10 Stacks}}
+        |20 Seconds
+        |}
+
+        ===From Passives===
+        Buffs obtained from certain [[Passive Abilities]].
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Passive Buffs'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Gummy Bear Morph
+        |[[File:Gummy Morph.png|40px]]
+        |Triggers every 10th [[Gummy Bee]] ability token or 30th [[gumdrop]]s with the [[Gummy
+        Mask]] equipped.
+        | +24 Movespeed, +60 Jump Power, +75% [[System Page#Goo|Goo]], +200% [[System Page#Goo
+        Conversion|Instant Goo Conversion]], +200% Gummy Bee speed, +1000% Gummy Bee gather amount,
+        and +300 Gummy Bee attack.
+        | -
+        |10 seconds
+        |-
+        |Haste
+        |[[File:Haste Buff.png|40px]]
+        | Catching a falling coconut with the Coconut Clogs or Gummy Boots (requires Coconut Clogs)
+        equipped.
+        | x1.1 Player Movespeed
+        |{{texttip|x2 Player Movespeed|10 Stacks}}
+        |20 seconds
+        |-
+        |Coconut Haste Surge
+        |[[File:Haste Buff.png|40px]]
+        |Catching a falling coconut with the Coconut Clogs or Gummy Boots equipped.
+        |x1.5 Bee Movespeed, +10 Player Movespeed.
+        | -
+        |2 seconds
+        |-
+        |Emergency Coconut Shield
+        |[[File:Emergencyshield.png|40px]]
+        |Taking damage with the [[Coconut Canister]] equipped.
+        |x1.25 [[System Page#Attack Multiplier|Bee Attack Power]], +100% [[System
+        Page#Defense|Defense]].
+        | -
+        |10 seconds
+        |-
+        |Flame Heat
+        |[[File:2019-12-23_(6).png|40px]]
+        |Standing next to a flame emanated from either a bee passive or from [[Passive
+        Abilities#X-Flame|X-Flame]]/[[Passive Abilities#Ignite|Ignite]].
+        |x1.2 Red Pollen, +5% Bee Attack.
+        |{{texttip|x2 Red Pollen, +25% Bee Attack|x2}}.
+        | +varies
+        Up to 20 seconds.
+        |-
+        |Unlimited Gumdrops
+        |[[File:Unlimited_Gumdrops.png|40px]]
+        |Having the Unlimited Gumdrops buff, which can be obtained by using the [[Glue Dispenser]]
+        in [[Gummy Bear's Lair]].
+        |Using gumdrops won't take away the player's gumdrops.
+        | -
+        |3 minutes from Glue Dispenser, varies from codes
+        |-
+        |Guiding Star Aura
+        |[[File:GuidingStarAuraIcon.png|40px]]
+        |Being in a field where Guiding Star occurred.
+        |x2.5 Pollen, x2.5 Capacity (to the player who summoned the star),<br />x1.25 Pollen,
+        x1.25 Capacity (to other players)
+        | -
+        |When the player stays away from the field or when it fades away (10 minutes)
+        |-
+        |Gummy Star Aura
+        |[[File:GummyStarAuraIcon.png|40px]]
+        |2% chance when using gumdrops (or on the 75th gumdrop if not triggered yet) with the Gummy
+        Star passive applied. Stack increased by the amount of goo collected.
+        |x2 Goo, +10% [[System Page#Goo Conversion|Goo Conversion]], x2 White Field Capacity
+        |{{texttip|x4 Goo, +10% Goo Conversion, x2 White Field Capacity|100 stacks}}
+        |45 seconds
+        |-
+        |Pop Star Aura
+        |[[File:PopStarAuraIcon.png|40px]]
+        |Triggers every 30th boost token with the Pop Star passive applied. Stack increased by the
+        amount of bubbles popped.
+        |10% Instant Blue Conversion, x2 Blue Pollen.
+        |{{texttip|10% Instant Blue Conversion, x4.49 Blue Pollen.|x250}}
+        |45 seconds
+        |-
+        |Bubble Bloat
+        |[[File:BubbleBloatAuraIcon.png|40px]]
+        | Popping bubbles while Pop Star Aura is active.
+        |x1 Blue Field Capacity, x1 [[System Page#Hive Convert Rate|Convert Rate at Hive]]
+        |{{texttip|x6 Blue Field Capacity, x6 Hive Convert Rate|x6}}
+        | +4 seconds (from own bubble)
+        +1 second (from other's bubble)
+        +6 seconds (from golden bubble)
+        Up to 2 1/2 hours
+        |-
+        |Scorching Star Aura
+        |[[File:ScorchingStarAuraIcon.png|40px]]
+        |Triggers every 30th red boost token with the Scorching Star passive applied. Stack
+        increased the longer the player stands near flames.
+        | +50% Instant Flame Conversion, x2 Red Pollen, x2 Convert Rate, +5 Conversion Links
+        |{{texttip|50% Instant Flame Conversion, x5 Red Pollen,
+        x5 Convert Rate, +30 Conversion Links|250 stacks}}
+        |45 seconds
+        |-
+        |Inspire
+        |[[File:Inspire.png|40px]]
+        |Catching a shooting star from the Star Shower passive.
+        |x2 Pollen
+        |{{texttip|x51 Pollen|50 Stacks}}
+        |5 seconds
+        |}
+
+        ===From NPCs===
+        Buffs that can be obtained from completing quests from quest givers.
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Buffs from Quest
+        Givers'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Science Enhancement
+        |[[File:Science Enhancement.png|40px]]
+        | Obtained from completing [[Science Bear|Science Bear's]] quests.
+        | +25% Convert Rate
+        |{{texttip|775% Convert Rate|31 Stacks}}
+        | -
+        |-
+        | Polar Power
+        |[[File:Polar Power.png|40px]]
+        | Obtained from completing [[Polar Bear|Polar Bear's]] quests and giving a [[present]] to
+        Polar Bear (Unavailable).
+        |x1.05 Maximum [[Energy|Bee Energy]]
+        |Unlimited
+        | -
+        |-
+        |Conversion Boost
+        |[[File:Conversion Boost.png|40px]]
+        |Obtained from completing the [[Honey Bee (NPC)|Honey Bee NPC's]] quests and through certain
+        codes.
+        |2x Convert Rate
+        | -
+        |30 minutes
+        |-
+        |Field Corruption
+        |[[File:Fieldcorruption.png|40px]]
+        |Standing in a field Science Bear corrupts while on the [[Science Bear#Drive Quest
+        List|Corrupting The Glitched Drive]] quest.
+        | +1% Ability Duplication Chance, x1.01 Duped Ability Pollen, +1% Instant Duped Ability
+        Conversion
+        |{{Texttip|+25% Ability Duplication Chance, x2 Duped Ability Pollen, +75% Instant Duped
+        Ability Conversion|100%}}
+        | When the player steps away from the field, or when the corruption ends
+        |}
+
+        ===From Items===
+        Buffs that can be obtained from using a consumable [[Items|item]].
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Consumable Item
+        Buffs'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |[[Stinger]]
+        |[[File:Stinger Buff.png|40px]]
+        |Using the stinger item.
+        |x1.5 Bee Attack Power
+        | -
+        |30 seconds
+        |-
+        |[[Whirligig]] Boost
+        |[[File:Whirligig.png|40px]]
+        |Using the whirligig item.
+        |<nowiki>+</nowiki>0.1% Convert Rate At Hive
+        |<nowiki>+</nowiki>100% Convert Rate At Hive
+        |20 seconds
+        |-
+        |[[Oil]]
+        |[[File:Oil Buff.png|40px]]
+        |Using the oil item.
+        |x1.2 Player and Bee Movespeed
+        | -
+        |10 minutes
+        |-
+        |[[Enzymes]]
+        |[[File:Enzymes Buff.png|40px]]
+        |Using the enzymes item.
+        |x1.25 Convert Rate and 10% [[Instant Conversion]]
+        | -
+        |10 minutes
+        |-
+        |Extract
+        |[[File:Extracts.png|84px]]
+        |Using the [[Blue Extract|blue extract]] or [[Red Extract|red extract]] item.
+        |x1.25 Red or Blue Pollen (depends on extract color)
+        | -
+        |10 minutes
+        |-
+        |[[Glue]]
+        |[[File:Glue Buff.png|40px]]
+        |Using the glue item.
+        |x1.25 [[System Page#Bee Gather Pollen|Bee Gather Pollen]] and [[System Page#Pollen From
+        Tools|Tools]]
+        | -
+        |10 minutes
+        |-
+        |[[Tropical Drink]]
+        |[[File:Tropical Drink Buff.png|40px]]
+        |Using the tropical drink item.
+        | x1.25 White Pollen and +5% Critical Chance
+        | -
+        |10 minutes
+        |-
+        |[[Purple Potion]]
+        |[[File:Purple Potion Buff.png|40px]]
+        |Using the purple potion item.
+        |x1.25 [[System Page#Capacity Multiplier|Capacity]], x1.5 Red Pollen, x1.5 Blue Pollen, x1.3
+        Bee Gather Pollen, and x1.3 Pollen From Tools
+        | -
+        |15 minutes
+        |-
+        |[[Super Smoothie]]
+        |[[File:Super Smoothie Buff.png|40px]]
+        |Using the super smoothie item.
+        |x1.5 Capacity, x1.6 Red Pollen, x1.6 Blue Pollen, x1.6 White Pollen, x1.4 Bee Gather
+        Pollen, x1.4 Pollen From Tools, x2 Convert Rate, x1.5 Convert Rate At Hive, +12% [[System
+        Page#Instant Conversion|Instant Conversion]], +7% Critical Chance, x1.25 Bee Movespeed,
+        x1.25 Player Movespeed, +1% Super-Crit Chance
+        | -
+        |20 minutes
+        |-
+        |[[Marshmallow Bee]]
+        |[[File:Marshmallow_Bee_Buff.png|40px]]
+        | Using a marshmallow bee item.
+        | +50% White Pollen, +50% Capacity, and +250% Convert Rate
+        | -
+        |30 minutes
+        |-
+        |[[Field Boost]]
+        |[[File:Pine.png|40px]]
+        |Using [[glitter]] on a field; using [[Field Dice|field dice]], [[Smooth Dice|smooth dice]],
+        [[Loaded Dice|loaded dice]], giving a present, or through codes.
+        | +100% {Field Name} Pollen
+        |{{texttip|+400% {Field Name} Pollen|4 Stacks}}
+        |15 minutes
+        |-
+        |Cool Breeze
+        |[[File:Cool Breeze.png|40px]]
+        |By the [[Snowglobe]] [[Beequip]]'s [[Ability Tokens#Snowglobe Shake|Snowglobe Shake]], or
+        by using the [[Snowflake]] item (Beesmas only).
+        | +0.5% Convert Rate At Hive, +0.25% Pollen From Tools, +0.25% White Pollen, +0.25% Blue
+        Pollen, +0.1% Loot Luck, x1.25 Capacity (fixed to x1.25)
+        |{{texttip|+50% Convert Rate At Hive, +25% Pollen From Tools, +25% White Pollen, +25% Blue
+        Pollen, +10% Loot Luck, x1.25 Capacity|100%}}
+        | +10 seconds<br />
+        Up to 15 minutes
+        |}
+
+        ===From Jelly Beans===
+        Buffs that can be obtained from using [[Jelly Beans]] or produced by [[Bean Bugs]] on a
+        field. The buff's variant depends on the type of jelly bean. To get the buffs, a player must
+        collect jelly bean tokens or let other players collect jelly bean tokens from them.
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Jelly Beans Buffs'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Red Jelly Bean
+        |[[File:49B1D81F-4021-429C-8E1F-F8AA75DA1B56.jpeg|40px]]
+        |Collect a red jelly bean token.
+        | +25% Red Pollen
+        |{{texttip|+50% Red Pollen|3 Stacks}}
+        |1 minute
+        |-
+        |Maroon Jelly Bean
+        |[[File:RobloxScreenShot20190627_164611970.png|40px]]
+        |Collect a maroon jelly bean token.
+        | +10% Instant Red Conversion
+        |{{texttip|+15% Instant Red Conversion|3 Stacks}}
+        | 1 minute
+        |-
+        |Blue Jelly Bean
+        |[[File:B46C72B3-E2F7-4E01-A58C-62F5F2C93B3C.png|40px]]
+        |Collect a blue jelly bean token.
+        | +25% Blue Pollen
+        |{{texttip|+50% Blue Pollen|3 Stacks}}
+        |1 minute
+        |-
+        |Navy Jelly Bean
+        |[[File:RobloxScreenShot20190627_164430276.png|40px]]
+        |Collect a navy jelly bean token.
+        | +10% Instant Blue Conversion
+        |{{texttip|+15% Instant Blue Conversion|3 Stacks}}
+        |1 minute
+        |-
+        |White Jelly Bean
+        |[[File:4B7D0C18-BEAE-4265-85F8-22EC34AB6018.jpeg|40px]]
+        |Collect a white jelly bean token.
+        | +25% White Pollen
+        |{{texttip|+50% White Pollen|3 Stacks}}
+        |1 minute
+        |-
+        |Slate Jelly Bean
+        |[[File:06B9EB91-EA55-4158-8682-2B1A69104DB0.jpeg|40px]]
+        |Collect a slate jelly bean token.
+        | +10% Instant White Conversion
+        |{{texttip|+15% Instant White Conversion|3 Stacks}}
+        |1 minute
+        |-
+        |Brown Jelly Bean
+        |[[File:AA6D5C4C-DE6E-403C-8446-4A5048AD1BD7.jpeg|40px]]
+        |Collect a brown jelly bean token.
+        | +25% Instant Bomb Conversion
+        |{{texttip|+35% Instant Bomb Conversion|3 Stacks}}
+        |1 minute
+        |-
+        |Periwinkle Jelly Bean
+        |[[File:416DCAA1-A82E-46A3-9C68-7381BF338A50.jpeg|40px]]
+        |Collect a periwinkle jelly bean token.
+        | +25% Pollen
+        |{{texttip|+50% Pollen|3 Stacks}}
+        |1 minute
+        |-
+        |Teal Jelly Bean
+        |[[File:CCE986E0-6844-42FF-BAE8-EFB40CD74710.jpeg|40px]]
+        |Collect a teal jelly bean token.
+        | +25% Instant Tool Conversion
+        |{{texttip|+35% Instant Tool Conversion|3 Stacks}}
+        |1 minute
+        |-
+        |Pink Jelly Bean
+        |[[File:42DAB7C3-D386-4615-AE0E-B03976544E29.jpeg|40px]]
+        |Collect a pink jelly bean token.
+        | +25% Instant Bee Gather Conversion
+        |{{texttip|+35% Instant Bee Gather Conversion|3 Stacks}}
+        | 1 minute
+        |-
+        | Black Jelly Bean
+        |[[File:Boost_icon.jpg|40px]]
+        |Collect a black jelly bean token.
+        | +25% Bomb Pollen
+        |{{texttip|+50% Bomb Pollen|3 Stacks}}
+        |1 minute
+        |-
+        |Green Jelly Bean
+        |[[File:A1BF35B7-CF63-4CF3-899C-49C698A3EF24.jpg|40px]]
+        |Collect a green jelly bean token.
+        | +3% Critical Chance
+        |{{texttip|+5% Critical Chance|3 Stacks}}
+        |1 minute
+        |-
+        |Yellow Jelly Bean
+        |[[File:397EE734-B72C-433F-86DA-89356783A32D.jpeg|40px]]
+        |Collect a yellow jelly bean token.
+        | x1.1 Convert Rate
+        |{{texttip|x1.2 Convert Rate|3 Stacks}}
+        |1 minute
+        |-
+        |Merigold Jelly Bean
+        |[[File:RobloxScreenShot20190627_164120375.png|40px]]
+        |Collect a merigold jelly bean token.
+        | +10% Instant Conversion
+        |{{texttip|+15% Instant Conversion|3 Stacks}}
+        |
+        1 minute
+        |-
+        |Jelly Bean Sharing Bonus
+        |[[File:JB_Sharing_Bonus.png|40px]]
+        |Using jelly beans on a field with another player collecting the player's jelly bean tokens.
+        | +100% Convert Rate, +10% White Pollen, +10% Red Pollen, +10% Blue Pollen
+        | -
+        | +30 seconds<br />
+        Up to 30 minutes.
+        |}
+
+        === From Nectars===
+        Buffs that can be obtained through bees sipping nectar from planters, using [[Nectar Vial]]
+        or by claiming them through the [[Samovar]] (Beesmas only).
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Nectar Buffs'''
+        !'''Buffs's Name'''
+        !'''Icon'''
+        !'''Ways to Obtain'''
+        !'''Individual Effect'''
+        !'''Effect at Max'''
+        !'''Duration''' of Effect
+        |-
+        | Refreshing Nectar
+        |[[File:RefreshingNectarBuffGUI.png|40px]]
+        | Through bees sipping nectars of planters deployed at Blue Flower Field, Strawberry Field,
+        or Coconut Field, using a [[Refreshing Vial]], by claiming planters, claiming Nectar from
+        the [[Nectar Pot]] or using the [[Samovar]] during Beesmas 2021 and 2022.
+        |x1.2 Blue Convert Rate, x1.1 Red Pollen, +5% Unique Instant Conversion, x1.01 Honey Per
+        Pollen
+        |{{Texttip|x2 Blue Bee Convert Rate, x1.5 Red Pollen, +25% Unique Instant Conversion, x1.05
+        Honey Per Pollen}}
+        |1 second
+        Up to 24 Hours
+        |-
+        | Comforting Nectar
+        |[[File:ComfortingNectarBuffGUI.png|40px]]
+        |Through bees sipping nectars of planters deployed at Dandelion Field, Bamboo Field, or Pine
+        Tree Forest, using a [[Comforting Vial]], by claiming planters, claiming Nectar from the
+        [[Nectar Pot]] or using the [[Samovar]] during Beesmas 2021 and 2022.
+        |x1.1 Blue Pollen, x1.2 Convert Rate at Hive, x1.2 Colorless Convert Rate, x1.01 Honey Per
+        Pollen
+        |{{Texttip|x1.5 Blue Pollen, x2 Convert Rate at Hive, x2 Colorless Bee Convert Rate, x1.05
+        Honey Per Pollen}}
+        |1 second
+        Up to 24 hours
+        |-
+        |Satisfying Nectar
+        |[[File:SatisfyingNectarGUI.png|40px]]
+        |Through bees sipping nectars of planters deployed at Sunflower Field, Pineapple Patch, or
+        Pumpkin Patch, using a [[Satisfying Vial]], by claiming planters, claiming Nectar from the
+        [[Nectar Pot]] or using the [[Samovar]] during Beesmas 2021 and 2022.
+        |x1.1 Honey at Hive, x1.2 Red Convert Rate, x1.2 White Pollen, x1.01 Honey Per Pollen
+        |{{Texttip|x1.5 Honey at Hive, x2 Red Bee Convert Rate, x2 White Pollen, x1.05 Honey Per
+        Pollen}}
+        |1 second
+        Up to 24 hours
+        |-
+        |Motivating Nectar
+        |[[File:MotivatingNectarBuffGUI.png|40px]]
+        |Through bees sipping nectars of planters deployed at Mushroom Field, Spider Field, Stump
+        Field, or Rose Field, using a [[Motivating Vial]], by claiming planters, claiming Nectar
+        from the [[Nectar Pot]] or using the [[Samovar]] during Beesmas 2021 and 2022.
+        |x1.1 Blue Pollen, x1.1 Convert Rate, +1% Bee Ability Rate, x1.01 Honey Per Pollen
+        |{{Texttip|x1.5 Blue Pollen, x1.5 Convert Rate, +5% Bee Ability Rate, x1.05 Honey Per
+        Pollen}}
+        |1 second
+        Up to 24 hours
+        |-
+        |Invigorating Nectar
+        |[[File:InvigoratingNectarBuffGUI.png|40px]]
+        |Through bees sipping nectars of planters deployed at Clover Field, Ant Field, Cactus Field,
+        Mountain Top Field, or Pepper Patch, using an [[Invigorating Vial]], by claiming planters,
+        claiming Nectar from the [[Nectar Pot]] or using the [[Samovar]] during Beesmas 2021 and
+        2022.
+        |x1.1 Red Pollen, 1.1x Convert Rate, +2% Bee Attack, x1.01 Honey Per Pollen
+        |{{Texttip|x1.5 Red Pollen, 1.5x Convert Rate, +10% Bee Attack, x1.05 Honey Per Pollen}}
+        | 1 second
+        Up to 24 hours
+        |}
+
+        ===From Codes===
+        Buffs that can only be obtained from redeeming [[codes]].
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Code Buffs'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Capacity Code
+        |[[File:Capacitycode.png|40px]]
+        |Using certain codes
+        |x2 Capacity, x2 Hive Convert Rate
+        | -
+        |Varied
+        |-
+        |Pollen Boost
+        |[[File:Untitled-0.png|40px]]
+        |Using certain codes
+        |x2 Pollen
+        | -
+        |1 hour and 20 minutes
+        |-
+        |Field Capacity
+        |[[File:C47B7729-8098-4930-9CED-7D1877A56F5F.jpeg|40px]]
+        |Using certain codes
+        | +100% {Field Name} Capacity
+        |Unknown
+        |30 minutes
+        |-
+        |Field Code Buff
+        |[[File:Dandelionfcb.png|40px]]
+        | Using certain codes
+        | +100% {Field Name} Pollen, +100% {Field Name} Capacity
+        | -
+        | 30 minutes
+        |-
+        |Launch Code Boost
+        |[[File:LaunchCodeBoost.png|40px]]
+        | Using certain codes
+        | x1.25 Pollen From Tools, x1.25 Bee Gather Pollen, x1.25 Event Bee Ability Pollen, +100
+        Convert Amount, +50% Capacity, +10% Nectar, +1% Critical Chance, +1% Super-crit Chance
+        | -
+        | 2 days
+        |}
+
+        ===From Areas===
+        Buffs that can be obtained from anything around the mountain, such as dispensers, etc.
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Area Buffs'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Haste
+        |[[File:Haste Buff.png|40px]]
+        |Using the [[Honey Dispenser]], [[Treat Dispenser]], [[Strawberry Dispenser]], [[Blueberry
+        Dispenser]], and the Royal Jelly Dispenser.
+        |x1.1 Player Movespeed
+        |{{texttip|x2 Player Movespeed|10 Stacks}}
+        |20 seconds
+        |-
+        |Haste+
+        |[[File:Untitled-0.png|40px]]
+        |Using the Royal Jelly Dispenser in the Star Hall and through codes.
+        |x2 Player Movespeed
+        | -
+        |1 minute
+        |-
+        |Boost
+        |[[File:BoostRB.png|84px]]
+        |Using the [[Strawberry Dispenser]] or the [[Blueberry Dispenser]].
+        |x1.2 Red/Blue Pollen (depends on boost color)
+        |{{texttip|x3 Red/Blue Pollen (depends on boost color)|10 Stacks}}
+        |15 seconds
+        |-
+        |Unlimited Gumdrops
+        |[[File:Unlimited Gumdrops.png|40px]]
+        |Using the Glue Dispenser in [[Gummy Bear's Lair]] and through codes.
+        |Using gumdrops won't take away gumdrops from the player's inventory
+        | -
+        |Up to 3 minutes from Glue Dispenser, varies from codes
+        |-
+        |Wealth Clock
+        |[[File:Wealth Clock Buff.png|40px]]
+        |Using the [[Wealth Clock]] or through codes.
+        |x1.01 [[System Page#Honey Per Pollen|Honey Per Pollen]]
+        |{{texttip|x1.05 Honey Per Pollen|5 Stacks}}
+        |Until the player leaves the game for more than 15 minutes
+        |-
+        |Field Boost
+        |[[File:Pine.png|40px]]
+        |Using the [[Field Booster]], [[Red Field Booster]], [[Blue Field Booster]], [[Coconut
+        Dispenser]], or through certain codes.
+        | +100% Field Pollen
+        |{{texttip|+400% Field Pollen|4 Stacks}}
+        |15 minutes
+        |-
+        |[[Field Wind]]s
+        |[[File:EBC13979-DDA1-406C-AF22-1BDD54FBCEAD.jpeg|40px]]
+        |Possible reward from the [[Wind Shrine]] and through codes.
+        | +20% Instant Field Conversion, +25% Field Pollen, +1% White Pollen
+        |{{texttip|+50% Instant Field Conversion, +67% Field Pollen, +15% White Pollen|15 Stacks;
+        has a base of +?% Instant {Field Name} Conversion}}
+        |30 minutes
+        |-
+        |Ant Challenge Buff
+        |[[File:Ant pass.png|40px]]
+        |Participating in the [[Ant Challenge]].
+        | +100% [[Instant Conversion|Instant]] [[Ant Field]] Conversion
+        | -
+        |5 minutes, or until the player dies or leaves the game
+        |-
+        |Market Boost
+        |[[File:0E995B1C-C408-45DD-A9B0-B94915037F90.jpeg|84px]]
+        |Redeeming certain codes.
+        |x1.5 Field Capacity, x1.25 Field Pollen, varying other buffs.
+        | -
+        |30 minutes
+        |-
+        |Galentine's Blessing (Beesmas only)
+        |[[File:Galentine Buff.png|40px]]
+        |Possible reward from the [[Galentine Wind Shrine|Galentine Shrine]].
+        | +50% Capacity, +15% Instant Bee Ability Conversion, +50% Rose Field Pollen, +50% Blue
+        Flower Field Pollen, +50% Sunflower Field Pollen, +5% Ticket Chance, +5% Loot Luck, +1%
+        Super-Crit Chance.
+        | -
+        |2 days
+        |-
+        |Beesmas Repentance (Beesmas only)
+        |[[File:Coal.png|40px]]
+        |Dying from the [[Naughty List]].
+        |x1.05 Capacity, +1% Bubble Pollen, +1% Blue Pollen, +1% Blue Flower Field Pollen, +1% Pine
+        Tree Field Pollen, +1% Stump Field Pollen, +1% Movement Collection Pollen, +1% Bee Attack,
+        +1% Loot Luck
+        | -
+        |2 hours (duration can stack)
+        |-
+        |Balloon Blessing
+        |[[File:Blessing.png|40px]]
+        |Fully Converting a Balloon at the hive.
+        |x1.03 Capacity, x1.015 Honey At Hive
+        |{{texttip|x4 Capacity, x2.5 Honey At Hive|100 Stacks}}
+        |1 hour
+        |-
+        |Sticker Stack Buff
+        |[[File:Sticker Stack Buff.png|40px]]
+        |Activating the [[Sticker Stack]]
+        | +20% Convert Rate, +10% Capacity, +5% Pollen
+        |<div style=\"max-height:200px;overflow-y:auto\">
+        +1% Ability Token Lifespan
+        +10% Bamboo Field Pollen
+        +0.75% Bee Ability Pollen
+        +0.25% Bee Ability Rate
+        +5% Bee Attack
+        +17% Bee Gathering Pollen
+        +0.1% Bee Movespeed
+        +0.5 Blue Bee Attack
+        +10% Blue Bee Convert Rate
+        +5% Blue Bomb Pollen
+        +10% Buzz Bomb Pollen
+        +2% Blue Field Capacity
+        +10% Blue Flower Field Pollen
+        +5% Blue Pollen
+        +5% Bomb Pollen
+        +6% Bubble Pollen
+        +15% Cactus Field Pollen
+        +255,000 Capacity
+        +59% Capacity
+        +10% Clover Field Pollen
+        +15% Coconut Field Pollen
+        +10% Colorless Bee Convert Rate
+        +25% Common Bee Pollen
+        x3 Common Bee Pollen
+        +10 Convert Amount
+        +185% Convert Rate
+        +30% Convert Rate At Hive
+        +15% Critical Power
+        +15% Dandelion Field Pollen
+        +0.5% Dodge Chance
+        +2% Duped Ability Pollen
+        +2 Epic Bee Attack
+        +15% Epic Bee Pollen
+        +8% Event Bee Pollen
+        +9% Flame Pollen
+        +2% Gifted Bee Pollen
+        +6% Honey At Hive
+        +8% Honey From Tokens
+        +4.5% Honey Per Pollen
+        +10% Hub Field Pollen
+        +10% Instant Bee Gather Conversion
+        +5% Instant Bomb Conversion
+        +5% Instant Colorless Bee Conversion
+        +5% Instant Event Bee Conversion
+        +5% Instant Gifted Bee Conversion
+        +10% Instant Rare Bee Conversion
+        +2% Instant Red Bee Conversion
+        +10% Instant Tool Conversion
+        +1 Legendary Bee Attack
+        +15% Legendary Bee Pollen
+        +2% Mark Ability Pollen
+        +15% Mountain Top Field Pollen
+        +5% Movement Collection Pollen
+        +15% Mushroom Field Pollen
+        +2% Mythic Bee Pollen
+        +10% Pepper Patch Pollen
+        +10% Pine Tree Forest Pollen
+        +15% Pineapple Patch Pollen
+        +7% Pollen
+        +10% Pumpkin Patch Capacity
+        +10% Pumpkin Patch Pollen
+        +2 Rare Bee Attack
+        +40% Rare Bee Pollen
+        +10% Red Bee Convert Rate
+        +10% Red Bomb Pollen
+        +2% Red Field Capacity
+        +5% Red Pollen
+        +15% Rose Field Pollen
+        +10% Scratch Pollen
+        +10% Spider Field Capacity
+        +10% Spider Field Pollen
+        +15% Strawberry Field Pollen
+        +15% Stump Field Pollen
+        +15% Sunflower Field Pollen
+        +6% Super-Crit Power
+        +46% Tool Pollen
+        +1% Tool Swing Speed
+        +5% Tornado Pollen
+        +2% Ungifted Bee Pollen
+        +4% White Field Capacity
+        +9% White Pollen
+        |15 minutes, +10 seconds for every different sticker
+        Up to 1 hour.
+        |-
+        |Puffshroom Blessing
+        |[[File:Fixed Puffshroom Blessing.webp|frameless|30x30px]]
+        |Defeating a Rare or better [[Puffshroom]]
+        | +1.4% Unique Instant Conversion, +1.4% Pollen, +1.4% Capacity, +1.4% Honey from Tokens
+        | {{Texttip|+10% Unique Instant Conversion, +10% Pollen, +10% Capacity, +10% Honey from
+        Tokens|100 Stacks}}
+        |3 hours maximum, can stack up by defeating Rare and better [[Puffshroom]]s to get
+        [[Puffshroom|Puffshroom Blessing]].
+        |}
+
+        ===From Tools===
+        Buffs that are obtained by using certain [[Tools|tool]] abilities, different from passives.
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''From Tools'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Dark Heat
+        |[[File:DarkHeat.png|40px]]
+        |Granted when [[Dark Scythe|Dark Scythe's]] collection area hits a normal flame.
+        |x1.05 Super-Crit Power, +10% Instant Red Ability Conversion
+        | x6 Super-Crit Power, +109% Instant Red Ability Conversion
+        |Until all active dark flames despawn
+        |-
+        |Gummyball
+        |[[File:GummyballBuff.png|frameless|20x20px]][[File:GummyballBuff.png|40px]]
+        |Granted by collecting goo covered flowers with the [[Gummyballer]].
+        |x1.01 White Pollen
+        |{{texttip|x1.1 White Pollen|1000 Stacks}}
+        |12 seconds
+        |-
+        |Gummyball Combo
+        |[[File:GummyballComboBuff.png|40px]][[File:GummyballComboBuff.png|frameless|20x20px]]
+        |Given when a gummyball hits any of these listed items: 2 stacks for hitting a field wall, 1
+        per ability token, 3 per honey token, 8 per mark, and 30 per precise mark.
+        |x1.1 White Pollen, x1.01 Goo
+        |{{texttip|x1.1 White Pollen, x10 Goo|1000 Stacks}}
+        | 8 seconds
+        |-
+        |Tide Power
+        |[[File:Tide_Power_Icon.png|40px]]
+        |Granted whenever one of the player's bubbles is popped in any way with [[Tide Popper]]
+        equipped.
+        |x1.01 Collector Tool Speed
+        |{{Texttip|x2.50 Collector Tool Speed| 500 Stacks}}
+        |Until this buff reaches x500, until the player leaves the game or until the player switches
+        tools
+        |-
+        |Tide Blessing
+        |[[File:Tide_Blessing_Icon.png|40px]]
+        |Granted when a tidal wave hits a balloon during 'Tidal Surge'. Hitting a balloon will add 3
+        seconds to this buff. (6 seconds if the balloon is gold.)
+        |x1.01 Blue Pollen, x1.01 Honey From Tokens, x1.01 Convert Rate At Hive, x1.01 Bee Gather
+        Pollen, x1.01 Pollen From Tools
+        |{{Texttip|x1.2 Blue Pollen, x1.2 Honey From Tokens, x1.2 Convert Rate At Hive, x1.2 Bee
+        Gather Pollen, x1.2 Pollen From Tools | ? Stacks}}
+        |Up to 4 hours or until the player switches tools
+        |-
+        |Tidal Surge
+        |[[File:Tidal_Surge.png|40px]]
+        |Granted when 'Tide Power' reaches x500. Popping bubbles while this buff is active increases
+        its length.
+        |x1.5 Collector Tool Speed
+        |{{Texttip|x2.50 Collector Tool Speed
+        (Starts at x2.50, gradually goes down over time) | 100%}}
+        |<nowiki>-</nowiki>
+        |}
+
+        ===From Other===
+        Buffs that aren't obtained from any other way on this page.
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Hide\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''Other Buffs'''
+        |-
+        ! scope=\"col\" |'''Buff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+
+        |Honeyday Event
+        |[[File:Happy Honeyday.png|40px]]
+        |Claiming a [[hive]] during Beesmas, opening the [[Ornament Presents|Mondo Present]]
+        (Beesmas 2019), opening the [[Gift Boxes|Mondo Gift Box]] (Beesmas 2020, Beesmas 2021 and
+        Beesmas 2022) and through certain codes.
+        |2x Pollen and Convert Rate
+        | -
+        |48 hours (2 days)
+        |-
+        |Cloud Boost
+        |[[File:Cloud Boost.png|40px]]
+        |Standing under a [[Clouds|cloud]].
+        | +25% Pollen
+        +10% Unique Instant Conversion
+        | -
+        | +1 second<br />
+        Up to 8 seconds
+        |-
+        |Cloud Boost+
+        |[[File:Cloudplus.png|40px]]
+        |Standing under a cloud while having Gifted [[Windy Bee]].
+        | +50% Pollen
+        +20% Unique Instant Conversion
+        | -
+        | +1 second<br />
+        Up to 8 seconds
+        |-
+        |Mondo Chick Blessing
+        |[[File:Mondochickyblessing.png|40px]]
+        |Defeating the [[Mondo Chick]].
+        |x1.02 Capacity, x1.02 Convert Rate At Hive, +10% Pollen
+        |{{texttip|x1.2 Capacity, x1.2 Convert Rate At Hive, +10% Pollen|10 Stacks}}
+        |45 minutes
+        |-
+        |Inspire
+        |[[File:Inspire.png|40px]]
+        |Catching a falling [[Beesmas Lights|Beesmas Light]] when gathering on a field, after
+        completing [[Science Bear|Science Bear's]] Beesmas Quest. Or possibly generated ability
+        token by a [[Gifted Bee|Gifted bee]].
+        | x2 Pollen
+        |{{texttip|x51 Pollen|50 Stacks}}
+        |5 seconds
+        |-
+        |Festive Nymph Blessing (Beesmas only)
+        |[[File:Festive Nymph Blessing x5.png|40px]]
+        |Guaranteed Token when a [[Festive Nymph]] is defeated.
+        | +1,000 Capacity, 1% Instant Bee Gather Conversion, +1% Honey Per Pollen, +1% Bee Attack
+        |{{texttip|+250,000 Capacity, 5% Instant Bee Gather Conversion, 5% Honey Per Pollen, 5% Bee
+        Attack|250 Stacks}}
+        |8 hours
+        |-
+        |Robo Party Blessing (Beesmas Only)
+        |[[File:RoboPartyBlessing.png|center|frameless|55x55px]]
+        |Granted after completing a Robo Party, and can be granted from tokens dropped by Party
+        Mobs.
+        | +1,000 Capacity, +1% Critical Power, +1% White Pollen, +1% Red Pollen, +1% Blue Pollen
+        |{{texttip|+100,000 Capacity, +50% Critical Power, +50% White Pollen, +50% Red Pollen, +50%
+        Blue Pollen|100 Stacks}}
+        |1 hour
+        |}
+
+        ==Debuffs==
+
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Collapse\" width=\"100%\"
+        |+ style=\"background-color:#337800; color:white; font-size:125%;\" |'''List of Debuffs'''
+        |-
+        ! scope=\"col\" |'''Debuff's Name'''
+        ! scope=\"col\" |'''Icon'''
+        ! scope=\"col\" |'''Ways to Obtain'''
+        ! scope=\"col\" |'''Individual'''
+        Effect
+        ! scope=\"col\" |'''Effect at Max'''
+        Cap (Stack)
+        ! scope=\"col\" |'''Ways to Remove'''
+        ! scope=\"col\" |'''Duration'''
+        of Effect
+        |-
+        |Splinter Trap
+        |[[File:Untitled-0.png|40px]]
+        |When [[Stick Bug]] traps the player with twigs.
+        | x0.75 Player Movespeed and Jump Power, 3 damage over time, until the affected player is
+        dead
+        | -
+        | Collect pollen or wait until the player dies.
+        |Until challenge ends
+        |-
+        |Spoiled Jelly Bean
+        |[[File:spoiledjelly.png|40px]]
+        |Collect a spoiled jelly bean token.
+        | -30% Bee Movespeed
+        |{{texttip|-50% Bee Movespeed|3 Stacks}}
+        |Wait until the timer runs out.
+        |1 minute
+        |-
+        |Frozen
+        |[[File:Frozen.png|40px]]
+        |Receive damage from [[Snowbear|Snowbear's]] snowball.
+        |x0 Movespeed, x0 Jump Power, x0.2 Bee Movespeed
+        | -
+        |Wait until the timer runs out.
+        |3 seconds
+        |-
+        | Mechsquito Toxin
+        |[[File:Mechsquitodebuff.png|40px]]
+        |When a Mechsquito laser touches the player during the Robo Bear Challenge or Robo Party.
+        |x0.9 Pollen, x0.9 Player Movespeed
+        |x0.2 Pollen, x0.75 Player Movespeed
+        |Wait until the timer runs out.
+        |10 seconds
+        |-
+        |Robo Bear Challenge
+        |[[File:Rpass.png|40px]]
+        |During a Robo Bear Challenge Round
+        |x0.1 Capacity, x0.1 Pollen from Tools, x0.1 Movement Collection Pollen, x0.2 Pollen from
+        Coconuts.
+        |Round 25 of Robo Bear challenge.
+        |Wait until the round ends, quit the Robo Bear Challenge, or complete the quest.
+        |5 minutes
+        |}
+
+        ==Trivia==
+        *The icon for the Frozen debuff is the asset of [[w:c:battlefordreamisland:Ice Cube|Ice
+        Cube]], a character from the animated web series ''[[w:c:battlefordreamisland:Battle for
+        Dream Island (series)|Battle for Dream Island]]''.
+        *The 3YearParty code (now expired) used to reward unlimited gumdrops for an hour, but there
+        was a glitch where if the player left and rejoined the game, the buff would disappear. Onett
+        later removed the buff from the code.
+        *The shortest buff is Coconut Haste Surge (2 seconds) while the longest is the Honeyday
+        event and Launch Code Boost (48 hours each).
+        *Speaking to [[Onett]] during [[Beesmas]] would give the player the Honeyday Event buff,
+        even without claiming the hive (if it hadn't been claimed yet).
+        *The Splinter Trap icon is the same as the Haste+ icon, which is ironic since they have the
+        opposite effect.
+        *Receiving more stacks of Robo Bear Challenge is less detrimental. For example, in round 2,
+        the debuff is x0.12 capacity, which is better than x0.1 in round 1.
+        [[Category:Mechanics]]"}

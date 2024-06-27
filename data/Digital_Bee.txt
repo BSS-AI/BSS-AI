@@ -1,0 +1,141 @@
+{"text": "{{Bee
+        |image-orig = Digital Bee.png
+        |image-gifted = DigitalBee Gifted.png
+        |rarity = Event
+        |color = Colorless
+        |energy = 20
+        |energylabel = less
+        |speed = 11.9
+        |attack = 1
+        |skincolor1 = #717779
+        |skincolor2 = #BAB088
+        |skincolor3 = #E7DAAA
+        |description=A virtual bee with malfunctioning AI. It corrupts the game itself.}}
+        <sup>''Not to be confused with Digital Bee's [[Digital Bee (NPC)|NPC]] counterpart
+        from the [[Ready Player Two]] event.''</sup>
+
+        '''Digital Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Event|Event bee]] that
+        hatches out of a [[Eggs#Event Bee Eggs|Digital Bee egg]], which is available in the [[Robo
+        Bear's Shop]] for 7,777,777 [[Honey]], 5 [[Drives#Red Drive|Red Drives]], 5 [[Drives#Blue
+        Drive|Blue Drives]], 5 [[Drives#White Drive|White Drives]], and 5 [[Drives#Glitched
+        Drive|Glitched Drives]] (1750 Cogs Total), along with a requirement of the [[Cog
+        Amulet|Diamond Cog Amulet]]. If Digital Bee is already owned, 1000 [[Ticket]]s will be
+        granted instead.
+
+        Like all other Event bees, this bee does not have a favorite treat, and the only way to make
+        it gifted is by feeding it a [[Star Treat|Star treat]] or [[Gingerbread Bear|Gingerbread
+        bears]].
+
+        Digital Bee likes the [[Dandelion Field]], [[Mountain Top Field]], and [[Coconut Field]]. It
+        dislikes the [[Pine Tree Forest]].
+
+        ==Stats==
+        * Collects 10 [[Pollen]] in 4 seconds.
+        *Makes 80 [[Honey]] in 4 seconds.
+        *-15% [[Stats#Speed|Movespeed]], +10% [[Critical Hits|Critical Chance]], up to +1000 Convert
+        Amount, up to +125 Gather Amount, up to +15 Attack, up to +25% Ability Rate
+        *🌟 [[Gifted Bee|Gifted Hive Bonus]]: +1% Ability Duplication Chance
+        ===Abilities===
+        *'''[[Ability Tokens#Glitch|[Glitch]]]''' Corrupts the Field you're in for 20s (+1s per
+        Level), granting collected [[Ability Tokens]] a chance to be duplicated (or \"Duped\").
+        **Duped Tokens hover over the field for a duration equal to the lifespan of the original
+        Ability Token x2 (+5% per Digital Bee Level). Standing beneath a Duped Token for 1s causes
+        it to activate.
+        **Increasing a field's Corruption increases the chance for abilities to be duplicated
+        (8%-20%) and boosts the pollen collection and Instant Conversion of Duped Abilities (x1.1 -
+        x3 Pollen from Duped Abilities, 20%-90% IC from Duped Abilities). Enhancing Digital Bee with
+        Drives causes this ability to grant more Corruption: Colored Drives increase the Corruption
+        of fields with matching flowers while [[Drives#Glitched Drive|Glitched Drives]] increase the
+        Corruption of all fields.
+        **While this is active, Digital Bee will occasionally spawn [[Ability Tokens|☺︎ Tokens]].
+        Activating a ☺︎ token temporarily increases the field's Corruption, causes all Duped Tokens
+        to be activated, and collects pollen equal to +50% of Digital Bee's gather amount from a
+        random arrangement of flowers, then multiplies the Pollen collected by +50% per Duped Token
+        collected with 50% being instantly converted. The flowers are stamped for 10s, granting them
+        a x2 pollen multiplier. The stamped flowers also come in a \"☺\", \"&\", \"?\", \"*\", or \"~\"
+        shape. The frequency of ☺︎ tokens increases with the number of Glitched Drives Digital Bee
+        has been enhanced with.
+        *'''[[Ability Tokens#Mind Hack|[Mind Hack]]]''' Hacks the minds of up to 3 nearby enemies
+        (+1 per every 3 lvls), stunning them for 3s (+0.1s per lvl). While hacked, the enemies take
+        25% more damage (+0.1% per Glitched Drive Digital Bee has been enhanced with). Hacking is
+        only half as effective against bosses.
+        **If in a field, this also spawns a [[Ability Tokens#☺|☺︎ token]].
+        *'''[[Ability Tokens#Map Corruption|[🌟Gifted Ability: Map Corruption]]]''' Digital Bee
+        corrupts a random field by a small amount for all players for 3 minutes (+15s per lvl). The
+        amount of Corruption is increased by the number of Drives Digital Bee has been enhanced with
+        up to 300 corruption (other players receive 1/3 of the corruption).
+        ** Fields with more flowers matching the color of the most recent colored Drive you've used
+        are more likely to be selected. If your most recent Drive is a Glitched Drive, the field is
+        completely random but gains 25% more Corruption.
+        *'''[[Passive Abilities#Drive Expansion|[Passive: Drive Expansion]]]''' Using a Drive while
+        this bee is active in [[Robo Bear Challenge|Robo Bear's Challenge]] corrupts the field
+        you're standing in by an amount proportional to the number of flowers that match the Drive's
+        color (Glitched Drives corrupt all fields equally). Additionally, it permanently enhances
+        this bee, increasing the Corruption of its abilities and granting it the following stats:
+        <br>- Red Drive: +0.03 [[Stats#Attack|Attack]]
+        <br>- Blue Drive: +2 [[Stats#Production Amount|Convert Amount]]
+        <br>- White Drive: +0.25 [[Stats#Gather Amount|Gather Amount]]
+        <br>- Glitched Drive: +0.05% [[System Page#Bee Ability Rate|Ability Rate]]
+        *Every 10 Glitched Drive Enhancements also grants a Hive Bonus of +0.03% Ability Duplication
+        Chance.
+        *Digital Bee can be enhanced with up to 500 of each type of Drive. You can view the number
+        of enhancements by clicking on Digital Bee's [[Hive Slot|hive slot]].
+        *Upon maxing out with all 2000 Drives, Digital Bee gains +10 [[Stats#Speed|Movespeed]] and
+        grants a Hive Bonus of +0.5% Ability Duplication Chance.
+        {{Stat|pollen = 10|pollentime = 4|honey = 80|honeytime = 4|rarity = event}}
+
+        ==Gallery==
+        <gallery navigation=\"true\" widths=\"185\" hideaddbutton=\"true\">
+        OriginalDigital.png|Digital Bee's unused face.
+        Digital Bee Face.png|Digital Bee's face.
+        Images.dbface gui.png|The decal used for Digital Bee.
+        FieldCorruption.png|A server wide message when a players' Digital Bee corrupted a field.
+        Gdbface gui.png|The decal used for Digital Bee's gifted variant.
+        Hackstatus.png|Digital Bee's Mind Hack ability.
+        File:Screenshot 2023-01-27 163310.png|The Field Corruption buff.
+        The Happy Token.png|Gifted Digital Bee's map corruption token.
+        CorruptedField.png|A corrupted Coconut Field.
+        Digitalpack.png|Digital Bee's icon in the [[Robux Shop]].
+        DigitalBeePack.jpg|Digital Bee's pack in the Robux Shop.
+        A Gifted digital bee hive slot.jpg|A Gifted Digital Bee Hive Slot.
+        Digital Bee HS.jpg|A Digital Bee Hive Slot.
+        A First Edition Digital Bee.png|A 1st Edition Digital Bee.
+        Gifted first edition digital bee in hive.jpg|A Gifted 1st Edition Digital Bee.
+        BSSRoboBearUpdateThumb.png|Digital Bee in the Background with [[Basic Bee]], [[Robo Bear]],
+        a [[cogmower]] and a [[mechsquito]] in a version of the game's icon.
+        File:BSSRoboBearUpdate2xThumb.png|Digital Bee in the Background with [[Basic Bee]], [[Robo
+        Bear]], a [[cogmower]] and a [[mechsquito]] in a version of the game's icon but with the
+        \"<span style=\"color:yellow\">X2 EVENT</span>\" text.
+        </gallery>
+
+        ==Trivia==
+        *Digital Bee first made its appearance in the [[Ready Player Two]] event.
+        **This also makes Digital Bee the first and only bee to make an appearance in the game
+        before being implemented as an actual bee.
+        *Digital Bee was available in an old package at the time of its release. It was the only way
+        to obtain the bee other than purchasing it in the Robo Bear Shop.
+        *Digital Bee is the only bee that requires an amulet to be unlocked as of right now. It is
+        also the only event bee to require multiple materials to be purchased.
+        *Digital Bee's favorite operating system is TempleOS.
+        *Digital Bee is currently the most expensive bee that was sold in the Robux Shop, with a
+        price of 2500 Robux.
+        *Digital Bee is the only bee that can be upgraded with the use of items, which are Drives.
+        *The shapes that Digital Bee makes when collecting a ☺︎ token are the same shapes made by
+        the bee's [[Digital Bee (NPC)|NPC counterpart]] during its field puzzles.
+        *Digital Bee is the only event bee that has a passive and gifted ability.
+        **It is also the only non-mythic bee to have a gifted ability.
+        *Digital Bee is the first and only event bee to have a negative stat, which its Movespeed
+        has a value of 11.9 which is below the normal speed value (14).
+        *Digital Bee's ☺ is a reference to an old computer malware called \"You are an idiot\" aka
+        \"youdontknowwhoiam\" which overloads your computer's RAM and CPU usage every time you try to
+        close the program; Digital Bee references this behavior with its ability.
+        *Digital Bee's gifted form's face resembles the blue screen of death, which is a common
+        problem for computers.
+        *Digital Bee is the only event bee other than Windy Bee, Gummy Bee, and Vicious Bee to have
+        an obtainment method not involving tickets.
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Event]]
+        [[Category:Colorless]]
+        [[Category:Robo Bear Challenge]]
+        [[zh-tw:數據蜂]]"}

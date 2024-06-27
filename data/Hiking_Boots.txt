@@ -1,0 +1,41 @@
+{"text": "{{Accessory
+        |image1=Hiking Boots.png
+        |description=A durable pair of boots helpful for traversing the mountain.
+        |cost=2,200,000 [[Honey]], 50 [[Strawberry|Strawberries]], and 50 [[Blueberry|Blueberries]].
+        |stats=+5 Player Movespeed<br>+10 Jump Power<br> +6 Movement
+        Collection<br>+1 Bee Attack
+        }}
+        {{Quote|A durable pair of boots helpful for traversing the mountain.}}
+        The '''Hiking Boots''' are a pair of [[:Category:Boots|boots]] that were added in the
+        [[Updates#2018.09.10|9/10/2018 update]]. They can be bought from the [[Pro Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|2,200,000}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Strawberry|50}}
+        |}
+
+        ==Stats==
+        *+5 [[System Page#Movespeed|Player Movespeed]].
+        *+10 [[System Page#Jump Power|Jump Power]].
+        *+6 [[Movement Collection]].
+        *+1 [[Bee Attack]]
+        ==Gallery==
+        <gallery>
+        Hikingbootsicon.png|The icon for the {{PAGENAME}}.
+        </gallery>
+        ==Trivia==
+        *These pair of boots are required along with the [[Propeller Hat]] to access [[Dapper Bear's
+        Shop]].
+        *These could have been obtained from [[Sun Bear]] after completing his tenth quest before he
+        left on 10/8/2018.
+        *Before the [[Updates#2018.11.25|11/25/2018 update]], this item, [[Basic Boots]], and the
+        [[Beekeeper's Boots]] didn't require any [[Crafting|crafting materials]].
+        *Unlike the [[Gummy Boots]] and [[Coconut Clogs]], these, along with the Basic Boots and
+        Beekeeper's Boots, were obtainable by quests.
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Boots]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

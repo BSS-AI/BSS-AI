@@ -1,0 +1,46 @@
+{"text": "{{Bee Gate|title1 = Honey Bee Gate
+        |image1 = HoneyBeeGate.png
+        |caption1 = The Honey Bee Gate.
+        |mobs = * [[Werewolf]].
+        * [[Cave Monster]]s.
+        * [[Mantis]]es.
+        * [[Scorpion]]s.
+        |bears = * [[Polar Bear]].
+        * [[Gifted Riley Bee]].
+        * [[Robo Bear]].
+        *[[Honey Bee (NPC)]].
+        |shops = * [[Royal Jelly Shop]].
+        * [[Badge Bearer's Guild]].
+        * [[Red HQ]].
+        |fields = * [[Cactus Field]].
+        * [[Pumpkin Patch]].
+        * [[Pine Tree Forest]].
+        * [[Rose Field]].
+        |extras = * [[Red Teleporter]].
+        * [[Lion Bee Gate]].
+        *[[Red Field Booster]].
+        * [[Strawberry Dispenser]].
+        * [[Top Riley Bee Helpers]].
+        * [[Daily Top Red Collectors]].
+        * [[All-Time Top Red Collectors]].
+        * [[Blue Cannon]].
+        * [[Special Sprout Summoner]].
+        * [[Werewolf's Cave]].
+        * [[Obstacle Courses#Cloud Obby|Cloud Obby]].
+        * [[Obstacle Courses#Diamond Mask Room|Diamond Room]].
+        }}The '''Honey Bee Gate''', also called the '''15 Bee Gate''', is a [[:Category:Gates|gate]]
+        that requires 15 [[bees]] to be able to pass through.
+
+        It is given its name from the large [[Honey Bee]] located on top of it.
+
+        == Trivia ==
+        *This gate has the highest number of [[fields]] behind it, which is four.
+        *There were numerous ways to bypass the gate without 15 bees, but as of the
+        [[Updates#2019.09.28|9/28/2019 update]], it will always teleport the player back to spawn.
+        *It has the second-most quest givers, with the Starter Zone beating it with 5.
+        *This gate holds the ramp that leads to the [[Lion Bee Gate]], also known as the the 25 Bee
+        Gate.
+        *This gate has the most assets in it, with 19 of them.
+        {{MapNav}}
+        [[Category:Gates]]
+        [[Category:Locations]]"}

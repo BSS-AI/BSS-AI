@@ -1,0 +1,90 @@
+{"text": "{{Bear
+        |image = RoboBearHD.png
+        |type = Robot
+        |location = Between the Red HQ and the Badge Bearer's Guild, behind the Rose Field
+        |bees = 15+ (during Beesmas 2022)
+        30+ (to obtain Broken Drive in 30 Bee Zone)
+        |basecolor1 = #364854
+        |basecoloramount = 1
+        |shadecoloramount = 2
+        |shadecolor1 = #003200
+        |shadecolor2 = #0D571C
+        |snoutcoloramount = 1
+        |snoutcolor1 = #0D441A
+        |torsocolor1 = #242B34
+        |torsocoloramount = 1
+        |armscolor = #364854
+        |legscolor = #364854
+        |othercolor1 = #8DFF09
+        |othercoloramount = 1
+        |othername = Antenna
+        }}
+
+        '''Robo Bear''' is an [[:Category:NPC|NPC]] located in the 15 Bee Zone, found between the
+        [[Badge Bearer's Guild]] and [[Red HQ]], and behind the [[Rose Field]]. In the 2022 Beesmas
+        update, players can interact with them to start the [[Robo Bear Challenge]] after they
+        finish their first quest, \"Repairing Robo Bear.” To completeCorrupting The Glitched Drive”
+        quest.
+
+        During Beesmas 2022, players were able to complete the quest by purchasing a white drive in
+        [[Bee Bear's Catalog]], completing Science Bear's Beesmas 2022 quest for a red drive,
+        completing Dapper Bear's Beesmas 2022 quest for a blue drive, and completing [[Bee Bear|Bee
+        Bear's]] “Decorating For Drives” quest for a glitched drive.
+
+
+        == Quests==
+        ==Dialogue==
+        == 2022 Beesmas Quest – Party Cake ==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Robo Bear's Party Cake
+        |
+        *Collect 524,288 [[Goo]].
+        *Collect 131,072 Goo from the [[Rose Field]].
+        *Collect 65,536 Goo from the [[Sunflower Field]].
+        *Collect 128 Tokens from [[Puffshroom]]s.
+        *Defeat 64 [[Ants]].
+        *Collect 32 Tokens from [[Leaves]].
+        *Purchase 16 Upgrades in [[Robo Bear Challenge|Robo Bear’s Challenge]].
+        *Defeat 8 [[Cogmower]]s.
+        *Collect 8 [[Field Dice]].
+        *Collect 8 [[Jelly Beans]].
+        *Collect 4 [[Hard Wax]]es.
+        *Collect 4 [[Gingerbread Bear]]s.
+        *Collect 2 [[Glitter]]s.
+
+        |2,097,152 [[Honey]]<br>32x [[Snowflake]]s<br>8x [[Stinger]]s<br>4x
+        [[Ticket]]s<br>4x [[Micro-Converter]]s<br>2x [[Smooth Dice]]<br>1x [[White
+        Balloon]]<br>1x [[Robo Pass]]<br>Access to [[Robo Bear's Party Cake]].
+        |}
+        == Gallery ==
+        <gallery widths=\"150px\">
+        RoboBearModel.png
+        Robo Bear (Inactive).png|Robo Bear before finishing their quest.
+        Robo bear fan blog.jpg|Robo Bear's first design (Test Realm).
+        RoboBearXFace.png|Robo Bear's face before finishing their quest.
+        RoboBearFace.png|Robo Bear's face.
+        Robo1.png|Robo Bear's unused face.
+        Robo2.png|Robo Bear's unused face (blinking).
+        BSSRoboBearUpdateThumb.png|Robo Bear in the background with [[Basic Bee]], [[Digital Bee]],
+        a [[cogmower]], and a [[mechsquito]] in the game's previous icon.
+        </gallery>
+
+        ==Trivia==
+        *They are the second NPC in the game that can initiate a challenge, the first being [[Stick
+        Bug]].
+        *Robo Bear uses the [https://www.roblox.com/bundles/82/Robot-Animation-Pack Robot Animation
+        Pack].
+        *They are one of the few quest givers who own a shop, the others being [[Mother Bear]],
+        [[Dapper Bear]], [[Gummy Bear]], and [[Bee Bear]].
+
+        {{QuestNav}}
+        [[Category:Bears]]
+        [[Category:NPC]]
+        [[Category:Quest giver]]
+        [[Category:Robo Bear Challenge]]
+        [[Category:Robo Bear]]"}

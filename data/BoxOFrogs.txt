@@ -1,0 +1,54 @@
+{"text": "{{Consumables
+        |image = Boxofrogs.png
+        |description = Summons 3 Frogs that last for 3 minutes.
+        |cooldown = None
+        |cap = 15
+        }}
+        {{Color|Box-O-Frogs}} is an [[:Category:Inventory|inventory item]] that was added in the
+        [[Updates#2019.12.25|Beesmas 2019 update]]. When used, three regular/gifted [[frog]]s will
+        be summoned in any [[Fields|field]] the player is currently standing in, which last for
+        three minutes, it used to collect [[Ability Tokens|tokens]], produce [[Passive
+        Abilities#Gathering Bubbles|bubbles]] around the field, and attack hostile [[mobs]].
+
+        It can also be used outside of a field, but the frogs summoned will aimlessly hop, which
+        then won’t do anything unless one of the frogs is in the field.
+
+        ==Ways to Obtain==
+        *Completing 111 [[Brown Bear]] quests rewards 5 Box-O-Frogs.
+        *Completing 333 [[Brown Bear]] quests rewards 3 Box-O-Frogs.
+        *Completing [[Black Bear]]’s \"Bubble Trouble\" quest rewards 1 Box-O-Frogs and other items.
+        *Completing [[Black Bear]]'s \"Boss Battles\" quest rewards 3 Box-O-Frogs and other items.
+        ===Outdated Ways===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        *Completing [[Onett|Onett’s]] “Yard Art On The Lid” rewarded 1 Box-O-Frogs and other items.
+        *Completing [[Bubble Bee Man]]'s \"B.B.M's Naughty List\" rewarded 11 Box-O-Frogs and other
+        items.
+        *Giving [[Bubble Bee Man]] a present during Beesmas 2021 gave 5 Box-O-Frogs and other items.
+        *Purchasing the [[Robux Shop#Items|Stocking Stuffer Special pack]] (400 Robux) in the
+        [[Robux Shop]] gave 10 Box-O-Frogs and other items.
+        * Opening the [[Ornament Presents|Shady Present]] gave 6 Box-O-Frogs and other items.
+        *Completing [[Bee Bear]]’s \"Festive Wreath Workshop 8\" quest rewarded 3 Box-O-Frogs and
+        other items.
+        *Giving [[Bubble Bee Man]] a present during Beesmas 2020 gave 6 Box-O-Frogs and other items.
+        *Redeeming certain expired codes:
+        **FestiveFrogs (Gave 1 Box-O-Frogs + other items)
+        **3YearParty (Gave 1 Box-O-Frogs + other items)
+        *A low chance to drop from [[Onett's Lid Art]].
+        *A low chance to drop from [[Stockings|Brown Bear's Stockings]].
+        *Completing [[Bee Bear|Bee Bear's]] [[Beesmas|Beesmas 2022]] 9th quest gives 1 Box-O-Frogs.
+        |}
+
+        ==Trivia==
+        *Box-O-Frogs and [[Night Bell]]s are the only two consumable items that summon mobs.
+        * Box-O-Frogs are one of the two ways to summon a frog (The other being [[Tadpole Bee]]'s
+        [[Ability Tokens#Summon Frog|Summon Frog ability]]).
+        *Box-O-Frogs is one of the few non-farmable items, making them more of a collectible than
+        actual useful item.
+        *Frogs summoned in the [[Gummy Bear's Lair]] fall through the floor.
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Inventory]]"}

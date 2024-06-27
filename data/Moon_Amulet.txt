@@ -1,0 +1,53 @@
+{"text": "[[File:Moon Amulet.png|thumb|150px|The Moon Amulet icon.]]
+        The '''Moon Amulet''' is an [[amulet]] created by spending 100 [[Moon Charm|Moon Charms]] at
+        the [[Moon Amulet Generator]]. This amulet gives a few [[Buffs & Debuffs|buffs]] and
+        allows the player to walk on the moon-shaped platforms (located at the back of [[Dapper
+        Bear’s Shop]], in the [[Obstacle Courses#Diamond Room|Diamond Room]], and at the [[Bear
+        Gate|30 Bee Zone Obby]]) at [[Day/Night Cycle|night]].
+
+        Each time the player purchases the amulet, the buffs given tend to improve. The player will
+        always receive a [[capacity]] expansion, which starts at +25,000 capacity and progressively
+        increases by 25,000. The buff is capped off at 250,000 extra capacity.
+
+        When using the generator, a message will appear in the chat, saying, \"🌙 The moon seems to
+        grow brighter... 🌙.\" If the player has maxed out their capacity buff, the message will
+        instead say, \"🌙 The moon seems happy! 🌙.\"
+
+        When the player generates a Moon Amulet, the following audio plays:
+        [[File:MoonAmuletGet.ogg]]
+
+        == Possible Buffs ==
+        [[File:Moon Amulet Generator.jpg|thumb|220px|The Moon Amulet
+        Generator.]][[File:Anmerkung_2020-05-25_135807.png|thumb|A Moon Amulet's stats.]]
+        * +25,000 to +250,000 Capacity (Guaranteed)
+        * +1% to +5% [[Ticket]] Chance (Very Rare)
+        * +1 to +3 [[Movement Collection]] (Very Rare)
+        * One of the following:
+        ** +20% to +50% [[System Page#White Pollen|White Pollen]]
+        ** +3% to +10% [[System Page#Bond From Treats|Bond from Treats]]
+        * One of the following;
+        ** +1% to +5% [[System Page#Pollen|Pollen]]
+        ** +50% to +150% [[Pineapple Patch]] Pollen
+        ** +10% to +25% [[System Page#Bee Gather Pollen|Pollen from Bees]]
+        ** +2% to +8% [[System Page#Honey Per Pollen|Honey Per Pollen]]
+        ** +1% to +5% [[System Page#Instant Conversion|Instant Conversion]]
+        ** +10% to +20% [[System Page#Pollen From Tools|Pollen From Tools]]
+        ** +5% to +12% [[System Page#Bond From Battle|Bond from Battle]]
+
+
+        == Trivia ==
+        [[File:Moon amulet glitch.png|thumb|230px|The Moon Amulet glitch.]]
+        * There's a [[Glitches|glitch]] that when the player upgrades the Moon Amulet for the 7th
+        time, instead of getting +175K capacity, they will get +150K capacity again. However, on the
+        8th upgrade, it'll go back up to +175K and it continues from there until reaching the max of
+        +250K capacity.
+        * This and the [[King Beetle Amulet]] are the only amulets that don't have different tiers.
+        * Despite the capacity capping at +250K, the quality of the amulet continues to rise for
+        another 10 Moon Amulets generated, meaning that the player will need to generate 25 or more
+        Moon Amulets in order to get the possibility of generating the best amulet.
+        * While the current maximum Honey Per Pollen stat is +8%, it was briefly possible to receive
+        +9%, although this is not possible anymore.
+
+        {{Items}}
+        [[Category:Amulet]]
+        [[Category:Accessories]]"}

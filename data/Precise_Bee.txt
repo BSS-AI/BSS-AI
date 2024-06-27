@@ -1,0 +1,127 @@
+{"text": "{{Bee
+        |color = Red
+        |rarity = Mythic
+        |image-orig = Precise Bee.png
+        |image-gifted = PreciseBee Gifted.png
+        |description = This sharpshooting bee is always on point and expects the same of you.
+        |energy = 40
+        |speed = 11.2
+        |attack = 8
+        |skincolor1 =#450302
+        |skincolor2 =#CB4144
+        |skincolor3 =#840909
+        }}
+        '''Precise Bee''' is a [[:Category:Red|Red]] [[Bees/Mythic|Mythic bee]].
+
+        Precise Bee’s favorite type of [[Treats|Treat]] is [[Sunflower Seed|Sunflower seeds]].
+        Precise Bee likes the [[Mountain Top Field]] and [[Rose Field]]. It dislikes the [[Bamboo
+        Field]] and [[Pine Tree Forest]].
+
+        == Stats ==
+
+        * Collects 20 [[Pollen]] in 4 seconds.
+        * Makes 80 [[Honey]] in 4 seconds.
+        * +7 [[Stats#Attack|Attack]], -20% Movespeed, +10 [[Stats#Gather Amount|Gather Amount]],
+        +100% [[Energy]], +5% [[Critical Hits|Critical Chance]], +3% Super-Crit Chance.
+        * 🌟[[Gifted Bee|Gifted Hive Bonus]]: +3% Super-Crit Chance.
+
+        ===Abilities===
+
+        * '''[[Ability Tokens#Target_Practice|[Target Practice]]]''' Causes the bee to fly into the
+        air and project 3 targets on the field for a few seconds. Running on a target activates it.
+        ** When all 3 targets are activated, this collects all ability tokens and grants a stack of
+        [[Buffs & Debuffs#From Ability Tokens|Precision]], which grants +2% Super-Crit Chance
+        for 60s and stacks up to 10 times. Super-Crits can only occur for Critical hits and gain x2
+        power and 100% [[Instant Conversion]].
+        ** After a few seconds, any target activated will generate a [[Ability Tokens#Focus|Focus]]
+        token and be shot, collecting pollen equal to double this bee's attack (+10% per
+        [[Bond|Level]]) from 29 [[Flowers]]. With Flame Heat, the shots gain up to x4 Pollen and up
+        to 50% instant conversion. Any unactivated target spawns a [[Ability Tokens#Boost|Red
+        Boost]] token instead.
+        ** If the player is shot while standing on a target, this collects all ability tokens and
+        consumes your Flame Heat to instantly convert Pollen in your bag, with half turning into
+        Honey Tokens. The amount converted is equal to 50% of your Convert Total + 10x this bee's
+        convert amount and scales up to x10 with the Flame Heat consumed and up to x3 with your
+        current field's boost stacks.
+        ** If Gifted: When only the farthest target is activated, it will summon a Precise Mark
+        which grants +7% [[System Page#Critical Chance|Critical Chance]] and Super-Crit Chance and
+        stacks up to 3 times.
+        ** If the player collects a Target Practice token that is outside the field, they will
+        immediately be granted either the Precision or the Focus buff. The chances of getting
+        Precision buff are 20%, and 80% for Focus buff.
+        *'''[[Passive Abilities#Sniper|[Passive: Sniper]]]''' When fighting mobs, this bee uses
+        slow, long ranged shots that are more accurate and deal x2 damage. The accuracy is
+        calculated as if the bee was 1 level higher (2 if gifted), and it can never be below 5%. If
+        the shot is a [[Critical Hits|Critical Hit]], the reload time after shots is reduced by 50%.
+        If it's a Super-Crit, it's reduced by 75%.
+
+        {{Stat|pollen = 20|pollentime = 4|honey = 80|honeytime = 4|rarity = mythic}}
+
+        == Gallery ==
+        <gallery>
+        Precise Bee Face.png|Precise Bee's Face.
+        PreciseBeeFace2.PNG|Precise Bee’s original face.
+        Target Practice.png|Precise Bee's Target Practice ability.
+        Precise Bee Target Practice in action.png|Precise Bee's Target Practice in action.
+        NormalTarget.png|A normal Precise Target.
+        PurplePreciseTarget.png|A purple Precise Target, hitting only this target in a Target
+        Practice summons a Precise Mark.
+        ActivatedPreciseTarget.png|An activated Precise Target.
+        PreciseBullet.png|The Bullet Precise Bee fires when the player reached a target in its
+        Target Practice.
+        Precise Mark.png|A Precise Mark.
+        Beesmas 2021 Thumbnail.png|Precise Bee in the background with [[Dapper Bear]], [[Basic
+        Bee]], and [[Buoyant Bee]].
+        Precise Pack.png|The Precise Pack.
+        GiftedPreciseSlot.png|A gifted Precise Bee slot.
+        </gallery>
+
+        == Trivia ==
+        * This bee along with [[Demon Bee]] and [[Fire Bee]] are the only red bees currently in the
+        game whose favorite treat are not strawberries.
+        ** This is the only red Mythic Bee who doesn’t like strawberries.
+        * The Precise Bee is the only Mythic Bee that does not have a [[Gifted Bee|Gifted]] ability.
+        * Precise Bee's attack is based on a long-ranged weapon with a sharp scope, such as a
+        sniper.
+        * This is the only bee that can attack [[Mobs]] from outside the standard bee range, and
+        likewise the only bee that shoots projectiles towards hostile mobs to deal damage.
+        * This bee's attack changes appearance when landing a Critical Hit or Super-Crit. It fires a
+        bigger projectile when landing a Critical Hit, and fires a purple projectile when landing a
+        Super-Crit. This makes Precise Bee the only bee to have a standard attack that changes
+        depending on whether a Critical hit (Or Super-Crit) are rolled.
+        * This bee, Buoyant Bee, and [[Fuzzy Bee]] are the only mythic bees to be added since the
+        release of the original three Mythic bees, which are [[Vector Bee]], [[Tadpole Bee]] and
+        [[Spicy Bee]].
+        **Precise Bee and Buoyant Bee were both added in the 12/26/2021 update.
+        * This bee, Vector Bee, Spicy Bee and Buoyant Bee all have glowing parts when gifted.
+        ** This bee is the only bee that has a part of their body that glows even if it is not
+        gifted.
+        * This, along with Tabby, are the only bees that have an ability that grants Super-Critical
+        chance.
+        * This bee is the only bee to always hit a level 26 mob (27 if gifted) when it is level 25.
+        Its passive guarantees that it never misses against mobs one level higher (two if gifted.)
+        * Unlike Fuzz Bombs and Bubbles, players cannot activate each other's targets.
+        ** The Precise Bee target practice of other players is seen as gray to prevent confusion on
+        which one is the player's.
+        ** If the \"Hide Other Bees\" option were activated, other player's targets will be invisible
+        instead.
+        * This bee, [[Cobalt Bee]], [[Crimson Bee]], [[Photon Bee]], [[Windy Bee]], [[Tadpole Bee]],
+        and [[Ninja Bee]] are the only bees that have a trail.
+        * Currently, there is a [[Glitches|Glitch]] with Gifted Precise Bee's Precise Mark, that
+        even after the farthest target is activated, it is supposed to summon the mark, but it often
+        doesn't spawn.
+        **Another glitch can occur where when a target is hit, it does not function which commonly
+        occur due to server lag.
+        **After giving [[Gifted Riley Bee]] a [[Present]] during the Beesmas 2022 Event, [[Gifted
+        Riley Bee]] says about how people would die for a Precise Mark, possibly referencing this
+        specific bug.
+        * Precise Bee's attack can still be seen by other Players even if they have their Hide Other
+        Bees option on.
+        * Factoring in the Passive and the Attack, this Bee has the Highest Attack Damage, only
+        surpassed by Gummy Bee when the Gummy Bear Morph ability is active.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Mythic]]
+        [[Category:Red]]
+        [[zh-tw:精準蜂]]"}

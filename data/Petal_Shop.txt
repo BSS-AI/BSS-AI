@@ -1,0 +1,71 @@
+{"text": "{{Stores
+        |image1 = Petal Shop new.png
+        |caption1 = The interior of the Petal Shop.
+        |row1 = In the cave near the Windy Bee Gate, under the Wind Shrine.
+        }}
+        The '''Petal Shop''' is a [[:Category:Shops|shop]] located past the [[Windy Bee Gate]].
+        Inside, the player can craft the [[Petal Wand]], the [[Petal Belt]] and the [[Petal
+        Planter]]. The [[All-Time Top White Collectors]] Leaderboard and [[Daily Top White
+        Collectors]] Leaderboard can also be found here.
+
+        It is called the Petal Shop because of the giant petals draped across the back wall. In
+        addition, each of its items require a [[Spirit Petal|spirit petal]] to
+        [[:Category:Crafted|craft]] (except for the Petal Planter).
+        {{clear}}
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Petal Wand-0.png|80px|center]]<div style=\"text-align: center;\">[[Petal
+        Wand]]</div>
+        |{{Cost|Honey|{{Hover|1.5B|1,500,000,000}}}}<br>{{Cost|Spirit
+        Petal|1}}<br>{{Cost|Star
+        Jelly|10}}<br>{{Cost|Glitter|25}}<br>{{Cost|Enzymes|75}}
+        |Collects 5 [[pollen]] from 37 patches in 0.7s and boosts it by 100%. Every 3rd swing fires
+        a Petal Shuriken that causes [[bees]] to instantly convert [[pollen]]!
+        |-
+        |[[File:Petal Belt.png|80px|center]]<div style=\"text-align: center;\">[[Petal
+        Belt]]</div>
+        |{{Cost|Honey|{{Hover|15B|15,000,000,000}}}}<br>{{Cost|Star
+        Jelly|25}}<br>{{Cost|Glitter|50}}<br>{{Cost|Glue|100}}<br>{{Cost|Spirit
+        Petal|1}}
+        |Drape these petals about your waist to harness unlimited flower power.
+
+        * +250,000 [[System Page#Capacity Multiplier|Capacity]].
+        * +50% Capacity.
+        * +100 [[System Page#Convert Amount|Convert Amount]].
+        * +100% [[Loot Luck]].
+        * +75% [[System Page#Honey From Tokens|Honey From Tokens]].
+        * +25% [[System Page#Buzz Bomb Pollen|Buzz Bomb Pollen]].
+        * +1 [[System Page#Colorless Attack|Colorless Bee Attack]].
+        * [[Passive Abilities#Petal Storm|+Passive: Petal Storm]].
+        |-
+        |[[File:Petalplanter.png|80px|center]]<div style=\"text-align: center;\">[[Petal
+        Planter]]</div>
+        |{{Cost|Honey|{{Hover|5T|5,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|100}}<br>{{Cost|Glitter|100}}<br>{{Cost|Soft
+        Wax|250}}<br>{{Cost|Swirled Wax|50}}<br>{{Cost|Super Smoothie|25}}
+        |Alone, grows in about 14 hours.<br>Stores around 100b Pollen.<br>Grants bonus
+        [[Jelly Beans]], [[Field Dice]] and Glitter.
+        * Grows up to 50% faster in [[Fields]] with White flowers.
+        * Colorless [[bees]] are 50% more likely to sip [[Nectar]] from this.
+        * Grants 33% bonus White pollen on harvest.
+        * Grants +50% Comforting and Satisfying Nectar
+        |}
+
+        == Trivia ==
+        * The wall behind the Petal Shop is semi-transparent and can be walked through. Behind it,
+        there's a corridor which leads to a [[Royal Jelly#Star Jelly|star jelly]] token that can be
+        seen in the [[Mazes#Blue Maze|Blue Maze]], from where the jellybeans token is found. The
+        token awards one star jelly.
+        ** There used to be the [[Mysterious Figure]] in the place of the Star Jelly.
+        * Occasionally, rain from [[clouds]] in the [[Pepper Patch]] may be visible in the Petal
+        Shop.
+        **The beam of a [[sprout]] can also be seen behind the semi-transparent wall.
+
+        {{MapNav}}
+
+        [[Category:Shops]]
+        [[Category:Locations]]"}

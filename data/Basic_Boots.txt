@@ -1,0 +1,45 @@
+{"text": "{{Accessory
+        |image1=Basic Boots.png
+        |description=Collect pollen as you walk through flowers!
+        |cost=4,400 [[Honey]], 3 [[Sunflower Seed|Sunflower Seeds]], and 3
+        [[Blueberry|Blueberries]].
+        |stats=+4 Player Movespeed<br>+2 Movement Collection
+        }}
+        {{Quote|Collect [[pollen]] as you walk through [[flowers]]!}}
+        The '''Basic Boots''' are a pair of [[:Category:Boots|boots]] that were added in the
+        [[Updates#2018.09.10|9/10/2018 update]]. They can be bought from the [[Noob Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|4,400}}<br>{{Cost|Sunflower Seed|3}}<br>{{Cost|Blueberry|3}}
+        |}
+
+        ==Stats==
+        *+4 [[System Page#Movespeed|Player Movespeed]].
+        *+2 [[Movement Collection]].
+
+        ==Gallery==
+        <gallery>
+        BasicBoots.png|The icon for the {{PAGENAME}}.
+        Hivesticker yellow walking wiggly person.png|The Yellow Walking Wiggly Person sticker
+        obtained using the Basic Boots.
+        </gallery>
+
+        ==Trivia==
+        *These could've been obtained from [[Sun Bear]] by completing his first 5 [[quests]] before
+        he left on 10/8/2018.
+        *These are the only boots that don't grant [[System Page#Jump Power|Jump Power]].
+        *Before the [[Updates#2018.11.25|11/25/2018 update]], this item, the [[Hiking Boots]], and
+        the [[Beekeeper's Boots]] didn't require any [[crafting]] materials.
+        *Unlike the [[Gummy Boots]] and [[Coconut Clogs]], these, along with the Hiking Boots and
+        Beekeeper's Boots, were obtainable from quests.
+        *These boots are used to obtain the [[Sticker#Sticker Index|Yellow Wiggly Walking Person
+        Sticker]], by walking over a certain flower in the Starter, 5, and 10 bee zones (Flower is
+        different for every player).
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Boots]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

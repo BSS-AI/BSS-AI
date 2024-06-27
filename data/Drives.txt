@@ -1,0 +1,136 @@
+{"text": "'''Drives''' are inventory items that were introduced in the [[Updates#2022.12.26|12/26/22
+        update]]. They can be used to repair [[Robo Bear]], purchase [[Digital Bee]], upgrade
+        Digital Bee, and grant boosts during a round of the [[Robo Bear Challenge]]. All Drives
+        (except Broken Drives) can be purchased from Robo Bear's Shop for 50 Cogs (100 Cogs for
+        Glitched, and 5 of each other drive), and an increasing amount of Honey with each purchase.
+        ==List of Drives==
+
+        ===White Drive===
+        [[File:WhiteDrive.png|thumb|150x150px]]
+        The '''White Drive''', when used, grants the following boosts during a single round of Robo
+        Bear's Challenge:
+
+        *x1.25 [[System Page#White Pollen|White Pollen]]
+        *x1.25 [[System Page#White Field Capacity|White Field Capacity]]
+        *+1 [[Bee Attack#Colorless Bee Attack|Colorless Bee Attack]]
+
+        Ways to Obtain:
+        *Purchasing it for 50 [[Cog]]s and 250,000 Honey (Honey price increases each time you buy
+        one with an unknown cap) in Robo Bear's Shop.
+        *Chance to receive from Robo Bear's Challenge.
+        *Completing [[Science Bear]]’s \"Repairing The White Drive\" quest gives 1 White Drive,
+        replacing the Broken Drive.
+        The methods below are no longer possible.
+
+        * Purchasing it in Bee Bear's Catalog for 222 [[Snowflake]]s.
+        * Purchasing the [[Robux Shop|Digital Bee pack]] for 2500 Robux granted 10 White Drives +
+        other stuff.
+        * As a reward for finishing your own [[Robo Party]].
+
+        ===Red Drive===
+        [[File:RedDrive.png|thumb|150x150px]]
+        The '''Red Drive''', when used, grants the following boosts during a single round of Robo
+        Bear's Challenge:
+
+        *x1.25 [[System Page#Red Pollen|Red Pollen]]
+        *x1.25 [[System Page#Red Field Capacity|Red Field Capacity]]
+        *+1 [[Bee Attack#Red Bee Attack|Red Bee Attack]]
+
+        Ways to Obtain:
+        *Purchasing it for 50 [[Cog]]s and 250,000 [[Honey]] (Honey price increases each time you
+        buy one with an unknown cap) in [[Robo Bear's Shop]].
+        *Chance to receive from Robo Bear's Challenge.
+        *Completing [[Panda Bear]]'s \"Ready For The Red Drive?\" Quest gives the Red Drive (Requires
+        you to finish [[Science Bear]]'s White Drive quest first)
+        The methods below are no longer possible.
+
+        * Completing [[Science Bear|Science Bear's]] 2022 [[Beesmas]] quest.
+        * Purchasing the Digital Bee pack for 2500 Robux granted 10 Red Drives + other stuff.
+        * As a reward for finishing your own Robo Party.
+        * Opening the Festive Gift Box rewards 5 Red Drives.
+
+        ===Blue Drive===
+        [[File:BlueDrive.png|thumb|150x150px]]
+        The '''Blue Drive''', when used, grants the following boosts during a single round of Robo
+        Bear's Challenge:
+
+        *x1.25 [[System Page#Blue Pollen|Blue Pollen]]
+        *x1.25 [[System Page#Blue Field Capacity|Blue Field Capacity]]
+        *+1 [[Bee Attack#Blue Bee Attack|Blue Bee Attack]]
+
+        Ways to Obtain:
+        *Purchasing it for 50 [[Cog]]s and 250,000 [[Honey]] (Honey price increases each time you
+        buy one with an unknown cap) in Robo Bear's Shop.
+        *Chance to receive from Robo Bear's Challenge.
+        *Completing [[Dapper Bear]]'s \"Barter For The Blue Drive\" Quest grants 1 Blue Drive
+        (Requires you to finish [[Science Bear]]'s White Drive quest first)
+        The methods below are no longer possible.
+
+        * Completing Dapper Bear's 2022 [[Beesmas]] quest.
+        * Purchasing the Digital Bee pack for 2500 Robux granted 10 Blue Drives + other stuff.
+        * As a reward for finishing your own Robo Party.
+
+        ===Glitched Drive===
+        [[File:GlitchedDrive.png|thumb|150x150px]]
+        The '''Glitched Drive''', when used, grants the following boosts during a single round of
+        Robo Bear's Challenge:
+
+        *x1.25 [[Pollen]]
+        *x1.25 [[Field Capacity]]
+        *+1 [[Bee Attack#Regular Bee Attack|Bee Attack]]
+
+        Ways to Obtain:
+        *Purchasing it for 100 [[Cog]]s, 5 Red Drives, 5 Blue Drives, 5 White Drives, and 1,000,000
+        [[Honey]] (Honey price increases each time you buy one with an unknown cap) in Robo Bear's
+        Shop. It requires a Gold Cog Amulet to unlock the ability of purchasing it.
+        *Completing 10 or more rounds of Robo Bear's Challenge has a chance to reward a Glitched
+        Drive (Chance increases as the player finished the challenge on a higher round).
+        *Completing [[Science Bear]]'s \"Corrupting The Glitched Drive\" quest (Requires you to
+        complete Science Bear's White Drive quest, Dapper Bear's Blue Drive quest, and [[Panda
+        Bear]]'s Red Drive quest).
+        The methods below are no longer possible.
+
+        * Completing [[Bee Bear|Bee Bear's]] 5th 2022 [[Beesmas]] quest.
+        * Purchasing the Digital Bee pack for 2500 Robux granted 10 glitched drives + other stuff.
+        * Purchasing the Mondo Robo-Bundle for 4500 Robux grants 10 glitched drives + other stuff.
+        * Purchasing the Glitching Bundle in [[Bee Bear's Catalog]] for 111 [[Gingerbread
+        Bear|Gingerbread Bears.]]
+        * As a reward for finishing your own Robo Party.
+        * Opening the Mondo Gift Box rewards with 10 Glitched Drives.
+
+        === Broken Drive ===
+        {{Main|Broken Drive}}
+        [[File:Broken Drive.png|thumb|113x113px]]
+        The '''Broken Drive''' is a unique drive that can be collected only once, from an area
+        behind the [[Robo Pass Dispenser]]s. Once collected, it initiates Science Bear's drive
+        questline. After completing Science Bear's quest the Broken Drive will be replaced with a
+        White Drive.
+
+        Ways to Obtain:
+        *Found behind the Robo Pass Dispensers in the [[Bear Gate|30 Bee Zone]].
+
+        ==Gallery==
+        <gallery>
+        File:Drivers coolio.jpg|Five White Drives, Red Drives, Blue Drives, and Glitched Drives in
+        the Inventory Menu.
+        File:Brokendrivetoken.jpg|A Broken Drive Token.
+        File:Drives1.png|The Red Drive, White Drive, Blue Drive, and Glitched Drive in Robo Bear's
+        Shop.
+        File:WhiteDrive1.png|A White Drive along with other items as a reward for completing a
+        quest.
+        File:GlitchedDrive1.png|A Glitched Drive along with other rewards for getting to at least
+        Round 20 in Robo Bear's Challenge.
+        File:DigitalBeeDrives1.png|Fifty Red Drives, fifty White Drives, fifty Blue Drives, and
+        twenty-five Glitched Drives enhancing a Digital Bee.
+        </gallery>
+
+        ==Trivia==
+
+        *Not including the Broken Drive, these are the only items that can permanently enhance a
+        [[Bees|bee]].
+        * Not including the Broken Drive, these are the only items that can only be used during a
+        challenge.
+        {{Items}}
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Robo Bear Challenge]]"}

@@ -1,0 +1,43 @@
+{"text": "{{Consumables
+        |image = Translator.png
+        |description = A device used to decipher languages you don't understand.
+        |cooldown = N/A
+        }}'''Translators''' are [[:Category:Inventory|inventory items]] that allow the user to speak
+        with [[Gifted Riley Bee]], [[Gifted Bucko Bee]], and [[Stickbug|Stick Bug]].
+
+        To use a translator, the player needs to talk to the [[:Category:NPC|NPC]] they want to use
+        the translator on. The NPC will talk to the player in its language. It will then prompt the
+        player the option to give the translator to the NPC or leave. Clicking on the option to give
+        the NPC the translator will allow the player to talk and receive quests from the NPC.
+        Translators are single-use - once the player gives an NPC a translator, the translator will
+        be taken away from their inventory, but the player will be able to speak with them forever.
+        If the player accidentally uses a translator on an NPC, they can leave the game as the
+        translator only gets taken away after the player finishes speaking to that NPC.
+
+        All three translators can only be obtained from [[Science Bear]]. He rewards the player with
+        a translator after completing the following quests: \"Limits of Language\", \"Beesperanto\", and
+        \"Epistemological Endeavor\" (which are the 21st, 26th and 31st quests).
+
+        == Trivia ==
+        *The player can acquire a total of three translators throughout the game so that they can
+        speak to all three of the NPCs that require them.
+        **Without translators, it is impossible to take quests, receive rewards, talk or give
+        presents to [[Gifted Bucko Bee]], [[Stick Bug]], and [[Gifted Riley Bee]].
+        *Translators were originally implemented in the [[Updates#2018.11.25|11/25/2018 update]]
+        when [[Science Bear]] received an additional 10 quests. Only two were available at that
+        time, as the third could only be obtained in Epistemological Endeavor, which is Science
+        Bear's last quest. His last 5 quests weren't added until [[Updates#2018.12.19|12/19/2018]],
+        thus making the total amount of translators available 2 at the time.
+        *There is a 5 quest difference between each translator, Limits of Language being the 21st
+        quest, Beesperanto being the 26th, and Epistemological Endeavor being the 31st.
+        *This is one of the two unique items that can only be obtained while completing a
+        [[:Category:Bears|bear]]’s questline, the other being [[Spirit Petal|spirit petals]] from
+        [[Spirit Bear]].
+        *This is one of the only items that can be given to an NPC, the other item being
+        [[present]]s.
+        *Trying to give Gifted Riley, Gifted Bucko, or Stick Bug a present without giving it a
+        translator will result in the regular dialogue being displayed.
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Inventory]]"}

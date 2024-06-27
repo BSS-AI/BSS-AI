@@ -1,0 +1,27 @@
+{"text": "<sup>''Not to be confused with the [[Free Robo Pass Dispenser]], which does not cost
+        anything and has a cooldown timer.''</sup>
+
+        [[File:Robo dispenser.png|thumb|The Robo Pass Dispenser.]]
+        The '''Robo Pass Dispenser''' is a [[dispenser]] located in the [[Bear Gate|30 Bee Zone]].
+        It gives one [[Robo Pass]] for 50 [[ticket]]s, which can be used to participate in the
+        [[Robo Bear Challenge]]. Unlike the [[Free Robo Pass Dispenser]], there is no cooldown for
+        this dispenser. Players cannot use this dispenser if they already have 10 or more Robo
+        Passes.
+
+        == Trivia ==
+        * There used to be a free Robo Pass token behind the Robo Pass Dispenser, this has been
+        replaced with the [[Broken Drive]].
+        * This, the [[Ant Pass Dispenser]], the [[Free Ant Pass Dispenser]], and the [[Free Robo
+        Pass Dispenser]] are the only [[:Category:Dispenser|dispensers]] that don't have any visible
+        faucets, and instead have a small compartment, like a vending machine that gives out
+        [[ticket]]s.
+        * This, the [[Royal Jelly Dispenser]], and the Ant Pass Dispenser are the only dispensers
+        that require tickets to use.
+        * This, the Free Robo Pass Dispenser, the Free Ant Pass Dispenser, the Ant Pass Dispenser,
+        the [[Coconut Dispenser]], and the [[Glue Dispenser]] are the only dispensers that do not
+        grant [[Ability Tokens#Haste|Haste]] when used.
+
+        [[Category:Dispenser]]
+        [[Category:Machines]]
+        [[Category:Locations]]
+        [[Category:Robo Bear Challenge]]"}

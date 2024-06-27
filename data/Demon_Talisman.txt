@@ -1,0 +1,60 @@
+{"text": "{{Beequip
+        |image1=Demon Talisman.png
+        |level=15
+        |color=Red
+        |limit=1
+        |description=An ornament trying hard to look conventionally evil.
+        |beesmas=no
+        |requirement=Only For: {{Icon|Demon}} <br/><br/>• Bee must have a Mutation
+        |stats=+%Attack<br/>+%Gather Amount<br/>+%Ability Pollen<br/>+%Gathering
+        Flames Chance<br/><span
+        style=\"color:red;\">-%Movespeed<br/>-%Energy</span>
+        |hive=+%Red Bomb Pollen<br/>+%Flame Pollen<br/>+%Instant Red Bomb
+        Conversion<br/>+%Instant Flame Conversion<br/>+%Instant Demon Bee
+        Conversion<br/><span style=\"color:red;\">-%Max Bee Energy<br/>-Player
+        Movespeed<br/>-xBlue Pollen<span/>
+        }}
+
+        The '''Demon Talisman''' is a [[Bond|level]] 15 [[beequip]]. It has an equip limit of one.
+        There is a red color requirement. It can only be equipped to [[Mutation|mutated]] [[Demon
+        Bee|Demon]] [[Bees|bees]].
+
+        ==Potential==
+        *Attack (Guaranteed) - +50% to +70% (up to +100% from [[Waxes|waxing]])
+        *Gather Amount (Guaranteed) - +50% to +70% (up to +160% from waxing)
+        *Ability [[Pollen]] (Guaranteed) - +50% to +70% (up to +160% from waxing)
+        *[[Passives#Gathering Flames|Gathering Flames]] Chance (Guaranteed) - +10% to +15% (up to
+        +21% from waxing)
+        *[[System Page#Super-Crit Chance|Super-Crit Chance]] - +5% to +10% (up to +30% from waxing)
+        *Movespeed (Guaranteed) - -30% to -40%
+        *[[Energy]] (Guaranteed) - -70% to -80%
+        *[[Ability Tokens#Inferno|Ability: Inferno]] (from waxing, extremely rare, caustic only)
+        *[Hive Bonus] [[System Page#Red Bomb Pollen|Red Bomb Pollen]] (Guaranteed) - +7% to +13% (up
+        to 35% from waxing)
+        *[Hive Bonus] [[System Page#Flame Pollen|Flame Pollen]] (Guaranteed) - +7% to +13% (up to
+        +35% from waxing)
+        *[Hive Bonus] [[System Page#Instant Bomb Conversion|Instant Red Bomb Conversion]]
+        (Guranteed) - +6% to +9% (up to +14% from waxing)
+        *[Hive Bonus] [[System_Page#Instant_Flame_Conversion|Instant Flame Conversion]] - +6% to +9%
+        (up to +14% from waxing)
+        *[Hive Bonus] [[System Page#Instant Conversion|Instant Demon Bee Conversion]] (Guaranteed) -
+        +10%
+        *[Hive Bonus] [[System Page#Super-Crit Power|Super-Crit Power]] - +2% to +10% (from waxing,
+        caustic only)
+        *[Hive Bonus] [[Energy|Max Bee Energy]] (Guaranteed) - -20% to -25%
+        *[Hive Bonus] [[System Page#Movespeed|Player Movespeed]] (Guaranteed) - -5
+        *[Hive Bonus] [[System_Page#Bee_Attack|Bee Attack]] - +3% to +5%
+        *[Hive Bonus] Blue [[Pollen]] (Guaranteed) - x0.5
+
+        ==Ways to obtain==
+        *Can be purchased from [[Dapper Bear's Shop|Dapper Bear's Beequip Shop.]]
+        *As a drop from the [[Heat-Treated Planter]] and [[Pesticide Planter]].
+
+        ==Gallery==
+
+        {{Items}}
+
+        [[Category:Beequips]]
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Red]]"}

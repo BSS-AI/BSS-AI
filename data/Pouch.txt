@@ -1,0 +1,27 @@
+{"text": "{{Bag
+        |image1 = Pouch.png
+        |description = \"A small bag.\"
+        |cost = Free
+        |capacity = 200 Pollen
+        }}
+        {{Quote|A small bag.}}
+        The '''Pouch''' is the starter [[:Category:Bags|Bag]] that new Players automatically receive
+        at the beginning of the game, along with the [[Scooper]], the starter
+        [[:Category:Tools|Tool]]. You can equip it in the [[Noob Shop]].
+
+        It doesn't have a price as it is the first Bag given to the Player for free.
+
+        == Stats ==
+        * +200 Capacity.
+
+        == Trivia ==
+        * In early versions of the game, the Pouch stored 150 pollen.
+        ** It was later buffed to 250 then later nerfed to 200.
+        * This and the [[Jar]] are the only bags that cost less Honey than their base capacity.
+        * This, the [[Scooper]], and a [[Egg|Basic Egg]] are the only items that the player starts
+        off with when joining the game for the very first time.
+
+        {{Items}}
+        [[Category:Bags]]
+        [[Category:Items]]
+        [[zh-tw:束口袋]]"}

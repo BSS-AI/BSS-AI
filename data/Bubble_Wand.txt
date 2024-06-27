@@ -1,0 +1,44 @@
+{"text": "{{Tool
+        |image =Bubble_Wand.png
+        |price = 3,500,000
+        |shop = Blue HQ
+        |range = 16
+        |pattern = Ring
+        |time = 0.8
+        |collectbase = 6
+        |bluemultiplier = 2
+        |specialmultiplier = ×2 Blue Pollen Multiplier
+        }}
+        The '''Bubble Wand''' is a [[:Category:Tools|tool]] that can be bought in the [[Blue HQ]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|3,500,000}}
+        |}
+
+        The Bubble Wand collects 6 [[pollen]] from 16 [[Flowers|flower]] patches in 0.8 seconds and
+        collects x2 pollen from [[:Category:Blue|blue]] flowers. Every 10th swing it spawns a
+        [[bubble]] somewhere on the field. It has an average base pollen collection rate of 160
+        pollen per second: 240 from blue flowers and 120 from red and white flowers. It emits bubble
+        particles.
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        Hivesticker bubble wand.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        BubbleWandModel.png|The Bubble Wand model on the Blue HQ.
+        BubbleWandModelFace.png|The Bubble Wand on the Blue HQ with a face.
+        </gallery>
+
+        ==Trivia==
+        *A replica of the Bubble Wand rests on the roof of the Blue HQ.
+        *Its [[:Category:Red|red]] counterpart is the [[Scythe]].
+        *The Bubble Wand collects about one more pollen per second than the Scythe, though this is
+        hardly noticeable. It is also offset by its collection pattern, sometimes making it harder
+        to collect [[goo]], [[sparkles]], or [[leaves]].
+        *This is the second cheapest item in the Blue HQ, behind the [[Blue Guard]].
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]
+        [[Category:Blue]]"}

@@ -1,0 +1,208 @@
+{"text": "{{Stores
+        |image1 = BlueHQBeesmas2021.png
+        |caption1 = Front view of the Blue HQ.
+        |row1 = Behind the Blue Flower Field
+        }}The '''Blue HQ''' is a two-story base with many features. The entrance can be found at the
+        far end of the [[Blue Flower Field]], located in the [[Starter Zone]]. It has a [[Bucko
+        Bee]] model above the entrance. To enter, the player must have discovered 4 different blue
+        bee types. The Blue HQ is the counterpart to the [[Red HQ]].
+
+        On the roof, there is an enlarged [[Bubble Wand]]. This wand occasionally grows a face and
+        blows [[sparkles]] to nearby fields. This includes the [[Clover Field]], [[Mushroom Field]],
+        Blue Flower Field, and the [[Dandelion Field]].
+
+        == Interior ==
+        On the first floor, there are four different objects:
+        * A [[Blue Teleporter]] that will teleport the player near the [[Ticket Tent]] and [[Red
+        Cannon]],
+        * A set of blue [[items]] for sale, (See the 'Store' section below.)
+        * The [[Blueberry Dispenser]], which gives a varying amount [[Blueberry|blueberries]]
+        depending on the number of * blue bees the player has in their [[hive]] every 4 hours,
+        * The [[All-Time Top Blue Collectors]] [[Leaderboards|leaderboard]], which shows the top 100
+        players who have collected the most blue pollen.
+
+        On the second floor, there are more features:
+        * A [[Royal Jelly|royal jelly]] token located near the window at the front of the base,
+        * A [[Blue Field Booster]] that gives a 15-minute duration [[Field Boost|field boost]] for
+        either the [[Pine Tree Forest]], [[Bamboo Field]], or the Blue Flower Field,
+        * [[Gifted Bucko Bee]], who will require a [[translator]] for it to hand out [[quests]],
+        * The [[Top Bucko Bee Helpers]] leaderboard, which is located to the left of Gifted Bucko
+        Bee and shows the top 100 players who have completed the most Bucko Bee quests,
+        * The [[Daily Top Blue Collectors]] leaderboard, which is located to the right of Gifted
+        Bucko Bee and shows the top 100 players who have collected the most blue pollen in a day.
+
+        == Store ==
+        There's a store in the Blue HQ that sells nine items. To open the store, press E when near
+        the store's items and ''not'' on the Blue Teleporter, Blueberry Dispenser, the Leaderboards,
+        or the second floor.
+
+        <tabber>
+        Tools=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Bubble_Wand.png|80px|center]]<div style=\"text-align: center;\">[[Bubble
+        Wand]]</div>
+        |{{Cost|Honey|3,500,000}}
+        |Collects 6 [[pollen]] from a ring of 16 patches in 0.8 seconds. Collects x2 from blue
+        [[flowers]].
+        |-
+        |[[File:Tide_Popper.png|80px|center]]<div style=\"text-align: center;\">[[Tide
+        Popper]]</div>
+        |250 [[Gifted Bucko Bee]] quests
+        completed<br>{{Cost|Honey|{{Hover|2.5T|2,500,000,000,000}}}}<br>{{Cost|Blue
+        Extract|1500}}<br>{{Cost|Tropical Drink|150}}<br>{{Cost|Swirled
+        Wax|75}}<br>{{Cost|Super Smoothie|50}}<br>{{Cost|Comforting Vial|3}}
+        | Pierce through flowers and bubbles with torrential waves. Ramps up the more you pop, then
+        unleashes tidal waves in a violent surge. Splash Balloons with tall waves to earn Tide
+        Blessing.
+        |}
+
+        |-|Bags=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Blue_Port-O-Hive.png|80px|center]]<div style=\"text-align: center;\"> [[Blue
+        Port-O-Hive]]</div>
+        |{{Cost|Honey|12,500,000}}<br>{{Cost|Blue Extract|2}}<br>{{Cost|Soft Wax|2}}
+        |A Port-O-Hive dipped in shiney ''[sic]'' blue paint.
+        *+375,000 Capacity.
+        *+150% [[System Page#Convert Rate|Convert Rate]].
+        *+10% [[System Page#Instant Blue Conversion|Instant Blue Conversion]].
+        *+10% Blue Pollen.
+        *+1 Blue Bee Attack.
+        |}
+
+        |-|Accessories=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Bubble Mask.png|80px|center]]<div style=\"text-align: center;\">[[Bubble
+        Mask]]</div>
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Blue
+        Extract|50}}<br>{{Cost|Blueberry|500}}<br>{{Cost|Oil|25}}<br>{{Cost|Glitter|15}}
+        |Harness the power of the sea to enhance your Blue pollen gathering.
+        *x1.5 Blue Pollen.
+        *+15% Instant Blue Conversion.
+        *x1.5 [[System Page#Capacity Multiplier|Capacity]].
+        *x2 [[System Page#Pollen From Bubbles|Bubble Pollen]].
+        * +30% [[System Page#Defense|Defense]].
+        *+15% [[System Page#Bee Ability Rate|Bee Ability Rate]].
+        *[[Passive Abilities#Bubble Bombs|+Passive: Bubble Bombs]].
+        |-
+        |[[File:Blue Guard.png|80px|center]]<div style=\"text-align: center;\">[[Blue Guard]]
+        |{{Cost|Honey|1,000,000}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Royal
+        Jelly|1}}<br>{{Cost|Moon Charm|3}}
+        |A durable pad worn on the right shoulder of Blue Beekeepers.
+        *[Right Shoulder]
+        *+25,000 Capacity.
+        *+15% [[System Page#Blue Pollen|Blue Pollen]].
+        *+5% [[System Page#Defense|Defense]].
+        *+1 [[System Page#Blue Attack|Blue Bee Attack]].
+        |-
+        |[[File:Elite Blue Guard.png|80px|center]]<div style=\"text-align: center;\">[[Elite
+        Blue Guard]]</div>
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Blue
+        Extract|3}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Royal
+        Jelly|5}}<br>{{Cost|Moon Charm|15}}
+        |A Blue Guard reserved for the most dedicated Blue Beekeepers.
+        *[Right Shoulder]
+        *+75,000 Capacity.
+        *+25% Blue Pollen.
+        *+7% Defense.
+        * +50% [[System Page#Critical Power|Critical Power]].
+        *+1 Blue Bee Attack.
+        |-
+        |[[File:Bucko_Guard.png|80px|center]]<div style=\"text-align: center;\">[[Bucko
+        Guard]]</div>
+        | {{Cost|Honey|30,000,000}}<br>{{Cost|Blue
+        Extract|10}}<br>{{Cost|Blueberry|100}}<br>{{Cost|Glue|5}}<br>{{Cost|Moon
+        Charm|75}}
+        |A piece of armor forged by the leader of the Blue Bees!
+        *[Right Shoulder]
+        *+150,000 Capacity.
+        *+35% Blue Pollen.
+        *+10% Defense.
+        *+75% Critical Power.
+        *+2 Blue Bee Attack.
+        |}
+
+        |-|Planters=
+
+        {| class=\"article-table\"
+        |-
+        ! Item
+        ! Cost
+        !Description
+        |-
+        | [[File:Blue Clay Planter Model.png|80px|center]]<div style=\"text-align:
+        center;\">[[Blue Clay Planter]]</div>
+        |{{Cost|Honey|10,000,000}}<br>{{Cost|Magic Bean|5}}<br>{{Cost|Blue
+        Extract|15}}<br>{{Cost|Soft Wax|20}}
+        |Alone, grows in around 6 hours. Stores around 3 million Pollen. Grants bonus Blue Extracts,
+        Micro-Converters and Honeysuckles.
+        *Grows up to 25% faster in fields with Blue Flowers
+        *Gives 50% bonus Blue Pollen from harvests
+        *Blue bees are 25% more likely to sip Nectar from this, but Red Bees avoid it.
+        * Grants +20% Refreshing and Comforting Nectar
+        |-
+        |[[File:HydroponicPlanter3D.png|80px|center]]<div style=\"text-align:
+        center;\">[[Hydroponic Planter]]</div>
+        |150 [[Gifted Bucko Bee]] quests
+        completed<br>{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Magic
+        Bean|75}}<br>{{Cost|Blue Extract|750}}<br>{{Cost|Soft
+        Wax|500}}<br>{{Cost|Caustic Wax|25}}<br>{{Cost|Turpentine|1}}
+        |Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants bonus Blue Extract
+        and Oils.
+        * Grows up to 50% faster in fields with Blue Flowers
+        *Gives 50% bonus Blue Pollen from harvests
+        *Blue bees are 50% more likely to sip Nectar from this, but Red Bees are 50% less likely
+        *Grants +40% Refreshing and Comforting Nectar
+        |}
+        </tabber>
+
+        ==Music==
+        [[File:Vendor.ogg]]
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        BubbleWandSpit.png|The Blue HQ's Bubble Wand model's face.
+        Bubblex.png|The bubbles that the Bubble Wand emits on the Blue HQ.
+        BlueberryDispenser2022.png|The Blueberry Dispenser on the first floor of the Blue HQ.
+        BlueTeleport.png|The Blue Teleporter on the first floor of the Blue HQ.
+        BlueFieldBooster2022.png|The Blue Field Booster on the second floor of the Blue HQ.
+        GiftedBuckoBee2022.png|Gifted Bucko Bee on the second floor of the Blue HQ.
+        BlueHQDistant2022.png|A distant view of the Blue HQ at an angle.
+        BlueHQShop.png|Blue HQ's Shop.
+        </gallery>
+
+        == Trivia ==
+        *The Tide Popper is currently the most expensive item able to be bought in the Blue HQ.
+        *If the player goes to the corner of the ramp inside the Blue HQ closest to the [[Clover
+        Field]], they will be able to hear the Crawlers [[music]].
+        *Unlike the [[Riley Bee]] model on the [[Red HQ]], the wings of the Bucko Bee model don't
+        have collision.
+        *On 01/01/22, there was a [[Glitches|glitch]] where if the player attempted to view the Tide
+        Popper, the game would freeze and they won't be able to exit the shop, except for rejoining
+        the game.
+        *The Blue HQ is also known as the \"Blue Clubhouse.\" If the player does not have 4 blue bee
+        types discovered, the top of their screen will say, \"Discover 4 Blue Bee types to enter the
+        '''Blue Clubhouse'''.\"
+
+        {{MapNav}}
+        [[Category:Shops]]
+        [[Category:Locations]]
+        [[Category:Blue]]
+        [[Category:Starter Zone]]"}

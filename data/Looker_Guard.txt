@@ -1,0 +1,35 @@
+{"text": "{{Accessory
+        |image1 = Looker Guard-0.png
+        |description = A left shoulder pad crafted by a Looker Bee.
+        |cost = 300,000 [[Honey]] and 25 [[Sunflower Seed|Sunflower Seeds]].
+        |stats = +15,000 Capacity<br>+1% Critical Chance<br>+25% Critical Power
+        }}
+        {{Quote|A left shoulder pad crafted by a [[Looker Bee]].}}
+        The '''Looker Guard''' is a [[:Category:Guards|guard]] that can be purchased in the [[Pro
+        Shop]]. It is equipped on the left shoulder.
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|300,000}}<br>{{Cost|Sunflower Seed|25}}
+        |}
+
+        == Stats ==
+        * +15,000 Capacity.
+        * +1% [[Critical Hits|Critical Chance]].
+        * +25% [[Critical Hits|Critical Power]].
+        == Gallery ==
+        <gallery>
+        Lookerguardicon.png|The Looker Guard icon.
+        </gallery>
+        == Trivia ==
+
+        * This is one of the 4 guards in the Pro Shop, the others being the [[Bomber Guard]], the
+        [[Hasty Guard]], and the [[Brave Guard]].
+        * This and the Bomber Guard cost the same amount of honey and require the same crafting
+        materials, making them the only items purchasable to have the exact same cost.
+
+        {{Items}}
+        [[Category:Guards]]
+        [[Category:Items]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

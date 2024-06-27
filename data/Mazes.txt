@@ -1,0 +1,57 @@
+{"text": "'''Mazes''' are secret areas in the game that contain [[items]] inside of them. To obtain
+        these items, the player needs to navigate through the mazes and find them. There are
+        currently two mazes that exist in the game, each located in their own respective location.
+
+        == Blue Maze==
+        The '''Blue Maze''' is located next to the [[Ticket Tent]] (or behind the Beige Gift Box in
+        Beesmas 2021) . It was added in the [[Updates#2019.04.17|Egg Hunt 2019 Update]]. This
+        requires no [[Bees|bee]] requisites to enter since it's located in the [[Starter Zone]].
+        Inside the maze, the player can obtain 5 [[ticket]]s by taking a left turn first and then a
+        right turn, and a [[Jelly Beans|jelly bean]] token by taking the path on the right. There
+        used to be a [[Plastic Egg|plastic egg]] where the tickets were in the 2019 Egg Hunt. The
+        player can also find a [[Royal Jelly#Star Jelly|star jelly]] token on the right, but it is
+        blocked by a glass wall. It can be obtained by going through a passage behind the [[Petal
+        Shop]].
+
+        [[Chicks#Spotted Chick|Spotted Chicks]] could spawn in this maze before they were removed.
+
+        == Pro Shop Maze ==
+        The '''Pro Shop Maze''' is located behind [[Pro Bear]] in the [[Pro Shop]]. It requires at
+        least 10 bees to pass through the [[Brave Bee Gate]], where the Pro Shop is located.
+
+        The player can obtain a [[Royal Jelly|royal jelly]] by going forward to the end and turning
+        right two times, then going to the first opening available. Follow through it to find the
+        royal jelly token.
+
+        There is also a [[Sunflower Seed|sunflower seed]] token inside the maze that awards 10
+        sunflower seeds. The player can obtain it by taking same path as the royal jelly, but
+        instead of turning on the last right, go to the end of the hall and follow through the last
+        corridor.
+
+        If the player gets close enough, they can grab both tokens through the walls, making
+        collecting them easier.
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Dadjkajdadhahk.png|The entrance to the Blue Maze.
+        Er34t34tereteryht5ruteqet542y.png|The plastic egg insde of the Blue Maze. (Now unavailable)
+        Rqwrwerwe.png|The jelly bean token inside of the Blue Maze.
+        Weqweqweqwewweaw.png|The [[Mysterious Figure]] inside of the Blue Maze.
+        Rerefdaf.PNG|The Mysterious Figure up close.
+        Entrancetoproshop.png|The entrance to the Pro Shop Maze.
+        Sunflowerseedtoken.PNG|The sunflower seed token inside of the Pro Shop Maze.
+        Royaljellytoken.PNG|The royal jelly token inside of the Pro Shop Maze.
+        Ticket Token inside the Blue Maze.png|The ticket token that replaced the plastic egg inside
+        of the Blue Maze.
+        Star jelly token.png|The star jelly token visible from the Blue Maze.
+        </gallery>
+
+        == Trivia ==
+        * Before the [[Egg Hunt 2019]] Event ended on [[Updates#2019.05.13|5/13/2019]], there was a
+        plastic egg token in place of the ticket token and the [[Mysterious Figure]] was in the Blue
+        Maze in place of the star jelly token. These have been removed in the following minor
+        update, as well as other Egg Hunt content with it. The room it was located in is still
+        present, however.
+
+        {{MapNav}}
+        [[Category:Locations]]"}

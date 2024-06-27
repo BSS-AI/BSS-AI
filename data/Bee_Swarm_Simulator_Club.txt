@@ -1,0 +1,37 @@
+{"text": "{{Group
+        |title1=[https://www.roblox.com/groups/3982592 Bee Swarm Simulator Club]
+        |image1=Basic Bee OriginalIcon.png
+        |owner=Onett
+        |roles=Members, Silenced, Community Contributor, Moderator, Admin, Group Manager, Omelette
+        |members=14M+
+        |games=None <small>(Bee Swarm Simulator is not owned by this group)</small>
+        }}
+        The '''[https://www.roblox.com/groups/3982592 Bee Swarm Simulator Club]''' is a Roblox group
+        with over 14 million members. Joining it grants access to the [[Honey Dispenser]], the
+        [[Treat Dispenser]], the [[Strawberry Dispenser]] and the [[Blueberry Dispenser]]. Redeeming
+        certain [[codes]] also require the player to be in the group (I.E. ClubConverters).
+        ==Description==
+        The official fan group of the game Bee Swarm Simulator, and the studio behind the game:
+        [https://www.roblox.com/games/1537690962 https://www.roblox.com/games/1537690962]
+
+        Bee Swarm toys are available now at Walmart, Smyths Toys, and Gamestop! Collect bees, build
+        a hive, squish plushie Tabby Bee and more! Promo-Code \"WalmartToys\" has been added to
+        celebrate, grants items and a big Pineapple Patch boost!
+
+        [ Club member promo code: \"ClubBean\" for a Magic Bean and Pineapple Patch Boost! Plant that
+        in the field of your choice to get the special treats you need! ]
+
+        This group is the studio behind Bee Swarm Simulator (\"Studio\" so that the group sort might
+        add us to the Studios sort). Maybe \"Bee Swarm Simulator Studios\".
+
+        Join to use the Honey and Treat Dispensers in game for free honey and haste every hour!
+        ==Trivia==
+        *During Beesmas 2020 & 2021, [[Honey Bee (NPC)|Honey Bee]] required the usage of the
+        Honey Dispenser in order to complete their Beesmas quest. This meant that users who wanted
+        to complete Beesmas were forced to join the group.
+        *The Bee Swarm Simulator Club has the fifth most members of all groups on Roblox. The group
+        with the most members is \"BIG Games Pets\".
+        **The Bee Swarm Simulator Club used to have the most members in a group on all of Roblox,
+        until it got overtaken by Scriptbloxian Studios in 2021.
+        [[Category:Groups]]
+        [[Category:Community]]"}

@@ -1,0 +1,22 @@
+{"text": "{{RemovedContent}}
+        ''Note: This table was '''last updated on 01/03/2024 3:30AM UTC using data from
+        05/06/2023.'''''
+        {{LB|name1=DarnS0cks|amount1=50|name2=NicolaiJee|amount2=48|name3=ethanolodj|amount3=48|name4=MrsBenMYu|amount4=45|name5=BenMYu1|amount5=45|name6=?|amount6=?|name7=?|amount7=?|name8=?|amount8=?|name9=?|amount9=?|name10=?|amount10=?}}
+        The '''Highest Robo Party Cake Rank Leaderboard''' was one of the 19 [[Leaderboards]] in the
+        game. It was added in the [[Updates|2023.4.1 Update]]. It is located near the [[Rose
+        Field]], to the right side of [[Robo Bear's Party Cake]]. To summon a [[Robo Party]], the
+        player must complete [[Robo Bear]]'s Beesmas quest. Each time the player beats their Robo
+        Party, their Robo Party Cake Rank increases by one. There are 100 ranks in total and each
+        rank requires more party points to achieve than the one before. The player with the highest
+        rank is displayed at the top of the leaderboard. There is no white pad on this leaderboard.
+        == Trivia ==
+
+        * This was the third leaderboard to be removed, the first being the [[Most Commando
+        Captures]] leaderboard and the second being the [[Highest Snowbear Level]] leaderboard.
+        ** This is one of two leaderboards that were temporarily removed, the first being the
+        Highest Snowbear Level leaderboard.
+        {{MapNav}}
+        [[Category:Beesmas]]
+        [[Category:Locations]]
+        [[Category:Leaderboards]]
+        [[Category:Robo Party]]"}

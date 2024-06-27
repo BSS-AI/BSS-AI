@@ -1,0 +1,178 @@
+{"text": "[[File:Dispenser.png|thumb|The Honey Dispenser.]] The '''Honey Dispenser''' is a
+        [[dispenser]] that grants [[honey]] and x5 [[Ability Tokens#Haste|haste]] every time it's
+        used. It has a 1 hour cooldown and requires the player to be in the
+        [https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about Bee Swarm Simulator
+        Club] in order to be used by the player. It initially gave 5x haste and 500 honey, but after
+        the [[Updates#2018.04.27|4/27/2018 update]], the amount of honey was changed to 100 per
+        [[bee]] in the player's [[hive]] and x5 haste. Since then, the amount of honey was changed
+        again.
+
+        It is one of the four club dispensers in the game. However, it is the first one to be
+        accessed.
+
+        The [[Obstacle Courses#Lava Obby|Lava Obby]] can be found behind it and leads to a [[Royal
+        Jelly|royal jelly]] token at the back of the [[Noob Shop]] and also to the [[Demon Mask]]
+        shop.
+
+        If the player tries to use the Honey Dispenser without being in the group, they will get a
+        prompt saying that they must join the Bee Swarm Group (or club).
+
+        == Chart ==
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        !Bees
+        !{{Cost|Honey}}
+        !Bees
+        !{{Cost|Honey|| }}
+        |-
+        |0-1
+        |500
+        |26
+        |25,400
+        |-
+        |2
+        |500
+        |27
+        |27,100
+        |-
+        |3
+        |600
+        |28
+        |28,900
+        |-
+        |4
+        |1,100
+        |29
+        |30,600
+        |-
+        |5
+        |1,500
+        |30
+        |32,400
+        |-
+        |6
+        |2,100
+        |31
+        |34,300
+        |-
+        |7
+        |2,700
+        |32
+        |36,200
+        |-
+        |8
+        |3,400
+        |33
+        |38,100
+        |-
+        |9
+        |4,200
+        |34
+        |40,100
+        |-
+        |10
+        |5,000
+        |35
+        |42,200
+        |-
+        |11
+        |5,900
+        |36
+        |44,200
+        |-
+        |12
+        |6,800
+        |37
+        |46,300
+        |-
+        | 13
+        |7,800
+        |38
+        |48,500
+        |-
+        |14
+        |8,900
+        |39
+        |50,700
+        |-
+        |15
+        |10,000
+        |40
+        |52,900
+        |-
+        |16
+        |11,100
+        |41
+        |55,200
+        |-
+        |17
+        |12,400
+        |42
+        |57,500
+        |-
+        |18
+        |13,600
+        |43
+        |59,800
+        |-
+        |19
+        |14,900
+        |44
+        |62,200
+        |-
+        |20
+        |16,300
+        |45
+        |64,600
+        |-
+        |21
+        |17,700
+        |46
+        |67,100
+        |-
+        |22
+        |19,100
+        |47
+        |69,600
+        |-
+        |23
+        |20,700
+        |48
+        |72,100
+        |-
+        |24
+        |22,200
+        |49
+        |74,700
+        |-
+        |25
+        |23,800
+        |50
+        |77,300
+        |}
+        == Gallery ==
+        <gallery widths=\"205\">
+        Honey dispenser during beesmas.png|{{PAGENAME}} during Beesmas.
+        File:HoneyDispenser2.png|The cooldown timer for attempting to use the {{PAGENAME}} within an
+        hour of its last usage.
+        File:HoneyDispenser1.png|A player standing on top of the {{PAGENAME}}.
+        </gallery>
+
+        == Trivia ==
+        * During the [[:Category:Gummy Invasion|Gummy Invasion]], the dispenser granted an
+        additional [[gumdrops|gumdrop]] per use.
+        * This, the [[Strawberry Dispenser]], the [[Blueberry Dispenser]], the [[Royal Jelly
+        Dispenser]], and the [[Glue Dispenser]] are the only dispensers that are required to be used
+        for a [[Quests|quest]] (\"Honey Bee's Honey Wreath?\" from [[Honey Bee (NPC)|Honey Bee]]
+        requires the player to use the Honey Dispenser, \"BBM's Naughty List\" from [[Bubble Bee Man]]
+        requires the player to use the Royal Jelly Ticket Dispenser, and \"The Power of Information\"
+        from [[Science Bear]] requires the player to use the other three).
+        * This is one of four dispensers requiring the player to be part of the Bee Swarm Simulator
+        Club with the others being the Treat Dispenser, the Strawberry Dispenser, and the Blueberry
+        Dispenser.
+        * When using this dispenser, there is no notification in the chat log of the honey given.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Dispenser]]
+        [[Category:Starter Zone]]
+        [[zh-tw:蜂蜜供應機]]"}

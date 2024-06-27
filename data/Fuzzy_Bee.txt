@@ -1,0 +1,89 @@
+{"text": "{{Bee
+        |color = Colorless
+        |rarity = Mythic
+        |image-orig = Fuzzy Bee.png
+        |image-gifted = FuzzyBee Gifted.png
+        |description = This unkempt ball of fluff is actually a bee. Its fur aids in the pollination
+        of flowers.
+        |energy = 50
+        |energylabel = more
+        |speed = 11.9
+        |attack = 3
+        |skincolor1 = #AB8062
+        |skincolor2 = #AB8062
+        |skincolor3 = #AB8062
+        }}'''Fuzzy Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Mythic|Mythic bee]].
+
+        Fuzzy Bee’s favorite type of treat is [[Pineapple|Pineapples]].
+
+        Fuzzy Bee likes the [[Dandelion Field]] and [[Pine Tree Forest]]. It dislikes the [[Pepper
+        Patch]].
+
+        == Stats ==
+        * Collects 100 [[Pollen]] in 6 seconds.
+        * Makes 40 [[Honey]] in 6 seconds.
+        * +150% [[Energy]], -15% [[Stats#Speed|Movespeed]], -50% gather and convert speed, -40
+        [[System Page#Convert Amount|Convert Amount]], +90 [[Stats#Gather Amount|Gather Amount]], +2
+        [[Stats#Attack|Attack]].
+        * 🌟[[Gifted Bee|Gifted Hive Bonus]]: x1.1 [[System Page#Bomb Pollen|Bomb Power]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Fuzz Bombs|[Fuzz Bombs]]]''' Spawns 2 (+1 every 5 bee lvls) fuzz bombs
+        that wander the [[Fields|Field]] for 8 seconds. Catching them collects pollen and
+        [[Pollination|Pollinates]] nearby [[Flowers]]. The amount of pollen collected scales with
+        buzz bomb multipliers and bee Level.
+        * '''[[Ability Tokens#Bomb|[Buzz Bomb+]]]''' Collects 7 pollen from 29 surrounding flowers
+        (+10% pollen per Level). This combined with other bombs will increase power.
+        * '''[[Ability Tokens#Pollen Haze|[🌟Gifted Ability: Pollen Haze]]]''' Summons a yellow haze
+        over the field for 30s that pollinates up to 30 random flowers every second and improves
+        flower growth rate. Bomb Tokens within the haze are automatically collected and pollinate
+        flowers. If there has been a Pollen Haze over the field within the last 3 minutes, this
+        summons fuzz bombs instead.
+        * '''[[Passive Abilities#Fuzzy Coat|[Passive: Fuzzy Coat]]]''' This bee may pollinate up to
+        5 nearby flowers (9 if gifted) every time it gathers. Pollinated flowers are temporarily
+        upgraded to grant and store more pollen and grow faster. Lower tier flowers have a higher
+        chance of being pollinated.
+
+        {{Stat|pollen =100|pollentime = 6|honey = 40|honeytime = 6|rarity = mythic|color =
+        colorless}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"false\" widths=\"185\">
+        FuzzyBeeFace.png|Fuzzy Bee's face.
+        Fuzzybeepack.png|Fuzzy Bee in the Fuzzy Pack.
+        Giftedfuzzybeehiveslot.png|A Gifted Fuzzy Bee hive slot.
+        FuzzyAbility.png|Fuzzy Bee's Fuzz Bombs.
+        Fuzzy bee pollen haze.png|The Pollen Haze aura.
+        Fuzzybeehiveslot.png|A Fuzzy Bee Hive Slot.
+        </gallery>
+
+        == Trivia ==
+        * This bee, [[Buoyant Bee]], and [[Precise Bee]] are first Mythic bees to be added since the
+        release of the original Mythic bees.
+        ** It's also the only Mythic Bee to be introduced on its own.
+        * This bee is currently the only bee that can pollinate flowers without the help of the
+        [[Poinsettia]].
+        * This bee may like the Dandelion Field because [[Wikipedia:Taraxacum|Dandelions]] in real
+        life are soft and fuzzy.
+        * This bee, [[Shy Bee]], [[Ninja Bee]], and [[Windy Bee]] are the only bees with one skin
+        color.
+        * This bee, [[Spicy Bee]], [[Tadpole Bee]], [[Buoyant Bee]] and [[Digital Bee]] all have
+        four different [[Ability Tokens|Abilities]], the most for any [[Bees|Bee]] in the game.
+        * The [[Egg#Specific Bee Eggs|Fuzzy Bee Egg]] was the fifth specific bee egg that can/could
+        have been bought for [[Robux Shop|Robux]], after [[Bear Bee]], [[Festive Bee]], Windy Bee,
+        and [[Puppy Bee]] and before Precise Bee and Buoyant Bee.
+        ** Fuzzy Bee was the first non-Event bee that can be purchased with Robux.
+        * Fuzz bombs can be popped by using petal Shurikens from the [[Petal Wand]] and [[Passive
+        Abilities#Petal Storm|Petal Storm]], Windy Bee's [[Ability Tokens#Tornado|tornado]], and
+        [[Puppy Bee|Puppy Bee's]] [[Ability Tokens#Fetch|fetch ball]].
+        ** Any player can pop fuzz bombs, even if they were summoned by another player's Fuzzy Bee.
+        * Fuzzy Bee is the only [[hive]] bee that was introduced in 2020 (not counting [[Digital
+        Bee]], as it wasn't usable until 2022).
+        *Fuzzy Bee's Fuzz Bombs can pop bubbles when the fuzz bombs touch them.
+        *Fuzzy Bee is the only Mythic Bee to be added outside of [[Beesmas]].
+
+        {{BeeNav}}
+        [[Category:Mythic]]
+        [[Category:Bees]]
+        [[Category:Colorless]]
+        [[zh-tw:絨毛蜂]]"}

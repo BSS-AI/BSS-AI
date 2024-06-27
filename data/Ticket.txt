@@ -1,0 +1,207 @@
+{"text": "[[File:Ticket symbol.png|thumb|right|The ticket icon.]]
+        '''Ticket'''s are a form of [[:Category:Currency|currency]] added in the
+        [[Updates#2018.4.27|4/27/2018 update]]. They can be used to purchase certain [[items]].
+
+        == Ways to Obtain==
+        [[File:TicketShop-0.png|thumb|The Ticket Shop.]]
+
+        * The player can obtain tickets as a reward for acquiring [[badges]]. Collecting badges
+        gives 5 tickets for earning Cadet badges, 10 tickets for earning Hotshot badges, 15 tickets
+        for earning Ace badges, 25 tickets for earning Master badges, and 40 tickets for earning
+        Grandmaster badges.
+        * The player can buy tickets from the [[Ticket Shop]], located outside the [[Mountain Top
+        Shop]].
+        * Very rarely, [[flowers]] will generate a ticket token instead of a [[honey]] or
+        [[Treats|treat]] token when collecting [[pollen]]. The base probability is around 1/1000
+        (0.1%), however it does increase with [[Loot Luck]] and [[System Page|Ticket Chance]].
+        * Some [[:Category:Bears|bears]] give tickets as rewards for completing certain [[quests]].
+        * There is a chance of getting a ticket as a reward for defeating [[mobs]]. The probability
+        depends on the type of mob as well as the player’s Loot Luck.
+        ** [[Tunnel Bear]], [[Stump Snail]], and [[King Beetle]] are guaranteed to grant tickets
+        upon defeat. [[Wild Windy Bee]] will also yield ticket tokens for limited amounts per day.
+        * Collecting pollen from [[sparkles]] may yield tickets.
+        * There are ticket tokens hidden in various locations (See \"Locations\" below).
+        * Redeeming certain valid [[codes]]:
+        ** 38217 (Gives 5 tickets).
+        ** Bopmaster (Gives 5 tickets).
+        ** Cog (Gives 5 tickets).
+        ** Crawlers (Gives 5 tickets).
+        ** Roof (Gives 5 tickets).
+        ** Connoisseur (Gives 5 tickets).
+        ** Wax (Gives 5 tickets + other items).
+        ** Wink (Gives 5 tickets + other items).
+        ** 1MLikes (Gives 1 ticket + other items).
+        ** DarzethDoodads (Gives 3 tickets + other items).
+        * Buying them from the [[Robux Shop]]. (One ticket for 10 R$, 100 tickets for 400 R$, 510
+        tickets for 1,700 R$, and 1,800 tickets for 4,500 R$)
+        * Harvesting a normal, rare, epic, legendary, supreme, or festive [[sprout]] often yields
+        ticket tokens (the rarer the sprout, the more tickets it will yield; rare sprouts and above
+        guarantee tickets).
+        * [[Honeystorm]]s are guaranteed to spawn ticket tokens.
+        * The [[Wealth Clock]] gives tickets every hour after interacting with it, and increases
+        incrementally every hour, stopping at the fifth (1 ticket first time, 2 second time, 3 third
+        time, 4 fourth time, and 5 fifth time and onwards).
+        * As a rare drop from [[Ability Tokens#Festive Gift|Festive Gifts]].
+        * They can spawn as a potential match from Normal, Mega, Night and Extreme [[Memory
+        Match]]es.
+        * Through a [[Cub Buddy|cub buddy]] gift.
+        * The [[Commando Chick]] will always drop 1 ticket upon being captured.
+        ** Capturing it on the 25th time gives 100 tickets.
+        * As a common drop from a [[Mythic Meteor Shower|mythic meteor]].
+        * As a drop from planters.
+        ** The amount of tickets it can potentially drop depends on the type of planter.
+        ** Fully grown [[Ticket Planter]]s drop at least 10 or more tickets when harvested.
+        * Puffshrooms drops tickets (the rarer the Puffshroom, the more it gives).
+        * Clicking on any Hidden [[Sticker]] grants 1 ticket each (excluding seeker-stickers).
+
+        ===The following methods are no longer possible.===
+
+        * The [[Robux Shop|x2 Ticket Chance]], which was taken offsale in the
+        [[Updates#2018.07.11|7/11/2018 update]], doubled the chances of getting tickets from
+        defeating mobs and collecting pollen. For the players that bought the gamepass before it was
+        removed, its effects still work.
+        * Opening the [[Gift Boxes|Paper Gift Box]] gave 20 tickets and other items (Only possible
+        during Beesmas 2020).
+        * On his third visit, [[Sun Bear]] gave 250 tickets as the prize for finishing his quests.
+        * Completing [[Bee Bear|Bee Bear's]] Festive Bee Workshop 3 and A Beesmas Miracle quests
+        before or after purchasing the Festive Bee Pack and Cub Buddy Launch Pack would grant 500
+        and 250 extra tickets respectively. In addition, obtaining Festive Bee from the Festive
+        Present in Beesmas 2019 or the Festive Fight Finale quest in Beesmas 2020 also refunded the
+        player's 500 tickets.
+        * Purchasing the Buoyant Pack, Precise Pack, New Year Booster Bundle and Festive Frenzy Haul
+        all gave tickets + other items.
+        * [[Snowbear]] drops tickets upon defeat.
+        * As a drop from [[Stockings]].
+        * As a reward from the [[Robo Bear's Party Cake|Robo Party.]]
+        * Redeeming certain expired codes:
+        ** Soup (Gave 10 tickets + other stuff)
+        ** General (Gave 5 tickets + other stuff)
+        ** ThoseEyes (Gave 2 tickets + other stuff)
+        ** Nonchalant (Gave 5 tickets + other stuff)
+        ** Keen4 (Gave 3 tickets + other stuff)
+        ** PandaPower (Gave 3 tickets + other stuff)
+        ** Friday (Gave 5 tickets + other stuff)
+        ** Wax2 (Gave 5 tickets)
+        ** Arizona (Gave 5 tickets + other stuff)
+        ** AccentMaster (Gave 1 ticket + other stuff)
+        ** Tabby (Gave 5 tickets + other stuff)
+        ** JellyHill (Gave 3 tickets + other stuff)
+        ** MischiefMaker (Gave 1 ticket + other stuff)
+        ** Meow (Gave 5 tickets)
+        ** Unity (Gave 5 tickets + other stuff)
+        ** 100mvisits (Gave 5 tickets + other stuff)
+        ** Xanthan (Gave 5 tickets + other stuff)
+        ** Gel (Gave 1 ticket + other stuff)
+        ** LateNightGumdrops (Gave 1 ticket + other stuff)
+        ** Afternoon (Gave 5 tickets + other stuff)
+        ** PreUpdate (Gave 5 tickets + other stuff)
+        ** SugarRush (Gave 5 tickets + other stuff)
+        ** ThnxCyaBoost (Gave 5 tickets + other stuff)
+        ** Whoops (Gave 5 tickets + other stuff)
+        ** Reboot (Gave 10 tickets + other stuff)
+        ** MillionMembers (Gave 10 tickets + other stuff)
+        ** Shutdown (Gave 5 tickets + other stuff)
+        ** ClubSnacks (Gave 5 tickets + other stuff)
+        ** RoyalRobzi (Gave 5 tickets + other stuff)
+        ** PuppyPerk (Gave 5 tickets + other stuff)
+        ** RobziRobot (Gave 3 tickets + other stuff)
+        ** Berlin (Gave 5 tickets + other stuff)
+        ** TrickOrTreat (Gave 5 tickets + other stuff)
+        ** 1mFavorites (Gave 5 tickets + other stuff)
+        ** ClubParty (Gave 3 tickets + other stuff)
+        ** MoonMiracle (Gave 3 tickets + other stuff)
+        ** ByeBeeBear (Gave 10 tickets + other stuff)
+        ** BloxyBoost (Gave 5 tickets + other stuff)
+        ** BloxyCelebration (Gave 5 tickets + other stuff)
+        ** Discord100k (Gave 3 tickets + other stuff)
+        ** FourYearFiesta (Gives 4 tickets + other items).
+        ** 5Years (Gives 5 tickets + other items).
+
+        ==Locations==
+        ''Tickets may only be claimed from each of these spots '''once'''.''
+        #On top of the biggest pineapple in the [[Pineapple Patch]]. This token grants 3 tickets.
+        #In the back of [[Red HQ]], near the ceiling (the best way to get it seems to be to get x5
+        [[Ability Tokens#Haste|Haste]], climb on top of the [[Red Teleporter|teleporter]], jump up
+        and walk on the edge of the leaderboard, and then glide to the ticket. The enhanced jump
+        ability granted by certain [[:Category:Hats|hats]], [[:Category:boots|boots]], and/or the
+        [[Ability Tokens#Bear Morph|bear morph]] will also help).
+        #Next to the Glider inside the [[Mountain Top Shop]].
+        #On a platform in the [[Obstacle Courses#Cloud Obby|Cloud Obby]], fairly high above the
+        [[Pine Tree Forest]] and [[Pumpkin Patch]]. This token grants 5 tickets. (Jump off the tip
+        of the red shoulder guard of the [[30 Bee Gate]], then glide or parachute down to it).
+        #On a small ledge between the [[Lion Bee Gate]] and the [[Brave Bee Gate]]. This token
+        grants 5 tickets. The player must use the slingshot and move to the left. Parachute at the
+        right moment to land on the rock. Alternative: Jump down from in front of the Lion Bee Gate.
+        A Parachute/Glider can be helpful, but not absolutely necessary.
+        #Behind the red shoulder guard of the [[Bear Gate]] (i.e. inside the 30 Bee Area). This
+        token grants 10 tickets.
+        #On the awning over [[Mother Bear|Mother Bear's]] area. (Easily reached from the ramp that
+        leads to the [[Honey Bee Gate]]).
+        #On top of the [[Ant Gate]]. This token grants 5 tickets.
+        #Behind the [[Honey Dispenser]] in the [[Obstacle Courses|Lava Obby]]. Upon entering,
+        immediately turn right. This token gives 3 tickets. This replaced one of the [[Plastic Egg]]
+        locations.
+        #Underneath the [[Basic Bee Gate]] ramp, where [[Honey Bee (NPC)|Honey Bee]] used to be.
+        This token gives 3 tickets. This replaced one of the plastic egg locations.
+        #In the [[Mazes#Blue Maze|Blue Maze]], turn left and then take the first right. This grants
+        5 tickets. This replaced one of the Plastic Egg locations.
+        #Inside the tunnel behind the [[Coconut Dispenser]] in the [[Coconut Cave]]. This token
+        grants 5 tickets (In addition, there used to be a ticket token on the rise between the
+        [[Noob Shop]] and the [[hive]]s, where [[Sun Bear]]'s RV was parked for his Spring visit,
+        but it disappeared after Sun Bear left).
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        LedgeTicket.png|A ticket token on the side of the mountain.
+        30BeeTicket.png|A ticket token past the [[Bear Gate]].
+        BiggestPineappleTicketToken.png|A ticket token on the biggest pineapple at the [[Pineapple
+        Patch]].
+        Ticket Token inside the Blue Maze.png|The ticket inside the [[Mazes#Blue Maze|Blue Maze]].
+        Ticket Location.png|The ticket inside the [[Mountain Top Shop]].
+        Location1.png|link=redhqtickitlocation|The [[Red HQ]] Ticket location.
+        File:Ticket bean enzymes.png|The ticket in the [[Coconut Cave]].
+        File:Ticket.png|The x2 Ticket Chance gamepass (unobtainable).
+        File:Ticketshoppacks.png|The ticker packs in the shop.
+        File:Tickettoken.png|A Ticket token.
+        </gallery>
+
+        ==Uses==
+        [[File:TicketTent2021.png|thumb|The Ticket Tent.]]
+        *6 tickets are required to use the [[Royal Jelly Dispenser]], located between the [[Clover
+        Field]] and [[Dandelion Field]].
+        *1, 10 or 100 tickets are required to buy [[gumdrops]] from the [[Gumdrop Shop]] (1 ticket =
+        3 gumdrops; 10 tickets = 30 gumdrops; 100 tickets = 300 gumdrops).
+        *10, 100 or 1,000 tickets are required to buy [[stinger]]s from the [[Stinger Shop]] (10
+        tickets = 1 stinger; 100 tickets = 10 stingers; 1,000 tickets = 100 stingers)
+        * 20 or 200 tickets are required to buy [[Magic Bean]]s from the [[Magic Bean Shop]] (20
+        tickets = 1 magic bean; 200 tickets = 10 magic beans)
+        * 1 ticket is required to use an [[Instant Converter]].
+        *10 tickets are required to use the [[Ant Pass Dispenser]].
+        *The [[Ticket Tent]] has the following items available:
+        **[[Eggs#Silver Egg|Silver Egg]] (50 tickets), [[Eggs#Gold Egg|Gold Egg]] (100 tickets),
+        [[Eggs#Diamond Egg|Diamond Egg]] (400 tickets), [[Eggs#Mythic Egg|Mythic Egg]] (2500
+        tickets) [[Cobalt Bee|Cobalt]] and [[Crimson Bee]] (250 tickets each), miscellaneous
+        [[Bees/Event|Event Bees]] (500 tickets), and [[Star Treat|star treats]] (1000 tickets).
+        * Tickets are currently the only way to obtain most [[Bees/Event|Event bees.]]
+        *50 tickets are required to start another [[Stick Bug Challenge]] when the player’s free
+        challenge is already used.
+        *Tickets, along with [[honey]], are used to purchase Market Boosts from the [[Boost
+        Market]]. (No longer possible.)
+        *Tickets can be used to speed up materials that are currently being made in the [[Blender]].
+        *5 Tickets are required to store [[nectar]] in the [[Nectar Pot]].
+        *50 Tickets are required to use the Robo Pass Dispenser.
+        *Varying amounts of Tickets can be used to increase the maximum amount of [[Beequip]]s one
+        can hold in their Beequip Storage, maxing out at 20,000 Tickets for the final upgrade.
+        *Tickets, along with honey, are used to purchase Beequips in [[Dapper Bear's Shop]].
+
+        == Trivia ==
+        * It bears the face of a [[Basic Bee]].
+        * Currently, the most expensive purchase that can be made using Tickets is the final slot
+        upgrade for the Beequip Storage, costing 20,000 Tickets to increase storage from a maximum
+        of 95 stored Beequips to 100 stored Beequips.
+
+        {{CurrencyNav}}
+        {{Items}}
+        [[Category:Currency]]
+        [[Category:Items]]
+        [[Category:Inventory]]"}

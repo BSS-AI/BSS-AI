@@ -1,0 +1,39 @@
+{"text": "{{RemovedContent}}
+        [[File:Gingerbread House.png|thumb|238px|The Gingerbread House.]]
+        [[File:Unfinishedgbhouse.png|thumb|The incomplete setup on Gingerbread House before
+        completing Mother Bear's beesmas quest.]]
+        The '''Gingerbread House''' is a [[:Category:Beesmas|Beesmas]] exclusive machine. It was
+        introduced on Beesmas 2020, returned on Beesmas 2021, and was here for Beesmas 2022. It sits
+        between [[Mother Bear]] and the [[Treat Shop]], and can be unlocked by completing [[Mother
+        Bear#Beesmas 2021 Mother Bear - Gingerbread House|Mother Bear's Beesmas quest]]. It is
+        usable after the player spends at least 2 hours in-game, and gives 1 [[Gingerbread
+        Bear|gingerbread bear]] every 2 playtime hours. If the player attempted to use the
+        gingerbread house before it is completed, it will display a text that says ''\"This
+        Gingerbread House is far from complete...\"''
+
+        ==Overview==
+        The Gingerbread House has gumdrops for decorations at the corners, the gingerbread bear icon
+        in the middle, and a candy cane acting as a possible chimney.
+
+        Its only use is to produce a gingerbread bear every 2 '''in-game''' hours. If the player is
+        offline, it would not generate any.
+
+        Quest givers such as [[Onett]] and [[Bee Bear]] would require the player to use the
+        gingerbread house at varying amounts.
+
+        ==Trivia ==
+
+        *The Gingerbread House stores multiple gingerbread bears at the same time, meaning that
+        multiple gingerbread bears can be collected in one go after 4 or more hours.
+        *Even though the cooldown to collect reset once it was collected, the timer for generating
+        gingerbread bears does not. For example, if a player with 3 hours in-game checks the house,
+        they will only get 1 gingerbread bear and the cooldown will reset to 2 hours. The timer
+        saves that extra hour, so the player will get 2 gingerbread bears if they collect after 3
+        more hours (6 hours total).
+        * A player can get 12 Gingerbread Bears a day if they are online for 24 hours, This means
+        they can make the 500 gingerbreads required for the super smoothie pack in 32 days (31 days
+        and 16 hours to be exact) just from the gingerbread house, so long as they are online 24/7.
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Beesmas]]
+        [[Category:Beesmas Decorations]]"}

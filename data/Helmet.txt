@@ -1,0 +1,41 @@
+{"text": "{{Accessory
+        |image1 = Helmet.png
+        |description = A hard hat that grants bonus pollen and helps prevent head injuries.
+        |cost = 30,000 [[Honey]], 5 [[Pineapple|Pineapples]], and 1 [[Moon Charm|Moon Charm]].
+        |stats = +10% Pollen<br>+25% Defense
+        }}
+        {{Quote|A hard hat that grants bonus [[pollen]] and helps prevent head injuries.}}
+        The '''Helmet''' is a [[:Category:Hats|Hat Accessory]] that can be bought from the [[Noob
+        Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|30,000}}<br>{{Cost|Pineapple|5}}<br>{{Cost|Moon Charm|1}}
+        |}
+
+        == Stats ==
+        * +10% [[Pollen]].
+        * +25% [[System Page#Defense|Defense]].
+
+        ==Gallery==
+        <gallery>
+        Helmet Shop.png|The old stats of the Helmet.
+        Helmeticon.png|The Helmet icon.
+        Helmet4.png|A player wearing the Helmet
+        </gallery>
+
+        ==Trivia==
+        *It closely resembles an American football helmet, but it’s completely yellow and it doesn't
+        have a faceguard.
+        *This, the [[Propeller Hat]], the [[Beekeeper's Mask]], and the [[Strange Goggles]] are the
+        only masks not to be based off Bees.
+        *This is the most expensive [[Items|Item]] in the Noob Shop.
+        *This is the second cheapest Mask in the game in terms of Honey, with the cheapest being the
+        [[Strange Goggles]].
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Hats]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

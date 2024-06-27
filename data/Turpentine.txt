@@ -1,0 +1,120 @@
+{"text": "{{Consumables
+        |image = Turpentine.png
+        |description = A strong solvent that can remove all Waxes from a bee's Beequip.
+        |cooldown =
+        |cap = 25}}
+        '''Turpentine''' is a craftable inventory [[Items|item]] added in the [[Updates|12/26/2021
+        update]]. It is used to remove all [[waxes]] from a [[beequip]].
+
+        Turpentines have a maximum cap of 25. Obtaining while having more than 25 turpentines will
+        not add them to the player's inventory unless received through [[quests]], redeeming
+        [[codes]], or purchasing them in the [[Robux Shop]] through limited-time offers.
+
+        == Ways to Obtain ==
+
+        * [[Crafting]] via [[Blender]] for:
+        ** {{Cost|Super Smoothie|10}}
+        ** {{Cost|Caustic Wax|10}}
+        ** {{Cost|Star Jelly|100}}
+        ** {{Cost|Honeysuckle|1000}}
+        * As an extremely rare drop from an Epic [[Puffshroom]], a very rare drop from a Legendary
+        Puffshroom and an uncommon drop from a Mythic Puffshroom.
+        * As a very rare drop from [[planter]]s.
+        ** {{Cost|The Planter Of Plenty|||0}} has a ~10% chance to drop a Turpentine.
+        ** {{Cost|Petal Planter|||0}} has a ~1% chance to drop a Turpentine.
+        * As a reward for reaching the Top 25 Daily Leaderboard for [[Retro Swarm Challenge]].
+        * As a rare reward from the [[Robo Bear Challenge]].
+
+        ===Outdated Ways===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        *From purchasing the Merry Mondo Bundle in [[Bee Bear’s Catalog]] (Gave 1 Turpentine + other
+        items).
+        *As a reward from completing [[Stick Bug|Stick Bug's]] Beesmas 2021 Quest (Gave 1 Turpentine
+        + other items).
+        * Opening the [[Gift Boxes|Mondo Gift Box]] during Beesmas 2021 (Gave 1 Turpentine + other
+        items).
+        * [[Dapper Bear|Dapper Bear's]] [[Samovar]] dropped a Turpentine on the 25th use during
+        Beesmas 2021 and 2022.
+        *From Purchasing the Hefty Honeyday Bundle in [[Bee Bear's Catalog]] (Gave 1 Turpentine +
+        other items).
+        * As a reward from completing [[Stick Bug|Stick Bug's]] Beesmas 2022 Quest (Gave 1
+        Turpentine + other items).
+        *As an exceptionally rare drop from Brown Bear's [[Stockings]].
+        * Purchasing the Mondo Robo Bundle for 4500 Robux gave 1 Turpentine + other items.
+        *Opening the [[Gift Boxes|Mondo Gift Box]] during Beesmas 2022 (Gave 1 Turpentine + other
+        items).
+        *As a reward for completing your own [[Robo Party]] (Rank 45).
+        |}
+
+        ==Crafting uses==
+        Total required for all in-game equipment: {{Cost|Turpentine|35}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" |{{Cost|Turpentine}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">1
+        |{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Magic
+        Bean|75}}<br>{{Cost|Blue Extract|750}}<br>{{Cost|Soft
+        Wax|500}}<br>{{Cost|Caustic Wax|25}}
+        |[[File:Hydroponic Planter.png|center|80px]]<div style=\"text-align:
+        center;\">{{Color|Hydroponic Planter}}
+        |-
+        |<div style=\"text-align: center;\">1
+        |{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Magic
+        Bean|75}}<br>{{Cost|Red Extract|750}}<br>{{Cost|Hard
+        Wax|150}}<br>{{Cost|Swirled Wax|25}}
+        |[[File:Heat-Treated Planter.png|center|80px]]<div style=\"text-align:
+        center;\">{{Color|Heat-Treated Planter}}
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Honey|{{Hover|7.5T|7,500,000,000,000}}}}<br>{{Cost|Coconut|500}}<br>{{Cost|Tropical
+        Drink|1500}}<br>{{Cost|Purple Potion|200}}<br>{{Cost|Hard
+        Wax|200}}<br>{{Cost|Refreshing Vial|3}}
+        |[[File:Coconut Belt.png|center|80px]]<div style=\"text-align: center;\">[[Coconut
+        Belt]]
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Honey|{{Hover|10T|10,000,000,000,000}}}}<br>{{Cost|Glue|1500}}<br>{{Cost|Gumdrops|2500}}<br>{{Cost|Caustic
+        Wax|50}}<br>{{Cost|Super Smoothie|50}}
+        | [[File:Gummyballer.png|center|80px]]<div style=\"text-align: center;\">[[Gummyballer]]
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|{{Hover|100T|100,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|500}}<br>{{Cost|Super Smoothie|100}}<br>{{Cost|Swirled
+        Wax|100}}<br>{{Cost|Caustic Wax|100}}
+        |[[File:The Planter Of Plenty.png|center|80px]]<div style=\"text-align:
+        center;\">{{Color|The Planter of Plenty}}
+        |}
+
+        ==Gallery==
+        <gallery>
+        A turpentine token.png|A Turpentine token.
+        TurpentinesInInventory.jpg|Turpentines in a player's inventory.
+        </gallery>
+
+        ==Trivia==
+        * Turpentine's raw ingredients cost:
+        ** {{Cost|Honeysuckle|1750}}
+        ** {{Cost|Strawberry|164250}}
+        ** {{Cost|Blueberry|164250}}
+        ** {{Cost|Pineapple|232000}}
+        ** {{Cost|Sunflower Seed|13500}}
+        ** {{Cost|Coconut|600}}
+        ** {{Cost|Neonberry|120}}
+        ** {{Cost|Bitterberry|1900}}
+        ** {{Cost|Magic Bean|390}} ({{Cost|Ticket|7800}})
+        ** {{Cost|Royal Jelly|88520}} ({{Cost|Honey|{{Hover|88.52B|88,520,000,000}}}})
+        * Turpentine is the most expensive item to be crafted in the [[Blender]].
+        * If a beequip has no waxes used on it, a Turpentine can still be used on the beequip.
+        {{Items}}
+
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Consumables]]
+        [[Category:Crafted]]
+        [[Category:Waxes]]"}

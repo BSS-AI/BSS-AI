@@ -1,0 +1,52 @@
+{"text": "{{Bee
+        |image-orig=Demo_Bee.png
+        |image-gifted=DemoBee Gifted.png
+        |description=An elite Bomber Bee who has worked its way up the ranks. It is an expert in
+        explosives.
+        |rarity=Epic
+        |color=Colorless
+        |energy=20
+        |speed=16.8
+        |attack=3
+        |skincolor1=#1b2a35
+        |skincolor2=#e5cf38
+        |skincolor3=#1b2a35
+        }}'''Demo Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Epic|Epic Bee]].
+
+        Demo Bee's favorite type of treat are [[Sunflower Seed|Sunflower Seeds]].
+
+        Demo Bee likes the [[Dandelion Field]] and the [[Cactus Field]]. It dislikes the [[Rose
+        Field]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 4 seconds.
+        * Makes 200 [[Honey]] in 4 seconds.
+        * +20% [[Stats#Speed|Movespeed]], +2 [[Stats#Attack|Attack]], +170 [[System Page#Convert
+        Amount|Convert Amount]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: x1.25 Buzz Bomb Pollen.
+
+        === Abilities ===
+        * '''[[Ability Tokens#Bomb|[Buzz Bomb+]]]''' Collects 7 pollen from 29 surrounding
+        [[Flowers]] (+10% pollen per Level). Combo with other bombs to increase power.
+
+        {{Stat|pollen = 10|pollentime = 4|honey = 250|honeytime = 4|rarity = epic}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        DemoBee Hive.png|Demo Bee's old hive slot design.
+        GiftedDemoBeehive.PNG|A Gifted Demo Bee hive slot.
+        DemoFace.png|Demo Bee's face.
+        File:Demb.png|Demo Bee's original face.
+        </gallery>
+
+        == Trivia ==
+        *Demo Bee and [[Basic Bee]] have the same skin colors.
+        *As said in its description, Demo Bees are elite [[Bomber Bee]]s.
+        **Demo Bee shares very similar abilities and descriptions to Bomber Bee.
+        **Demo Bee and Bomber Bee like the same [[Fields]], but dislike different fields.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Epic]]
+        [[Category:Colorless]]
+        [[zh-tw:爆破蜂]]"}

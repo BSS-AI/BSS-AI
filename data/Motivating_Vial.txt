@@ -1,0 +1,52 @@
+{"text": "{{Consumables|image=Motivating_vial.png|description=Grants 4 hours of Motivating Nectar.
+        (Boosts: Blue Pollen, Convert Rate, Bee Ability Pollen)|cooldown=1 Second|cap=10}}
+
+        The '''Motivating Vial''' is a consumable [[Nectar Vial|nectar vial]] [[Items|item]] that
+        was added in the [[Updates#2022.12.26|12/26/2022 update]]. Once used, it grants the player 4
+        hours of the [[Nectar|Motivating Nectar]] [[Buffs & Debuffs|buff]] instantly. It can
+        also be used to craft other [[:Category:Accessories|accessories]].
+
+        == Ways to Obtain ==
+        * Completing [[Dapper Bear|Dapper Bear's]] 8th quest.
+        * Using the [[Nectar Condenser]] to condense Motivating Nectar.
+        * Adding the Motivating Nectar Icon to the [[Sticker Stack]] grants 1 Motivating Vial.
+
+        === The methods below are no longer possible. ===
+        * Purchasing the Hefty Honeyday Bundle from [[Bee Bear's Catalog]] for 25,000 [[Snowflake]]s
+        and 50 [[Gingerbread Bear]]s granted 5 Motivating Vials and other items.
+        * Opening the Mythic Gift Box granted 2 Motivating Vials and other items.
+        * Purchasing the Nighttime Nectar Pack in the [[Robux Shop]] gave 1 of each Nectar Vial and
+        other items.
+        * Completing [[Bee Bear|Bee Bear's]] [[Beesmas|Beesmas 2022]] 17th quest gave 1 Motivating
+        Vial + other items.
+
+        == Crafting uses ==
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !style=\"text-align: center\"|Number of Motivating Vials
+        !Other items required
+        !style=\"text-align: center\"|Crafted item
+        |-
+        |[[File:Motivating_vial.png|thumb|left|30px]]1x Motivating Vial
+        |[[File:HoneyDrop.png|thumb|left|20px]]100,000,000,000 [[Honey]]
+        {{clear}}[[File:Glue.png|thumb|left|20px]]500x [[Glue]]
+        {{clear}}[[File:Red Extract.png|thumb|left|20px]]250x [[Red Extract]]
+        {{clear}}[[File:Blue Extract.png|thumb|left|20px]]250x [[Blue Extract]]
+        {{clear}}[[File:Glitter.png|thumb|left|20px]]250x [[Glitter]]
+        {{clear}}[[File:Satisfying_vial.png|thumb|left|20px]]1x [[Satisfying Vial]]
+        |[[File:Gummy Boots.png|thumb|left|40px]] [[Gummy Boots]]
+        |}
+
+        == Gallery ==
+        <gallery>
+        File:MotivatingNectar1.png|Two Motivating Vial Tokens from the Mythic Gift Box from Beesmas
+        2022.
+        File:MotivatingVial1.png|A Motivating Vial in the Inventory Menu.
+        </gallery>
+
+        == Trivia ==
+        * This and the [[Comforting Vial]] are the only Nectar Vials to grant a blue pollen boost.
+        * This is the only Nectar Vial given out by Dapper Bear once.
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Nectar Vials]]
+        [[Category:Inventory]]"}

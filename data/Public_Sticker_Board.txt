@@ -1,0 +1,16 @@
+{"text": "{{Stub}}
+        The '''Public Sticker Board''' is located in the [[Hive Hub]], and allows players to add or
+        take [[sticker]]s from it. There is a 22 hour cooldown for taking a sticker from the board
+        and a 10 minute cooldown for adding a sticker to the board. The [[Sticker-Seeker Quest
+        Machine]] might occasionally require players to donate a sticker to the Public Sticker Board
+        as well. This is a great way of getting stickers or donating if you have too much (trading
+        away stickers can be too hard if you have no one), as most games have a donation board.
+        ==Gallery==
+        <gallery>
+        EmptyStickerBoard.jpg|An empty Public Sticker Board.
+        Sticker board with stickers.png|An example of stickers on the Public Sticker Board.
+        AboveTradeLimit.png|The popup that appears when a normal player tries to add a Play Button
+        or Game Chat Icon sticker to the Public Sticker Board.
+        </gallery>
+        [[Category:Locations]]
+        [[Category:Hive Hub]]"}

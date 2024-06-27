@@ -1,0 +1,68 @@
+{"text": "'''King Beetle's Lair''' is the location where [[King Beetle]] spawns. It can be accessed
+        from the light green door between [[Blue HQ]] and under the [[Clover Field]] and next to the
+        far end of the [[Blue Flower Field]]. Inside the lair, the exit can be accessed by climbing
+        a ladder leaning adjacent to the entrance. The interior of the lair is completely empty,
+        except for the ladder for leaving. Both doors are one-way. The player will be pushed through
+        either door if they stand too close, even if they aren’t moving. The entrance to the lair
+        cycles in color, so it stands out from the rest of the environment.
+
+        The King Beetle spawns on the back wall adjacent to the Noob Shop and [[Obstacle
+        Courses#Lava Obby|Lava Obby]].
+
+        Near the back right corner of the lair, there is some text on the floor, \"Song Name\". It
+        refers to the song that plays inside the lair and is a hint to the [[Codes|code]],
+        \"Crawlers\".
+
+        == Music ==
+        When in the lair, the following audio plays:[[File:Crawlers.ogg]]
+
+        This [[Music|audio]] is known as \"Crawlers\" and also plays inside the [[Commando Chick's
+        Hideout]] and the [[White Tunnel]].
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        D2F788D1-B6B0-4AF3-9498-E0673E9D7C6B.jpg|King Beetle in his lair.
+        Kingbeetlelairentranceandexit.png|The interior of the King Beetle's Lair.
+        CrawlersHint2021.png|The ‘Song Name’ Hint in the corner of the lair.
+        KingBeetleSprout.png|A sprout in the Clover Field as seen in the lair.
+        LairSpike.png|A spike as seen from the lair (with the honeystorm pole visible at the top
+        right).
+        IMG 1013.jpg|The entrance to King Beetle's Lair.
+        Ezgif-7-12ec8f7233b2.gif|The entrance cycling color.
+        A64877C9-E489-458C-89B6-8F268EDF4BAF.jpeg|Rain from a cloud in the Clover Field, seen in the
+        lair.
+        KING BEETLE GETS STUCK EPICALLY.png|King Beetle getting stuck because of the \"Song Name\"
+        text.
+        </gallery>
+
+        == Trivia ==
+        * In early game versions, if players went too close to the side of the lair that is closest
+        to the Noob Shop, they could die due to a lava block clipping into the wall from the lava
+        obby. This was later patched.
+        * The bottom of the pole of the [[Honeystorm|Honeystorm Summoner]] sign pokes into the top
+        of the lair.
+        * If there is a [[sprout]] in the Clover Field, the bottom of its light column and the
+        remaining pollen number can be seen in the lair.
+        **This is similar to when [[Rogue Vicious Bee]]’s spikes and [[clouds]] spawn in the Clover
+        Field.
+        * There is a [[Glitches|glitch]] where the King Beetle can fail to lunge and get stuck when
+        in the 'Song Name' corner.
+        * During the [[Updates#2018.12.25|Beesmas 2018 Event]], the red roof of the lair could be
+        seen on the sides of the flower blocks in the Clover Field.
+        ** However, the red roof's glow near the Noob Shop wall is still visible even when it was
+        not snowy.
+        * Any [[Tools|tool]] can collect [[pollen]] from the Clover Field inside the lair if the
+        player continuously jumps and has enough [[System Page#Jump Power|Jump Power]]. However, the
+        [[Spark Staff]] doesn't require too much Jump Power.
+        * If the player has enough Jump Power and jumps high enough, the [[Rhino Beetle|rhino
+        beetle]] and [[ladybug]] in the Clover Field can be triggered. The player's bees may also
+        think that they are in the Clover Field and start collecting pollen.
+        * The entrance to the lair is lighter than the color of the surrounding ground and slightly
+        changes in. During Beesmas, it is much more noticeable as the walls surrounding the entrance
+        are white.
+        * The cycling colors of the entrance matches the cycling colors and pattern of any
+        supreme-tier amulet.
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Starter Zone]]"}

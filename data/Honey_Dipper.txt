@@ -1,0 +1,39 @@
+{"text": "{{Tool
+        |image =Honey_Dipper.png
+        |price = 1,500,000
+        |shop = Pro Shop
+        |range = 49
+        |pattern = Surround
+        |time = 0.9
+        |collectbase = 2
+        }}
+        The '''Honey Dipper''' is a [[:Category:Tools|tool]] available to be bought in the [[Pro
+        Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|1,500,000}}
+        |}
+
+        It collects 2 pollen from 49 surrounding patches in 0.9 seconds, which comes to a base
+        pollen collection rate of 108.89 pollen per second. This tool does not collect more pollen
+        from a certain color of flower, unlike the [[Porcelain Dipper]].
+
+        ==Gallery==
+        <gallery>
+        Hivesticker honey dipper.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        </gallery>
+        ==Trivia==
+        *The [[Porcelain Dipper]], sold in the [[Mountain Top Shop]], is the enhanced variant of the
+        Honey Dipper.
+        *The Honey Dipper and the Porcelain Dipper have the same collecting range.
+        *The Honey Dipper is the third most expensive item in the Pro Shop.
+        *The Onett above the hives is holding the Honey Dipper.
+        *This tool is related to the kitchen utensil known as the ''[[Wikipedia:Honey dipper|Honey
+        dipper]]''.
+        *This is the second slowest tool in the game, surpassed by the [[Pulsar]] and
+        [[Gummyballer]].
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]"}

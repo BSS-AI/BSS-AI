@@ -1,0 +1,97 @@
+{"text": "{{Mob
+        |title = Ladybug
+        |image =Ladybug.png
+        |location = [[Mushroom Field]], [[Clover Field]], [[Strawberry Field]]
+        |timer = 5 minutes (4 minutes 15 seconds with [[Gifted Bee|Gifted]] [[Vicious Bee]])
+        |hp = 12 (Lvl 1)
+        20 (Lvl 2)
+        28 (Lvl 3)
+        |damage = 15
+        |points = 1
+        |bond = 5
+        |honey = ~75
+        |level = 1-3
+        }}
+        The '''Ladybug''' is a [[Mob]] that defends three different [[Fields]].
+
+        This is one of the first mobs a player will encounter, as they are in 2 out of 5 of the
+        [[Starter Zone|Starting]] [[Fields]] (the others being [[Rhino Beetle]]s and the possibility
+        of [[Aphid]]s, [[Wild Windy Bee]], and [[Rogue Vicious Bee]]).
+
+        It takes 5 minutes for a ladybug to respawn after being defeated (4 minutes 15 seconds with
+        a [[Gifted Bee|Gifted]] [[Vicious Bee]]). Defeating one gives 1 [[Battle Points]]s and about
+        75 [[Honey]] (increased by [[System Page#Honey From Tokens|Honey From Tokens]]) spread
+        across 4 honey tokens. Various other rewards are also possible with their probability
+        increasing with [[Loot Luck]].
+
+        A Ladybug's level can range from 1-3, depending on the field it is located at.
+
+        == Locations ==
+        {| class=\"article-table\"
+        !Field
+        !Quantity
+        ! Level & HP
+        |-
+        |[[Mushroom Field]]
+        |1
+        |1
+        12 HP
+        |-
+        |[[Clover Field]]
+        |1 (with 1 rhino beetle)
+        |2
+        20 HP
+        |-
+        |[[Strawberry Field]]
+        |2
+        |2 (on right)
+        20 HP
+        3 (on left)
+        28 HP
+        |}
+
+        == Drops ==
+
+        {| class=\"article-table\"
+        !Guaranteed
+        |-
+        |1 [[Battle Points|Battle Point]]<br>{{Cost|Honey|75}} (increased by [[System
+        Page#Honey From Tokens|Honey From Tokens]])
+        |}
+        {| class=\"article-table\"
+        !Possible
+        |-
+        |{{Cost|Ticket}} (2% chance, Increments of 1, 5 or 10)<br>{{Cost|Strawberry}}
+        (Increments of 1, 5 or 10)<br>{{Cost|Gumdrops}} (Increments of 1, 5 or
+        10)<br>{{Cost|Treat}} (Increments of 1 or 50)<br>{{Cost|Royal Jelly}}
+        (Uncommon)<br>{{Cost|Ant Pass|||0}} (Somewhat Rare)<br>{{Cost|Robo Pass|||0}}
+        (Rare)<br>{{Cost|Magic Bean}} (Rare)<br>{{Cost|Red Extract}}
+        (Rare)<br>{{Cost|Field Dice}} (Rare)<br>{{Cost|Honeysuckle}}
+        (Rare)<br>{{Cost|Bitterberry}} (Rare, increments of 1 or
+        5)<br>{{Cost|Neonberry}} (Very rare)<br>[[File:Basic Egg.png|25px]]
+        [[Eggs#Specific Bee Eggs|Rascal Bee Egg]] (Exceptionally rare)<br>{{Cost|Gingerbread
+        Bear}} (Very rare, beesmas only)<br>{{Cost|Elf Cap}} (Beesmas only).
+        |}
+
+        ==Strategies ==
+        *Ladybugs behave similarly to most Mobs: it pauses to aim, then lunges. If the player stops
+        to let them aim, then move, it will attack the spot where the player used to be, not the
+        player's current location.
+        *The [[Glitches#Frozen Field Defenders|Frozen Field Defenders Glitch]] works very well
+        against Ladybugs.
+
+        ==Trivia ==
+        *The respawn timer for a Ladybug currently counts down from 5 minutes (previously 5 minutes
+        and 15 seconds). However, as with most Mobs, Ladybugs do not always respawn immediately
+        after their timer runs out. (Usually a 10-20 second delay)
+        * The Ladybug's detection range in the Mushroom Field is larger than that of the Field,
+        making it react even when the player is not in the Field.
+        *Before, Ladybugs would completely ignore players, but this was patched on the
+        [[Updates#2018.05.11|5/11/2018 Update]].
+        *The maximum level of this mob is level 3, which is the lowest maximum level of all mobs.
+        *The [[King Beetle]] is a [[:Category:Bosses|Boss mob]] that shares a similar design to the
+        ladybug, being a hybrid of a Ladybug and a Rhino Beetle, as stated by Onett in his Discord
+        server.
+
+        {{MobNav}}
+        [[Category:Mobs]]"}

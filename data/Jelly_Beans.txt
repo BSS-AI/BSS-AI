@@ -1,0 +1,233 @@
+{"text": "{{Consumables
+        |image = Jelly Beans.png
+        |description = Scatters various buff-granting beans on nearby flowers. Works best when
+        shared.
+        |cooldown = 30 seconds
+        |cap = 100
+        }}
+        '''Jelly Beans''' are an [[:Category:Inventory|inventory item]] added in the
+        [[Updates#2019.04.17|Egg Hunt 2019 update]]. When used, it spreads jelly beans of varying
+        colors in the direction the player is facing, with each color representing a different
+        [[Buffs & Debuffs|buff]]. They will turn into jelly bean tokens when they land on
+        [[flowers]], making them collectable. Each buff lasts for a minute. Each jelly bean item
+        spawns 11-13 jelly bean tokens.
+
+        If multiple players are around, a different player picking up the tokens will give both the
+        owner and the collector the token's buffs, as well as the Jelly Bean Sharing Bonus to the
+        owner. Therefore, it is best to share jelly beans.
+
+        The player can only hold a maximum of 100 at a time in their inventory. The player will need
+        to use at least one in order to get any more unless they are obtained from [[quests]],
+        purchased from any [[Robux Shop|Robux pack]], or from the [[Ornament Presents|Colorful
+        Present]] (now unobtainable).
+
+        '''''Note:''' Jelly Beans can be activated anywhere, though it is recommended to be in a
+        field because if the beans do not land on a field, no tokens will be spawned.''
+
+        ==Types and Effects==
+        All jelly bean types stack up to 3 times. There are 15 different types of jelly beans and 1
+        unique [[Buffs & Debuffs|buff]] related to sharing jelly beans with other players:
+        {| class=\"sortable mw-collapsible mw-collapsed article-table\"
+        !Name
+        !Image
+        !Effect(s)
+        !Rarity
+        |-
+        |Red Jelly Bean
+        |[[File:RedJellyBean.png]]
+        | +25% [[System Page#Red Pollen|Red Pollen]]
+        |Very Common
+        |-
+        |Blue Jelly Bean
+        |[[File:BlueJellyBean.png]]
+        | +25% [[System Page#Blue Pollen|Blue Pollen]]
+        |Very Common
+        |-
+        |White Jelly Bean
+        |[[File:WhiteJellyBean.png]]
+        |25% [[System Page#White Pollen|White Pollen]]
+        |Very Common
+        |-
+        |Pink Jelly Bean
+        |[[File:PinkJellyBean.png]]
+        | +25% Instant Bee Gather Conversion
+        |Common
+        |-
+        |Green Jelly Bean
+        |[[File:GreenJellyBean.png]]
+        | 3% [[System Page#Critical Chance|Critical Chance]]
+        |Common
+        |-
+        |Black Jelly Bean
+        |[[File:BlackJellyBean.png]]
+        | +25% [[System Page#Bomb Pollen|Bomb Pollen]]
+        |Common
+        |-
+        |Brown Jelly Bean
+        |[[File:BrownJellyBean.png]]
+        | +25% [[System Page#Instant Bomb Conversion|Instant Bomb Conversion]]
+        |Common
+        |-
+        |Teal Jelly Bean
+        |[[File:TealJellyBean.png]]
+        | +25% Instant Tool Conversion
+        |Common
+        |-
+        |Yellow Jelly Bean
+        |[[File:YellowJellyBean.png]]
+        | x1.1 Conversion Rate
+        |Rare
+        |-
+        |Maroon Jelly Bean
+        |[[File:MaroonJellyBean.png]]
+        | +10% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        |Rare
+        |-
+        |Navy Jelly Bean
+        |[[File:NavyJellyBean.png]]
+        | +10% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        |Rare
+        |-
+        |Slate Jelly Bean
+        |[[File:SlateJellyBean.png]]
+        | +10% [[System Page#Instant White Conversion|Instant White Conversion]]
+        |Very Rare
+        |-
+        |Periwinkle Jelly Bean
+        |[[File:PeriwinkleJellyBean.png]]
+        | +25% [[Pollen]]
+        |Very Rare
+        |-
+        |Merigold Jelly Bean
+        |[[File:MerigoldJellyBean.png]]
+        | +10% [[Instant Conversion]]
+        |Very Rare
+        |-
+        |Spoiled Jelly Bean
+        |[[File:SpoiledJellyBean.png]]
+        | -30% [[Stats#Speed|Bee Movespeed]]
+        |Extremely Rare
+        |-
+        |Jelly Bean Sharing Bonus
+        |[[File:JBshare.png]]
+        | +100% [[System Page#Convert Rate|Convert Rate]], +10% White Pollen, +10% Red Pollen and
+        +10% Blue Pollen
+        |N/A (To get this bonus, the player must let another player take a dropped Jelly Bean that
+        the player used)
+        The lenght of this boost depends on the amount of jelly beans another player has picked up,
+        eventually capping out at 30 minutes.
+        |}
+
+        ==Ways To Obtain==
+        *As a reward from the [[Ant Challenge]].
+        *As a drop from certain [[planter]]s.
+        **The [[Candy Planter]], the [[Petal Planter]], and [[The Planter Of Plenty]] can drop them
+        as a bonus drop.
+        * As a Stack Reward for adding the following [[Sticker]]s to the [[Sticker Stack]]:
+        **Standing Bean Bug grants 5 Jelly Beans.
+        **Baseball Swing grants 5 Jelly Beans.
+        **Colorful Buttons grants 5 Jelly Beans.
+        *As a reward from [[Memory Match]].
+        *[[Black Bear]] gives jelly beans on the following quests:
+        ** Can't Without Ants rewards 3 jelly beans and other items after completion.
+        **Low Tier Treck rewards 3 jelly beans and other items after completion.
+        ** Mountain Mix rewards 3 jelly beans and other items after completion.
+        **You Blue It rewards 5 jelly beans and other items after completion.
+        **Getting Stumped rewards 10 jelly beans and other items after completion.
+        ** Red Delicacy rewards 3 jelly beans and other items after completion.
+        *[[Brown Bear]] rewards jelly beans after every third quest completed.
+        *[[Spirit Bear]] rewards jelly beans on the following quests:
+        **QR Quest rewards 5 jelly beans and other items after completion.
+        **Pleasant Pastimes gives the player 3 jelly beans once the quest is started.
+        **Out-Questing Questions rewards 10 jelly beans and other items after completion.
+        **Do You Bee-lieve In Magic? rewards 10 jelly beans and other items after completion.
+        **Witness Grandeur rewards 10 jelly beans and other items after completion.
+        ** Glory Of Goo rewards 5 jelly beans and other items after completion.
+        ** Rhubarb That Could Have Been rewards 10 jelly beans and other items after completion.
+        **Space Oblivion rewards 10 jelly beans and other items after completion.
+        **Dancing With Stick Bug rewards 10 jelly beans and other items after completion.
+        ** Bear Without Despair rewards 10 jelly beans and other items after completion.
+        **Spirit Spree rewards 10 jelly beans and other items after completion.
+        *Going into the [[Mazes#Blue Maze|Blue Maze]] next to the [[Ticket Tent]]. Taking the path
+        to the right will lead to a jelly bean token.
+        * Donating items to the [[Wind Shrine]].
+        *Going into the [[Coconut Cave]] on top of the [[Coconut Dispenser]] there will be a hole,
+        Going through the hole has jelly beans and others.
+        *Rarely through a [[Cub Buddy]] gift in increments of 1 or 5.
+        *A common drop from [[Robo Bear Challenge]].
+        *Redeeming certain valid [[codes]].
+        **Using the code \"ThnxCyasToyBox\" (Gives 1 jelly bean + other stuff).
+
+        ===The methods below are no longer possible.===
+        *[[Bee Bear]] gave jelly beans in certain quests during Beesmas 2020.
+        *Collecting the token near the [[Ant Gate]] entrance where [[Sun Bear]] used to be when he
+        left during his third visit.
+        *Opening the [[Ornament Presents|Colorful Present]].
+        *Black Bear's 2020 Egg Hunt quest rewarded 3 jelly beans and other items.
+        *Black Bear's Ornament quest rewarded 1 jelly bean and other items.
+        *Mother Bear's 2019 Egg Hunt quest rewarded 1 jelly bean and other items.
+        * Science Bear's 2019 Egg Hunt quest rewarded 3 jelly beans and other items.
+        *Polar Bear's 2019 Egg Hunt quest rewarded 5 jelly beans and other items.
+        *Placing in the Top 100 for any team in the Test Realm competition rewarded 25 jelly beans
+        along with [[ticket]]s.
+        **If the player was in the winning team (the Blue Team), they would receive an additional 25
+        jelly beans on top of the rewards if applicable.
+        *[[Bee Bear]] rewarded jelly beans on the following quests:
+        ** Let it Snow rewarded 5 Jelly Beans and other items after completion.
+        **Twinkle Up the Night rewarded 10 Jelly Beans and other items after completion.
+        *From various [[Gift Boxes]]:
+        **Opening the Kitsch Gift Box rewarded 10 Jelly Beans and other items.
+        *Buying certain packs from the Robux Shop:
+        ** The Dual-Diamond Basket cost 700 Robux and gave 15 jelly beans and other items.
+        **The Spikey Spring Basket cost 2700 Robux and gave 50 jelly beans and other items.
+        **The Beginner's Bean Bundle cost 400 Robux and gave 25 jelly beans and other items.
+        **The Star Treat Special cost 1700 Robux and gave 50 jelly beans and other items.
+        ** The Stocking Stuffer Special cost 400 Robux and gave 25 jelly beans and other items.
+        **The Silent Night Special cost 500 Robux and gave 25 jelly beans and other items.
+        ** The Black Friday Bundle cost 800 Robux and gave 10 jelly beans and other items.
+        *As a drop from the [[Party Cogmower]].
+        *Purchasing the Blessed Bean Bundle in [[Bee Bear's Catalog]] grants you 100 jelly beans.
+        *Purchasing the Robotic Bundle in Bee Bear's Catalog grants you 25 jelly beans.
+
+        ==Audio==
+        Whenever a jelly bean token is collected, one of the five following audios will play:<br
+        />[[File:Jb1.ogg]]<br />[[File:Jb2.ogg]]<br />[[File:Jb3.ogg]]<br
+        />[[File:Jb4.ogg]]<br />[[File:Jb5.ogg]]
+
+        ==Gallery==
+        <gallery widths=\"160\" orientation=\"none\" hideaddbutton=\"true\">
+        SpreadJellyBeans.gif|A player using jelly beans.
+        File:Jelly Beans from Onett.png|Onett granting jelly bean buffs at the end of Beesmas.
+        File:Jelly bean token from g-shrine.png|A jelly bean token.
+        </gallery>
+
+        ==Trivia ==
+        *[[Bean Bug]]s are passive mobs that spawn in random fields. They scatter jelly bean tokens
+        around their current field. They are the second and only other way of getting jelly bean
+        tokens.
+        *When picking up a jelly bean item token (the consumable), it will say \"You found a Jelly
+        Beans!\" instead of \"You found Jelly Beans!\" or \"You found a Jelly Bean!\". This is an error.
+        This was fixed at an unknown date.
+        *The Merigold Jelly Bean is misspelled throughout the game. The correct spelling should be
+        'Marigold'.
+        *The hearts in the Jelly Bean Sharing Bonus buff are similar to the heart of the [[Ability
+        Tokens#Baby Love|Baby Love ability token]], but they are not blushing.
+        *Rarer jelly beans emit sparkles when being thrown into a field, and the token will also
+        emit a sparkle effect.
+        *Prior to the [[Updates#2019.09.28|9/28/2019 update]], Jelly Beans did not have a maximum
+        capacity and players could obtain them in an unlimited amount.
+        *If the player donates any number of Jelly Beans for the first time to the [[Wind Shrine]],
+        it gives back 7 Jelly Beans.
+        **After donating, it says \"- ( Number ) Jellybeanss\". It should be \"Jelly Beans\" with one S.
+        **When claiming the tokens, it says \"+ ( Number ) Jelly Beans ( from >>☻︎ ). This is a
+        clue from the [[Ready Player Two|Ready Player Two Event]].
+        *If the player attempts to throw Jelly Beans in the [[Ant Field]] from outside, the beans
+        will be thrown, but no tokens will spawn even if they hit flowers in the Ant Field.
+        *Like [[Field Wind]]s, further Jelly Bean stacks do not add up on each other. Instead, they
+        gain their own stacks of percentage.
+        *The Spoiled Jelly Bean is the only jelly bean to grant a debuff.
+
+        {{Items}}
+        [[Category:Consumables]]
+        [[Category:Items]]
+        [[Category:Inventory]]"}

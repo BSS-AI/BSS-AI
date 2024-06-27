@@ -1,0 +1,49 @@
+{"text": "{{Beequip
+        |image1=Kazoo.png
+        |level=9
+        |color=Any
+        |limit=1
+        |description=A plastic instrument that's kind of like a recorder, but more obnoxious.
+        |hive= %Critical Power<br/>%Critical Chance
+        |stats=%Convert Amount<br/>%Critical Power<br/><span
+        style=\"color:red;\">-%Energy</span><br/>+Ability:Melody
+        }}
+        The '''Kazoo''' is a [[Bond|level]] 9 [[beequip]]. It has an equip limit of one. There is no
+        color requirement. It can only be equipped to [[Brave Bee|Brave]], [[Bumble Bee|Bumble]],
+        [[Bubble Bee|Bubble]], [[Riley Bee|Riley]], [[Shocked Bee|Shocked]] and [[Buoyant
+        Bee|Buoyant]] [[bees]].
+
+        ==Potential==
+        *Convert Amount (Guaranteed) - +20% to +30%. (up to +90% from [[Waxes|waxing]])
+        *[[Critical Hits#Critical Power|Critical Power]] (Guaranteed) - +2% to +5%. (up to +65% from
+        waxing)
+        *[[Energy]] (Guaranteed) - -45% to -55%
+        *[[Passive Abilities|Ability]]: [[Ability Tokens#Melody|Melody]] (Guaranteed)
+        * [Hive Bonus] Critical Power - +2% to +5% (up to +10% from waxing)
+        * [Hive Bonus] Super-Crit Power (from waxing, caustic only) - +1% to +5%
+
+        ==Ways to obtain==
+        *As a drop from the [[Petal Planter]].
+        *Can be an available product in [[Dapper Bear's Shop]].
+
+        === These methods are no longer possible. ===
+
+        * Buying the Kazoo Bundle from [[Bee Bear's Catalog]] during Beesmas 2022.
+
+        == Gallery ==
+        <gallery>
+        File:Kazoo1.png|A Kazoo in Dapper Bear's Shop.
+        File:KazooBuoyant.jpg|A Kazoo equipped to a Buoyant Bee.
+        </gallery>
+
+        == Trivia ==
+        * The Kazoo was released in the [[Updates|2022/04/01 update]].
+        * This is one of the first non-[[Beesmas]] beequips to be added into the game.
+        * This is one of three instrumental beequips.
+        ** The other two are [[Toy Drum]] and [[Toy Horn]].
+        *This is one of six beequips to give a negative stat.
+        **The other five are [[Whistle]], [[Beesmas Top]], Toy Horn, Toy Drum, and [[Lump Of Coal]].
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Beequips]]
+        [[Category:Inventory]]"}

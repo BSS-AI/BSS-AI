@@ -1,0 +1,41 @@
+{"text": "''<sup>Not to be confused with the [[Nectar Pot]], the one at 30 bee zone which only
+        contains nectar until you redeem it back</sup>''{{Stub}}
+        The '''Nectar Condenser''' is located past the [[Windy Bee Gate]] near the [[Wind Shrine]].
+        It allows you to condense 12 hours of any [[nectar]] to receive a [[Nectar Vial|vial]] that
+        holds 4 hours of [[nectar]]. This vial can be used at any time and grants 4 hours of that
+        nectar type.[[File:The Nectar Condenser.jpg|thumb|The Nectar Condenser.]]
+        [[File:Nectar condenser menu.jpg|thumb|The menu of the Nectar Condenser.]]
+
+        ==Usage==
+        The Nectar Condenser allows you to condense 12 hours of any nectar to receive a [[Nectar
+        Vial|vial]] that holds 4 hours of nectar. This vial can be used at any time and grants 4
+        hours of that nectar type. Unlike the [[Nectar Pot]], there is no extra cost for this
+        action.
+
+        When condensing nectar. It has a 1/25 chance to drop a [[Sticker]] corresponding to the
+        nectar condensed, the place it will drop depends on the nectar that was condensed:
+        *Refreshing in [[Coconut Field]].
+        *Satisfying in [[Sunflower Field]].
+        *Motivating in [[Rose Field]].
+        *Comforting in [[Dandelion Field]].
+        *Invigorating in [[Pepper Patch]].
+
+        ==Gallery==
+        <gallery>
+        File:Condenser sticker.png|The Nectar Condenser dispensing a [[sticker]].
+        File:Condenser refreshing.png|The Nectar Condenser when Refreshing Nectar is converted.
+        </gallery>
+
+        ==Trivia==
+
+        *The Nectar Condenser was added in the 1/12/2024 update.
+        *By default, the model of the Nectar Condenser is set to be purple and has a
+        [[Nectar|Motivating Nectar]] decal. Upon first use, the Nectar Condenser will always show
+        the last nectar type that you condensed.
+        *There is currently a bug with its hitbox. You can be a bit off to the side on the Nectar
+        Condenser and won’t fall. This is most likely due to the fact its placeholder model shared
+        one with the [[Nectar Pot]] during testing, and Onett never changed the hitbox for it.
+        *The player can reach the Nectar Condenser even if they don't have 35 bees, by jumping off
+        the roof of the [[Red HQ]] and gliding down to it, although they won't be able to use it.
+        [[Category:Locations]]
+        [[Category:Machines]]"}

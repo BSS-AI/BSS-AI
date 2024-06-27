@@ -1,0 +1,154 @@
+{"text": "{{Consumables
+        |image = Night Bell.png
+        |description = Summons nighttime. A Moon Sprout and a Vicious Bee are guaranteed to appear.
+        |cooldown = 1 second
+        }}
+        A '''Night Bell''' is an [[:Category:Inventory|inventory item]] that was added in the
+        12/25/2018 update. When used, it summons [[Day/Night Cycle|nighttime]], along with a
+        [[Sprout|Moon Sprout]] and a [[Rogue Vicious Bee]].
+
+        Whenever a player activates a night bell, the sound of a bell chiming will play and a
+        server-wide message will appear, saying \"<span
+        style=\"background:silver;color:white\">🌙 {Username} has summoned nighttime...
+        🌙</span>\".
+        [[File:RobloxScreenShot20190206 162036650.png|thumb|500px|The server-wide message when a
+        player in the server uses a night bell.]]
+
+        Upon using a night bell, the server will receive the public announcement above, along with
+        the following sound file below.<br/>[[File:Bells.ogg]]
+
+        ==Ways of obtaining==
+        * As a rare drop from [[aphid]]s, [[Werewolf|werewolves]], [[King Beetle]], [[Wild Windy
+        Bee]]s, [[fireflies]], [[Coconut Crab]] and [[Tunnel Bear]].
+        * As a rare reward from [[Memory Match#Night Memory Match|Night Memory Match]].
+        * Buying them from the [[Robux Shop]] for 80 robux each.
+        * As a Playtime Master [[Badges|badge]] reward from donating [[enzymes]] to the [[Wind
+        Shrine]].
+        * Completing [[Spirit Bear]]'s \"Do You Bee-lieve In Magic?\" quest rewards 1 night bell.
+        * As a rare drop from a [[Festive Planter]].
+
+        ===The methods below are no longer possible.===
+        * As a rare drop from [[Stockings]].
+        * Completing [[Bee Bear]]'s \"Bee Cub Workshop 5\" quest rewarded 1 night bell.
+        * Talking to [[Bubble Bee Man]] after completing his quest, \"B.B.M. Mission\" during Beesmas
+        2018 granted 1 night bell.
+        * Opening the Brass [[Gift Boxes|Gift Box]] during Beesmas 2020 gave 4 night bells and other
+        items.
+        * Buying the Night Bundle in [[Bee Bear’s Catalog]] during Beesmas 2020 gave 1 Night Bell
+        and other items.
+        * As a rare reward from [[Winter Memory Match]].
+        * As a rare drop from [[Festive Nymph]]s.
+        * Purchasing the Night Bundle in [[Bee Bear's Catalog]] for 1,000 [[snowflake]]s gave 1
+        night bell and other items.
+        * By purchasing certain packs in the Robux Shop:
+        ** Purchasing the Happy Honeyday Pack for 900 robux gave 10 night bells and other items.
+        ** Purchasing the Stocking Stuffer Pack for 450 robux gave 5 night bells and other items.
+        ** Purchasing the Silent Night Special for 800 robux gave 5 night bells and other items.
+        ** Purchasing the Cyber Monday Pack for 800 robux gave 5 night bells and other items.
+        ** Purchasing the Nighttime Nectar Pack for 400 robux gave 5 night bells and other items.
+        ** Purchasing the Cyber Monday Special for 800 robux gave 5 night bells and other items.
+        ==Gallery==
+        <gallery>
+        A night bell in the inventory..png|A night bell in the inventory.
+        File:Nightbellshop.png|The Night Bell in the shop
+        Night Bell Token.png|A night bell token.
+        </gallery>
+
+        ==Trivia==
+        *If a player attempts to use a Night Bell when it is already night, they will get a message
+        that says “You can only use Night Bells during the day.”
+        *If you summon night-time right after night-time ends a new set of fireflies will be spawned
+        when you can see the other fireflies fly away.
+        **The sky will also flash if you summon night-time even quicker (when the sky is changing
+        from night to day).
+        *Night Bells and [[Box-O-Frogs]] are the only two consumable items that summon mobs.
+        **The Night Bell summons two types of mobs, Fireflies and Rogue Vicious Bee.
+
+        ==Night Bell Messages==
+        [[Onett (Developer)|Onett]] is able to manipulate the function of the night bell. Doing
+        this, he has globally activated nighttime under unique names.
+        <gallery type=\"slideshow\" position=\"center\" widths=\"500\">
+        PicturebeanBug.png|\"🌙 A Bean Bug has summoned nighttime... 🌙\"
+        Screenshot 741.png|\"🌙 Your dog IRL has summoned nighttime... 🌙\"
+        4289A903-69DB-4692-BC9F-7AF9A2B4847B.jpeg|\"🌙 One of [[Mother Bear]]'s cubs has summoned
+        nighttime... 🌙\"
+        Night Message 2.PNG|\"🌙 A bee you evicted who went on to become bigger and better than you
+        ever could have imagined (didn't need you after all) has summoned nighttime... 🌙\"
+        RobloxScreenShot20191004 204043918 (2).png|\"🌙 [[Bee Bear]] has summoned nighttime... 🌙\"
+        Screenshot 733.png|\"🌙 A [[Carpenter Bee]] who found a Night Bell when it was demolishing an
+        old shed to make room for a new [[Memory Match]] station has summoned nighttime... 🌙\"
+        92E958E9-F448-40EB-9C0E-969A305315B6.jpeg|\"🌙 Twoson, the bizzaro Onett of an alternate
+        reality, has summoned nighttime... 🌙\"
+        Senza titolo ossas.png|\"🌙 You know who has summoned nighttime... YOU!🌙\"
+        Adopt Me Nightbell.png|\"🌙 That little girl from Adopt Me has summoned nighttime... 🌙\"
+        Hmmm.png|\"🌙 Bubble Bee Man has summoned nighttime... 🌙\"
+        New message.png|\"🌙 The Mayor of Orlando, FLA has summoned nighttime... 🌙\"
+        NonDireJuj.png|\"🌙 The Moon Sprout that's about to appear in a few seconds has summoned
+        nighttime... 🌙\"
+        Hu.png|\"🌙 [[Bumble Bee]], a mellow fellow who moves a little slow but works harder and
+        longer than others,has summoned nighttime... 🌙\"
+        Nbez.png|\"🌙 Your favorite bee has summoned nighttime... 🌙\"
+        Hmmm.PNG|\"🌙 Nighttime has summoned nighttime... 🌙\"
+        Screenshot 761.png|\"🌙 A strange creature with a spade-shaped head and bright eyes and
+        ferocious claws and wings has summoned nighttime... 🌙\"
+        Screenshot 755.png|\"🌙 Omelette has summoned nighttime... 🌙\"
+        Wut3.PNG|\"🌙 The Yellow Cannon has summoned nighttime... 🌙\"
+        Screenshot 2019-10-21 at 2.19.06 PM.png|\"🌙 The Bee Swarm Simulator Club has summoned
+        nighttime... 🌙\"
+        Marshienight.png|\"🌙 Marshie the Marshmallow Bee has summoned nighttime... 🌙\"
+        SUSA.png|\"🌙 Gifted [[Basic Bee]] has summoned nighttime... 🌙\"
+        5B5C702B-EB28-4076-85AD-5D6DA5147777.jpeg|\"🌙 1x1x1x1 (the real hacker) has summoned
+        nighttime... 🌙\"
+        NightSticc.png|“🌙 The oldest living Stick Nymph has summoned nighttime... 🌙”
+        JamesBond.JPG|“🌙 The bond between you and your bees has summoned nighttime... 🌙”
+        螢幕截圖 2019-11-02 下午3.18.03.png|“🌙 Row-nett (the Captain of the Mountain’s Rowing Team) has
+        summoned nighttime... 🌙”
+        SunmoningNighttime.jpg|“🌙 The King Beetle has summoned nighttime... 🌙”
+        Spiritbear.jpg|“🌙 Spirit Bear has summoned nighttime... 🌙”
+        Night-cestBear.jpeg|“🌙 The nicest bear has summoned nighttime... 🌙”
+        Anotación 2019-10-26 230751.png|“🌙 Stick Bug has summoned nighttime... 🌙”
+        Thealarmclockinsunbearsrvhassummonednightnitmewownanilol.png|“🌙 The alarm clock in Sun
+        Bear’s RV has summoned nighttime... 🌙”
+        YeEt Message for BSSW.png|“🌙 Onett’s janky ISP has summoned nighttime... 🌙”
+        TheBasementNightBell.png|“🌙 A machine deep beneath the earth has summoned nighttime... 🌙”
+        N1ghtime.png|“🌙 Your 1st grade teacher has summoned nighttime... 🌙”
+        8acb06de4284f5b24b42aa45b08be2f3.png|“🌙 Pure Beesmas joy in the air has summoned
+        nighttime... 🌙”
+        Cub buddy summon.png|“🌙 One of the Cub Buddies has summoned nighttime... 🌙”
+        Reindeer .png|“🌙 Reindeer Onett has summoned nighttime... 🌙”
+        BeesmasDaySummonNight1212121.png|“🌙 Beesmas day magic has summoned nighttime... 🌙”
+        Copyright Strike.png|“🌙 Ruby the Gold-Nosed Candy Cane has summoned nighttime... 🌙”
+        Roblox 25.12.2019 17 14 36.png|“🌙 The Frog on the Spider Field has summoned nighttime...
+        🌙”
+        Bigger version.png|“🌙 Bee Bear, one of the Magical Mascots of Beesmas, has summoned
+        nighttime... 🌙”
+        12345678w9r8egsugwe.png|“🌙 The magical Bee Bear has summoned nighttime... 🌙”
+        A4ca384d151cd83946439a131313e64e-png.jpg|“🌙 The joy of bees has summoned nighttime... 🌙”
+        New Message.png|“🌙 The Noob Cub dancing next to Bee Bear has summoned nighttime... 🌙”
+        Lvl 6 ungifted stubborn.png|“🌙 Lvl 6 Ungifted Stubborn Bee has summoned nighttime... 🌙”
+        Fixin.png|“🌙 The Spirit of Beesmas has summoned nighttime... 🌙”
+        F08F235C-8420-48FD-9CED-F92D1B310F60.jpeg|“🌙 Thingamobuddy’s Cousin Whachamobuddy (your
+        nephew Cub Buddy) has summoned nighttime... 🌙”
+        Received 484453745599461.jpeg|“🌙 The Alpha And Omega Windy Bee’s Angry Windy Army has
+        summoned nighttime... 🌙”
+        Night.PNG|“🌙 Earth’s rotation has summoned nighttime... 🌙”
+        NightAphid.png|“🌙 Night Aphid has summoned nighttime... 🌙”
+        Angreybee.png|“🌙 A Very Big And Angry Bee has summoned nighttime... 🌙”
+        Nighttime.png|“🌙 1 Billion Visits!!!!! YAAAAY! has summoned nighttime... 🌙”
+        Screenshot 2020-08-16 at 8.49.27 PM.png|“🌙 🎉 1B Fireflies has summoned nighttime... 🌙”
+        Rpbsummonednighttime.png|“🌙 Reindeer Puppy Bee (Lvl 1) has summoned nighttime... 🌙”
+        Screen Shot 2020-12-30 at 5.01.13 PM.png|“🌙 e_lol has summoned nighttime... 🌙”
+        C18B2648-C8FF-4442-BF14-5D4BBF54BA8D.jpeg|“🌙 Reader Rabbit has summoned nighttime... 🌙”
+        Lolwut haaha.png|“🌙 The Legendary Puffhsroom in the Dandelion Field has summoned
+        nighttime... 🌙\"
+        Magial nose.jpg|“🌙 Puppy Bee's magical red nose has summoned nighttime... 🌙\"
+        The only Party Mega Mechsquito left alive has summoned nighttime.png|\"🌙The only Party Mega
+        Mechsquito left alive has summoned nighttime...🌙\"
+        </gallery>
+
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Inventory]]
+        [[Category:Summoner]]"}

@@ -1,0 +1,193 @@
+{"text": "{{Consumables
+        |image = Enzymes.png
+        |description = Grants +10% Instant Conversion and x1.25 Convert Rate for 10 minutes.
+        |cooldown = 1 second
+        }}
+        {{Color|Enzymes}} are an [[:Category:Inventory|inventory item]] that was added in the
+        [[Updates|11/25/2018 update]]. When used, it grants +10% [[System Page#Instant
+        Conversion|Instant Conversion]] and x1.25 [[System Page#Convert Rate|Convert Rate]] for 10
+        minutes when activated. Using another '''enzymes''' will not stack them, but will reset the
+        timer. Enzymes can also be used for crafting other [[:Category:Accessories|accessories]] or
+        items. Using a [[Super Smoothie|super smoothie]] will override the buff.
+
+        == Ways to Obtain ==
+        * [[Crafting]] it using the [[Blender]] for {{Cost|Pineapple|50}} and {{Cost|Royal
+        Jelly|10}}.
+        * Redeeming certain valid [[codes]]:
+        ** Using the code \"SecretProfileCode\" (Activates the buff and other stuff).
+        * As a rare drop from [[leaves]] in the [[Pineapple Patch]] and the [[Spider Field]].
+        * [[Black Bear]] gives enzymes on the following quests:
+        ** The 15 Bee Zone gives 1 enzymes and other items.
+        ** Black Bear will occasionally give enzymes following the completion of his repeatable
+        quests.
+        * [[Brown Bear]]'s 45th, 115th, 130th, 165th, and 260th quests give 1 enzymes, while his
+        230th quest gives 3.
+        * [[Science Bear]] gives enzymes on the following quests:
+        ** Breaking Down Badges gives 1 enzymes and other items.
+        ** Meditating On Phenomenon gives 1 enzymes and other items.
+        ** The Power Of Information gives 3 enzymes and other items.
+        ** Epistemological Endeavor gives 4 enzymes and other items.
+        * [[Polar Bear]] has a chance to give enzymes after completing a quest.
+        * [[Spirit Bear]] gives enzymes on the following quests:
+        ** Rhubarb That Could Have Been gives 5 enzymes and other items.
+        ** Dancing With Stick Bug gives 25 enzymes and other items.
+        * As a rare drop from a [[Scorpion]], [[Spider]], [[Werewolf]], [[Aphid#Armored
+        Aphid|Armored Aphid]], [[King Beetle]], [[Stump Snail]], or [[Tunnel Bear]].
+        * As a rare drop from [[sprout]]s (the odds increase depending on the rarity of the sprout
+        and if the sprout is in the Pineapple Patch).
+        * Completing the [[Stick Bug Challenge]] may reward enzymes.
+        * As a drop from [[Stick Bug]], [[Stick Nymph|stick nymphs]], or [[Stick Bug
+        Challenge#Defense Totem|defense totems]].
+        * A rare drop from a [[Ability Tokens#Festive Gift|Festive Gift]] (if [[Festive Bee]] is
+        [[Gifted Bee|gifted]]).
+        * As a rare [[Cub Buddy]] gift.
+        * As a drop from [[planter]]s.
+        ** Planters in Pineapple Patch makes them drop enzymes.
+        ** [[Heat-Treated Planter]] drops enzymes as a bonus drop and planting it in Pineapple Patch
+        will make it drop 100 enzymes.
+        * As a potential match from all [[Memory Match]]es.
+        * As a Stack Reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        ** Honey Bee Bear rewards 1 enzymes.
+        ** Panicked Science Bear rewards 1 enzymes.
+        ** Forward Facing Spider rewards 1 enzymes.
+        ** Standing Caterpillar rewards 1 enzymes.
+        ** Yellow Hi rewards 1 enzymes.
+        ** Taunting Doodle Person rewards 1 enzymes.
+        ** Orange Step Array rewards 1 enzymes.
+        ** Orange Green Tri Deco rewards 1 enzymes.
+
+        === Token Locations ===
+        * There is an enzymes token in the bottom left corner of [[Gummy Bear's Lair]].
+        * Right beside [[Memory Match#Night Memory Match|Night Memory Match]] inside the [[Bear
+        Gate]].
+        * There is an enzymes token in the tunnel that can be accessed through the hole above the
+        [[Coconut Dispenser]].
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Giving a [[present]] to certain [[:Category:NPC|NPCs]].
+        ** Science Bear gave you 1 enzymes, activated the buff as well, and gave other stuff.
+        ** [[Onett]] activated the buff and gave other boosts and items.
+        ** Stick Bug gave 3 enzymes and other items.
+        * Completing [[Bubble Bee Man|Bubble Bee Man's]] B.B.M. Mission gave 1 enzymes.
+        * Science Bear's Epistemological Endeavor quest used to give 5 enzymes instead of 4.
+        * Science Bear's [[Science Bear#Ornament Quest|ornament quest]] gave 1 enzymes after
+        completion.
+        * As a drop from [[Dapper Bear|Dapper Bear's]] [[Samovar]]. (Appears after every 2nd use and
+        every 5 uses.)
+        * [[Bee Bear]] gives enzymes on the following quests:
+        ** Shiverin' In The Snow gives 3 enzymes and other items
+        ** Merry Mechquitos gives 5 enzymes and other items.
+        ** Bee Cub Workshop 3 gave 1 enzymes and other items.
+        * Purchasing certain expired packs in the [[Robux Shop]]:
+        ** The Colossal Crafts Pack cost 3400 robux and gave 50 enzymes and other items.
+        ** The Winter Wonder Pack cost 3400 robux and gave 60 enzymes and other items.
+        ** The Merry Mutations Pack cost 1700 robux and gave 100 enzymes and other items.
+        ** The Jumbo June Pack cost 1700 robux and gave 25 enzymes and other items.
+        * Redeeming certain expired codes:
+        ** 2YearsAfterParty (Activated the buff + other stuff).
+        ** Discord50k (Activated the buff + other stuff).
+        ** MagicMittens (Activated the buff + other stuff).
+        ** GummySausage (Gave 1 enzymes + other stuff).
+        ** DarzethPack (Gave 1 enzymes + other stuff).
+        ** 3YearParty (Gave 1 enzymes + other stuff).
+        * Buying the Pinecone Bundle from the [[Bee Bear's Catalog]] gives 30 enzymes + other stuff.
+        * Purchasing the Brass Bundle in Bee Bear's Catalog gives 15 enzymes and other items.
+        * As a drop from [[stockings]].
+        * Opening certain [[Gift Boxes|gift boxes]]:
+        ** The Soft Gift Box gave 2 enzymes + other items.
+        ** The Brass Gift Box gave 20 enzymes + other items.
+        ** The Beige Gift Box gave 3 enzymes + other items.
+        ** The Earthen Gift Box gave 10 enzymes + other items.
+        |}
+
+        == Crafting Uses ==
+        Total required for all in-game equipment: {{Cost|Enzymes|480}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" |{{Cost|Enzymes}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">1
+        |{{Cost|Honeysuckle|5}}<br>{{Cost|Oil|1}}<br>{{Cost|Royal Jelly|10}}
+        |[[File:Softwax.png|center|80px]]<div style=\"text-align: center;\">{{Color|Soft Wax}}
+        |-
+        |<div style=\"text-align: center;\">2
+        |{{Cost|Oil|2}}<br>{{Cost|Coconut|10}}
+        |[[File:Tropical Drink.png|center|80px]]<div style=\"text-align:
+        center;\">{{Color|Tropical Drink}}
+        |-
+        |<div style=\"text-align: center;\">3
+        |{{Cost|Soft Wax|3}}<br>{{Cost|Bitterberry|33}}<br>{{Cost|Royal Jelly|33}}
+        |[[File:Hardwax.png|center|80px]]<div style=\"text-align: center;\">{{Color|Hard Wax}}
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Hard Wax|5}}<br>{{Cost|Neonberry|25}}<br>{{Cost|Royal Jelly|5252}}
+        |[[File:Causticwax.png|center|80px]]<div style=\"text-align: center;\">{{Color|Caustic
+        Wax}}
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Honey|20,000,000}}<br>{{Cost|Glue|3}}<br>{{Cost|Glitter|1}}
+        |[[File:BeekeepersMask.png|center|80px]]<div style=\"text-align: center;\">[[Beekeeper's
+        Mask]]
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Strawberry|500}}<br>{{Cost|Red
+        Extract|50}}<br>{{Cost|Glue|15}}
+        |[[File:Fire Mask.png|center|80px]]<div style=\"text-align: center;\">[[Fire Mask]]
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Treat|9999}}<br>{{Cost|Oil|50}}<br>{{Cost|Gold
+        Egg|5}}
+        |[[File:Honey Mask.png|center|80px]]<div style=\"text-align: center;\">[[Honey Mask]]
+        |-
+        |<div style=\"text-align: center;\">50
+        |{{Cost|Honey|75,000,000}}<br>{{Cost|Glue|50}}<br>{{Cost|Oil|25}}
+        |[[File:Honeycomb Belt.png|center|80px]]<div style=\"text-align: center;\">[[Honeycomb
+        Belt]]
+        |-
+        |<div style=\"text-align: center;\">50
+        |{{Cost|Honey|200,000,000}}<br>{{Cost|Blue
+        Extract|100}}<br>{{Cost|Stinger|100}}<br>{{Cost|Glitter|25}}
+        |[[File:Cobalt Guard.png|center|80px]]<div style=\"text-align: center;\">[[Cobalt
+        Guard]]
+        |-
+        |<div style=\"text-align: center;\">75
+        |{{Cost|Honey|{{Hover|1B|1,500,000,000}}}}<br>{{Cost|Spirit
+        Petal|1}}<br>{{Cost|Star Jelly|10}}<br>{{Cost|Glitter|25}}
+        |[[File:Petal_Wand.png|center|80px]]<div style=\"text-align: center;\">[[Petal Wand]]
+        |-
+        |<div style=\"text-align: center;\">100
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Glue|250}}<br>{{Cost|Oil|100}}<br>{{Cost|Glitter|100}}
+        |[[File:Gummy Mask.png|center|80px]]<div style=\"text-align: center;\">[[Gummy Mask]]
+        |-
+        |<div style=\"text-align: center;\">150
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Red
+        Extract|250}}<br>{{Cost|Stinger|500}}<br>{{Cost|Glue|100}}
+        |[[File:Demon Mask.png|center|80px]]<div style=\"text-align: center;\">[[Demon Mask]]
+        |}
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        Dddd.PNG|The previous enzymes icon.
+        File:Enzymes-0.PNG|An enzymes token.
+        File:Enzymes Buff.png|The enzymes buff.
+        </gallery>
+
+        ==Trivia==
+        * Enzymes used to look like pills. However, Roblox removed them because they appeared to
+        have violated the Roblox Terms Of Service. They were later re-created, published under the
+        name \"Pineapple Candies\" and with the appearance they have currently.
+        * If multiple Enzymes are used in a [[Blender|Blender's]] crafting recipe, the chat log
+        displaying the lost materials would display \"Enzymess\" adding an extra 's' instead of the
+        proper plural. This small bug applies to [[Gumdrops]] and various other items.
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Crafted]]
+        [[Category:Consumables]]
+        [[Category:Inventory]]"}

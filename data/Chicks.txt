@@ -1,0 +1,1429 @@
+{"text": "[[File:Normal Chicken.png|thumb|A Level 4 Chick, which is now removed.]]
+        '''Chicks''' are [[Mobs]] that were added in the [[Updates#2020.04.06|Egg Hunt 2020
+        Update]]. They could spawn in a variety of places depending on their type, and have a
+        special ability to hide inside their eggshells, increasing their defense and the chance for
+        a bee's attacks to be blocked.
+
+        There are five different types of chicks: Chicks, Hostage Chicks, Spotted Chicks, Commando
+        Chicks, and Mondo Chicks. Chicks, Spotted Chicks and Hostage Chicks cannot deal damage to
+        players while the Commando Chick and Mondo Chick can. When a chick loses all of its health
+        points, it gets captured, and the game will notify the player in the chat. Chicks, Hostage
+        Chicks, and Spotted Chicks were removed from the game at the end of Egg Hunt 2020.
+
+        == Chick ==
+        {{RemovedContent}}
+        {{Mob
+        |title = Chick
+        |image = Chick_(2).png
+        |location = [[Sunflower Field]]
+        |timer = 30 seconds
+        |hp = Varies
+        |damage = 0
+        |points = 0
+        |bond = 130
+        |honey = X
+        |level = 1-15
+        }}
+        Normal '''Chicks''' were passive mobs that could have appeared in the [[Sunflower Field]]
+        and would spawn randomly when players were collecting [[Pollen]]. The chicks could've
+        spawned with a level range of 1-15. They could only spawn if the player had [[Black Bear#Egg
+        Hunt Quest 2020|Black Bear's Sunflower Corral Quest]] active.
+
+        === Drops ===
+        * [[Honey]]
+        * [[Sunflower Seed|Sunflower seeds]]
+        * [[Treats]]
+
+        == Hostage Chick ==
+
+        {{RemovedContent}}
+        {{Mob
+        |title = Hostage Chick
+        |image = Hostagechick_(1).png
+        |location = [[:Category:Mobs|Mob drops]]
+        |timer = 30 seconds
+        |hp = Varies
+        |damage = 0
+        |points = 0
+        |bond = 0
+        |honey = Varies
+        |level = 1-15
+        }}
+        The '''Hostage Chicks''' were passive mobs that had a chance of spawning after defeating a
+        hostile mob or a [[:Category:Bosses|Boss]] (Defeating [[Ants]] or other chicks would not
+        spawn a hostage chick). They could spawn with a level range of 1-15 and would always despawn
+        30 seconds after spawning. Mobs that are more difficult to defeat, such as [[Tunnel Bear]],
+        were more likely to cause a hostage chick to spawn. Hostage chicks that spawn from more
+        difficult mobs will have higher health, level, and better rewards than ones that spawn from
+        easier mobs.
+
+        [[File:Hostagechickegg.png|thumb|A hostage chick hiding in its egg.]]
+
+        === Drops ===
+        * [[Honey]].
+        * [[Treat|Treats]].
+        * [[Strawberry|Strawberries]].
+        * [[Blueberry|Blueberries]].
+        * [[Sunflower Seed|Sunflower seeds]].
+        * [[Pineapple|Pineapples]].
+        * [[Bitterberry|Bitterberries.]]
+        * [[Gumdrops]].
+        * [[Micro-Converter|Micro-converters]].
+        * [[Magic Bean]].
+        *
+        {| class=\"article-table\"
+        |+
+        |-
+        !Mob
+        !Corresponding Hostage Chick Level
+        |-
+        |[[Rhino Beetle]]/[[Ladybug]]
+        |1-5
+        |-
+        |[[Spider]]
+        |3-6
+        |-
+        |[[Mantis]]
+        |4-9
+        |-
+        |[[Scorpion]]
+        |4-9
+        |-
+        |[[Werewolf]]
+        |6-10
+        |-
+        |[[King Beetle]]
+        |7-12
+        |-
+        |[[Tunnel Bear]]
+        |9-15<br />
+        |}
+
+        {{clear}}
+
+        == Spotted Chick ==
+        {{RemovedContent}}
+        {{Mob
+        |title = Spotted Chick
+        |image =Spottedchick_(2).png
+        |location = [[:Category:Shops|Shops]]
+        |timer = 30 seconds
+        |hp = Varies
+        |damage = 0
+        |points = 0
+        |bond = 0
+        |honey = Varies
+        |level = 3-9
+        }}
+        The '''Spotted Chicks''' were passive mobs that could appear inside of the [[Noob Shop]],
+        [[Pro Shop]], [[Ticket Tent]], and the [[Mazes#Blue Maze|Blue Maze]]. Spotted chicks could
+        spawn with a level range of 3-9.
+
+        Capturing a spotted chick would cause another spotted chick to spawn in a different
+        location. If a spotted chick was captured in the Noob Shop, another spotted chick would
+        spawn in the Ticket Tent, and vice versa. Similarly, if a spotted chick was captured in the
+        Pro Shop, another spotted chick will spawn in the Blue Maze, and vice versa.
+        === Drops ===
+        * [[Honey]].
+        * [[Treat|Treats]].
+        * [[Strawberry|Strawberries]].
+
+        {{Clear}}
+
+        == Commando Chick ==
+        {{Main|Commando Chick}}
+
+        {{Mob
+        |title = Commando Chick
+        |image =Commandochick.png
+        |location = [[Commando Chick's Hideout]]
+        |timer = 30:00 (25:30 with Gifted Vicious Bee)
+        |hp = Varies on number of captures
+        |damage = 20 (Colliding with the player), 50 (From grenade)
+        |points = 0
+        |bond = 0
+        |honey = Varies on number of captures
+        |level = 3-20
+        }}
+        The '''Commando Chick''' is a [[:Category:Mini Bosses|mini-boss]] that spawns in [[Commando
+        Chick's Hideout|its hideout]]. Its hideout is located to the left of [[Brown Bear]] and the
+        [[Wealth Clock]]. To cut the vines, the [[Clippers]], [[Scissors]], [[Scythe]], or [[Dark
+        Scythe]] needs to be equipped. Once the vines are cut, they will never grow back.
+
+        The Commando Chick has a respawn time of 30:00 (25:30 with [[Gifted Bee|Gifted]] [[Vicious
+        Bee]]). When Commando Chick hides in its egg, it throws grenades (1 if it has more than 2/3
+        of its health, 2 if it has less than 2/3 of its health, 3 if it has less than 1/3 of its
+        health, 4 if less than 1/100). The egg cracks after a few seconds.
+
+        The Commando Chick deals 20 damage when colliding with the player and 50 damage if the
+        player is near a grenade when it explodes. Starting at 150 health and level 3, the chick
+        increases in health and level with each successive capture, reaching level 6 by the fifth
+        capture. The chick will grow another level after a progressively higher number of captures
+        per level up.
+
+        === Drops ===
+        <sup>''Note: [[Loot Luck]] doesn't affect Commando Chick drops.''</sup>
+        * [[System Page#Honey From Tokens|Honey From Tokens]] will increase the honey output of each
+        capture.
+        * Many drops will always occur after a certain number of Commando Chick captures.
+        * Note that you can capture Commando Chick more than 100 times, but it is not recorded in
+        the table for the purpose of convenience.
+        * Drops [[Egg#Mythic Egg|Mythic Egg]] upon the 50th capture.
+        * Drops [[Star Treat|Star Treat]] upon the 100th capture.
+        ** After 200 captures, Commando Chick drops a [[Egg#Specific Bee Eggs|Commander Bee Egg]].
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Number of Captures and Health
+        !Reward
+        !Number of Captures and Health
+        !Reward
+        |-
+        |
+        * 1 Capture
+        * 150 Health
+        * Level 3
+        |
+        * ≈2,400 [[Honey]]
+        * 1x [[Ticket]]
+        * 2x [[Sunflower Seed|Sunflower Seed]]
+        * 2x [[Pineapple|Pineapple]]
+        * 2x [[Bitterberry|Bitterberry]]
+        |
+        * 51 Captures
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈39,000,000 Honey
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 2 Captures
+        * 150 Health
+        * Level 3
+        |
+        * ≈1,500 Honey
+        * 1x Ticket
+        * 2x Sunflower Seed
+        * 2x Pineapple
+        * 2x Bitterberry
+        * 2x Treat
+        |
+        * 52 Captures
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈40,000,000 Honey
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 3 Captures
+        * 2,000 Health
+        * Level 4
+        |
+        * ≈6,500 Honey
+        * 1x [[Stinger]]
+        * 1x [[Ticket]]
+        * 2x [[Treats|Sunflower Seed]]
+        * 2x Pineapple
+        * 2x Bitterberry
+        * 5x Treat
+        |
+        * 53 Captures
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈40,000,000 Honey
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 4 Captures
+        * 10,000 Health
+        * Level 5
+        |
+        * ≈10,000 Honey
+        * 1x Ticket
+        * 3x Sunflower Seed
+        * 3x Pineapple
+        * 2x Bitterberry
+        |
+        * 54 Captures
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈44,000,000 Honey
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''5 Captures'''
+        * 10,000 Health
+        * Level 5
+        |
+        * ≈13,000 Honey
+        * 1x [[Glue]]
+        * 3x Sunflower Seed
+        * 3x Pineapple
+        * 2x Bitterberry
+        |
+        * '''55 Captures'''
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈45,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 12x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 6 Captures
+        * 10,000 Health
+        * Level 5
+        |
+        * ≈25,000 Honey
+        * 1x Ticket
+        * 3x Sunflower Seed
+        * 3x Pineapple
+        * 3x Bitterberry
+        |
+        * 56 Captures
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈50,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 12x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 7 Captures
+        * 15,000 Health
+        * Level 6
+        |
+        * ≈35,000 Honey
+        * 1x Ticket
+        * 4x Sunflower Seed
+        * 4x Pineapple
+        * 3x Bitterberry
+        |
+        * 57 Captures
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈51,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 12x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 8 Captures
+        * 15,000 Health
+        * Level 6
+        |
+        * ≈28,000 Honey
+        * 1x Ticket
+        * 4x Sunflower Seed
+        * 4x Pineapple
+        * 3x Bitterberry
+        |
+        * 58 Captures
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈55,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 12x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 9 Captures
+        * 15,000 Health
+        * Level 6
+        |
+        * ≈42,000 Honey
+        * 2x [[Red Extract]]
+        * 1x Ticket
+        * 4x Sunflower Seed
+        * 4x Pineapple
+        * 3x Bitterberry
+        |
+        * 59 Captures
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈60,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 4x Bitterberry
+        |-
+        |
+        * '''10 Captures'''
+        * 25,000 Health
+        * Level 7
+        |
+        * ≈300,000 Honey
+        * 1x [[Egg#Gold Egg|Gold Egg]]
+        * 1x Ticket
+        * 4x Sunflower Seed
+        * 4x Pineapples
+        * 3x Bitterberries
+        |
+        * '''60 Captures'''
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈60,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 12x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 11 Captures
+        * 25,000 Health
+        * Level 7
+        |
+        * ≈100,000 Honey
+        * 1x Ticket
+        * 5x Sunflower Seed
+        * 5x Pineapple
+        * 3x Bitterberry
+        |
+        * 61 Captures
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈60,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 12x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 12 Captures
+        * 25,000 Health
+        * Level 7
+        |
+        * ≈120,000 Honey
+        * 3x Stinger
+        * 1x Ticket
+        * 5x Sunflower Seed
+        * 5x Pineapple
+        * 3x Bitterberry
+        |
+        * 62 Captures
+        * 500,000 Health
+        * Level 14
+        |
+        * ≈65,000,000 Honey
+        * 1x Ticket
+        * 12x Sunflower Seed
+        * 12x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 13 Captures
+        * 25,000 Health
+        * Level 7
+        |
+        * 135,000 Honey
+        * 1x Ticket
+        * 5x Sunflower Seed
+        * 5x Pineapple
+        * 3x Bitterberry
+        |
+        * 63 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈77,000,000
+        * 1x Ticket
+        * 13x Sunflower Seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 14 Captures
+        * 50,000 Health
+        * Level 8
+        |
+        * ~170,000 Honey
+        * 1x Ticket
+        * 5x Sunflower Seed
+        * 5x Pineapple
+        * 3x Bitterberry
+        |
+        * 64 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈80,000,000 Honey
+        * 1x Ticket
+        * 13x Sunflower Seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''15 Captures'''
+        * 50,000 Health
+        * Level 8
+        |
+        * 100,000 Honey
+        * 1x [[Royal Jelly#Star Jelly|Star Jelly]]
+        * 1x Ticket
+        * 6x Sunflower Seed
+        * 6x Pineapple
+        * 3x Bitterberry
+        |
+        * '''65 Captures'''
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈80,000,000 Honey
+        * 1x Ant Pass
+        * 1x Ticket
+        * 13x Sunflower Seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 16 Captures
+        * 50,000 Health
+        * Level 8
+        |
+        * ~130,000 Honey
+        * 1x Ticket
+        * 6x Sunflower Seed
+        * 6x Pineapple
+        * 3x Bitterberry
+        |
+        * 66 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈85,000,000 Honey
+        * 1x Ticket
+        * 13x Sunflower Seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 17 Captures
+        * 50,000 Health
+        * Level 8
+        |
+        * ≈150,000 Honey
+        * 1x Ticket
+        * 6x Sunflower Seed
+        * 6x Pineapple
+        * 3x Bitterberry
+        |
+        * 67 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈100,000,000 Honey
+        * 0-1x Ant Pass
+        * 1x Ticket
+        * 13x Sunflower seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 18 Captures
+        * 50,000 Health
+        * Level 8
+        |
+        * ≈200,000 Honey
+        * 1x Ticket
+        * 6x Sunflower Seed
+        * 6x Pineapple
+        * 3x Bitterberry
+        |
+        * 68 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈100,000,000 Honey
+        * 1x Ticket
+        * 13x Sunflower seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 19 Captures
+        * 100,000 Health
+        * Level 9
+        |
+        * ≈250,000 Honey
+        * 1x Ticket
+        * 6x Sunflower Seed
+        * 6x Pineapple
+        * 3x Bitterberry
+        |
+        * 69 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈100,000,000 Honey
+        * 1x Ticket
+        * 13x Sunflower seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''20 Captures'''
+        * 100,000 Health
+        * Level 9
+        |
+        * ≈1,000,000 Honey
+        * 3x [[Blue Extract]]
+        * 1x Ticket
+        * 7x Sunflower Seed
+        * 7x Pineapple
+        * 3x Bitterberry
+        |
+        * '''70 Captures'''
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈125,000,000 Honey
+        * 1x Ticket
+        * 13x Sunflower Seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 21 Captures
+        * 100,000 Health
+        * Level 9
+        |
+        * ≈1,100,000 Honey
+        * 1x Ticket
+        * 7x Sunflower Seed
+        * 7x Pineapple
+        * 3x Bitterberry
+        |
+        * 71 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈200,000,000 Honey
+        * 1x Ticket
+        * 13x Sunflower seed
+        * 13x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 22 Captures
+        * 100,000 Health
+        * Level 9
+        |
+        * ≈900,000 Honey
+        * 1x Ticket
+        * 7x Sunflower Seed
+        * 7x Pineapple
+        * 3x Bitterberry
+        |
+        * 72 Captures
+        * 750,000 Health
+        * Level 15
+        |
+        * ≈200,000,000 Honey
+        * 1x Ticket
+        * 14x Sunflower seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 23 Captures
+        * 100,000 Health
+        * Level 9
+        |
+        * ≈1,800,000 Honey
+        * 1x Ticket
+        * 7x Sunflower Seed
+        * 7x Pineapple
+        * 3x Bitterberry
+        |
+        * 73 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈200,000,000 Honey
+        * 0-1x Ant pass
+        * 1x Ticket
+        * 14x Sunflower seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 24 Captures
+        * 150,000 Health
+        * Level 10
+        |
+        * ≈2,000,000 Honey
+        * 1x Ticket
+        * 7x Sunflower Seed
+        * 7x Pineapple
+        * 3x Bitterberry
+        |
+        * 74 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈200,000,000 Honey
+        * 1x Ticket
+        * 14x Sunflower seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''25 Captures'''
+        * 150,000 health
+        * Level 10
+        |
+        * ≈2,300,000 Honey
+        *'''100x Ticket'''
+        * 7x Sunflower Seed
+        * 7x Pineapple
+        * 3x Bitterberry
+        |
+        * '''75 Captures'''
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈173,500,000 Honey
+        * 1x Ticket
+        * 14x Sunflower Seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 26 Captures
+        * 150,000 Health
+        * Level 10
+        |
+        * 2,700,000 Honey
+        * 1x Ticket
+        * 8x Pineapple
+        * 8x Sunflower Seed
+        * 3x Bitterberry
+        |
+        * 76 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈175,000,000 Honey
+        * 1x Ticket
+        * 14x Sunflower Seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 27 Captures
+        * 150,000 Health
+        * Level 10
+        |
+        * ≈3,000,000 Honey
+        * 1x Ticket
+        *0-1x [[Ant Pass]]
+        * 8x Sunflower Seed
+        * 8x Pineapple
+        * 3x Bitterberry
+        |
+        * 77 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈225,000,000 Honey
+        * 0-1x Ant Pass
+        * 1x Ticket
+        * 14x Sunflower Seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 28 Captures
+        * 150,000 Health
+        * Level 10
+        |
+        * ≈4,000,000 Honey
+        * 1x Ticket
+        * 8x Sunflower Seed
+        * 8x Pineapple
+        * 3x Bitterberry
+        |
+        * 78 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈225,000,000 Honey
+        * 0-1x Ant Pass
+        * 1x Ticket
+        * 14x Sunflower Seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 29 Captures
+        * 150,000 Health
+        * Level 10
+        |
+        * ≈4,500,000 Honey
+        * 1x Ticket
+        * 8x Sunflower Seed
+        * 8x Pineapple
+        * 3x Bitterberry
+        |
+        * 79 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈250,000,000 Honey
+        * 1x Ticket
+        * 14x Sunflower Seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''30 Captures'''
+        * 200,000 Health
+        * Level 11
+        |
+        * ≈5,000,000 Honey
+        *'''10x Stinger'''
+        * 1x Ticket
+        * 8x Sunflower Seed
+        * 8x Pineapple
+        * 3x Bitterberry
+        |
+        * '''80 Captures'''
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ~300,000,000 Honey
+        * 14x Sunflower Seed
+        * 14x Pineapple
+        * 1x Ticket
+        * 4x Bitterberry
+        |-
+        |
+        * 31 Captures
+        * 200,000 Health
+        * Level 11
+        |
+        * ≈5,750,000 Honey
+        * 1x Ticket
+        * 8x Sunflower Seed
+        * 8x Pineapple
+        * 3x Bitterberry
+        |
+        * 81 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈400,000,000 Honey
+        * 1x Ticket
+        * 14x Sunflower Seed
+        * 14x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 32 Captures
+        * 200,000 Health
+        * Level 11
+        |
+        * ≈7,400,000 Honey
+        * 1x Ticket
+        * 8x Sunflower Seed
+        * 8x Pineapple
+        * 3x Bitterberry
+        |
+        * 82 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈400,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 33 Captures
+        * 200,000 Health
+        * Level 11
+        |
+        * ≈7,400,000 Honey
+        * 1x Ticket
+        * 8x Sunflower Seed
+        * 8x Pineapple
+        * 3x Bitterberry
+        |
+        * 83 Captures
+        * 1,000,000 Health
+        * Level 16
+        |
+        * ≈400,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 34 Captures
+        * 200,000 Health
+        * Level 11
+        |
+        * ≈9,000,000 Honey
+        * 1x Ticket
+        * 9x Sunflower Seed
+        * 9x Pineapple
+        * 3x Bitterberry
+        |
+        * 84 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈400,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''35 Captures'''
+        * 200,000 Health
+        * Level 11
+        |
+        * ≈10,500,000 Honey
+        * 1x Ticket
+        * 0-1x Ant Pass
+        * 9x Sunflower Seed
+        * 9x Pineapple
+        * 3x Bitterberry
+        |
+        * '''85 Captures'''
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈400,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 36 Captures
+        * 200,000 Health
+        * Level 11
+        |
+        * ≈10,200,000 Honey
+        * 1x Ticket
+        * 0-1x Ant Pass
+        * 9x Sunflower Seed
+        * 9x Pineapple
+        * 3x Bitterberry
+        |
+        * 86 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈400,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 37 Captures
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈14,000,000 Honey
+        * 1x Ticket
+        * 0-1x Ant Pass
+        * 9x Sunflower Seed
+        * 9x Pineapple
+        * 3x Bitterberry
+        |
+        * 87 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈500,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        * 1x Ant Pass
+        |-
+        |
+        * 38 Captures
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈14,500,000 Honey
+        * 1x Ticket
+        * 9x Sunflower Seed
+        * 9x Pineapple
+        * 3x Bitterberry
+        |
+        * 88 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈500,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 39 Captures
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈13,500,000 Honey
+        * 1x Ticket
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 3x Bitterberry
+        |
+        * 89 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈500,000,000 Honey
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''40 Captures'''
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈120,000,000 Honey
+        * 10x Stinger
+        *'''10x Ant Pass'''
+        * 1x Ticket
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 4x Bitterberry
+        |
+        * '''90 Captures'''
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈485,000,000 Honey
+        * 1x Ant Pass
+        * 1x Ticket
+        * 15x Sunflower Seed
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 41 Captures
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈12,500,000 Honey
+        * 1x Ticket
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 4x Bitterberry
+        |
+        * 91 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈560,000,000 Honey
+        * 15x Sunflower Seed
+        * 1x Ticket
+        * 15x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 42 Captures
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈19,000,000 Honey
+        * 1x Ticket
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 4x Bitterberry
+        |
+        * 92 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈520,000,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * x16 Pineapple
+        * 4x Bitterberry
+        * 1x Ant Pass
+        |-
+        |
+        * 43 Captures
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈21,000,000 Honey
+        * 1x Ticket
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 4x Bitterberry
+        |
+        * 93 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈502,000,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * x16 Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 44 Captures
+        * 300,000 Health
+        * Level 12
+        |
+        * ≈22,000,000 Honey
+        * 1x Ticket
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 4x Bitterberry
+        |
+        * 94 Captures
+        * 2,500,000 Health
+        * Level 17
+        |
+        * ≈586,000,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * x16 Pineapple
+        * 4x Bitterberry
+        * 1x Ant Pass
+        |-
+        |
+        * '''45 Captures'''
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈25,000,000 Honey
+        * 1x Ticket
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 4x Bitterberry
+        |
+        * '''95 Captures'''
+        * 5,000,000 Health
+        * Level 18
+        |
+        * ≈662,000,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * x16 Pineapple
+        * 4x Bitterberry
+        * 1x Ant Pass
+        |-
+        |
+        * 46 Captures
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈28,750,000 Honey
+        * 1x Ticket
+        * 0-1x Ant Pass
+        * 10x Sunflower Seed
+        * 10x Pineapple
+        * 4x Bitterberry
+        |
+        * 96 Captures
+        * 5,000,000 Health
+        * Level 18
+        |
+        * ≈437,000,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * x16 Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 47 Captures
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈38,000,000 Honey
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |
+        * 97 Captures
+        * 5,000,000 Health
+        * Level 18
+        |
+        * ≈482,000,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * x16 Pineapple
+        * 4x Bitterberry
+        * 1x Ant Pass
+        |-
+        |
+        * 48 Captures
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈25,000,000 Honey
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |
+        * 98 Captures
+        * 5,000,000 Health
+        * Level 18
+        |
+        * ≈449,500,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * x16 Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * 49 Captures
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈25,000,000 Honey
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |
+        * 99 Captures
+        * 5,000,000 Health
+        * Level 18
+        |
+        * ≈431,000,000 Honey
+        * 16x Sunflower Seed
+        * 1x Ticket
+        * 16x Pineapple
+        * 4x Bitterberry
+        |-
+        |
+        * '''50 Captures'''
+        * 400,000 Health
+        * Level 13
+        |
+        * ≈25,000,000 Honey
+        * 1x [[Egg#Mythic Egg|Mythic Egg]]
+        * 1x Ticket
+        * 11x Sunflower Seed
+        * 11x Pineapple
+        * 4x Bitterberry
+        |
+        * '''100 Captures'''
+        * 5,000,000 Health
+        * Level 18
+        |
+        * ≈40,000,000,000 Honey
+        * 1x [[Treat#Star Treat|Star Treat]]
+        * 1x Ticket
+        * 16x Sunflower Seed
+        * 16x Pineapple
+        * 4x Bitterberry
+        |}
+
+        {{Clear}}
+
+        == Mondo Chick ==
+        {{Main|Mondo Chick}}
+
+        {{Mob
+        |title = Mondo Chick
+        |image =MondoChicktransparent.png
+        |location = [[Mountain Top Field]]
+        |timer = 45 minutes - 1 hour
+        |hp = 300,000
+        |damage = 75
+        |points = 0
+        |bond = 0
+        |honey = Varies
+        |level = 8
+        }}
+        The '''Mondo Chick''' is a level 8 [[:Category:Bosses|boss]] mob located in the [[Mountain
+        Top Field]]. It respawns every hour at the full hour (1:00, 2:00, 3:00, etc; not in time
+        zones that are a fractional number of hours away from UTC), and its respawn timer can be
+        found on the side of the [[Mountain Top Shop]]. The respawn time is unaffected by the
+        Monster Respawn Time stat. Its rewards are shareable between players.
+
+        The Mondo Chick will always spawn at level 8 with 300,000 health. It automatically takes 333
+        damage each second, causing its health to reach 300 after 15 minutes. If it isn't defeated
+        within 15 minutes of spawning, it will despawn in a similar fashion of the Commando Chick.
+        After despawning, a server-wide message will say \"🐣Mondo Chick got away!🐣\" Like the
+        [[Coconut Crab]], the faster the Mondo Chick is defeated, the better the rewards will be.
+        Due to its large hitbox and damage, it is recommended to put distance between the player and
+        the Mondo Chick.
+
+        Sometimes, the Mondo Chick will hide in its egg, allowing it to block some attacks. However,
+        when it is hiding, it stops moving until it comes out again. The egg can be cracked early by
+        dealing 7500 damage to it.
+
+        When it runs out of time, it will jump out of the field towards the [[Lion Bee Gate]]
+        entrance.
+        {| class=\"article-table\"
+        !Time took to defeat the Mondo Chick
+        !Amount of Mondo Chick Blessing
+        |-
+        |<5 seconds
+        |x10
+        |-
+        |6 – 10 seconds
+        |x9
+        |-
+        |11 – 15 seconds
+        |x8
+        |-
+        |16 – 20 seconds
+        |x7
+        |-
+        |21 – 30 seconds
+        |x6
+        |-
+        |31 – 59 seconds
+        |x5
+        |-
+        |1:00 - 2:30
+        |x4
+        |-
+        |2:31 - 4:59
+        |x3
+        |-
+        |5:01 - 10:00
+        |x2
+        |-
+        |10:01 - 15:00
+        |x1
+        |}
+
+        === Drops ===
+        * [[Honey]].
+        * [[Treat|Treats]].
+        * [[Bitterberry|Bitterberries]].
+        * [[Snowflake]]s (Beesmas only).
+        * [[Neonberry|Neonberries]].
+        * [[Field Dice|Field dice]].
+        * [[Micro-Converter|Micro-converters]].
+        * [[Magic Bean|Magic beans]] (Somewhat rare).
+        * [[Royal Jelly#Star Jelly|Star jellies]] (Rare).
+        * [[Snowglobe]]s (Rare, Beesmas only).
+        * [[Egg#Diamond Egg|Diamond eggs]] (Very rare; chance varies depending on time).
+        * Basic Pink Hive Skin (Very rare)
+        * [[Eggs#Mythic Egg|Mythic eggs]] (Very rare; chance varies depending on time).
+        * [[Star Treat|Star treats]] (Exceptionally rare; chance varies depending on time).
+
+        == Audio ==
+        The chirping sound made from a Chick, Spotted Chick, Hostage Chick, and Commando Chick:
+        [[File:Chickchirp.ogg]]
+
+        When a Chick, Spotted Chick, Hostage Chick, or Commando Chick breaks out of its egg:
+        [[File:Eggcrack.ogg]]
+
+        The chirping sound made from the Mondo Chick:
+        [[File:Mondochickchirp.ogg]]
+
+        The following audio plays when the Mondo Chick breaks out of its egg:
+        [[File:Mondochickhatch.ogg]]
+
+        The chirping sound made when the Mondo Chick is captured:
+        [[File:Mondo Capture.ogg]]
+
+        == Trivia ==
+        * According to [[Sun Bear]], the chicks are invasive to the Mountain. Their eggs are also
+        considered exotic.
+
+        * According to [[Mother Bear]], the Spotted Chicks dislike the sun.
+
+        * According to [[Black Bear]], Bees don't hurt chicks when attacking. They work together to
+        calm them down and capture them as they are \"frightened\".
+
+        * Although other player's Commando Chicks can't damage the player directly, their grenades
+        can. A player's bees can also damage other players' Commando Chicks.
+
+        * Interestingly, the Commando Chick is considered a mini-boss although every player has
+        their “own” Commando Chick.
+
+        * The Mondo Chick's noise can be heard throughout the entire map.
+        ** This is also the case with the [[Cave Monster]]s.
+
+        * The Mondo Chick is the only mob that has a fixed spawn point in the Mountain Top Field.
+
+        * The Spotted Chick is the only mob in the game that spawned in [[:Category:Shops|shops]].
+
+        * During the soft launch of the Egg Hunt 2020 update, the Mondo Chick only had 250,000
+        health. It was later changed to 300,000 the following day.
+
+        * Because Rogue Vicious Bee's spikes can deal damage to mobs, it is possible for one to
+        spawn in the Mountain Top Field and assist in killing the Mondo Chick.
+
+        * If the player already has the Mondo Chick Blessing buff and defeats another Mondo Chick,
+        the new blessing will override the old buff, resetting its timer and possibly degrading or
+        upgrading the buff depending on the time took to defeat the Mondo Chick.
+
+        * Mondo Chick, Stick Nymphs and Festive Nymphs are the only mobs in the game that take
+        damage without any things attacking it.
+
+        * Onett has said on discord that he dislikes Mondo Chick \"on a personal level\".
+
+        * Based on one of Onett's discord messages, the Hostage Chicks may have been cooked for the
+        2020 [[Beesmas Feast]].
+
+        * If a bee lands a critical hit on a chick that is hiding inside its egg, it will ignore the
+        damage reduction and do the normal amount of critical damage.
+
+        * If the Mondo Chick falls out of the Mountain Top field and into another field, when
+        defeated, the rewards will spawn in that field it was defeated in. However if it dies
+        outside of a field, their drops will form in a ring.
+
+        * As of the Beesmas 2020 update, the Mondo Chick no longer drops [[Marshmallow Bee]]s.
+
+        * There was a glitch where Commando Chick would stay in its egg and would not go out of its
+        egg, even when it is moving. This can also make some player's bees keep on missing their
+        shots. The easiest way to fix this glitch was to exit Commando Chick's Hideout and re-enter
+        it.
+
+        * Chicks, [[Ants]], [[Aphid]]s, [[Stick Nymph]]s, [[Mechsquito]]s, and [[Cogmower]]s are the
+        only mobs that come in different varieties.
+
+        * Commando Chick is the only chick with red eyes; all other chicks have black eyes.
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Egg Hunt 2020]]
+        [[Category:Bosses]]
+        [[Category:Mini Bosses]]
+        [[Category:Multiplayer Bosses]]
+        [[Category:Removed Content]]
+        [[Category:Passive Mobs]]"}

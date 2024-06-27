@@ -1,0 +1,301 @@
+{"text": "{{RemovedContent}}
+
+        {{Mob
+        |title=Snowbear
+        |image=SnowBear.png
+        |location=Spider Field
+        |timer=90 minutes (when summoned)
+        |damage=36 (Contact), 60 (Snowball)
+        |level=Starts from 1, increases by 1 level after every defeat.
+        |hp=Increases with level
+        }}The '''Snowbear''' is a [[:Category:Mini Bosses|Mini-Boss]] that can be summoned every 90
+        minutes (1 hour and 30 minutes) at the [[Snowbear Summoner]] after completing [[Panda
+        Bear]]'s Beesmas quest. When summoned, it spawns in the [[Spider Field]], and players have
+        60 seconds (1 minute) to defeat it. If 60 seconds has passed without enough damage done to
+        it, it will despawn (melt). All players' bees can attack another player's Snowbear, but the
+        player that summoned it would receive more rewards.
+        == Attacks ==
+        Snowbear has two attacks:
+        * Contact &ndash; If a player makes contact with Snowbear, it deals a base damage of 36.
+        Snowbear does not track players; instead he moves randomly through the field.
+        * Snowball Hurl &ndash; Snowbear hurls a snowball at a player who is in, or around, the
+        [[Spider Field]]. This snowball deals 60 base damage and applies the [[Buffs &
+        Debuffs#Debuffs|\"Frozen\" Debuff]] to the player who gets hit by the snowball for
+        approximately 2.5 seconds, applying ×0 [[System Page#Movespeed|player movespeed]] and
+        [[System Page#Jump Power|Jump Power]], as well as ×0.2 [[Stats#Speed|Bee Movespeed]].
+        [[File:Frozen.png|thumb|90px|The Frozen effect icon. (Ice Cube's Asset)]]
+
+        == Health==
+        From level one to level ten, its health doesn't increase equally, but at level 10, the
+        Snowbear has 100,000 health.
+
+        From level 10, every time the Snowbear is leveling up it gets +5,000 health.
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        !Level!!Health
+        |-
+        |1||250
+        |-
+        |2||1,500
+        |-
+        |3||5,000
+        |-
+        |4||6,000
+        |-
+        |5||20,000
+        |-
+        |6||40,000
+        |-
+        |7||45,000
+        |-
+        |8||50,000
+        |-
+        |9||70,000
+        |-
+        |10||100,000
+        |-
+        |11||105,000
+        |-
+        |12||110,000
+        |-
+        |13||115,000
+        |-
+        |14||120,000
+        |-
+        |15||125,000
+        |-
+        |16||130,000
+        |-
+        |17||135,000
+        |-
+        |18||140,000
+        |-
+        |19||145,000
+        |-
+        |20||150,000
+        |-
+        |21|| 155,000
+        |-
+        |22||160,000
+        |-
+        |23 ||165,000
+        |-
+        |24||170,000
+        |-
+        |25||175,000
+        |-
+        |26|| 180,000
+        |-
+        |27|| 185,000
+        |-
+        |28|| 190,000
+        |-
+        |29|| 195,000
+        |-
+        |30|| 200,000
+        |}
+
+        ==Drops ==
+        *[[Bond]] (100 &ndash; ???) (increased by [[System Page#Bond From Battle|Bond from
+        Battle]], and level).
+        * [[Ticket]]s (Equal to level).
+        *[[Snowflake]]s (1 &ndash; ??? scales by Snowbear level).
+        Guaranted drops per kill of specific levels
+        <tabber>
+        2022=
+
+        {| class=\"article-table\"
+        !Reward
+        !Level
+        |-
+        |{{Cost|Robo Pass}}
+        |4
+        |-
+        |{{Cost|Hard Wax|3}}
+        |5
+        |-
+        |{{Cost|Thumbtack|||0}}
+        |7
+        |-
+        |{{Cost|Bang Snap|||0}}
+        |8
+        |-
+        |{{Cost|Invigorating Vial|||0}}
+        |10
+        |-
+        |{{Cost|Robo Pass|||0}}
+        |11
+        |-
+        |{{Cost|Swirled Wax|3}}
+        |13
+        |-
+        |{{Cost|Icicles|||0}}
+        |15
+        |-
+        |{{Cost|Caustic Wax|3}}
+        |17
+        |-
+        |{{Cost|Robo Pass|||0}}
+        |18
+        |-
+        |{{Cost|Snow Tiara|||0}}
+        |20
+        |-
+        |{{Cost|Robo Pass|||0}}
+        |23
+        |}
+
+        |-|2021=
+
+        {| class=\"article-table\"
+        !Reward
+        !Level
+        |-
+        |{{Cost|Soft Wax|3}}
+        |3 (?)
+        |-
+        |{{Cost|Single Mitten|||0}}
+        |5
+        |-
+        |{{Cost|Hard Wax|3}}
+        |7
+        |-
+        |{{Cost|Snowglobe|||0}}
+        |10
+        |-
+        |{{Cost|Swirled Wax|3}}
+        |13
+        |-
+        |{{Cost|Icicles|||0}}
+        |15
+        |-
+        | {{Cost|Caustic Wax|3}}
+        |17
+        |-
+        |{{Cost|Snow Tiara|||0}}
+        |20
+        |}
+        </tabber>
+
+        Every time Snowbear loses a quarter of its health, it drops {{Cost|Snowflake}} around the
+        Snowbear's current position, which only the player that summoned it can pick up (they can
+        also be picked up with Token Links). Snowflakes can also spawn in the field randomly,
+        instances of which aren't unique to each player.
+
+        ==Strategies==
+        Every time the player defeats the Snowbear, its health increases (e.g. 20,000 health at
+        level 5), thus making it stronger and harder to defeat in a short amount of time. High-level
+        bees that can do a good amount of damage are recommended.
+
+        Its reload time for using a snowball is short, so if it catches the player in ice, it may be
+        able to keep them frozen by using the snowball attack on them repeatedly. The snowball will
+        still do damage while the player is frozen, and the player will die if they get hit multiple
+        times. If they have a [[glider]] or [[parachute]], they can use it to dodge the snowballs.
+        If they get frozen, immediately after thawing, they can jump away and use the glider to
+        prevent being frozen a second time. It is also a good idea to try and stay behind the
+        Snowbear, as it takes time for it to turn around.
+
+        It is also recommended to have another player have their bees attack a high-leveled
+        Snowbear.
+
+        ==Tips==
+        *Use {{Cost|Oil}} to increase the [[System Page#Bee Movespeed|Movement Speed]] of [[Bees]],
+        and {{Cost|Tropical Drink}} to increase [[Critical Hits|Critical Chance]]. {{Cost|Super
+        Smoothie}} are also an option, as they increase both stats. However, they are expensive, so
+        it is not recommended to use them unless the Snowbear is very high-level.
+        *Certain items like [[Demon Mask]] and [[Fire Mask]]'s passive abilities, [[Windy Bee]]'s
+        tornado ability, [[Frog]]s and [[Spicy Bee]]'s [[Ability Tokens#Inferno|Inferno]] ability
+        ignore enemy levels meaning they will always deal damage regardless of the Snowbear's level.
+        * Have multiple bees with high attack such as [[Lion Bee]].
+        * Use {{Cost|Stinger}} to multiply the bee's attack by ×1.5 for 30 seconds.
+        ** If you have the [[Passive Abilities#Star Saw|Star Saw]] passive, you can use it to deal
+        more damage.
+        * Bees that can generate battle ability tokens are a must-have.
+        ** It is recommended to have multiple [[Rage Bee]]s or Spicy Bees, in order to get more
+        [[Ability Tokens#Rage|Rage Tokens]].
+        ** Vicious Bee is important, as it can deal massive damage with [[Ability
+        Tokens#Impale|Impale]].
+        ** Digital Bee is useful, as it can stun and make it take more damage with its [[Ability
+        Tokens|Mind Hack]] ability.
+        ** Bees that can generate [[Ability Tokens#Focus|Focus]] tokens, such as [[Looker Bee]]s,
+        [[Commander Bee]]s, [[Music Bee]]s, and [[Puppy Bee]] (with [[Reindeer Antlers]]) can help
+        greatly.
+        ** Music Bee can generate [[Ability Tokens#Melody|Melody]], which increases critical power.
+        Melody can also be generated by bees that have the {{Cost|Toy Horn|||0}} or the
+        {{Cost|Kazoo|||0}} equipped.
+        ** [[Precise Bee]]s generate [[Ability Tokens#Target Practice|Target Practice]] tokens,
+        which grants [[Buffs & Debuffs#From Ability Tokens|Precision]], increasing [[System
+        Page#Super-Crit Chance|Super-Crit Chance]].
+        * High-leveled bees are useful for landing hits on high-leveled Snowbears.
+        ** Precise Bees can be very useful against high-leveled Snowbears, as their attacks never
+        miss if the Snowbear is one level higher (two if Gifted).
+        * The Snowball attack will land sooner than the actual snowball, so to prevent being frozen
+        by seemingly nothing, try to keep moving while remaining in range of the Snowbear.
+        ** In addition, if a snowball comes your way, do not run away in the direction of the
+        snowball, as you will likely be frozen. Instead, run towards the left or the right of it.
+        * [[Gifted Bee]]s have 50% more attack than normal bees, making them useful for fighting
+        Snowbears.
+        * Having other players in the server help the player is also a viable strategy.
+        * Use Gifted Bees that increase bee attack, critical chance, critical power, super-crit
+        chance and bee movespeed, such as Gifted Looker Bee, Gifted [[Brave Bee]], Gifted Rage Bee,
+        Gifted Commander Bee, Gifted [[Ninja Bee]], Gifted Lion Bee, Gifted [[Tabby Bee]] and Gifted
+        [[Precise Bee]].
+        * Use {{Cost|Jelly Beans}} to get the green Jelly Bean token, which boosts Critical Chance.
+        * Equip accessories that can boost the attack of the player's bees, primarily guards and
+        masks, such as [[Fire Mask]] and [[Demon Mask]].
+        * Use [[Onett's Lid Art]], [[Honeyday Candles]], [[Gummy Beacon]], and the [[Honey Bee
+        (NPC)|Honey Bee]]'s [[Honey Wreath]] as three of the Beesmas decorations summon 3 extra bees
+        and the Honey Wreath will summon 1 extra bee for a certain amount of time.
+        * With the [[Coconut Canister]], a player can intentionally activate the [[Passive
+        Abilities#Emergency Coconut Shield|Emergency Coconut Shield]] to gain a ×1.25 bee attack
+        boost for 10 seconds while also being immune to damage. Do note that having the Emergency
+        Coconut Shield active does not make a player immune to freezing.
+        * Try to stack battle buffs such as focus and precision to their maximum before spawning the
+        Snowbear.
+
+        == Gallery==
+        <gallery>
+        Snowbear Summoner2.png|The Snow Bear Summoner.
+        File:SnowbearDespawns.jpg|Snow Bear Despawns/Melts (Note: Only appears when you are close to
+        Snowbear).
+        File:Snowbeardefeat.png|The message that appears when defeating a Snowbear.
+        </gallery>
+
+        ==Trivia==
+        *Snowbear uses the Cartoony Animation Pack.
+        *The icon for the Frozen debuff is the asset for [[w:c:battlefordreamisland:Ice Cube|Ice
+        Cube]] from the animated show [[w:c:battlefordreamisland:Battle for Dream Island
+        (series)|Battle for Dream Island]].
+        *Snowbear and [[Stick Bug]] are the only hostile mobs that can be directly summoned by
+        players. They are also the only mobs whose cooldowns are not affected by [[Vicious
+        Bee|Gifted Vicious Bee's]] Gifted Hive Bonus.
+        *Snowbear is the fourth mob to be removed from the game, after the [[Chicks|Chick]], Spotted
+        Chick, and Hostage Chick.
+        **It's also the only mob to return after being removed.
+        *Snowbear's leveling up mechanic work similarly to Stick Bug and [[Wild Windy Bee]].
+        **It's also the only mob that has a changing size, which also increases by leveling. This
+        can make it the largest mob in the game.
+        *Snowbear is the first and only mob able to freeze a player.
+        *Snowbear and [[Tunnel Bear]] are the only hostile mobs that are bears.
+        *Similar to [[Tunnel Bear]] and [[Shadow Bear]], Snowbear has no face and uses one texture.
+        *This is the fourth mob to not drop [[Ability Tokens#Honey Gift|Honey Tokens,]] with the
+        first three being the [[Coconut Crab]], [[ants]] and the [[Cave Monster|cave monsters]].
+        *This, the [[Naughty List]] (plus the quest related with it), [[Festive Nymph]]s, and
+        [[snowflake]]s were the only Beesmas 2020 content that was extended.
+        *Although most stuff in the game refers to this mob as '''Snowbear''', the message the
+        player gets when they fail to defeat Snowbear says \"'''Snow Bear'''\".
+        *This, [[Tunnel Bear]] and [[Shadow Bear]] are the only faceless bears.
+        *There was a glitch which causes the Snowbear to go idle, and it does not move around or
+        attack the player. The cause of this glitch is unknown.
+        * Snowbear has its own [[Cub Buddy]] skin, Snow Cub which is the final reward for [[Bee
+        Bear]]'s 2021 [[Beesmas]] quest.
+        **However, unlike its counterpart, the Snow Cub skin has a face and a carrot for a nose, and
+        uses the Ninja Animation Pack.
+        * There is a glitch which causes Snowbear to spawn inside the mushroom field. The cause of
+        this glitch is unknown.
+        * Snowbear's top hat is a retextured version of the
+        '''[https://www.roblox.com/catalog/80293983/Psychedelic-Top-Hat Psychedelic Top Hat]'''.
+        [[Category:Mobs]]
+        [[Category:Mini Bosses]]
+        [[Category:Bears]]
+        [[Category:Beesmas]]
+        [[Category:Multiplayer Bosses]]"}

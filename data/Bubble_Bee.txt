@@ -1,0 +1,64 @@
+{"text": "{{Bee
+        |image-orig = Bubble_Bee.png
+        |image-gifted=BubbleBee Gifted.png
+        |description = As a larva, this bee lived in the ocean. It loves Blue flowers cause they
+        remind it of home.
+        |rarity = Epic
+        |color = Blue
+        |energy = 20
+        |speed = 16.1
+        |attack = 3
+        |skincolor1 = #afd7f6
+        |skincolor2 = #3b8ed1
+        |skincolor3 = #afd7f6
+        }}'''Bubble Bee''' is a [[:Category:Blue|Blue]] [[Bees/Epic|Epic bee]].
+
+        Bubble Bee's favorite type of treat is [[Blueberry|Blueberries]].
+
+        Bubble Bee likes the [[Blue Flower Field]] and the [[Pine Tree Forest]]. It dislikes the
+        [[Strawberry Field]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 4 seconds.
+        * Makes 160 [[honey]] in 4 seconds.
+        * +15% [[Stats#Speed|Movespeed]], +80 [[System Page#Convert Amount|Convert Amount]], +2
+        [[Stats#Attack|Attack]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: x1.25 [[Bubble#Bubble Pollen|Bubble Pollen]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Bomb|[Blue Bomb]]]''' Collects 10 pollen from 13 surrounding blue
+        [[Flowers]] (+10% pollen per level). Combo with other Bombs to increase power.
+        * '''[[Passive Abilities#Gathering Bubbles|[Passive:]] [[Bubble#Gathering
+        Bubbles|<nowiki>Gathering Bubbles]</nowiki>]]''' 35% chance (50% if Gifted) to
+        spawn a [[bubble]] when gathering. If any Player touches it, it pops, collecting 4 red/6
+        white/8 blue pollen (+10% per gifted blue bee type, +5% per bee level) from 29 nearby
+        Flowers and causing them to grow.
+
+        {{Stat|pollen = 10|pollentime = 4|honey = 160|honeytime = 4|rarity = epic|color = blue}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        BubbleBee Hive.png|Bubble Bee's old hive slot design.
+        GiftedBubbleBeehive.PNG|A Gifted Bubble Bee hive slot.
+        Png (7).png|Bubble Bee's face.
+        File:Pufferfishbee.png|Bubble Bee's original face.
+        </gallery>
+
+        == Trivia ==
+        * Bubble Bee is the Blue counterpart of [[Fire Bee]].
+        * Bubble Bee emits a Bubble effect, a trait also shared with [[Honey Bee]] and its Gifted
+        variant.
+        * Bubble Bee and [[Tadpole Bee]] are the only [[bees]] that have the Gathering Bubbles
+        Passive Ability.
+        * The [[Bubble Mask]], which can be purchased in the [[Blue HQ]], has a special design,
+        name, and stats dedicated to Bubble Bee.
+        * Despite this bee's name, this bee has nothing to do with [[Bubble Bee Man]].
+        ** However, Bubble Bee Man did give out a [[Royal Jelly#Royal Jelly Variants|Bubble Bee
+        jelly]] in [[Beesmas]] 2018 and a [[Egg#Specific Bee Eggs|Bubble Bee egg]] in Beesmas 2020
+        and Beesmas 2021.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Epic]]
+        [[Category:Blue]]
+        [[zh-tw:泡泡蜂]]"}

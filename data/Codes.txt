@@ -1,0 +1,1325 @@
+{"text": "<div style=\"border:1px
+        silver;background-color:white;color:black;padding:0.5ex;margin:1ex;text-align:center;\">If
+        you believe you are not seeing the most recent version of this page,
+        [https://bee-swarm-simulator.wikia.com/wiki/Codes?action=purge try clicking here].<br
+        />If that doesn't help, [https://bee-swarm-simulator.wikia.com/wiki/Codes?v=153 try this
+        link].</div>
+
+        [[File:PromoCodesMenu.png|thumb|288px|The codes menu.]]
+        Promo '''Codes''' are a feature added in the May 18, 2018 update. It is located at the top
+        of the [[System Page]]. Redeeming them gives prizes such as [[honey]], [[Ticket|tickets]],
+        [[gumdrops]], [[Royal Jelly|royal jelly]], [[crafting]] materials, [[Wealth Clock|wealth
+        clock]], [[Magic Bean|magic beans]], boosts from [[Ability Tokens|ability tokens]], or
+        [[Field Boost|field boosts]].
+
+        [[Onett (Developer)|Onett]] posts codes (or hints for codes) in the game itself, on the
+        game's [https://www.roblox.com/games/1537690962 Roblox page], on the
+        [https://www.roblox.com/My/Groups.aspx?gid=3982592 Bee Swarm Simulator Club] page, on
+        [https://twitter.com/OnettDev his Twitter account], and on the game's
+        [https://discord.gg/bee official Discord server]. He also sometimes gives out codes to
+        YouTubers, and there have been reports of codes posted on his
+        [https://www.roblox.com/users/1912490/profile Roblox profile page] and on Roblox
+        advertisements.
+
+        ==Notes==
+        *Do '''''<u>NOT</u>''''' join the Discord server just to ask for codes! Instead,
+        use the search function to look for posts by Onett (Onett#0001).
+        *Codes can only be used '''once'''.
+        *Some older codes may tell you once you redeem them that you have obtained a >x3 boost,
+        though they will still only give you x3.
+        * They are ''not'' case-sensitive: \"Bopmaster\", \"BopMaster\", \"BOPMASTER\", and \"bopmaster\"
+        will all work equally.
+        **Codes allow spaces in between: \"Bees Buzz 123\" and \"BeesBuzz123\" will work equally.
+        *Expired codes do not always say \"expired\"; sometimes, they say \"invalid.\"
+        *When you try to redeem a valid code that you have already used, you will be told: \"You have
+        already redeemed [code].\"
+
+        ==Ready Player Two codes==
+        {{Main|Ready Player Two}}
+        {|class=\"article-table mw-collapsible mw-collapsed sortable\" style=\"width: 100%\"
+        ! class=\"unsortable\" ! |Code
+        ! class=\"unsortable\" ! |Location
+        ! class=\"unsortable\" ! |Reward
+        |-
+        |Troggles
+        |In-game hint (Mother Bear)
+        |7-Pronged Cog x1, Clover Field Code Buff
+        |-
+        |WordFactory
+        |Onett's Twitter
+        |7-Pronged Cog x1, Pine Tree Forest Code Buff
+        |-
+        |Millie
+        |In-game hint (Wind Shrine)
+        |7-Pronged Cog x1, Sunflower Field Code Buff
+        |-
+        |Luther
+        |In-game hint (Onett (NPC))
+        |7-Pronged Cog x1, Blue Flower Field Code Buff
+        |-
+        |CarmenSanDiego
+        |In-game hint (Elite Red Guard Description)
+        |7-Pronged Cog x1, Rose Field Code Buff
+        |-
+        |Jumpstart
+        |In-game hint (Tutorial)
+        |7-Pronged Cog x1, Dandelion Field Code Buff
+        |-
+        |Dysentery
+        |In-game hint (Ant Challenge Info)
+        |7-Pronged Cog x1, Mushroom Field Code Buff
+        |}
+
+        <!-- Please add newly valid codes to the -top- of the list now, not the bottom. -->
+        ==Currently Valid Codes==
+        {| class=\"article-table sortable\"
+        |-
+        ! class=\"unsortable\" |Code
+        ! class=\"unsortable\" |Location
+        ! class=\"date\" |Added
+        ! class=\"unsortable\" |Reward
+        |-
+        |15MMembers<br />(Exclusive to club members)
+        |BSS Club Wall
+        |2024-03-13
+        |Red Balloon x1, Marshmallow Bee x1, Strawberries x15, Blueberries x15, Sunflower Seeds x15,
+        Pineapples x15, Bitterberries x15, Gumdrops x15, Bamboo Field Boost x4, Bamboo Field Winds
+        x15, Rose Field Boost x4, Rose Field Winds x15, Coconut Field Boost x4, Coconut Field Winds
+        x15
+        |-
+        |WeekExtension
+        |Game Description
+        |2023-04-29
+        |Marshmallow Bee x1, Wealth Clock Buff x5, Robo Party Blessing x5, Spider Field Boost x3,
+        Strawberry Field Boost x3, Bamboo Field Boost x3, Spider Field Winds x10, Strawberry Field
+        Winds x10, Bamboo Field Winds x10
+        |-
+        |DarzethDoodads
+        |Discord
+        |2022-04-03
+        |Marshmallow Bee x1, Tropical Drink x1, Jelly Beans x1, Stinger x1, Tickets x3, Red Balloon
+        x1, Clover Field Code Buff, Coconut Field Code Buff
+        |-
+        |Thnxcyastoybox
+        |Discord
+        |2022-03-30
+        |Marshmallow Bee x1, Smooth Dice x1, Jelly Beans x1, Micro-Converter x1, Cloud Vial x1,
+        Whirligig x1, Honeysuckles x10, Pink Balloon x1, Pumpkin Patch Boost x3, Pumpkin Patch Code
+        Buff
+        |-
+        |WalmartToys
+        |BSS Club Wall, Discord, Twitter
+        |2022-03-23
+        |\"🧸 Bee Swarm toys available now at Walmart Supercenters! 🎈\"<br />Marshmallow Bee
+        x1, Field Dice x1, Micro-Converters x3, Pineapple Patch Boost x4, Pineapple Patch Code Buff,
+        Pineapple Patch Winds x10, Super Smoothie Buff, Wealth Clock Buff x1
+        |-
+        |1MLikes<br />(Exclusive to club members)
+        |BSS Club Wall
+        |2020-12-13
+        |Super Smoothie Buff, Unlimited Gumdrops Buff x1, Mother Bear Morph, Blue Boost x1, Red
+        Boost x1, White Boost x1, Baby Love Buff, Melody Buff, Mountain Top Field Boost x1, Clover
+        Field Boost x1, Blue Flower Field Boost x1, Sunflower Field Boost x1, Mushroom Field Boost
+        x1, Spider Field Boost x1, Strawberry Field Boost x1, Bamboo Field Boost x1, Pineapple Patch
+        Boost x1, Capacity Code Buff (Duration: 1 hour), Wealth Clock Buff x1, Ticket x1, Treat x1,
+        Bitterberry x1, Sunflower Seed x1, Strawberry x1, Blueberry x1, Pineapple x1, Moon Charm x1,
+        Cloud Vial x1, Ant Pass x1, Field Dice x1, Micro-Converter x1, Coconut x1, Stinger x1,
+        Gumdrops x1, 1 Honey
+        |-
+        |BANNED
+        |Discord
+        |2020-11-22
+        |Stubborn Bee Jelly x1, Spider Field Code Buff
+        |-
+        |Cubly
+        |Roblox Ad, Discord
+        |2020-04-24
+        |Bumble Bee Jelly x1, Bitterberries x10, Micro-Converter x1, Capacity Code Buff (Duration: 1
+        hour)
+        |-
+        |Teespring
+        |Onett's Twitter
+        |2019-10-29
+        |Marshmallow Bee x1, Bamboo Field Boost x3, Bamboo Field Winds x3
+        |-
+        |BeesBuzz123
+        |(In-game) Revealed by [[Spirit Bear]] dialogue after \"QR Quest\".
+        |2019-09-26
+        |Cloud Vial x1, Bitterberries x5, Gumdrops x10
+        |-
+        |Marshmallow
+        |Twitter, Game Description
+        |2019-04-18
+        |Marshmallow Bee x1, Conversion Boost (Duration: 1 hour)
+        |-
+        |ClubConverters<br />(Exclusive to club members)
+        |BSS Club Wall
+        |2019-04-14
+        |Micro-Converters x10
+        |-
+        |Sure
+        |[https://t5.rbxcdn.com/0314278adcd459e55c5ae7cb40ab9e4e Roblox ad]
+        |2019-02-21
+        |Conversion Boost (Duration: 30 minutes), Dandelion Field Boost x3, 2,500 Honey
+        |-
+        |GumdropsForScience
+        |(In-game) Revealed by [[Science Bear]] during \"Testing Teamwork\" quest
+        |2018-12-19
+        |Gumdrops x15
+        |-
+        |SecretProfileCode<br />(Exclusive to club members)
+        |Onett's profile
+        |2018-12-04
+        |Ant Pass, Shocked Bee Jelly, Oil Buff, Glue Buff, Enzymes Buff
+        |-
+        |ClubBean
+        |Discord, BSS Club Wall<br />(Exclusive to club members)
+        |2018-11-28
+        |Magic Bean x1, Pineapple Patch Boost x2
+        |-
+        |Wink
+        |[https://t3.rbxcdn.com/a3a22ab3ca45e101fffb1a85e9d079f0 BSS thumbnail image] (hint posted
+        on Discord), decal at end of [[White Tunnel]]
+        |2018-06-08
+        |Tickets x5, 5,000 Honey, Black Bear Morph, Dandelion Field Boost x7
+        |-
+        |38217
+        |(In-game) Number on Onett NPC's bag
+        |2018-05-18
+        |Ticket x5
+        |-
+        |Bopmaster
+        |(In-game) Revealed by [[Panda Bear]] in his conclusion dialogue
+        |2018-05-18
+        |Ticket x5
+        |-
+        |Buzz
+        |[https://www.roblox.com/users/1912490/inventory/#!/places Onett's place] on Roblox
+        |2018-05-18
+        |5,000 Honey
+        |-
+        |Cog
+        |Deduction based on the Game Description of BSS and the green gear on the [[Noob Shop]]
+        |2018-05-18
+        |Ticket x5
+        |-
+        |Connoisseur
+        |(In-game) Clue \"Black Bear's Title\" behind the [[Instant Converter]]
+        |2018-05-18
+        |Ticket x5
+        |-
+        |Crawlers
+        |(In-game) Clue \"Song Title\" on the floor of [[King Beetle Lair]]
+        |2018-05-18
+        |Ticket x5
+        |-
+        |Nectar
+        |BSS Club Wall
+        |2018-05-18
+        |5,000 Honey
+        |-
+        |Roof
+        |(In-game) On the Red HQ roof near the giant scythe
+        |2018-05-18
+        |Ticket x5
+        |-
+        |Wax
+        |BSS thumbnail image (on Games page, for example)
+        |2018-05-18
+        |Ticket x5, 5,000 Honey
+        |}
+        <!-- Please add newly valid codes to the -top- of the list now, not the bottom. -->
+        <!-- Continue to add newly expired codes to the bottom of the list. -->
+
+        ==Expired codes==
+        {|class=\"article-table mw-collapsible mw-collapsed sortable\" style=\"width: 100%\"
+        ! class=\"unsortable\" ! |Code
+        ! class=\"unsortable\" ! |Location
+        ! class=\"date\" ! |Dates
+        ! class=\"unsortable\" ! |Reward
+        |-
+        |Soup
+        |Discord
+        |2018-05-18&ndash;<br />2018-05-18
+        |Ticket x10, Royal Jelly x1, 5,000 Honey
+        |-
+        |General
+        |Discord
+        |2018-05-19<br />(1 hour)
+        |10,000 Honey, Ticket x5
+        |-
+        |ThoseEyes
+        |Discord, BSS Club Wall
+        |2018-05-19&ndash;<br />2018-05-19
+        |Looker Bee Jelly x1, Ticket x2, 4,000 Honey
+        |-
+        |NotHoney
+        |Discord
+        |2018-05-19&ndash;<br />2018-05-19
+        |1 Honey, turns you into a bear ([[Ability Tokens#Bear Morph|Bear Morph]])
+        |-
+        |Decaboost
+        |Discord
+        |2018-05-19&ndash;<br />2018-05-19
+        |Every buff in the game, at x10 where applicable (Red/Blue Boost x10, Focus x10, Baby Love,
+        Melody, etc., but not Tabby Love)
+        |-
+        |DontUseThisJelly
+        |Discord
+        |2018-05-19&ndash;<br />2018-05-19
+        |Basic Bee Jelly x1
+        |-
+        |OnettJelly
+        |Discord
+        |2018-05-19&ndash;<br />2018-05-19
+        |Exhausted Bee Jelly x1
+        |-
+        |Nonchalant
+        |BSS Club Wall, Discord
+        |2018-05-19&ndash;<br />2018-05-21
+        |1 Rad Bee Jelly x1, Red Boost x10, Mushroom Field Boost, Ticket x5, 5,000 Honey
+        |-
+        |Change
+        |Twitter
+        |2018-05-18&ndash;<br />2018-05-2?
+        |Royal Jelly x1
+        |-
+        |Keen4
+        |Discord
+        |2018-05-22<br />(30 min.)
+        |1 Commander Bee Jelly x1, [[Mountain Top Field]] Boost x3, Ticket x3, and 10,000 Honey.
+        |-
+        |PandaPower
+        |Twitter, Discord
+        |2018-05-21&ndash;<br />2018-05-22
+        |Temporary Panda Morph, [[Bamboo Field]] Boost, [[Ability Tokens#Haste|Haste]] x10,
+        [[Ability Tokens#Focus|Focus]] x10, [[Ability Tokens#Rage|Rage]], Ticket x3, and 3,000
+        Honey.
+        |-
+        |Friday
+        |Discord, BSS Club Wall, Twitter
+        |2018-05-25&ndash;<br />2018-05-26
+        |10,000 Honey, Ticket x5, Bamboo Field Boost x5, Strawberry Field x5, Royal Jelly x1, Haste+
+        |-
+        |Wax2
+        |(Not posted anywhere)
+        |2018-05-18&ndash;<br />before 2018-06-01
+        |Ticket x5 (\"wax2 was a code by accident for a while. When I was testing codes I put it in
+        there and forgot to take it out\")
+        |-
+        |Arizona
+        |Discord
+        |2018-05-31&ndash;<br />2018-06-02
+        |Ticket x5, Gumdrops x10, Baby Love, Polar Bear Morph, Haste+, Cactus Field Boost x4
+        |-
+        |AccentMaster
+        |ThnxCya (YouTube)
+        |2018-05-22&ndash;<br />2018-06-02
+        |Baby Love, Mushroom Field Boost, Sunflower Field Boost, Dandelion Field Boost, Blue Flower
+        Field Boost, Royal Jelly x1, Ticket x1, and 5,000 Honey.
+        |-
+        |Tabby
+        |Twitter, BSS Club Wall
+        |2018-05-28&ndash;<br />2018-05-29
+        |Ticket x5, Gumdrops x5, 5,000 Honey, Spider Field Boost, Pineapple Patch Boost, Pumpkin
+        Patch Boost
+        |-
+        |JellyHill
+        |Discord
+        |2018-06-01&ndash;<br />2018-06-02
+        |Royal Jelly x1, Ticket x3, Gumdrops x5, Melody, Focus x10, Brown Bear Morph, Haste+, Clover
+        Field Boost x6
+        |-
+        |MischiefMaker
+        |Discord
+        |2018-06-06<br />(1 hour)
+        |Rascal Bee Jelly x1, Ticket x1, Gumdrops x10, Bomb Combo x10, Red Bomb Sync, Blue Bomb
+        Sync, Mushroom Field Boost x6
+        |-
+        |Meow
+        |Probably the [[Easter Eggs|tabby block]]
+        |2018-05-18&ndash;<br />2018-06-09
+        |Ticket x5
+        |-
+        |Cornsyrup
+        |BSS Club Wall
+        |2018-06-09&ndash;<br />2018-06-11
+        |Gumdrops x30
+        |-
+        |Unity<br />(Exclusive to club members)
+        |BSS Club Wall
+        |2018-06-02&ndash;<br />2018-06-13
+        |Royal Jelly x1, Ticket x5, Gumdrops x5, Haste+
+        |-
+        |Starch
+        |Twitter
+        |2018-06-08&ndash;<br />2018-06-18
+        |Gumdrops x30
+        |-
+        |100mvisits
+        |Discord, Twitter
+        |2018-06-04&ndash;<br />2018-06-19
+        |Royal Jelly x1, Ticket x5, Gumdrops x5, 5,000 Honey, Haste+, Black Bear Morph, Baby Love,
+        Melody, Blue Boost x10, Red Boost x10, Focus x10, Sunflower Field Boost x6, Mountain Top
+        Field Boost x3
+        |-
+        |Xanthan
+        |BSS Club Wall, Game Description<br />(Exclusive to club members)
+        |2018-06-12&ndash;<br />2018-06-19
+        |Ticket x5, Gumdrops x30, 5,000 Honey, Blue Flower Field Boost x5, Pumpkin Field Boost x4,
+        Mountain Top Field Boost x3
+        |-
+        |Gel
+        |[https://t5.rbxcdn.com/0b7459b68b702e5d159f60c170a0fd83 Roblox Ad]
+        |2018-06-15&ndash;<br />2018-06-19
+        |Ticket x1, Gumdrops x15, Sunflower Field Boost x5, 2,500 Honey
+        |-
+        |LateNightGumdrops
+        |In-game message
+        |2018-06-24<br />(1 hour)
+        |Ticket x1, Gumdrops x20, Baby Love, Spider Field Boost x2, Pineapple Patch Boost x2, Rose
+        Field Boost x2, Pine Tree Forest Boost x2
+        |-
+        |Afternoon
+        |Discord
+        |2018-06-22&ndash;<br />2018-06-25
+        |Ticket x5, Gumdrops x20, Baby Love, Melody, Focus x10, Haste+, Dandelion Field Boost x5,
+        Rose Field Boost x3, Pine Tree Forest Boost x3
+        |-
+        |PreUpdate
+        |Twitter, BSS Club Wall
+        |2018-06-25&ndash;<br />2018-06-28
+        |Ticket x5, 5,000 Honey, [[Silver Egg]]
+        |-
+        |SugarRush
+        |Twitter
+        |2018-06-19&ndash;<br />2018-07-01
+        |Ticket x5, Gumdrops x10, Baby Love, Black Bear Morph, Haste x10, Haste+, Strawberry Field
+        Boost x3, Pineapple Patch Boost x4
+        |-
+        |GummyBoost
+        |Twitter, BSS Club Wall
+        |2018-06-23&ndash;<br />2018-07-01
+        |10,000 Honey, Gumdrops x30, Spider Field Boost x3, Cactus Field Boost x3, Rose Field Boost
+        x3, Pine Tree Forest Boost x3
+        |-
+        |ClubJellies<br />(Exclusive to club members)
+        |BSS Club Wall
+        |2018-06-20&ndash;<br />2018-07-04
+        |Royal Jellies x3
+        |-
+        |Pectin
+        |Discord, Twitter, BSS Club Wall
+        |2018-05-26&ndash;<br />2018-07-22
+        |Gumdrops x10
+        |-
+        |Tapioca
+        |(In-game) [[Gummy Bear]] dialogue during the Peace Through Goo-nity quest
+        |2018-05-25&ndash;<br />2018-07-22
+        |Gumdrops x10
+        |-
+        |ThnxCyaBoost
+        |[https://www.youtube.com/watch?v=e7dgYjWzFQs ThnxCya (YouTube)]
+        |2018-06-20&ndash;<br />2018-07-22
+        |Royal Jelly x1, Ticket x5, Clover Field Boost x5, Spider Field Boost x5
+        |-
+        |Whoops
+        |Twitter
+        |2018-07-01&ndash;<br />2018-07-22
+        |Ticket x5, 5,000 Honey, Haste+, Panda Bear Morph, Mountain Top Field Boost x3, Clover Field
+        Boost x5
+        |-
+        |Reboot
+        |Game Description, in-game message
+        |2018-07-22<br />(~two hours)
+        |Ticket x10, Inspire x5, Rose Field Boost x3, Sunflower Field Boost x6
+        |-
+        |MillionMembers
+        |BSS Club Wall<br />(Exclusive to club members)
+        |2018-06-05&ndash;<br />2018-07-23
+        |Ticket x10, Gumdrops x10, 10,000 Honey
+        |-
+        |Shutdown
+        |In-game message, Game Title and Game Description
+        |2018-07-23<br />(~2 hours)
+        |Ticket x5, Inspire x5, Pineapple Patch Boost x5, Royal Jelly x1
+        |-
+        |1MoreTime
+        |Game page, in-game message
+        |2018-07-26<br />(6.5 hours)
+        |Royal Jelly x1, Pineapples x5, Ticket x5, Pineapple Patch Boost x2, Clover Field Boost x5
+        |-
+        |ClubSnacks<br />(Exclusive to club members)
+        |BSS Club Wall
+        |2018-07-22&ndash;<br />2018-07-29
+        |Ticket x5, Royal Jelly x1, Treats x30, Pineapples x15, Strawberries x15.
+        |-
+        |SaleEnd
+        |Game Description, in-game message
+        |2018-08-01<br />(~2 hours)
+        |Royal Jelly x1, Mountain Top Field Boost x3, Sunflower Field Boost x5
+        |-
+        |Reboots
+        |Game page
+        |2018-09-10<br />(~3 hours)
+        |Wealth Clock Buff x5, Clover Field Boost x8, Pineapple Patch Boost x5, Mountain Top Field
+        Boost x4
+        |-
+        |CookieClub<br />(Exclusive to club members)
+        |BSS Club Wall
+        |2018-07-11&ndash;<br />2018-09-17
+        |Treats x10, Strawberry x1, Blueberry x1
+        |-
+        |FruitSalad
+        |Twitter
+        |2018-07-11&ndash;<br />2018-09-17
+        |Pineapples x3, Strawberries x3, Blueberries x3
+        |-
+        |NikTacAttack
+        |[https://www.youtube.com/watch?v=qBgSQgMei08 Nik Tac (Youtube)]
+        |2018-07-22&ndash;<br />2018-09-17
+        |Treats x25, Cactus Field Boost x3, Dandelion Field Boost x5, Haste+, Panda Bear Morph, Rage
+        x5
+        |-
+        |MegaMittens
+        |[https://www.youtube.com/watch?v=jsF_YtIU0CE SDMittens (Youtube)]
+        |2018-07-22&ndash;<br />2018-09-17
+        |Treats x10, Blueberries x10, Mountain Top Field Boost x3, Clover Field Boost x5, Rage x5,
+        Haste+, Baby Love
+        |-
+        |RoyalRobzi
+        |[https://www.youtube.com/watch?v=8-wzTElkqZM Robzi (Youtube)]
+        |2018-07-23&ndash;<br />2018-09-17
+        |Royal Jelly x1, Ticket x5, Pine Tree Forest Boost x3, Mushroom Field Boost x5, Melody,
+        Focus x10, Rage x5, Haste+
+        |-
+        |PumpkinofJustice
+        |[https://www.youtube.com/watch?v=szGmXNdCSFA ThnxCya (Youtube)]
+        |2018-07-24&ndash;<br />2018-09-17
+        |Pumpkin Patch Boost x7
+        |-
+        |Summer
+        |BSS Club Wall<br />(Exclusive to club members)
+        |2018-07-29&ndash;<br />2018-09-17
+        |Royal Jelly x1, Ant Pass x1, Treats x10, Sunflower Seeds x10
+        |-
+        |GremlinGoodies
+        |[http://www.youtube.com/watch?v=4tWrmOf8m_0?a XdarzethX (Youtube)]
+        |2018-07-25&ndash;<br />2018-09-17
+        |Treats x15, Strawberries x15, Pineapples x15, Sunflower Boost x5, Rage x5, Black Bear
+        Morph, Baby Love, [[Ability Tokens#Inspire|Inspire]], Melody, 5,000 Honey
+        |-
+        |Oodlesofnoodles
+        |[https://www.youtube.com/watch?v=0t3H_t5YR6A Thinknoodles (YouTube)]
+        |2018-07-29&ndash;<br />2018-09-17
+        |Ant Pass x1, Blueberries x10, Blue Flower Boost x5, Inspire x5, 5,000 Honey
+        |-
+        |Wealthclock1
+        |In-game message
+        |2018-09-20<br />(a few hours)
+        |Wealth Clock Buff x5
+        |-
+        |PuppyPerk
+        |BSS Club Wall, Twitter, In-game message
+        |2018-09-22&ndash;<br />2018-09-23
+        |Ticket x5, Treats x10, Clover Field Boost x2, Pumpkin Patch Boost x2, Mountain Top Field
+        Boost x1
+        |-
+        |Noobasha+
+        |[https://www.youtube.com/watch?v=IeOpK2Vgi20&t Noobasha (YouTube)]
+        |2018-09-20&ndash;<br />2018-10-05
+        |Moon Charms x3, Royal Jelly x1, Haste+, Polar Bear Morph, Wealth Clock Buff x1, Dandelion
+        Field Boost x6
+        |-
+        |ThatGuysCrew
+        |[https://www.youtube.com/watch?v=5PxrKPGmupk That Guy (YouTube)]
+        |2018-09-21&ndash;<br />2018-10-05
+        |Stinger x1, Treats x15, Wealth Clock Buff x1, Rage x5, Panda Bear Morph, Sunflower Field
+        Boost x6
+        |-
+        |FruitMachine
+        |[https://www.youtube.com/watch?v=D_s_fDnjXII ThnxCya (YouTube)]
+        |2018-09-22&ndash;<br />2018-10-07
+        |Strawberries x5, Pineapples x5, Blueberries x5, Strawberry Field Boost x1, Pineapple Field
+        Boost x1
+        |-
+        |RobziRobot
+        |[https://www.youtube.com/watch?v=gjccNpx5HL8 Robzi (YouTube)]
+        |2018-09-22&ndash;<br />2018-10-07
+        |Ticket x3, Treats x15, Haste+, Baby Love, Wealth Clock Buff x2, Bamboo Field Boost x4
+        |-
+        |Berlin
+        |Twitter (also a hint on Discord)
+        |2018-08-16&ndash;<br />2018-10-07
+        |Royal Jelly x1, Ticket x5, Strawberries x25, Black Bear Morph, Strawberry Field Boost x4,
+        Blue Flower Boost x6
+        |-
+        |AceUnhatched
+        |[https://www.youtube.com/watch?v=PRo49bH0WPk Ace Unhacked (YouTube)]
+        |2018-09-24&ndash;<br />2018-10-08
+        |Stinger x1, Stinger (buff), Rage x5, Focus x10, Melody x1, Wealth Clock Buff x1, Spider
+        Field Boost x5
+        |-
+        |SunBearSendoff
+        |BSS Club Wall<br />(Exclusive to club members)
+        |2018-10-05&ndash;<br />2018-10-09
+        |Stinger, Royal Jelly, Wealth Clock Buff x1, Dandelion Field Boost x6, Mountain Top Field
+        Boost x3
+        |-
+        |TrickOrTreat
+        |Game Title, Game Description, Twitter
+        |2018-10-31&ndash;<br />2018-11-01
+        |Royal Jelly, Ticket x5, Treats x50, Sunflower Seed x10, Pineapples x10, Strawberries x10,
+        Blueberries x10, Wealth Clock Buff x5, Pumpkin Patch Boost x6, Black Bear Morph
+        |-
+        |GravycatFan
+        |[https://www.youtube.com/watch?v=vSVmTrLteag Gravycatman (YouTube)]
+        |2018-09-25&ndash;<br />2018-11-06
+        |Moon Charms x3, Pineapples x10, Wealth Clock Buff x1, Brown Bear Morph, Pumpkin Patch Boost
+        x4, 5,000 Honey
+        |-
+        |YTFMMoons
+        |[https://www.youtube.com/watch?v=oaIOjXesmoE YTFMM (YouTube)]
+        |2018-09-26&ndash;<br />2018-11-06
+        |Moon Charms x3, Strawberries x10, Wealth Clock Buff x1, Haste+, Melody, Baby Love, Pine
+        Tree Forest Boost x3
+        |-
+        |Elladiely
+        |[https://www.youtube.com/watch?v=ZbAByrVle-M Elladiel (YouTube)]
+        |2018-09-26&ndash;<br />2018-11-06
+        |Royal Jelly, Sunflower Seed x10, Wealth Clock Buff x1, Red Boost x10, Haste x10, Focus x10,
+        Clover Field Boost x5
+        |-
+        |DarzethDonation
+        |[https://www.youtube.com/watch?v=Icf1U8EZDdM Darzeth (Youtube)]
+        |2018-09-28&ndash;<br />2018-11-06
+        |Stinger, Moon Charms x3, Treats x15, Wealth Clock Buff x1, Haste+, Baby Love, Melody,
+        Pineapple Patch Boost x5
+        |-
+        |TeraBriteFight
+        |[https://www.youtube.com/watch?v=Jg0eMlV1E4g TeraBrite (Youtube)]
+        |2018-10-01&ndash;<br />2018-11-06
+        |Stinger, Blueberries x10, Wealth Clock Buff x1, Black Bear Morph, Rage x5, Rose Field Boost
+        x3
+        |-
+        |12hourgeneral
+        |Discord
+        |2018-11-11<br />(12 hours)
+        |Wealth Clock Buff x5, Mountain Top Field Boost x1, Pine Tree Forest x1, Mushroom Field
+        Boost x3, Sunflower Field Boost x3
+        |-
+        |CantSleep
+        |Discord
+        |2018-11-15&ndash;<br />2018-11-16
+        |Baby Love, Exhausted Bee Jelly, Spider Field Boost x3
+        |-
+        |Waiting
+        |Discord
+        |2018-11-24&ndash;<br />2018-11-25
+        |Polar Bear Morph, Panda Bear Morph, Brown Bear Morph, Black Bear Morph, Baby Love, Melody,
+        Pollen Boost x10, Red Boost x10, Blue Boost x10, Blue Bomb Sync x10, Red Bomb Sync x10,
+        Focus x10, Haste x10, Inspire x10, Wealth Clock Buff x5, Mountain Top Field Boost x3,
+        Dandelion Field Boost x6
+        |-
+        |1mFavorites
+        |Game page, BSS Club Wall
+        |2018-07-04&ndash;<br />2018-12-08
+        |x1 field boost for every field ''except'' Dandelion, Baby Love, Melody, Blue Boost x10, Red
+        Boost x10, Focus x10, Blue Bomb Sync, Red Bomb Sync, Haste+, Haste x10, Black Bear Morph,
+        Brown Bear Morph, Royal Jelly x1, Ticket x5, Gumdrops x5, 5,000 Honey
+        |-
+        |HasteHelper
+        |(In-game) Sun Bear dialogue
+        |2018-09-10&ndash;<br />2018-12-08
+        |Hasty Bee Jelly
+        |-
+        |SunSample
+        |(In-game) Sun Bear dialogue
+        |2018-09-10&ndash;<br />2018-12-08
+        |Royal Jelly
+        |-
+        |ExtraPass
+        |(In-game) Sun Bear dialogue
+        |2018-09-10&ndash;<br />2018-12-08
+        |Ant Pass (''not'' subject to ant pass limit; if code doesn't work for you, join a different
+        server)
+        |-
+        |ClubParty
+        |Game page
+        |2018-09-15&ndash;<br />2018-12-08
+        |[[Stinger]], Black Bear Morph, Ticket x3, Wealth Clock Buff x1, Blue Flower Field Boost x6,
+        Mushroom Field Boost x6
+        |-
+        |MoonMiracle
+        |Discord
+        |2018-09-15&ndash;<br />2018-12-08
+        |[[Moon Charms]] x3, Ticket x3, Royal Jelly x1, Cactus Field Boost x4
+        |-
+        |HappyNewYear
+        |Discord, Game Title.
+        |2019-01-01&ndash;<br />2019-01-02
+        |2,019 Honey, Royal Jelly, Gumdrops x20, Pineapples x19, Treats x20, Blueberry x19, Clover
+        Field Boost x5, Baby love, Melody, Gummy Bear Morph, Glue Buff, Wealth Clock Buff x1,
+        Unlimited Gumdrops Buff x2, Inspire
+        |-
+        |kot?kbean<br />(Exclusive to club members)
+        |[https://www.youtube.com/watch?v=-1b5--E0L-8 ????? ??????? (YouTube)]
+        |2018-11-29&ndash;<br />2019-01-19
+        |Magic Bean x1, Oil Buff, Wealth Clock
+        |-
+        |MayRuTreats
+        |[https://www.youtube.com/watch?v=we1ZAv0Xi4s&t=54s MayRushArt (YouTube)]
+        |2018-11-30&ndash;<br />2019-01-19
+        |Treats x5, Blueberries x5, Strawberries x5, Sunflower Seed x5, Pineapples x5, Gumdrops x5,
+        Spider Field Boost x3
+        |-
+        |MinhMaMaMoons
+        |[https://www.youtube.com/watch?v=EreyOWg38X8 MinhMaMa (Youtube)]
+        |2018-11-30&ndash;<br />2019-01-19
+        |Moon Charms x5, Treats x10, Pine Tree Forest Boost x2, Wealth Clock Buff x2
+        |-
+        |RobziRampage
+        |[https://www.youtube.com/watch?v=kHEMTuTZoto Robzi (Youtube)]
+        |2018-12-01&ndash;<br />2019-01-19
+        |Stingers x2, Rage x5, Focus x10, Melody, Panda Bear Morph, Stump Field Boost x1, Wealth
+        Clock
+        |-
+        |DarzethPack
+        |[https://www.youtube.com/watch?v=oDpvru3kTxU Darzeth (Youtube)]
+        |2018-12-01&ndash;<br />2019-01-19
+        |Stinger x1, Enzymes x1, Sunflower Seed x10, Pineapples x10, Pumpkin Patch Boost x3, Wealth
+        Clock
+        |-
+        |Gummysausage
+        |[https://www.youtube.com/watch?v=bDQZ_Nvzn9s ThnxCya (Youtube)]<br />(Exclusive to
+        club members)
+        |2018-12-02&ndash;<br />2019-01-19
+        |Enzymes x1, Glue Buff, Gumdrops x10, Unlimited Gumdrops Buff, Cactus Field Boost x2, Wealth
+        Clock
+        |-
+        |ExoExtract
+        |[https://www.youtube.com/watch?v=NGxmZbdvK5w Exo (YouTube)]
+        |2018-12-02&ndash;<br />2019-01-19
+        |Red Extract x1, Stinger x1, Pineapples x20, Bamboo Field Boost x3, Wealth Clock
+        |-
+        |RedCatBee
+        |[https://www.youtube.com/watch?v=IncGOUmzAvY Red Cat (Youtube)]
+        |2018-12-03&ndash;<br />2019-01-19
+        |Red Extract x1, Pineapples x15, Sunflower Seed x15, Mushroom Field Boost x3, Wealth Clock
+        |-
+        |GravyGoodies
+        |[https://www.youtube.com/watch?v=JHxe052Jxog GravyCatMan (Youtube)]
+        |2018-12-05&ndash;<br />2019-01-19
+        |Oil x1, Strawberries x5, Blueberries x5, Stump Field Boost x1, Wealth Clock
+        |-
+        |MagicMittens<br />(Exclusive to club members)
+        |[https://www.youtube.com/watch?v=9hmPdwqUNJw SDMittens (Youtube)]
+        |2018-12-06&ndash;<br />2019-01-19
+        |Magic Bean x1, Pineapples x10, Enzymes Buff x1, Mountain Top Field Boost x1, Wealth Clock
+        Buff x1
+        |-
+        |Willgoold<br />(Exclusive to club members)
+        |[https://www.youtube.com/watch?v=G-t0iKgfr6s Will Gold Play (Youtube)]
+        |2018-12-07&ndash;<br />2019-01-19
+        |Glue x1, Glue Buff x1, Gumdrops x10, Unlimited Gumdrops Buff x1, Stump Field Boost x1,
+        Wealth Clock
+        |-
+        |ThatGuyGift<br />(Exclusive to club members)
+        |[https://www.youtube.com/watch?v=yrStJ2grPx8 ThatGuy (Youtube)]
+        |2018-12-10&ndash;<br />2019-01-19
+        |Oil x1, Pineapples x10, Blueberries x10, Rose Field Boost x2, Wealth Clock
+        |-
+        |SDMittens1T
+        |In honor of [https://www.youtube.com/watch?v=W6CyopOuawU SDMittens] reaching 1 trillion
+        honey
+        |2018-12-15&ndash;<br />2019-01-19
+        |Stinger x1, Glitter x1, Dandelion Field Boost x3, Mountain Top Field Boost x1, Pollen Boost
+        x30, Wealth Clock
+        |-
+        |AceUnhackedLoot
+        |[https://www.youtube.com/watch?v=zNS0aozLGHs AceUnhacked (Youtube)]
+        |2018-12-16&ndash;<br />2019-01-19
+        |Stingers x2, Pineapples x50, Blue Flower Field Boost x2, Wealth Clock
+        |-
+        |ByeBeeBear
+        |BSS Club WallS, Game Title
+        |2019-01-30&ndash;<br />2019-01-31
+        |Present x1, Ticket x10, Pine Tree Forest Boost x1, Spider Field Boost x3
+        |-
+        |PingBoost
+        |Discord
+        |2018-11-18&ndash;<br />2019-02-01
+        |Wealth Clock Buff x5, Sunflower Seed x10, Strawberries x10, Blueberries x10, Pineapples
+        x10, Cactus Boost x3, Blue Flower Boost x4, Mushroom Boost x4
+        |-
+        |NoobashaBonus<br />(Exclusive to club members)
+        |[https://www.youtube.com/watch?v=PozrZg-x6DU Noobasha (Youtube)]
+        |2018-12-04&ndash;<br />2019-02-01
+        |Magic Bean x1, Moon Charm x1, Pineapples x5, Sunflower Seed x5, Sunflower Field Boost x4
+        |-
+        |BeesmasCheer
+        |(In-game) Revealed by [[Bee Bear]] during \"The Night Before Beesmas\" quest
+        |2018-12-19&ndash;<br />2019-02-01
+        |Glitter x1
+        |-
+        |TeraTreasure
+        |[https://www.youtube.com/watch?v=crnd0lzlV_I TeraBrite (Youtube)]
+        |2018-12-20&ndash;<br />2019-02-01
+        |Royal Jelly x1, Moon Charms x3, Sunflower Seed x10, Rose Field Boost x2
+        |-
+        |RebootBoost
+        |Game Title, Discord
+        |2019-01-31&ndash;<br />2019-02-01
+        |Conversion Boost x2 (Duration: 1 hour)
+        |-
+        |Discord50k
+        |Discord
+        |2018-12-07&ndash;<br />2019-02-07
+        |Stinger x1, Strawberries x10, Blueberries x10, Sunflower Seed x10, Pineapples x10, Glue
+        Buff, Oil Buff, Enzymes Buff, Red Extract Buff, Blue Extract Buff, Unlimited Gumdrops Buff
+        x3, Blue Flower Field Boost x4
+        |-
+        |Crafty
+        |Twitter
+        |2018-11-26&ndash;<br />2019-02-08
+        |Unlimited Gumdrops x5, Red Extract x1, Blue Extract x1, Gumdrops x25, Strawberries x10,
+        Blueberries x10, Pineapples x10, Sunflowers x10, Royal Jelly x1, Dandelion Field Boost x4
+        |-
+        |AnniversaBee
+        |Game Title, BSS Club Wall, Discord
+        |2019-03-22&ndash;<br />2019-03-24
+        |Honeyday Event (2 days)
+        |-
+        |Reboooot
+        |Game Title
+        |2019-03-08&ndash;<br />2019-03-31
+        |Wealth Clock Buff x1, Stump Field Boost x1, Spider Field Boost x4, Conversion Boost
+        (Duration: 2 hours)
+        |-
+        |Shhhh
+        |In-game notification
+        |2019-04-12<br />(2 hours)
+        |Conversion Boost (Duration: 1 hour), Wealth Clock Buff x3
+        |-
+        |FeelingLucky
+        |In-game notification
+        |2019-04-14<br />(2 hours)
+        |Conversion Boost (Duration: 1 hour), Field Dice x3
+        |-
+        |TallTallMountain
+        |Discord
+        |2019-04-15&ndash;<br />2019-04-16
+        |Mountain Top Boost x2, Moon Charm x1, Strawberry x1, Blueberry x1, Micro-converters x3
+        |-
+        |BloxyBoost
+        |Discord, Twitter
+        |2019-02-06&ndash;<br />2019-04-19
+        |Ticket x5, Mushroom Field Boost x5, Conversion Boost (Duration: 1 hour)
+        |-
+        |BeeMine
+        |Discord, BSS Club Wall
+        |2019-02-14&ndash;<br />2019-04-19
+        |Royal Jelly x1, Strawberries x10, Conversion Boost (Duration: 1 hour), Rose Field Boost x3
+        |-
+        |Trying
+        |Discord
+        |2019-03-30&ndash;<br />2019-04-19
+        |Sunflower Field Boost x4, Pineapple Patch Boost x3, Pumpkin Patch Boost x2, Conversion
+        Boost (Duration: 4 hours)
+        |-
+        |300MVisits
+        |BSS Club Wall
+        |2018-11-05&ndash;<br />2019-05-10
+        |Royal Jelly, Wealth Clock Buff x1, Pine Tree Forest Boost x2, Rose Field Boost x2,
+        Sunflower Field Boost x2, Treats x10
+        |-
+        |2MFavorites
+        |BSS Club Wall<br />(Exclusive to club members)
+        |2019-01-10&ndash;<br />2019-05-10
+        |Royal Jelly, Ticket x5, Oil, Strawberries x5, Blueberries x5, Wealth Clock Buff x5, Haste+,
+        Baby Love, Black Bear Morph, Sunflower Field Boost x5, Stump Field Boost x2
+        |-
+        |RebootCode
+        |Game Description
+        |2019-05-13&ndash;<br />2019-05-14
+        |Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Dandelion Field Boost x5, Cactus
+        Field Boost x1, Micro-Converter x1
+        |-
+        |Poke
+        |Discord
+        |2019-08-04&ndash;<br />2019-08-06
+        |Sunflower Field Boost x5, Cactus Field Boost x3, Stingers x5, Moon Charms x10, Demo Bee
+        Jelly x1
+        |-
+        |August
+        |Discord
+        |2019-08-21&ndash;<br />2019-09-02
+        |Rose Field Boost x3, Bamboo Field Boost x3, Conversion Boost, Glitter x1
+        |-
+        |Breeze
+        |Discord
+        |2019-09-21&ndash;<br />2019-09-26
+        |Cactus Field Boost x2, Dandelion Field Boost x3, Mushroom Field Boost x3, Magic Bean x1,
+        Sunflower Seed x20, Micro-Converters x3
+        |-
+        |MoreTime
+        |Discord
+        |2019-09-13&ndash;<br />2019-09-26
+        |Pumpkin Patch Boost x3, Clover Field Boost x3, Stump Field Boost x1, Moon Charms x20,
+        Micro-Converters x5, Jelly Beans x3, Wealth Clock Buff x3
+        |-
+        |WindyReboot
+        |Game Title
+        |2019-09-28&ndash;<br />2019-09-26
+        |Clover Field Boost x3, Clover Field Winds x3, Conversion Boost (Duration: 1 hour), Cloud
+        Vial x1, Coconut x3
+        |-
+        |RebootCloud
+        |In-game notification
+        |2019-09-29&ndash;<br />2019-10-01
+        |Spider Field Boost x3, Spider Field Winds x3, Cloud Vial x1, Coconuts x3, Conversion Boost
+        x2 (Duration: 30 minutes), Wealth Clock Buff x3
+        |-
+        |BeeDay2019
+        |Discord
+        |2019-05-20&ndash;<br />2019-10-02
+        |Bumble Bee Jelly x1, Jelly Beans x1, Field Dice x1, Micro-Converter x1, Gumdrops x1,
+        Strawberry x1, Blueberry x1, Pineapple x1, Sunflower Seed x1, Conversion Boost (Duration: 30
+        minutes), Pumpkin Patch Boost x4, Mother Bear Morph x3
+        |-
+        |BloxyCelebration
+        |Discord, In-game notification
+        |2019-02-23&ndash;<br />2019-10-02
+        |Ticket x5, Magic Bean x1, Baby Love x1, Conversion Boost (Duration: 6 hours), Mountain Top
+        Field Boost x3, Clover Field Boost x5
+        |-
+        |TornadoGlitch
+        |Game Title
+        |2019-09-30&ndash;<br />2019-10-03
+        |Dandelion Field Boost x3, Dandelion Field Winds x3, Cloud Vial x1, Coconuts x5
+        |-
+        |WindyWeekend
+        |Game Title
+        |2019-10-26&ndash;<br />2019-10-28
+        |Cloud Vial x1, Jelly Beans x1, Mountain Top Field Boost, Mountain Top Field Winds x3,
+        Dandelion Field Boost, Dandelion Field Winds x3, Conversion Boost x2
+        |-
+        |OffToOrlando
+        |Game Title
+        |2019-10-28&ndash;<br />(6 hours)
+        |Jelly Beans x3, Coconuts x10, Pineapple Patch Boost x3, Pineapple Patch Winds x5, Wealth
+        Clock Buff x5
+        |-
+        |Cactus4Now
+        |In-Game Notification
+        |2019-11-23&ndash;<br />2019-11-27
+        |Cactus Field Boost x3, Cactus Field Winds x2
+        |-
+        |Leftovers
+        |Onett's Profile Page, Discord
+        |2019-11-29&ndash;<br />2019-12-23
+        |Strawberries x10, Blueberries x10, Pineapples x10, Gumdrops x10, Jelly Beans x1, Pumpkin
+        Patch Boost x3, Pumpkin Patch Winds x3
+        |-
+        |Buzzy
+        |BSS Club Wall
+        |2019-12-07&ndash;<br />2019-12-23
+        |Conversion Boost (Duration: 1 hour), Wealth Clock Buff x5, Mushroom Field Boost x3,
+        Mushroom Field Winds x3, Blue Flower Field Boost x3, Blue Flower Field Winds x3
+        |-
+        |ClubBasket
+        |BSS Club Wall<br />(Exclusive to club members)
+        |2019-04-18&ndash;<br />2019-12-24
+        |Royal Jelly x1, Gumdrops x10, Jelly Beans x3, Blue Flower Field Boost x2, Sunflower Field
+        Boost x2, Mushroom Field Boost x2
+        |-
+        |WikiHonor
+        |Discord (In honor of the BSS Wiki winning the Best Roblox Interwiki Wiki)
+        |2018-12-11&ndash;2019-12-24
+        |Royal Jelly x1, Stinger x1, Pineapples x10, Gumdrops x10, Strawberry Field Boost x3,
+        Inspire x5
+        |-
+        |WikiAwardClock
+        |Discord (Onett forgot to add this to WikiHonor)
+        |2018-12-11&ndash;<br />2019-12-24
+        |Wealth Clock Buff x5
+        |-
+        |ClubCloud
+        |BSS Club Wall
+        |2019-9-28&ndash;<br />2019-12-24
+        |Cloud Vial x1, Jelly Beans x1, Field Dice x1, Micro-Converter x1
+        |-
+        |RebootCheer
+        |Game Description/title
+        |2019-12-30&ndash;<br />2020-01-01
+        |Bitterberries x10, Jelly Beans x1, Mountain Top Field Boost x3 Mountain Top Field Winds x3,
+        Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Beesmas Cheer (Duration: 2
+        minutes) (Was formally 5 minutes until 2019-12-31)
+        |-
+        |Reboot2020
+        |BSS Game Title
+        |2020-1-3&ndash;<br />2020-01-05
+        |10 Bitterberries, 1 Field Dice, Cactus Field Boost x3, Cactus Field Winds x3, Wealth Clock
+        Buff x5, Conversion Boost (Duration: 1 hour), Beesmas Cheer (Duration: 2 minutes)
+        |-
+        |FestiveFrogs
+        |BSS Club Wall
+        |2019-12-23&ndash;<br />2020-02-10
+        |Box-o-Frogs x1, Bamboo Field Boost x3, Bamboo Field Winds x3
+        |-
+        |FestiveFinale
+        |BSS Club Wall
+        |2020-02-05&ndash;<br />2020-02-10
+        |Strawberry Field Boost x3, Bamboo Field Boost x3, Dandelion Field Boost x3, Strawberry
+        Field Winds x2, Bamboo Field Winds x2, Dandelion Field Winds x4, Bitterberries x10, Wealth
+        Clock Buff x5, Marshmallow Bee Buff, Conversion Boost (Duration: 4 hours)
+        |-
+        |JollyJelly
+        |Onett's Twitter
+        |2019-12-23&ndash;<br />2020-02-10
+        |Royal Jelly x1, Jelly Beans x1, Micro-Converter x1, Strawberry Field Boost x3, Strawberry
+        Field Winds x3
+        |-
+        |BeesmasBegins
+        |Discord
+        |2019-12-23&ndash;<br />2020-02-10
+        |Gumdrops x5, Bitterberries x5, Moon Charms x5, Field Dice x1, Dandelion Field Boost x3,
+        Dandelion Field Winds x6, Conversion Boost (Duration: 30 minutes)
+        |-
+        |RebootBag
+        |BSS Game Title
+        |2020-02-10&ndash;<br />2020-02-12
+        |Capacity Code buff (Duration: 4 hours)
+        |-
+        |Valentine
+        |BSS Club Wall, Discord
+        |2020-02-14
+        |Strawberries x25, Baby Love Buff, Red Extract Buff, Rose Field Boost x3, Rose Field
+        Capacity Boost (+300% for 30 minutes)
+        |-
+        |Market
+        |Discord, Game Description
+        |2020-02-10
+        |Bitterberries x10, Pollen Boost (Duration: 1 hour and 20 minutes), Pineapple Patch Market
+        Boost (Duration: 1 hour), and Sunflower Field Market Boost (Duration: 1 hour)
+        |-
+        |2YearsAfterParty
+        |Game Description, Discord, Twitter
+        |2020-03-21&ndash;<br />2020-03-31
+        |Glue buff, Oil buff, Enzymes buff, Blue Extract buff, Red Extract buff, Tropical Drink
+        buff, Mountain Top Field Capacity x3 (+300% for 30 minutes), Mountain Top Market Boost
+        (Duration: 4 hours)
+        |-
+        |2Years
+        |Game Description, Discord, Twitter
+        |2020-03-21&ndash;<br />2020-03-31
+        |Atomic Treat x1, Marshmallow Bee x1, Field Dice x3, Micro-Converters x3, Tickets x10,
+        Mountain Top Boost x3, Capacity Code buff (Duration: 48 hours)
+        |-
+        |EggReboot
+        |BSS Game Title
+        |2020-04-17&ndash;<br />2020-04-08
+        |Clover Field Boost x3, Clover Field Winds x3, Clover Field Capacity Boost (+300% for 30
+        minutes), Capacity Code buff (Duration: 1 hour), Wealth Clock Buff x5
+        |-
+        |FuzzyReboot
+        |Discord, Game Description
+        |2020-04-12&ndash;<br />2020-04-13
+        |Wealth Clock Buff x3, Capacity Code Buff (Duration: 30 Minutes), Spider Field Capacity
+        Boost (+300% for 30 minutes), Spider Field Boost x3, Spider Field Winds x3
+        |-
+        |4MilMembers
+        |BSS Club Wall
+        |2019-10-19&ndash;<br />2020-04-18
+        |Royal Jelly x1, Field Dice x4, Micro-Converters x4, Clover Field Boost x1, Clover Field
+        Winds x4, Mother Bear Morph
+        |-
+        |BrownBearReboot
+        |Game Title, Game Description
+        |2020-04-19&ndash;<br />2020-04-21
+        |Dandelion Field Boost x3, Dandelion Field Capacity x3, Capacity Code (1 hour), Wealth Clock
+        Buff x5, Brown Bear Morph
+        |-
+        |PineappleParty
+        |BSS Club Wall, Discord
+        |2020-03-15&ndash;<br />2020-04-25
+        |Pineapples x15, Tropical Drink x1, Capacity Code buff (Duration: 48 hours), Pineapple Patch
+        Boost x3, Pineapple Patch Capacity Boost (+300% for 30 minutes)
+        |-
+        |Strawbeary<br />(Exclusive to club members)
+        |BSS Club Wall, Discord
+        |2020-04-24&ndash;<br />2020-04-29
+        |Rad Bee Jelly x1, Tropical Drink x1, Strawberries x10, Strawberry Field Boost x3,
+        Strawberry Field Capacity x3, Mother Bear Morph
+        |-
+        |BlackBearMythic
+        |Discord
+        |2020-05-01&ndash;<br />2020-05-04
+        |Clover Field Boost x3, Clover Field Capacity x3, Cactus Field Boost x3, Cactus Field
+        Capacity x3, Capacity Code Buff (Duration: 1 hour), Wealth Clock Buff x5, Black Bear Morph
+        |-
+        |Tornado
+        |Onett's Twitter
+        |2019-09-28&ndash;<br />2020-05-08
+        |Cloud Vial x1, Jelly Beans x3, Royal Jelly x1
+        |-
+        |FuzzyFarewell
+        |BSS Club Wall, Discord
+        |2020-05-15&ndash;<br />2020-05-18
+        |Micro-Converters x3, Pineapples x15, Sunflower Field Boost x3, Sunflower Field Capacity x3,
+        Capacity Code buff (Duration: 48 hours)
+        |-
+        |SpaceReboot
+        |Game Title
+        |2020-06-06&ndash;<br />2020-06-09
+        |Moon Charms x10, Micro-Converters x5, Wealth Clock Buff x5, Mountain Top Field Boost x3,
+        Mountain Top Field Capacity Boost x3, Dandelion Field Boost x3, Dandelion Field Capacity
+        Boost x3.
+        |-
+        |Sriracha
+        |Discord
+        |2020-06-13&ndash;<br />2020-06-16
+        |Rage x3, Flame Fuel Buff, Pepper Patch Boost x2, Pepper Patch Capacity x2
+        |-
+        |Gumaden10T
+        |Discord
+        |2019-09-26&ndash;<br />2020-06-27
+        |Pepper Patch Boost x1, Pepper Patch Winds x3, Coconut Field Boost x1, Coconut Field Winds
+        x3, Blue Flower Field Boost x2, Blue Flower Field Winds x3, Cloud Vial x1, Pineapples x15
+        |-
+        |BillionVisits
+        |Discord, Game Description
+        |2020-08-12&ndash;<br />2020-09-01
+        |Atomic Treat x1, Micro-Converters x10, Mountain Top Field Winds x10, Sunflower Field Winds
+        x10, Honeyday Event (2 days)
+        |-
+        |NewMic
+        |Discord
+        |2020-09-05 (A few hours)
+        |Shy Bee Jelly 1x, Spider Field Boost x3, Field Dice 10x, Micro-Converter 10x, Diamond Egg
+        1x
+        |-
+        |RebootPC
+        |Discord
+        |2020-11-23&ndash;<br />2020-11-24
+        |Clover Field Boost x2, Capacity Code buff (Duration: 30 minutes)
+        |-
+        |BlackFriday
+        |BSS Club Wall
+        |2020-11-27&ndash;<br />2020-11-28
+        |Bamboo Field Code Buff, Capacity Code buff (Duration: 1 hour), Black Bear Morph, Field Dice
+        x1
+        |-
+        |RebootXmas
+        |Discord
+        |2020-12-26&ndash;<br />2020-12-27
+        |Gingerbread Bear x1, Wealth Clock Buff x1, Clover Field Boost x1, Clover Field Capacity
+        Buff x1
+        |-
+        |Buoyant
+        |BSS Club Wall
+        |2020-02-22&ndash;<br />2021-01-13
+        |Blueberries x15, Blue Extract buff, Capacity Code buff (Duration: 48 hours), Blue Flower
+        Boost x3, Blue Flower Field Capacity Boost (+300% for 30 minutes), Blue Flower Field Market
+        Boost (Duration: 2 hours)
+        |-
+        |BigBag
+        |Discord, Onett's profile
+        |2020-02-12&ndash;<br />2021-01-13
+        |Capacity Code buff (Duration: 48 hours)
+        |-
+        |5mMembers
+        |BSS Club Wall, Discord
+        |2020-04-16&ndash;<br />2021-02-28
+        |Bitterberries x5, Strawberries x5, Blueberries x5, Sunflower Seed x5, Pineapples x5, Moon
+        Charms x5, Rose Field Boost x2, Rose Field Capacity Boost x3, Pine Tree Forest Boost x2,
+        Pine Tree Forest Capacity Boost x3, Science Bear Morph, Conversion Boost buff (Duration: 30
+        minutes).
+        |-
+        |WintersEnd
+        |Discord
+        |2021-02-26&ndash;<br />2021-03-01
+        |Spider Field Code Buff, Pine Tree Forest Code Buff, Wealth Clock Buff x5, Gingerbread Bear
+        x1, Micro-Converter x1, Royal Jelly x1, Electric Candle Beequip x1
+        |-
+        |3YearFix
+        |Discord
+        |2021-03-21&ndash;<br />2021-03-21
+        |Honeyday Event (2 days)
+        |-
+        |3YearPartyFix
+        |Discord
+        |2021-03-21&ndash;<br />2021-03-21
+        |Honeyday Event (2 days)
+        |-
+        |3YearParty
+        |BSS Club Wall
+        |2021-03-21&ndash;<br />2021-03-28
+        |Atomic Treat x1, Field Dice x1, Micro-Converters x5, Marshmallow Bee x1, Glitter x1, Red
+        Extract x1, Blue Extract x1, Oil x1, Enzymes x1, Box-O-Frogs x1, Honeyday Event (2 days),
+        Wealth Clock Buff x5, Super Smoothie Buff, Mountain Top Field Boost x3, Mountain Top Field
+        Capacity x3, Mountain Top Field Market Boost (Duration: 30 minutes)
+        |-
+        |RebootFriday
+        |Discord
+        |2021-11-26&ndash;<br />2021-11-27
+        |Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Pine Tree Forest Code Buff, Rose
+        Field Code Buff, Dandelion Field Code Buff, Super Smoothie Buff
+        |-
+        |PlushFriday (Old)
+        |Discord
+        |2021-11-26&ndash;<br />2021-12-27
+        |Marshmallow Bee x1, Neonberry x1, Micro-Converter x1, Conversion Boost (Duration: 1 hour),
+        Pine Tree Forest Code Buff, Rose Field Code Buff, Dandelion Field Code Buff, Super Smoothie
+        Buff
+        |-
+        |Mocito100T
+        |Discord, In-Game Announcement
+        |2020-06-27&ndash;<br />2022-03-23
+        |Coconut Field Boost x2, Coconut Field Capacity x2, Stingers x3, Gumdrops x5, Coconut x10,
+        Inspire x5
+        |-
+        |RedMarket
+        |Discord
+        |2020-06-16&ndash;<br />2022-03-23
+        |Pepper Patch Boost x1, Pepper Patch Capacity x1, Pepper Patch Market Boost (Duration: 30
+        minutes)
+        |-
+        |Discord100k
+        |Discord
+        |2019-07-06&ndash;<br />2022-03-23
+        |Marshmallow Bee Buff, Rose Field Boost x3, Pine Tree Forest Boost x3, Spider Field Boost
+        x3, Gumdrops x3, Moon Charms x3, Ticket x3
+        |-
+        |MondoOutage
+        |Discord
+        |2021-10-31&ndash;<br />2022-03-23
+        |Micro-Converters x3, Moon Charms x10, Neonberry x1, Marshmallow Bee x1, Mountain Top Field
+        Code Buff, Purple Potion Buff
+        |-
+        |5MFavorites
+        |Game Description, Discord, BSS Club Wall
+        |2022-06-25&ndash;<br />Undocumented
+        |Red Balloon x1, Honeyday Event (2 Days)
+        |-
+        |FrozenBugReboot
+        |Game Title, Game Description
+        |2022-07-21&ndash;<br />Undocumented
+        |Wealth Clock Buff x5, Loaded Dice x1, Pepper Patch Boost x4, Stump Field Boost x4, Mountain
+        Top Field Boost x4, Coconut Field Boost x4, Clover Field Boost x4, Pepper Patch Code Buff,
+        Stump Field Code Buff, Mountain Top Field Code Buff, Clover Field Code Buff
+        |-
+        |BFCM2022
+        |Game Description
+        |2022-11-25&ndash;<br />2022-12-12
+        |Jelly Beans x1, Clover Field Code Buff
+        |-
+        |2Billion
+        |BSS Club Wall, Discord
+        |2022-09-04&ndash;<br />2022-12-26
+        |Blueberries x2, Honeyday Event, Ticket Planter x1, Marshmallow Bee x1, Rose Field Code
+        Buff, Pine Tree Forest Code Buff, Cactus Field Code Buff, Pumpkin Patch Code Buff, Rose
+        Field Winds x15, Pine Tree Forest Winds x15, Cactus Field Winds x15, Pumpkin Patch Winds
+        x15, Rose Field Winds x15
+        |-
+        |PeppermintReboot
+        |Game Title, Game Description, Discord
+        |2023-04-02&ndash;<br />Undocumented
+        |Wealth Clock Buff x5, Robo Party Blessing x5, Festive Nymph Blessing x10, Conversion Boost
+        (Duration: 1 hour), Spider Field Boost x3, Strawberry Field Boost x3, Bamboo Field Boost x3,
+        Spider Field Winds x10, Strawberry Field Winds x10, Bamboo Field Winds x10
+        |-
+        |FourYearFiesta
+        |BSS Club Wall, Discord
+        |2022-03-21&ndash;<br />Undocumented
+        |Atomic Treat x1, Marshmallow Bee x1, Loaded Dice x1, Pink Balloon x1, White Balloon x1,
+        Hard Wax x1, Tropical Drink x1, Neonberry x1, Micro-Converters x4, Tickets x4, Honeysuckles
+        x4, Strawberries x4, Blueberries x4, Pineapples x4, Sunflower Seeds x4, Bitterberries x4,
+        Moon Charms x4, Wealth Clock Buff x5, Cactus Field Boost x4, Sunflower Field Boost x4,
+        Cactus Field Winds x15, Sunflower Field Winds x15, Super Smoothie Buff, Haste x10, Red Boost
+        x10, White Boost x10, Blue Boost x10, Precision x10
+        |-
+        |WonkyFlop
+        |Game Title, Game Description, Discord
+        |2023-09-30&ndash;<br />2023-10-01
+        |Marshmallow Bee x1, Wealth Clock Buff x5, Super Smoothie Buff, Sunflower Field Boost x4,
+        Mushroom Field Boost x4, Blue Flower Field Boost x4, Sunflower Field Winds x10, Mushroom
+        Field Winds x10, Blue Flower Field Winds x10
+        |-
+        |5Years
+        |Game Description, BSS Club Wall, Discord<br />(Exclusive to club members)
+        |2023-03-20&ndash;<br />2023-10-25
+        |Honeyday Event, Super Smoothie Buff, Wealth Clock Buff x5, Tickets x5, Micro-Converters x5,
+        Neonberries x5, Smooth Dice x5, Marshmallow Bees x5
+        |-
+        |SonyXbox
+        |Game Description, Discord
+        |2023-10-23&ndash;<br />2023-11-26
+        |Console Launch Boost (2 days), Royal Jelly x1, Micro-Convertor x1, Field Dice x1,
+        Whirligigs x5, Honeysuckles x5
+        |-
+        |BlackReboot
+        |Discord
+        |2023-11-24&ndash;<br />2023-11-26
+        |Wealth Clock Buff x5, Micro-Converters x3, Mountain Top Field Boost x4, Mountain Top Field
+        Winds x15
+        |-
+        |2MLikes
+        |BSS Club Wall, Discord
+        |2023-11-26&ndash;<br />Undocumented
+        |Pink Balloon 2x, Marshmallow Bees x2, Honeyday Event (2 days)
+        |-
+        |BeequipTradeReboot
+        |Game Title, Game Description
+        |2024-01-17&ndash;<br />2024-01-25
+        |Marshmallow Bee x1, Wealth Clock Buff x5, Hub Field Boost x4, Hub Field Winds x15, Mountain
+        Top Field Boost x4, Mountain Top Field Winds x15
+        |-
+        |10mMembers
+        |BSS Club Wall, Discord
+        |2021-11-29&ndash;<br />2024-03-13
+        |Neonberries x10, Strawberries x10, Blueberries x10, Pineapples x10, Sunflower Seed x10,
+        Gumdrops x10, Moon Charms x10, Haste x10, Focus x10, Red Boost x10, Blue Boost x10, White
+        Boost x10, Black Bear Morph, Conversion Boost (Duration: 1 hour), Pineapple Patch Code Buff,
+        Pepper Patch Code Buff, Stump Field Code Buff
+        |-
+        |PlushFriday
+        |Discord, Twitter
+        |2021-11-26&ndash;<br />Undocumented
+        |Marshmallow Bee x1, Neonberry x1, Micro-Converter x1
+        |-
+        |500mil
+        |BSS Club Wall
+        |2019-05-04&ndash;<br />Undocumented
+        |Field Dice x5, Gumdrops x5, Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour),
+        Stump Field Boost x2, Bamboo Field Boost x3, Science Bear Morph
+        |-
+        |DemiDecade<br />(Exclusive to club members)
+        |Discord
+        |2023-03-20&ndash;<br />2023-03-20
+        |Pepper Patch Boost x4, Pine Tree Forest Boost x4, Coconut Field Boost x4, Pepper Patch
+        Winds x15, Pine Tree Forest Winds x15, Coconut Field Winds x15, Mother Bear Morph, Melody
+        Buff, Red Boost x10, Blue Boost x10, White Boost x10, Precision x10, Inspire x5
+        |-
+        |6irthday<br />(Exclusive to club members)
+        |Game Description
+        |2024-03-20&ndash;<br />2024-04-05
+        |\"🎂Happy 6th Birthday to BSS! 🎈\"<br />Honeyday Event (2 days), Super Smoothie Buff,
+        Unlimited Gumdrops (6 minutes), Red Boost x6, White Boost x6, Blue Boost x6, Focus x6, Haste
+        x6, Precision x6, Inspire x6, Mountain Top Field Boost x6, Mountain Top Field Winds x6, Hub
+        Field Boost x6, Jelly Beans x6, Honeysuckles x6, Tickets x6, White Balloon x1
+        |-
+        |BoxWhoops
+        |Discord
+        |2024-06-06&ndash;<br />2024-06-08
+        |Marshmallow Bee x1, Pink Balloon x1, Gumdrops x10, Honeysuckles x10, Smooth Dice x1,
+        Micro-Converter x1, Super Smoothie Buff, Marshmallow Bee Buff, Wealth Clock Buff x5, Bamboo
+        Spider Field Boost x4, Strawberry Field Boost x4, Bamboo Field Boost x4, Spider Field Code
+        Buff (Duration: 1 hour), Strawberry Field Code Buff (Duration: 1 hour), Bamboo Field Code
+        Buff (Duration: 1 hour)
+        |}
+        <!-- Continue to add newly expired codes to the bottom of the list. -->
+        [[Category:Gameplay]]
+        [[Category:Mechanics]]
+        [[zh-tw:代碼]]
+        [[ru:Коды]]"}

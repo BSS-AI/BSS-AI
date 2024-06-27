@@ -1,0 +1,134 @@
+{"text": "''<sup>Not to be confused with [[Mega Mechsquito]]s, the larger counterparts of
+        Mechsquitos or [[Party Mechsquito]]s, the Beesmas Edition of these.</sup>''
+
+        {{Mob
+        |title = Mechsquito
+        |image =Nightmare.png
+        |location = Anywhere (Including outside of fields) while the [[Robo Bear Challenge]] is
+        active.
+        |hp = Increases with level and round.
+        |damage = 5 (laser) <br> 25 (when touched)
+        |level = Varies with Robo Bear's Challenge level
+        }}
+        A '''Mechsquito''' is one of the five [[Mobs]] that spawns during [[Robo Bear Challenge|Robo
+        Bear's Challenge]].
+
+        This is the first Robo Bear Challenge mob that the player will encounter, appearing as early
+        as round one. Mechsquitos often spawn a few seconds into the round.
+
+        Mechsquitos typically hover away from the player, shooting at them with small projectiles
+        that deal area damage, lowering the further away the player is and inflict the [[Buffs &
+        Debuffs#Debuffs|Mechsquito Toxin]] debuff, lowering player movespeed and pollen. Touching a
+        Mechsquito also deals more damage than an attack, but it does not apply the [[Buffs &
+        Debuffs#Debuffs|Mechsquito Toxin]] debuff.
+
+        A Mechsquito's level can increase depending on what round of Robo Bear's Challenge the
+        player is on.
+
+        == Health per Level ==
+        {| class=\"mw-collapsible mw-collapsed fandom-table\"
+        !Level
+        !Health
+        |-
+        |1
+        |60
+        |-
+        |2
+        |120
+        |-
+        |3
+        |200
+        |-
+        |4
+        |250
+        |-
+        |5
+        |400
+        |-
+        |6
+        |600
+        |-
+        |7
+        |900
+        |-
+        |8
+        |1,100
+        |-
+        |9
+        |1,300
+        |-
+        |10
+        |1,500
+        |-
+        |11
+        |1,800
+        |-
+        |12
+        |2,000
+        |-
+        |13
+        |2,200
+        |-
+        |14
+        |2,500
+        |-
+        |15
+        |2,800
+        |-
+        |16
+        |3,000
+        |-
+        |17
+        |3,200
+        |-
+        |18
+        |3,400
+        |-
+        |19
+        |3,700
+        |-
+        |20
+        |4,000
+        |-
+        |21
+        |4,200
+        |-
+        |22
+        |4,400
+        |-
+        |23
+        |4,600
+        |-
+        |24
+        |4,800
+        |}
+
+        == Strategies ==
+        * Mechsquitos aim for where the player is, not where the player will be. Because of this,
+        moving around in circles will often result in Mechsquitos missing their attack.
+        * Stand near the Mechsquito, this will allow your bees to lock on to the Mechsquito and
+        quickly deal damage.
+        * [[Vicious Bee]] and [[Windy Bee]] provide excellent crowd control, especially since
+        Mechsquitos often come in pairs or packs. [[Digital Bee]] can also stun many Mechsquitos at
+        once and allow them to take extra damage via [[Ability Tokens#Mind Hack|Mind Hack]].
+
+        == Gallery ==
+        <gallery>
+        File:Mechsquito Image 1.png|A level 13 Mechsquito in a field.
+        File:BSSRoboBearUpdateThumb.png|A Mechsquito in an older version of the game's icon with
+        Robo Bear, Digital Bee, Basic Bee, and a Cogmower.
+        </gallery>
+
+        == Trivia ==
+
+        * Mechsquito is a portmanteau of \"Mechanical\" and \"Mosquito\".
+        * Mechsquitos have a party variant of them called a Party Mechsquito.
+        ** They also have a larger counterpart of them called a Mega Mechsquito which has its own
+        party variant called a [[Party Mega Mechsquito]].
+        *Mechsquitos are the only mob that is able to appear in every single round of Robo Bear's
+        Challenge.
+        **It's also the mob with the most levels in Robo Bear's Challenge.
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Robo Bear Challenge]]
+        [[Category:Robo Bear]]"}

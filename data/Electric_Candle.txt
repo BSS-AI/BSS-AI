@@ -1,0 +1,51 @@
+{"text": "{{Unobtainable}}
+        {{Beequip
+        |color=Red
+        |level=6
+        |limit=3
+        |image1=ElectricCandle.png
+        |beesmas=yes
+        |description=A battery powered candle that produces an acceptible [sic] flicker.
+        |stats=%Red Gather Amount<br/>%Flames Pollen<br/>%Gathering Flames
+        Chance<br/>%Energy
+        |bonusstats=
+        |hive=%Flames Pollen
+        }}An '''Electric Candle''' is a [[Bond|level]] 6 [[:Category:Beesmas|Beesmas]] [[beequip]].
+        It has an equip limit of three. There is a red color requirement.
+
+        ==Possible Stats==
+        *Red Gather Amount (Guaranteed) - +5% to +10%. (up to +50% from [[Waxes|waxing]])
+        *[[Flame#Flame Pollen|Flames Pollen]] (Guaranteed) - +5% to +10%. (up to +50% from waxing)
+        *[[Flame#Gathering Flames|Gathering Flames Chance]] (Guaranteed) - +1% to +5%. (up to +25%
+        from waxing)
+        *[[Energy]] (Guaranteed) - +5% to +10%.
+        *[Hive Bonus] Flame Pollen - +1%. (up to +11% from waxing)
+
+        ==Ways to Obtain==
+        ''There are currently no methods to obtain the Electric Candle.''
+
+        ===These methods are no longer possible.===
+        *Buying the \"Waxy Bundle\" from Bee Bear’s Catalog for 1,500 Snowflakes and 15 Gingerbread
+        Bears granted 1 Electric Candle + other stuff.
+        *Completing [[Bee Bear|Bee Bear's]] Snow Cub Reformation (1/5) rewarded 1 Electric Candle +
+        other stuff.
+        *Redeeming the [[Codes|code]], \"WintersEnd\" (Gave 1 Electric Candle + other stuff).
+        *From Brown Bear's [[Stockings]] (Rare).
+        *Buying the \"Candlelight Bundle\" from [[Bee Bear's Catalog]] for 1,500 [[Snowflake]]s and 50
+        [[Gingerbread Bear]]s grants 1 Electric Candle + other stuff.
+
+        == Gallery ==
+        <gallery>
+        File:ElectricCandle1.png|Three Electric Candles in the Beequip Storage.
+        File:ElectricCandle2.png|An Electric Candle equipped to a Fire Bee.
+        File:ElectricCandle3.png|An Electric Candle token from the Stockings.
+        </gallery>
+
+        == Trivia ==
+
+        * Electric Candle is the counterpart of the [[Bubble Light]] beequip.
+        {{Items}}
+        [[Category:Beequips]]
+        [[Category:Beesmas]]
+        [[Category:Items]]
+        [[Category:Red]]"}

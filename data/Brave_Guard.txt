@@ -1,0 +1,37 @@
+{"text": "{{Accessory
+        |image1 = Brave Guard.png
+        |description = A right shoulder pad crafted by a Brave Bee.
+        |cost = 300,000 [[Honey]] and 3 [[Stinger]]s.
+        |stats = +15,000 Capacity<br>+5% White Pollen<br>+1 Colorless Bee Attack
+        }}
+        {{Quote|A right shoulder pad crafted by a [[Brave Bee]].}}
+        The '''Brave Guard''' is a [[:Category:Guards|guard]] purchasable in the [[Pro Shop]]. It is
+        equipped on the right shoulder.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|300,000}}<br>{{Cost|Stinger|3}}
+        |}
+
+
+        == Stats ==
+        * +15,000 [[Capacity]].
+        * +5% [[System Page#White Pollen|White Pollen]].
+        * +1 [[System Page#Colorless Attack|Colorless Bee Attack]].
+        == Gallery ==
+        <gallery>
+        Braveguardicon.png|The Brave Guard icon.
+        </gallery>
+
+        == Trivia ==
+
+        * This is one of the 4 guards in the Pro Shop, the others being the [[Looker Guard]], the
+        [[Hasty Guard]], and the [[Bomber Guard]].
+        *This is the only guard that boosts Colorless [[Bees|Bee]] Attack.
+
+        <br />{{Items}}
+        [[Category:Guards]]
+        [[Category:Items]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

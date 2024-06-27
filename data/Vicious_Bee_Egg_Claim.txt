@@ -1,0 +1,37 @@
+{"text": "[[File:Viciousbeeeggclaim.png|alt=|thumb|The Vicious Bee Egg Claim.]]
+        The '''Vicious Bee Egg Claim''' is a platform found between the [[Spider Field]] and
+        [[Strawberry Field]] that lets the player exchange 250 [[stinger]]s for a [[Egg#Event Bee
+        Eggs|Vicious Bee egg]]. The platform is decorated with a large Vicious Bee and a \"⚠️ WANTED
+        ⚠️\" sign. The pad's color is black, and the number \"250\" is printed on it, indicating that
+        the player needs 250 stingers to claim a Vicious Bee egg. This exchange can only be done
+        once per player. When the player walks on the platform and they do not have 250 or more
+        stingers, a message on the top of the screen shows “Turn in 250 Stingers to Claim a Vicious
+        Bee (Number of stingers/250)\".
+
+        == Claiming the Egg ==
+        If a player doesn't have 250 stingers and attempts to claim a vicious bee, the platform
+        prompts the player with \"Turn in 250 Stingers to Claim a [[Vicious Bee]]\". If they have
+        claimed the Vicious Bee egg but have more than 250 stingers and attempt to claim a vicious
+        bee, the game will prompt them with \"You've Already Claimed a Vicious Bee\". Whenever a
+        player purchases the Vicious Bee egg, the [[Rogue Vicious Bee]] victory jingle is played and
+        a server-wide announcement is made: <span style=\"background-color:#F4A90D;
+        color:black;\">🎉 {Username} has tamed a Vicious Bee 🎉.</span>
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        ViciousBeeClaimPrompt.JPG|The prompt to claim a Vicious Bee.
+        RobloxScreenShot20181105 183728662 (2).png|A player claiming a Vicious Bee Egg.
+        Screenshot 89.png|The message players get when they step on the Vicious Bee Egg Claim Pad if
+        they have already claimed a Vicious Bee.
+        ViciousBeeEggClaim.png|Vicious Bee Egg Claim.
+
+        </gallery>
+
+        == Trivia ==
+        * There used to be a [[Glitches|glitch]] where players could obtain 2 Vicious Bee eggs. This
+        glitch has been patched as of the [[Updates#2018.11.25|11/25/2018 update]].
+        * This is one of the two egg claims, the other being the [[Gummy Bee Egg Claim]] for [[Gummy
+        Bee]].
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Egg Claims]]"}

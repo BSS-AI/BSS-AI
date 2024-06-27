@@ -1,0 +1,64 @@
+{"text": "{{Bee
+        |image-orig = Looker Bee.png
+        |image-gifted=LookerBee Gifted.png
+        |description = This silent bee is always watching and gaining valuable insights.
+        |rarity = Rare
+        |color = Colorless
+        |energy = 20
+        |speed = 14
+        |attack = 1
+        |skincolor1 = #32be4e
+        |skincolor2 = #1b2a35
+        |skincolor3 = #32be4e
+        }}'''Looker Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Rare|Rare bee]].
+
+        Looker Bee's favorite treat are [[Sunflower Seed|sunflower seeds]].
+
+        Looker Bee likes the [[Clover Field]] and the [[Mountain Top Field]]. It dislikes the
+        [[Sunflower Field]].
+
+        == Stats ==
+        * Collects 13 [[pollen]] in 4 seconds.
+        * Makes 160 [[honey]] in 4 seconds.
+        * +80 [[System Page#Convert Amount|convert amount]], +3 [[Stats#Gather Amount|gather
+        amount]], +5% [[Critical Hits|Critical Chance]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +25% [[System Page#Critical Power|Critical Power]].
+        === Abilities ===
+        * '''[[Ability Tokens#Focus|[Focus]]]''' Grants +3% [[System Page#Critical Chance|Critical
+        Chance]] for 20 seconds. Stacks up to 10 times. [[Critical Hits]] increase pollen and damage
+        by 100%.
+
+        {{Stat|pollen = 13|pollentime = 4|honey = 160|honeytime = 4|rarity = rare}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        LookerBee Hive.png|Looker Bee's old hive slot design.
+        GiftedLookerBeehive.PNG|A Gifted Looker Bee hive slot.
+        Png (4).png|Looker Bee's face.
+        </gallery>
+
+        == Trivia ==
+        * Looker Bee was the first [[Bees|bee]] to have a [[Royal Jelly#Royal Jelly Variant|royal
+        jelly]] only turning a bee into it. The jelly was obtainable by using the [[Codes|code]],
+        'ThoseEyes' (expired).
+        * The [[Looker Guard]], which can be bought in the [[Pro Shop]], has a special design, name,
+        and stats dedicated to Looker Bee.
+        *Looker Bee used to have the same gifted hive bonus as [[Tabby Bee]] before the nerf on
+        12/26/21 update
+        * Looker Bee was one of the first bees that were added to the game in an [[Updates|update]],
+        along with [[Commander Bee]], [[Music Bee]], and [[Photon Bee]].
+        * Looker Bee and [[Stubborn Bee]] are the only Rare bees that were added after the game's
+        launch.
+        * Looker Bee's skin is the same as Commander Bee's skin.
+        * Looker Bee is the only bee that dislikes Sunflower Field.
+        *The reason Looker Bee likes the Mountain Top Field might be because high places have very
+        good views from above. And the reason Looker Bee likes Clover Field could be based on the
+        effort to look for a four-leafed clover in a field of clovers.
+        *The reason Looker Bee dislikes the sunflower field may be because of the blinding sunlight
+        from the sun that would be present in a field of sunflowers.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Rare]]
+        [[Category:Colorless]]
+        [[zh-tw:勘察蜂]]"}

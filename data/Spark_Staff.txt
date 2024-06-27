@@ -1,0 +1,50 @@
+{"text": "{{Tool
+        |image =Spark_Staff.png
+        |price = 60,000,000
+        |shop = Mountain Top Shop
+        |range = 81
+        |pattern = Collects from the 3 flowers that yield the most pollen
+        |time = 0.5 seconds|collectbase = 30
+        |whitemultiplier = 1.15
+        |redmultiplier = 1.15
+        |bluemultiplier = 1.15
+        }}
+        The '''Spark Staff''' is a [[:Category:Tools|tool]] that was added in the [[Updates|4/5/2019
+        update]]. It can be bought in the [[Mountain Top Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|60,000,000}}
+        |}
+
+        The Spark Staff collects all [[pollen]] from the 3 fullest nearby [[flowers]] in 0.5 seconds
+        and increases it by 20%. It has a maximum base pollen collection rate of 207 pollen per
+        second. However, the nearby flowers may not be full, so it doesn't always reach its complete
+        potential.
+
+        The following audio plays when the Spark Staff collects pollen:[[File:Sparkstaffuse.ogg]]
+        ==Gallery==
+        <gallery>
+        Hivesticker spark staff.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        Zap1.png|The visual collecting effect of the Spark Staff.
+        </gallery>
+        ==Trivia==
+        *This is the only tool that makes a sound every use. It is also the only tool that can
+        collect pollen while in mid-air and the most expensive tool without an ability.
+        *This is the only tool in the Mountain Top Shop that neither have an ability nor make a
+        specific \"shape\" when collecting pollen.
+        *This and the [[Scissors]] are the only tools that collect all pollen from the flowers they
+        hit.
+        *This tool is based on the [https://www.roblox.com/catalog/27860496/Nova-Wand \"Nova Wand\"],
+        which is an official Roblox gear that can be bought for 1000 Robux.
+        *This tool is needed for [[Science Bear|Science Bear's]] [[Drives|Drive]] questline.
+        **Collecting 16,777,216 pollen with this tool is required for \"Repairing The White Drive.\"
+        **Collecting 33,554,432 pollen with this tool is required for \"Corrupting The Glitched
+        Drive.\"
+        *The oldest version of the tool is known to not have the pollen increase of the current one.
+        The previous version of the tool is known to have 15% pollen increase instead of the current
+        20%.
+        {{Items}}
+        [[Category:Tools]]
+        [[Category:Items]]"}

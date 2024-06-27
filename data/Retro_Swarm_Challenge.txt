@@ -1,0 +1,301 @@
+{"text": "{{Stub}}
+        {{Update}}
+        [[File:RetroEventPortal.png|thumb|The portal to the {{PAGENAME}}.]]
+        The {{PAGENAME}} is Bee Swarm Simulator's custom experience for Roblox's 2024
+        \"[[w:c:roblox:The Classic|The Classic]]\" Event. It was first released on May 23rd, 2024 and
+        hosted a total of 6 collectable Tix and 5 collectable Tokens until May 28th, 2024.
+
+        '''The {{PAGENAME}} is a permanent addition that will be refined over time.'''
+
+        During the event, fifteen user-created experiences, including Bee Swarm Simulator, were
+        selected to create a custom experience where players could earn special event badges to
+        redeem unlockable prizes. Players had the opportunity to earn 10 badges for Tix and 5 badges
+        for Tokens in each experience.
+
+        ==Event Lobby==
+        Upon entering the portal, the player is teleported to a separate experience: \"{{PAGENAME}}
+        ⚔️ [DEFENSE THE HIVES!!!!] v1.2(fixed)\". Players spawn on a classic-styled island surrounded
+        by smaller islands that contain multiple historic models. The main island had five entry
+        cubes, a billboard containing information on how to play the minigame, and a Portal leading
+        back to Bee Swarm Simulator.
+
+        When entering a cube, a twenty-five-second countdown will begin. Each cube has a maximum
+        capacity of four players. As soon as a cube is full, the timer will rapidly decrease. Once
+        the timer reaches zero, players will be teleported to the minigame.
+
+        During \"The Classic\", three Tix could have been found by entering the square teleporters
+        scattered around the lobby.
+
+        ==Tutorial==
+        <gallery type=\"slideshow\"widths=400>
+        RetroTutorial1.png|Team up into groups of 4 and defend your hive from waves of '''Slimes and
+        Zombies! ''' Once 10 monsters reach the hive, it's game over.
+        RetroTutorial2.png|A new round of monsters spawns every 2 MINUTES. OG Tokens are awarded for
+        completing rounds 2, 4, 6, 8, and 10.
+        RetroTutorial3.png|START WITH '''NO HONEY''' AND YOUR BEES ARE ALL LOCKED AWAY
+        RetroTutorial4.png|Collect Bricks 🧱 from defeating monsters, or purchase them with Honey.
+        Use Bricks to unlock Bees and weapons
+        RetroTutorial5.png|If you have no Bees left to unlock '''YOU CAN RENT BEES INSTEAD''' Use
+        Bricks to level-up your rental Bees.
+        </gallery>
+        ==Gameplay==
+        [[File:Retro Swarm Challenge Area.jpg|thumb|The playing field for the {{PAGENAME}}. The
+        hives are behind the player.]]
+        The challenge takes place in a long, rectangular box. Players spawn in front of four
+        claimable hives at the beginning of the map. The map contains four different fields (Mixed,
+        Blue, Red, and White), a Shop on the left, and a large cave at the end. Two additional Tix
+        could have been found within the challenge's map.
+
+        Below the Honey and Pollen bar, players can view their Bricks, the current round, the time
+        remaining in the round, and the HP of the hives. On the right side of the screen, there is a
+        server leaderboard showing each player's Brick, Honey, and Damage totals. Players begin with
+        fifty Bricks, and the hives begin with ten HP.
+
+        The objective of the {{PAGENAME}} is to survive as many rounds as possible while defending
+        the hives from monsters. In order to fight the monsters, players must unlock bees or buy
+        weapons at the Shop to defeat them. Killing enemies drops Brick Tokens, which allow players
+        to purchase more items.
+
+        Players keep their gear and bees from the main game, giving them a notable advantage if they
+        have made significant progress. Players without bees have the option to rent and level up
+        bees for Bricks.
+
+        When the HP of the hives reach zero, the challenge ends and players are rewarded based on
+        their final scores.
+
+        === '''Enemies''' ===
+        There are two types of enemies during the event: [[Slime]]s and [[Zombie]]s. Enemies
+        gradually level up. Like [[mobs]], if a player's bee is a lower level than the enemy, their
+        accuracy decreases by 50% per level.
+
+        Slimes move slowly in a straight line towards the hives, destroying flowers as they move
+        through the fields, similarly to a [[Cogmower]]. As they increase in level, they grow
+        larger, increasing their hitbox and health.
+
+        Zombies also move towards the hives. Unlike Slimes, however, if a Zombie spots a nearby
+        player, they target them instead. Zombies are not fast enough to catch up to the player.
+        Critical hits are more effective against zombies.
+
+        === '''Bricks''' ===
+        Bricks are the {{PAGENAME}}'s main currency. They can be obtained by killing enemies,
+        through [[Leaves]] on the fields, or by destroying Brick Blooms. All Bricks are collected
+        through Brick Tokens.
+
+        Brick Blooms are retro-styled flowers that can spawn on any of the four fields. Their
+        behavior is very similar to [[Puffshroom]]s. After a certain amount of pollen is collected
+        in their radius, Brick Blooms burst into Brick Tokens. The tokens that spawn from Brick
+        Blooms are both local and global, so players always receive tokens from them regardless of
+        whether they helped to destroy it or not. When a Brick Bloom is defeated, another one will
+        spawn in a random field, one level higher. In higher waves, multiple Brick Blooms may be
+        active at the same time.
+
+        At the Shop, Bricks are used for unlocking, renting, and levelling up Bees, as well as
+        purchasing weapons and boosts. Furthermore, players have the option to convert their Honey
+        into ten Bricks at a time at an exponentially increasing price.
+
+        There is a hidden shop located to the left of the cave that allows for Honey to be converted
+        into 100 Bricks at once.
+
+        === '''Shop''' ===
+        Players are able to purchase items and unlock or upgrade Bees for Bricks at the Shop.
+        <tabber>
+        |-|Weapons=
+        {| class=\"fandom-table\"
+        !'''Image'''
+        !'''Item'''
+        !'''Cost'''
+        !'''Description'''
+        |-
+        |[[File:Regular sword.png|128px]]
+        | Classic Sword
+        |10 Bricks
+        |Swing to deal damage to monsters.
+        Light attack deals 30 damage.
+        Heavy attack deals 50 damage.
+        |-
+        |[[File:Trowel.png]]
+        |Trowel
+        |25 Bricks
+        |Spend a Brick to build a wall that lasts up to 5 minutes.
+        |-
+        |[[File:SlingshotClassic.webp|128px]]
+        |Slingshot
+        |150 Bricks
+        |Shoot to deal damage to monsters from a distance.
+        Deals 30 dmg.
+        |-
+        |[[File:Firebrand.png]]
+        |Firebrand
+        |300 Bricks
+        |Swing to deal heavy damage to monsters.
+        Light attack deals 200 damage.
+        Heavy attack deals 300 damage.
+        |-
+        |[[File:RocketLauncherClassic.webp|128px]]
+        |Rocket Launcher
+        |750 Bricks
+        |Shoot to deal 250 damage to monsters from a distance.
+        |-
+        |[[File:Illumina.png|128px]]
+        |Illumina
+        |1500 Bricks
+        |Swing to deal damage to monsters, always crits!
+        Light attack deals 200 damage + Critical Power.
+        Heavy attack deals 300 damage + Critical Power.
+        |}
+        |-|Boost Items=
+        {| class=\"fandom-table\"
+        !'''Image'''
+        !'''Item'''
+        !'''Cost'''
+        !'''Description'''
+        |-
+        |[[File:Bloxiade.png|128px]]
+        | Bloxiade
+        |100 Bricks
+        |
+        *+50,000 Capacity
+        *+25% Blue Pollen/Red Pollen/White Pollen
+        *+5% Critical Chance
+        *+1% Super-Crit Chance
+        *+1 Bee Attack
+        |-
+        |[[File:Bloxycola.png|128px]]
+        |Bloxy Cola
+        |200 Bricks
+        |
+        *+100,000 Capacity
+        *x1.05 Player Movespeed
+        *+5% Bee Movespeed
+        *+25% Bee Gather Pollen
+        *+25% Critical Power
+        *+1 Bee Attack
+        |-
+        |[[File:Cheezburger.png|128px]]
+        |Cheezburger
+        |300 Bricks
+        |
+        *+200,000 Capacity
+        *+250% Convert Rate
+        *+5% Critical Chance
+        *+50% White Pollen
+        *+10% Bee Attack
+        |-
+        |[[File:Pizza.png|128px]]
+        |Pizza
+        |500 Bricks
+        |
+        *+300,000 Capacity
+        *+50% Pollen
+        *+50% Red Pollen
+        *+25% Critical Power
+        *+20% Bee Attack
+        |-|Bees/Honey=
+        {| class=\"fandom-table\"
+        !'''Image'''
+        !'''Item'''
+        !'''Cost'''
+        !'''Description'''
+        |-
+        |[[File:Lego Brick.png|128px]]
+        |10 Bricks
+        |Honey
+        |Price starts at 637 honey and increases exponentially.
+        |-
+        |[[File:Basic Egg.png|128px]]
+        |Unlock A Bee
+        |5 Bricks (+10 after first purchase, +15 after that)
+        |Allows players to choose one of three bees from their hives. After running out of bees to
+        unlock, players can choose rental bees. These start at level one.
+        Players without bees could rent one of three random bees to choose from.
+        |-
+        |[[File:Placeholder.png|128px]]
+        |Level Up Rental Bees
+        |10 Bricks (+10 after first and third purchase, +20 besides that)
+        |Increases the level of all rental bees by one.
+        Cannot be purchased by players who don't have any active rental bees.
+        |-
+        |[[File:Lego Brick.png|128px]]
+        |100 Bricks
+        |Honey
+        |Price starts at 350,317 honey and increases exponentially.
+        |}
+        </tabber>
+
+        ===Rewards===
+        After the Challenge ends, a panel appears, informing the player of their total damage,
+        bricks collected, rounds completed, and final score. The rewards are listed at the bottom of
+        the panel. The scoring system is similar to that of the [[Stick Bug Challenge]], with
+        rewards being based on the player's performance. Higher scores result in better rewards. The
+        exact method of scoring is unknown.
+
+        Rewards may include three or four of the following items, with some rewards being locked
+        behind a higher score:
+
+        *[[Ticket]]s
+        *[[Ticket Planter]]
+        *[[Gumdrops]]
+        *[[Honeysuckle]]s
+        *[[Whirligig]]s
+        *[[Micro-Converter]]s
+        *[[Jelly Beans]]
+        *[[Oil]]s
+        *[[Enzymes]]
+        *[[Red Extract]]s
+        *[[Blue Extract]]s
+        *[[Marshmallow Bee]]s
+        *[[Field Dice]]
+        *[[Smooth Dice]]
+        *[[Loaded Dice]]
+        *[[Soft Wax]]
+        *[[Hard Wax]]
+        *[[Balloon|Pink Balloons]]
+
+        ==Music==
+        '''rsong_stompers''': [[File:rsong_stompers.ogg]]
+        '''rsong_withuh''': [[File:rsong_withuh.ogg]]
+        '''rsong_quemeric''': [[File:rsong_quemeric.ogg]]
+        ==Gallery==
+        <gallery>
+        Lobby.png|The lobby, used to join challenges.
+        1x1x1x1.png|The 1x1x1x1 reference in the lobby.
+        1x1x1x1RSC.png|1x1x1x1 on top of the hives during the {{PAGENAME}} saying \"get pwned bee
+        game\".
+        Tools.png|The tools & upgrades.
+        RewardScreen.png|The screen for losing the challenge.
+        Defendfieldsagainstretroswarms.jpeg|\"Defend fields against retro swarms\" The classic event
+        picture on the Roblox website.
+        </gallery>
+
+        ==Trivia==
+        *The {{PAGENAME}} has many references to classic Roblox content:
+        **The lobby utilizes many free models that were commonplace in many classic Roblox games,
+        including the skyscraper from \"[https://www.roblox.com/games/1501/ROBLOX-World-Headquarters
+        Roblox World Headquarters]\", a pillar from
+        \"[https://www.roblox.com/games/47324/Sword-Fights-on-the-Heights-IV Sword Fights on the
+        Heights]\", and a tower from \"[https://www.roblox.com/games/1818/Classic-Crossroads
+        Crossroads]\".
+        **The event is inspired by classic zombie survival games, such as
+        \"[https://www.roblox.com/games/51955496/Build-to-survive-the-zombies Build To Survive The
+        Zombies]\".
+        ***The zombies share the sound effects, models, and behavior of zombies summoned by the
+        [https://www.roblox.com/catalog/26421972/Zombie-Staff Zombie Staff] gear.
+        **The announcements that appear at the start of waves are reminiscent of an old announcement
+        script.
+        **The slimes are a nod to
+        \"[https://www.roblox.com/games/1845318/ATTACK-OF-THE-SLIMES-BUILD-TO-SURVIVE
+        <nowiki>-<[ATTACK OF THE SLIMES: BUILD TO SURVIVE!!!]>-</nowiki>]\"
+        **All the Gears available for purchase in the Shop are among the oldest Gears in Roblox.
+        *The enemies in the {{PAGENAME}} are consistently referred to as \"monsters\" instead of mobs.
+        *[[Aphid]]s can still spawn during the {{PAGENAME}}, albeit rarely.
+        *Some consumables, such as [[Purple Potion]]s, [[Stinger]]s, [[Glitter]] and [[Cloud Vial]]s
+        can be used during the event. Others, such as Field Dice or [[Balloon]]s, are prohibited.
+        * Players cannot edit their hive during the challenge, but they can convert pollen to honey.
+        *[[Codes]] can be used to obtain buffs during the challenge. Buffs that are obtained before
+        entering will remain active.
+        *Any pollen remaining in the player's bag after losing the challenge will carry over to the
+        main game.
+        *When a gifted [[Digital Bee]]'s Map Corruption ability activates, the server-wide
+        announcement message will still be displayed even though the affected field is inaccessible.
+        [[Category:Challenges]]
+        [[Category:Events]]"}

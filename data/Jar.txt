@@ -1,0 +1,31 @@
+{"text": "{{Bag
+        |image1 = Jar.png
+        |description = \"A durable plastic jar. Holds over twice as much as the Pouch!\"
+        |cost = 650 Honey
+        |capacity = 750 Pollen
+        }}
+        {{Quote|A durable Plastic Jar. Holds over twice as much as the Pouch!}}
+        The '''Jar''' is a [[:Category:Bags|Bag]] that can be purchased in the [[Noob Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|650}}
+        |}
+
+        == Stats ==
+        * +750 Capacity.
+
+        == Trivia ==
+        * This is the cheapest Bag that can be purchased in the Noob Shop and overall, in the game.
+        * This is the third cheapest item in terms of Honey, only beaten by the [[Pouch]],
+        [[Scooper]] and [[Strange Goggles]].
+        * This and the Pouch are the only Bags that cost less honey than their base Capacity.
+        * Its description reads that it holds over twice as much as the Pouch, but it holds over
+        three times as much.
+        * There is a larger version of the Jar that can be purchased in the [[Pro Shop]], called the
+        [[Mega-Jug]], which has a base Capacity of 25,000 Pollen for a price of 50,000 Honey.
+        {{Items}}
+        [[Category:Bags]]
+        [[Category:Items]]
+        [[zh-tw:小罐子]]"}

@@ -1,0 +1,34 @@
+{"text": "{{Bag
+        |image1 = Port-O-Hive.png
+        |description = \"A miniature hive you can wear on your back! Instantly converts some pollen
+        to honey.\"
+        |cost = 1,250,000 Honey
+        |capacity = 250,000 Pollen
+        |stats = +100% Convert Rate<br>+5% Instant Conversion
+        }}
+        {{Quote|A miniature hive you can wear on your back! Instantly converts some pollen to
+        honey.}}
+        The '''Port-O-Hive''' is a [[:Category:Bags|Bag]] that can be purchased in the [[Pro Shop]].
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|1,250,000}}
+        |}
+
+        == Stats ==
+        * +250,000 Capacity.
+        * +100% [[System Page#Convert Rate|Convert Rate]].
+        * +5% [[Instant Conversion]].
+
+        == Trivia ==
+        * This is the most expensive bag in the Pro Shop.
+        * Out of the 4 variants of the Port-O-Hive, this was the first one added into the game. The
+        other variants are the [[Red Port-O-Hive]], the [[Blue Port-O-Hive]], and the [[Porcelain
+        Port-O-Hive]].
+        * The [[Easter Eggs#Statue of Onett|Onett statue]] on top of the 6th [[hive]] wears a
+        Port-O-Hive saying \"38217\", which is a code.
+
+        {{Items}}
+        [[Category:Bags]]
+        [[Category:Items]]
+        [[zh-tw:蜂巢背包]]"}

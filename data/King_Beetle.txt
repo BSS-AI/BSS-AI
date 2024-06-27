@@ -1,0 +1,210 @@
+{"text": "{{Mob
+        |title = King Beetle
+        |image =King_Beetle.png
+        |location = [[King Beetle's Lair]]
+        |timer = 24 hours (20 hours 24 minutes with a Gifted Vicious Bee)
+        |hp = 2,500
+        |damage = 40
+        |points = 150
+        |bond = 500
+        |honey = 5,000 Honey
+        |level = 7}}
+        The '''King Beetle''' is a level 7 [[:Category:Bosses|Boss Mob]] that resides in his [[King
+        Beetle's Lair|Lair]]. The entrance to his lair is on the wall between the [[Blue Flower
+        Field]] and the [[Clover Field]], above the blue flower closest to the [[Blue HQ]]. He has
+        2,500 health and deals 40 damage to the player per hit if the player has no [[System
+        Page#Defense|Defense]].
+
+        He takes 1 day (24 hours) to respawn after being defeated (20 hours and 24 minutes with a
+        [[Gifted Bee|Gifted]] [[Vicious Bee]]). The rewards for defeating him vary, but always
+        include 150 [[Battle Points]], as well as [[Honey]], [[Royal Jelly|Royal jelly]],
+        [[Ticket]]s, and [[Bond]].
+
+        There is a one-in-seven (approximately 14%) chance that he will drop a [[King Beetle
+        Amulet]] when defeated. Having more [[Loot Luck]] increases the probabilities of other drops
+        but doesn’t improve the probability of a King Beetle Amulet dropping. After the
+        [[Updates#2019.02.01|2/1/2019 Update]], King Beetle drops honey tokens and rewards in a
+        token circle around the center of the lair unlike all other mobs who drop the circle around
+        the place of their death (except for [[Stump Snail]], [[Tunnel Bear]], and [[Rogue Vicious
+        Bee]]) unless the player receives a King Beetle Amulet, in which it goes directly into the
+        player's inventory.
+
+        == Drops ==
+
+        <tabber>
+        First Defeat=
+
+        {| class=\"article-table\"
+        |-
+        |150 [[Battle Points]]<br>500 [[Bond]]<br>{{Cost|Honey|1,000,000}} (multiplied
+        by [[System Page#Honey From Tokens|Honey From Tokens]] if no [[Amulet]] is
+        rewarded)<br>{{Cost|Treat|100}}<br>{{Cost|Royal
+        Jelly|1-5}}<br>{{Cost|Ticket|5}}
+        |}
+
+        |-|Guaranteed (Subsequent)=
+
+        {| class=\"article-table\"
+        |-
+        |150 [[Battle Points]]<br>500 [[Bond]]<br>{{Cost|Honey|1,000,000}} (multiplied
+        by Honey From Tokens/2, if no Amulet)<br>{{Cost|Gumdrops|5}}<br>{{Cost|Royal
+        Jelly|3}}<br>{{Cost|Ticket|5}}<br>{{Cost|Moon Charm}} (Increments of 5, 10, 15,
+        20, 25, 50, or 100)
+        |}
+
+        |-|Possible drops=
+
+        {| class=\"article-table\"
+        |-
+        |[[King Beetle Amulet]] (1/7 chance)<br>{{Cost|Ticket|5-25}}<br>{{Cost|Royal
+        Jelly|1-25||1}}<br>{{Cost|Ant Pass|||0}}<br>{{Cost|Robo
+        Pass|||0}}<br>{{Cost|Gumdrops|5-250}} <br>{{Cost|Treat|5-250}}
+        <br>{{Cost|Sunflower Seed}} (Increments of 25 or 100) <br>{{Cost|Strawberry}}
+        (Increments of 25 or 100) <br>{{Cost|Blueberry}} (Increments of 25 or 100)
+        <br>{{Cost|Pineapple}} (Increments of 25 or 100) <br>{{Cost|Neonberry}}
+        (Increments of 1, 5, or 10) <br>{{Cost|Red Extract}} (Increments of 1, 3, 5 or 10)
+        <br>{{Cost|Blue Extract}} (Increments of 1, 3, 5 or 10) <br>{{Cost|Glue}}
+        (Uncommon) <br>{{Cost|Magic Bean|1-10||1}} (Uncommon) <br>{{Cost|Oil}}
+        (Uncommon) <br>{{Cost|Glitter}} (Uncommon) <br>{{Cost|Enzymes}} (Uncommon,
+        increments of 1 or 5) <br>{{Cost|Smooth Dice}} (Somewhat Rare) <br>{{Cost|Star
+        Jelly|||0}} (Somewhat Rare) <br>{{Cost|Purple Potion}} (Rare, Increments of 1 or 3)
+        <br>{{Cost|Night Bell|||0}} (Very Rare) <br>{{Cost|Silver Egg|||0}} (Rare)
+        <br>{{Cost|Gold Egg|||0}} (Very Rare) <br>{{Cost|Diamond Egg|||0}} (Extremely
+        Rare) <br>{{Cost|Star Egg|||0}} (Exceptionally Rare) <br>{{Cost|Peppermint
+        Antennas|||0}} (Beesmas only) <br>{{Cost|Gingerbread Bear}} (Beesmas only)
+        |}
+        </tabber>
+
+        == Strategies==
+        Defeating a King Beetle is challenging and he might kill players several times before they
+        succeed (It's recommended that players don't fight King Beetle with a full bag). Here are
+        some recommended strategies for defeating him:
+        *'''The Stop and Run Method.''' This method counts on the fact that King Beetle has a
+        predictable pattern of behavior. He moves toward the player, stops to \"aim,\" and then
+        lunges. If the player stays still long enough for him to aim (about 3 seconds), but then
+        quickly moves away, King Beetle will lunge at where the player used to be, not where the
+        player has moved to. Thus, this method entails running along the edge of the lair, stopping,
+        looking at King Beetle and waiting for him to lock onto the player, and then quickly jumping
+        and running to a different point along the edge of the lair. Rinse and repeat until he is
+        defeated.
+
+        *'''Circling King Beetle.''' This method allows the player to defeat King Beetle faster. If
+        the player keeps circling around their King Beetle while keeping a good distance from him,
+        their bees can get very close to King Beetle. Though the player might get hit the first few
+        times, the beetle will most likely be defeated.
+
+        *'''Running along the perimeter of the lair.''' This method takes a long time, but it works.
+        Run around the lair and occasionally look at his health. It's very helpful if players have
+        Rage Bees, so they can run around and grab the tokens. However, if the player is too far
+        away from him, their bees will come back to them rather than attacking the beetle. Building
+        up maximum [[Ability Tokens#Haste|Haste]] can help, although it may run out before King
+        Beetle gets defeated. Using the [[Parachute]] or [[Glider]] can also help since gliding
+        through the air can be faster than running.
+
+        *'''Have strong bees.''' If the player is certain that their bees will kill him before they
+        die, they can just wait for their bees to defeat him while the player stands in front of
+        King Beetle, doing nothing during the process.
+
+        *'''The spike attacks from Rogue Vicious Bee.''' If a Rogue Vicious Bee is active in the
+        Clover Field, players can trick it into damaging King Beetle.
+
+        * '''Abusing a glitch method.''' Due to a bug, if the player gets the King Beetle stuck on
+        the clue 'Song Name' by standing in the top right corner, King Beetle cannot attack them.
+        This may take several attempts to work.
+
+        == Look Out For... ==
+        With all methods, there are some things to watch out for.
+
+        *If the player gets too far from King Beetle, their bees will follow them instead of
+        attacking him. But if the player gets too close, it's very easy to accidentally touch his
+        aura which will damage the player.
+
+        *If more than one player is trying to fight King Beetle at the same time, his pattern of
+        behavior can become less predictable. It can also be difficult to tell which King Beetle is
+        targeting them. For best results, wait for the other player's King Beetle to be defeated.
+
+        *If the player's bees' levels are lower than 7, their attempts to attack will most likely
+        miss. This will make defeating it take much longer than if they were level 7 or above.
+
+        * When dodging King Beetle, keep in mind he does not follow directly behind the player but
+        can sidestep to get in their way.
+        * If you die, the King Beetle's health will reset, unlike [[Commando Chick]] and [[Stump
+        Snail]].
+
+        ==Tips==
+        Some things can help the player defeat King Beetle, regardless of which strategy the player
+        chooses.
+
+        *Having more bees and having bees with high attack power such as [[Lion Bee]], [[Vicious
+        Bee]], [[Crimson Bee]], [[Cobalt Bee]], [[Riley Bee]], [[Bucko Bee]], [[Rage Bee]], [[Brave
+        Bee]], and [[Precise Bee]].
+
+        *Having high-level bees so attacks don't miss (Recommended level 5-7 with at least one Rage
+        Bee and 20 [[bees]]).
+
+        *Wearing an [[:Category:Accessories|Accessory]] that can boost [[System Page#Bee Attack|Bee
+        Attack]], [[System Page#Movespeed|Movespeed]], [[System Page#Jump Power|Jump Power]], or
+        Defense, such as [[:Category:Guards|guards]].
+
+        *Collecting [[Ability Tokens#Rage|Rage]], [[Ability Tokens#Focus|Focus]] and [[Ability
+        Tokens#Melody|Melody]] tokens can be helpful, especially if the player has fewer bees.
+        Collecting [[Ability Tokens#Haste|haste]] and [[Ability Tokens#Bear Morph|bear morph]]
+        tokens can also help dodge King Beetle's attack.
+
+        *While it is possible to defeat King Beetle using the arrow keys to move, WASD is the
+        suggested method, because it allows the player to keep looking at King Beetle while they are
+        moving.
+
+        *The Parachute or Glider can be used to quickly get out of King Beetle's attack path.
+
+        *Having at least 20-25 bees with all of them at least level 7 is usually enough to defeat
+        King Beetle using the above strategies.
+
+        *Using a [[Stinger]] can be useful with low level bees.
+
+        ==Trivia==
+        *King Beetle used to guarantee an amulet upon death
+        *In the back right corner of the lair, there is something written on the floor. This is a
+        hint for a [[Codes|code]].
+        **<sub>(The clue is \"Song Name\", which refers to the music that plays in the lair. If
+        the player checks [https://www.roblox.com/library/1598349092/crawlers Onett's inventory],
+        the user will see that it's called Crawlers.)</sub>
+
+        *King Beetle was the first boss to be added to the game.
+
+        *King Beetle has the fifth-largest amount of health in the game for any mob, with [[Tunnel
+        Bear]] being the fourth, [[Coconut Crab]] the third, [[Chicks#Mondo Chick|Mondo Chick]] the
+        second, and [[Stump Snail]] the first. On certain occasions, Rogue Vicious Bee, [[Wild Windy
+        Bee]], [[aphid]]s, and [[Stick Bug]] will have more health depending on their level. In this
+        case, King Beetle can be considered the weakest boss in terms of health.
+
+        *King Beetle and Stump Snail are the only mobs that can drop an item that can be equipped on
+        the player, the King Beetle Amulet and the [[Shell Amulet]] respectively.
+
+        *There was a myth that clicking on King Beetle has an effect. However, this was disproven as
+        [[Onett (Developer)|Onett]] has confirmed that King Beetle does not even have a
+        [http://robloxdev.com/api-reference/class/ClickDetector click detector].
+
+        *Before the [[Updates#2018.07.11|7/11/2018 Update]], King Beetle took two days to respawn
+        after being defeated, granted more battle points and despawned after about 5 minutes.
+
+        *King Beetle is a hybrid of a [[Rhino Beetle]] and a [[Ladybug]], as stated by Onett on
+        Discord. [[File:BSS lore.PNG|thumb|220px|Onett stating that King Beetle is a hybrid on the
+        Bee Swarm Simulator Discord Server.]]
+
+        *Onett stated that the King Beetle emits toxins that makes the player hallucinate, which is
+        why both he and his lair are strangely colored.
+
+        *An active King Beetle's health bar can be seen through the Clover Field and the Blue Flower
+        Field.
+
+        *King Beetle is the only boss that doesn’t have a time limit to kill it.
+
+        ==Gallery==
+        <gallery>
+        RobloxPlayerBeta 2018-07-25 15-40-57.png|thumb|The King Beetle Amulet GUI.
+        KingBeetleDefeat.png|thumb|Defeating a King Beetle for the first time.
+        </gallery>
+        {{MobNav}}
+        [[Category:Mobs]]
+        [[Category:Bosses]]"}

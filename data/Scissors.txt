@@ -1,0 +1,37 @@
+{"text": "{{Tool
+        |image =Scissors.png
+        |price = 850,000
+        |shop = Pro Shop
+        |range = 1
+        |pattern = Single
+        |time = 0.5
+        |collectbase = 60
+        |specialmultiplier = None
+        }}
+        The '''Scissors''' are a [[:Category:Tools|tool]] that can be purchased at the [[Pro Shop]].
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|850,000}}
+        |}
+
+        The Scissors collect all [[pollen]] from the patch in front of you in 0.5 seconds. It has a
+        maximum base pollen collection rate of 120 pollen per second.
+
+        ==Gallery==
+        <gallery>
+        Hivesticker scissors.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        </gallery>
+        ==Trivia==
+        *The Scissors are an enhanced version of the [[Clippers]]. The main difference in appearance
+        is that the Clippers are smaller and have yellow handles while the Scissors have red and
+        blue handles.
+        *This is one of the four [[items]] in the game that can cut the vines in front of the
+        parkour leading to [[Commando Chick's Hideout]], the others being the Clippers, the
+        [[Scythe]], and the [[Dark Scythe]].
+        *This and the [[Spark Staff]] are the only tools that collect all the pollen from the
+        flowers that they hit.
+        *This and the Clippers are the only tools that collect pollen from a single flower.
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]"}

@@ -1,0 +1,52 @@
+{"text": "[[File:Sparkles.png|thumb|A patch of flowers that has sparkles.]]'''Sparkles''' are an
+        effect applied to certain patches of [[flowers]] that yields a token containing [[honey]],
+        random [[treats]] corresponding to the [[Fields|field]] it is in, [[Moon Charm|moon
+        charms]], or rarely [[ticket]]s, [[Royal Jelly|royal jelly]], [[Royal Jelly#Royal Jelly
+        Variants|star jelly]], or [[glitter]] when harvested. When enough [[pollen]] is collected
+        from a sparkling flower, it will yield a token for any player to collect. If it isn't
+        collected within 10 seconds, the token will disappear.
+
+        The largest plants in the [[Sunflower Field]], [[Pineapple Patch]], and [[Pumpkin Patch]]
+        will occasionally generate a face and blow bubbles 3 to 5 times on their respective fields,
+        creating 13 patches of pollen that sparkle. The [[Blue HQ|Blue HQ's]] Bubble Wand blows
+        bubbles on the [[Dandelion Field]], [[Mushroom Field]], [[Blue Flower Field]], and [[Clover
+        Field]] in a similar fashion. Individual [[fireflies]] that spawn during the [[Day/Night
+        Cycle|night]] also leave behind sparkles on flowers they were on as they are chased off.
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        C938AE13-DB0F-425E-855A-B6DCEB4C55C9.png|Face in the Pumpkin Patch.
+        E857DA3F-8E6E-4609-96B4-A46ED03F6D04.png|Face in the Sunflower Field.
+        BubbleWandSpit.png|Face on the giant bubble wand on The Blue HQ.
+        PineappleSpitFace.png|Face in the Pineapple Patch.
+        Sparkles.PNG|The sparkles left by fireflies.
+        E8657830-EAC1-4DD2-A93A-935AA75D5C72.jpeg|The face in the Pumpkin Patch closing its eyes
+        before fading away.
+        Screenshot (88).png|Pineapple face blowing sparkles.
+        Sparkle in mid-flight with a tail.png|Sparkle in mid-flight leaving a trail.
+        </gallery>
+        == Faces ==
+        <gallery hideaddbutton=\"true\">
+        Plant Face (Blinking).png
+        Plant Face (Inactive).png
+        Plant Face (Active).png
+        </gallery>
+        == Trivia ==
+        * In the [[Updates#2018.07.11|7/11/2018 update]], the change to the size of the Clover Field
+        was not taken into account, so the [[Bubble Wand]] model on the Blue HQ could sometimes
+        produce sparkles in the area where there are no flowers.
+        * Prior to the [[Updates#2019.09.28|9/28/2019 update]], sparkles covered 4 flowers instead
+        of 13.
+        * In the [[Updates#2018.09.10|9/10/2018 update]], the chances of sparkles being spat were
+        doubled.
+        * The Bubble Wand model on the Blue HQ can leave sparkles right under the largest mushroom
+        in the Mushroom Field, making it difficult to collect the rewards.
+        * Sparkles used to be called '''spit''' by the community, which came from the various faces
+        looking like they were spitting upon the field. [[Onett (Developer)|Onett]] later on named
+        this effect \"sparkles\" like it is today.
+        * [[File:Sparkletificated.png|thumb]]The verb form for sparkles is ‘sparkletificate’.
+        * When disappearing, the eyes on a face close before fading away.
+        * Spirit Bear mentions the Sparkles in her dialogue before you receive her 8th quest,
+        remarking how the Sparkles are \"gross\" in terms of how they were created by the faces.
+        [[Category:Mechanics]]
+        [[zh-tw:火花]]"}

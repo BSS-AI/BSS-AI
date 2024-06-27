@@ -1,0 +1,38 @@
+{"text": "{{Bear
+        |image = TopBear.png
+        |type = Shop Bear
+        |location = Mountain Top Shop
+        |bees = 25
+        |basecolor1 = #b89924
+        |basecoloramount = 1
+        |shadecoloramount = 1
+        |shadecolor1 = #b89924
+        |snoutcoloramount = 1
+        |snoutcolor1 = #b89924
+        |torsocolor1 =#ffffff
+        |torsocoloramount = 1
+        |armscolor = #9f851f
+        |legscolor =#c6d77a
+        |enableother = n
+        }}'''Top Bear''' is a [[bear]] who runs the [[Mountain Top Shop]]. Like other Shop Bears,
+        Top Bear's presence is not required to make any purchases in the shop.
+
+        Top Bear's appearance is yellow skin, white shirt, green pants, and a smiley face. Top Bear
+        is similar to [[Noob Bear]] and [[Pro Bear]], as the only difference between them is the
+        colors of their clothing.
+
+        == Trivia ==
+        * Top Bear is the only NPC in the [[Lion Bee Gate|25 Bee Zone]].
+        * This bear is one of the six bears without any function quest-wise, the other five being
+        [[Noob Bear]], [[Pro Bear]], [[Shadow Bear]], [[Tunnel Bear]] and the [[Snowbear]].
+        ** This bear, Noob Bear, Pro Bear, and Shadow Bear are the only bears without a function
+        whatsoever.
+        *Unlike the other Shop Bears, Top Bear was introduced in [[Updates#2018.07.11|7/11/2018
+        update]], whereas the other two Shop Bears were already present when the game was released.
+        This means that the Mountain Top Shop was once not run by any bears.
+        *Before the [[Updates#2019.09.28|9/28/2019 update]], players were able to cause a [[Rogue
+        Vicious Bee]] to damage or even kill Top Bear if they stood near him. This was later patched
+        in said update, where the bear was given infinite health.
+
+        [[Category:NPC]]
+        [[Category:Bears]]"}

@@ -1,0 +1,138 @@
+{"text": "{{RemovedContent}}
+        {{Consumables
+        |image = Snowflake.png
+        |description = Sends a cool, soothing breeze to all the players on the server (Melts after
+        Beesmas!).
+        |cooldown = 3 seconds
+        }}
+        A '''Snowflake''' was a limited-time [[:Category:Inventory|inventory item]] added in the
+        [[Updates#2020.12.25|12/25/2020 update]]. It made a return in the [[Updates|12/26/2021]] and
+        Beesmas 2022 updates.
+
+        ==Beesmas 2021==
+        When used, it granted 9 seconds of the [[Buffs & Debuffs#From Items|Cool Breeze]] buff,
+        with the stats at the minimum of:
+
+        *+10% [[System Page#Convert Rate|Convert Rate]] At [[Hive]].
+        *+5% [[Pollen]] From [[Tools]].
+        *+5% Pollen From [[Bees]].
+        *+1% [[Honey Per Pollen]].
+        *+1% [[Loot Luck]].
+        *x1.25 [[System Page#Capacity Multiplier|Capacity]].
+
+        The [[Buffs & Debuffs|buff]] could be stacked up to 100% with the time span of 15
+        minutes, which gave:
+        *+25% Convert Rate At Hive.
+        *+25% Pollen From Tools.
+        *+25% Bee Gather Pollen.
+        *+5% Honey Per Pollen.
+        *+10% Loot Luck.
+        *x1.25 Capacity (the capacity always remains the same).
+
+        Along with [[Gingerbread Bear|gingerbread bears]], it could also be used to buy various
+        items from [[Bee Bear’s Catalog]].
+
+        All snowflakes from Beesmas 2021 had melted and became unusable.
+
+        ==Beesmas 2020==
+        During [[Beesmas]] 2020, a snowflake would grant different boosts. When used, it granted 10
+        seconds of the [[Buffs & Debuffs#From Items|Cool Breeze]] buff, with the stats at the
+        minimum of:
+
+        *x1.25 Capacity.
+        *+5% Convert Rate At Hive.
+        *+1% Pollen From Tools.
+        *+1% White Pollen.
+        *+1% Blue Pollen.
+        *+1% Loot Luck.
+
+        The buff could be stacked up to 100% with the time span of 15 minutes, which gave:
+
+        *x1.25 Capacity (the capacity always remained the same).
+        *+50% Convert Rate At Hive.
+        *+25% Pollen From Tools.
+        *+25% White Pollen.
+        *+25% Blue Pollen.
+        *+10% Loot Luck.
+
+        All snowflakes from Beesmas 2020 had melted and became unusable.
+
+        ==Ways to Obtain==
+        *A bee wearing the [[Snowglobe]] beequip can spawn a [[Ability Tokens#Snowglobe
+        Shake|Snowglobe Shake]] ability token which gives the snowflake buff for 20 sec.
+        *As a drop from a [[Sprout|festive sprout]].
+        **Snowflakes received from festive sprouts outside Beesmas event will not appear in player's
+        inventory.
+
+        ===The methods below are no longer possible.===
+        *Opening certain [[Gift Boxes]] across the map:
+        ** The Gilded Gift Box gives 50 snowflakes.
+        **The Kitsch Gift Box gives 10 snowflakes.
+        **The Midnight Gift Box gives 50 snowflakes.
+        **The Festive Gift Box gives 50 snowflakes.
+        *As a reward from Beesmas [[quests]].
+        *Opening the Sky Blue Gift Box and Peppermint Gift Box. The former gift gave 20 snowflakes
+        while the latter gave 50 snowflakes.
+        *Purchasing the [[Robux Shop|Snowey Starter Pack]] for 400 Robux.
+        * Purchasing the Reindeer Puppy Pack for 800 Robux after receiving the [[Reindeer Antlers]]
+        from Bee Bear's Catalog. (Gave a refund of 7,500 Snowflakes).
+        *Catching fallen snowflakes on [[field]]s.
+        **During [[snowstorm]]s, snowflakes fall much more often.
+        **Players can use the [[Snow Machine]] to summon snowstorms after completing [[Gifted Bucko
+        Bee|Gifted Bucko Bee’s]] Beesmas quest.
+        * As a drop from the following [[mobs]]:
+        **[[Rhino Beetle]].
+        **[[Mantis]].
+        **[[Spider]].
+        **[[Stick Nymph]].
+        **[[Aphid#Diamond Aphid|Diamond aphid]].
+        **[[Wild Windy Bee]].
+        **[[Festive Nymph]].
+        **[[Mondo Chick]].
+        *Reducing [[Snowbear]]'s health by quarters drops snowflakes that everyone could collect and
+        snowflakes for the player that summoned it.
+        *Certain presents contain Snowflakes.
+        *Purchasing the Nighttime Nectar Pack in the [[Robux Shop]], granting 500 snowflakes and
+        other items.
+
+        == Gallery ==
+        <gallery>
+        Melting Snowflake message.png|The message the player gets when they attempt to use a
+        snowflake after Beesmas.
+        100% Snowflake boosts.png|The Cool Breeze buff at 100%.
+        Snowflakes.png|Snowflakes in the inventory.
+        </gallery>
+
+        ==Trivia==
+        *Snowflakes are one of four [[:Category:Consumables|consumables]] that can be used to
+        increase capacity, with the first being the [[Marshmallow Bee|marshmallow bee]], the second
+        being the [[Purple Potion|purple potion]], and the third being the [[Super Smoothie|super
+        smoothie]].
+        *Before March 1, 2021, the snowflake description claimed that it would melt after Beesmas.
+        **After Beesmas 2020 ended, the additional message was changed to \"Melts this week - use
+        them up fast!\".
+        * Snowflake's buff, unlike many other item buffs, does not contain its own name. Instead its
+        buff is called [[Buffs & Debuffs#From Items|Cool Breeze]].
+        **The buff also applied to all players in that server. Thus, anyone can contribute to
+        stacking the buff.
+        *From using the snowflakes alone, it required at least 129 snowflakes to attain 100% Cool
+        Breeze buff. This is because the buff decreased while the snowflakes are being used.
+        However, multiple players using snowflakes could have sped up the process, decreasing the
+        minimum needed.
+        *Attempting to use a snowflake after Beesmas will prompt the message, \"The Snowflake melts
+        immediately...\"
+        **Thus, snowflakes are useless outside of Beesmas.
+        *The only way to see snowflakes after Beesmas was to keep them in the hotbar at the bottom
+        of the screen. If removed from the hotbar, player can no longer see their current number of
+        snowflakes, as they are hidden from inventory, but player still has them, until onett wipes
+        everyone's snowflakes on next beesmas. Keeping snowflakes in hotbar wont save them from
+        being wiped, but one can keep them in hotbar forever.
+        *After Beesmas is over, snowflakes will still drop from Festive Sprouts. However, they will
+        not appear in your inventory even if you grab them.
+        {{CurrencyNav}}
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Beesmas]]
+        [[Category:Currency]]
+        [[Category:Consumables]]"}

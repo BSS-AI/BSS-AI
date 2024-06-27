@@ -1,0 +1,56 @@
+{"text": "{{RemovedContent}}
+
+        [[File:Snowbear Summoner2.png|thumb|183x183px]]The '''Snowbear Summoner''' is a Beesmas
+        exclusive machine in Beesmas. It would be located next to the [[Basic Bee Gate]], [[Highest
+        Snowbear Level]] leaderboard, and [[Spider Field]]. It can be used after completing [[Panda
+        Bear]]'s Snowbear quest. It has a cooldown of 90 minutes before being able to be used again
+        to avoid instant farming or overcrowding of [[Snowbear]]s in the Spider Field.
+
+        If a player attempts to use the summoner without completing Panda Bear's snowbear quest, the
+        following message will appear: ''<nowiki/>'Last year's Snowbear is already complete!
+        But it's starting to melt...'''
+
+        ''<nowiki/>''
+
+        ''<nowiki/>''
+
+        ==Appearance==
+        The Snowbear Summoner is a snowman-shaped summoner. Without completing [[Panda Bear|Panda
+        Bear's]] quest, it is just 3 snowballs stacked on top of each other, 2 snowballs as the ears
+        and 2 sticks as the hands with no decorations. If the player completes Panda Bear's Snowbear
+        quest, it will have a top hat, 3 black buttons for the torso of the snowbear, 2 black
+        buttons for the eyes, and 1 giant black button as the nose.
+
+        ==Usage==
+        The Snowbear Summoner summons a snowbear onto the Spider Field, which at first use, spawns a
+        level 1 snowbear. The message when a player steps on the pad will be: 'Summon a level
+        <current level> Snowbear.' For example, if a player has defeated a level 4 snowbear,
+        the \"<current level>\" displayed on the message will be level 5. After each defeat, the
+        level will increase by 1 the next time the player spawns a snowbear.
+
+        == Gallery==
+
+        <gallery>
+
+        Pandabearsnowbearsummonerincomplete.png|The Snowbear Summoner's appearance before the player
+        completes the \"Panda Bear's Snowbear\" quest.
+        Pandabearsnowbearsummonercomplete.png|The Snowbear Summoner's appearance after the player
+        completes the \"Panda Bear's Snowbear\" quest.
+
+        </gallery>
+
+        ==Trivia==
+        *This was the first machine that can summon a [[:Category:Bears|bear]] manually by the
+        player.
+        ** However, this was the second feature mechanic to summon a mob manually. The first one
+        being summoning [[Stick Bug Challenge|Stick Bug]].
+        *It was the first mechanic to summon a [[Mobs|mob]] that has a defined level into a specific
+        field, which is the Spider Field.
+        *The cooldown of the Snowbear Summoner was not affected by owning a [[Vicious Bee|Gifted
+        Vicious Bee]] because you had to summon it, unlike regular mobs who automatically respawn.
+        [[Category:Summoner]]
+        [[Category:Machines]]
+        [[Category:Beesmas]]
+        [[Category:Locations]]
+        [[Category:Beesmas Decorations]]
+        [[Category:Removed Content]]"}

@@ -1,0 +1,61 @@
+{"text": "{{Bee
+        |image-orig = Commander_Bee.png
+        |image-gifted=CommanderBee Gifted.png
+        |description = A strong, no-nonsense bee who stays level headed when things get rough.
+        |rarity = Epic
+        |color = Colorless
+        |energy = 30
+        |energylabel = more
+        |speed = 14
+        |attack = 4
+        |skincolor1 = #32be4e
+        |skincolor2 = #1b2a35
+        |skincolor3 = #32be4e
+        }}'''Commander Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Epic|Epic bee]].
+        Commander Bee's favorite type of treat are [[Sunflower Seeds|sunflower seeds]].
+
+        Commander Bee likes the [[Spider Field]] and the [[Cactus Field]]. It dislikes the
+        [[Dandelion Field]].
+
+        == Stats ==
+        * Collects 15 [[Pollen]] in 4 seconds.
+        * Makes 80 [[Honey]] in 4 seconds.
+        * +50% [[Energy]], +5 [[Stats#Gather Amount|Gather Amount]], +5% [[Critical Hits|Critical
+        Chance]], +3 [[Stats#Attack|Attack]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +3% Critical Chance.
+
+        === Abilities ===
+        * '''[[Ability Tokens#Focus|[Focus]]]''' Grants +3% Critical Chance for 20 seconds. Stacks
+        up to 10 times. [[Critical Hits|Critical hits]] increase pollen and damage by 100%.
+        * '''[[Ability Tokens#Bomb|[Buzz Bomb]]]''' Collects 7 pollen from 13 surrounding
+        [[Flowers]] (+10% pollen per [[Bond|Level]]). Combo with other bombs to increase power.
+        {{Stat|pollen = 15|pollentime = 4|honey = 80|honeytime = 4|rarity = epic}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        CommandoFaceOutline.png|Commander Bee's face.
+        Commando bee.png|Commander Bee's original face.
+        CommanderBee Hive.png|Commander Bee's old hive slot design.
+        Gifted Commander Bee.png|A Gifted Commander Bee hive slot.
+        </gallery>
+
+        == Trivia ==
+        * Commander Bee's skin is the same as [[Looker Bee|Looker Bee's]].
+        * This bee, [[Buoyant Bee]] and [[Frosty Bee]] are the only 3 [[bees]] in the game that wear
+        hats.
+        ** This is the only Colorless bee that wears a hat.
+        * This bee is one of the 4 bees that have the focus ability, the other 3 are Looker Bee,
+        [[Music Bee]], and [[Puppy Bee]] with [[Reindeer Antlers]].
+        * Commander Bee is the only epic bee added in an [[Updates|update]].
+        * A [[Egg#Specific Bee Egg|Commander Bee Egg]] can be obtained by capturing [[Commando
+        Chick]] 200 times.
+        * As the name and model suggest, this bee is likely inspired by the eponymous video game
+        protagonist known as Commander Keen.
+        ** This point is further supported by the expired [[codes|code]] \"Keen4\", which yielded a
+        [[Royal Jelly#Royal Jelly Variants|Commander Bee Jelly]].
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Epic]]
+        [[Category:Colorless]]
+        [[zh-tw:指揮蜂]]"}

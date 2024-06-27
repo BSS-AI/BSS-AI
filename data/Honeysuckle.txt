@@ -1,0 +1,94 @@
+{"text": "{{Consumables
+        |image=Honeysuckle.png
+        |description=Automatically makes bees instantly convert some Pollen into Honey when your bag
+        becomes full. (Cooldown 30s)
+        |cooldown=30 seconds
+        }}
+        The {{Color|Honeysuckle}} is a consumable inventory item that was introduced in the
+        [[Updates#2021.12.26|12/26/2021 update]]. Unlike other consumable items with an auto
+        setting, '''Honeysuckle''' is automatically used once a player's pollen container is full,
+        and is also the only item with an auto setting that cannot be put in the hotbar. When a
+        player's pollen container is full, the Honeysuckle causes the player's [[bees]] to instantly
+        convert some [[pollen]] in their [[Bags|bag]] into [[honey]]. It has a cooldown of 30
+        seconds before it can activate again, and can be toggled on or off by clicking the item in
+        the inventory.
+
+        Unlike most consumables, this cannot be dragged to the hotbar. There is, however, an On/Off
+        switch in the honeysuckle's inventory section. Turning it ON causes it to work automatically
+        when the bag becomes full, and turning it OFF disables using honeysuckles.
+
+        == Ways to Obtain ==
+        * As a rare drop from [[Ladybug]]s.
+        * As a drop from [[Planter]]s.
+        ** Planters in [[Blue Flower Field]], [[Rose Field]] and especially [[Sunflower Field]] give
+        honeysuckles more often than other fields.
+        ** The Blue Clay Planter drops honeysuckles as a bonus drop.
+        * As a reward from the [[Robo Bear Challenge]].
+        * As a reward from the [[Memory Match#Mega Memory Match|Mega Memory Match]], [[Memory
+        Match#Night Memory Match|Night Memory Match]] or [[Memory Match#Extreme Memory Match|Extreme
+        Memory Match]].
+        * As a Stack Reward for adding certain [[stickers]] to the [[Sticker Stack]]:
+        ** The Small Tickseed rewards 10 honeysuckles.
+        ** The Small White Daisy rewards 10 honeysuckles.
+        ** The Small Pink Tulip rewards 10 honeysuckles.
+        ** The Small Dandelion rewards 10 honeysuckles.
+
+        === Token Locations ===
+        * A Honeysuckle token is located on the roof of [[Dapper Bear's Shop]] which grants 25
+        Honeysuckles.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * As a drop from [[Robo Party]] mobs.
+        * As a reward from the Robo Party.
+        *Completing 6th and 18th [[Bee Bear|Bee Bear's]] [[Beesmas|Beesmas 2022]] quests granted 25
+        and 50 Honeysuckles respectively.
+        *Using the [[Samovar]] granted 3-30 Honeysuckles (Started from 3, increased by 1 each use
+        and capped at 30).
+        * Honeysuckle token under the [[Beesmas Tree]] which granted 5 Honeysuckles.
+        * Giving [[Onett]] a present granted the player 25 honeysuckles and other items.
+        * As a potential match from the 2021 and 2022 [[Memory Match#Winter Memory Match|Winter
+        Memory Match]].
+        * Purchasing the Honeysuckle Bundle from Bee Bear's Catalog rewarded 150 Honeysuckles, 15
+        Oils, and 1 Honey Bee Jelly.
+        * From certain [[Beesmas]] related [[quests]].
+        * Opening certain [[Gift Boxes]]:
+        ** The Gilded Gift Box gave 20 Honeysuckles.
+        |}
+
+        == How to Use ==
+        Three things are needed for a honeysuckle to activate:
+        # There is an available honeysuckle in inventory, i.e. it is turned on and not on cooldown.
+        # The player's bag is full.
+        # More pollen is collected.
+
+        == Crafting Uses ==
+        Total required for all in-game equipment: {{Cost|Honeysuckle|0}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" |{{Cost|Honeysuckle}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">5
+        |{{Cost|Oil|1}}<br>{{Cost|Enzymes|1}}<br>{{Cost|Royal Jelly|10}}
+        |[[File:Soft Wax.png|80px|center]]<div style=\"text-align: center;\">{{Color|Soft Wax}}
+        |-
+        |<div style=\"text-align: center;\">1,000
+        |{{Cost|Super Smoothie|10}}<br>{{Cost|Caustic Wax|10}}<br>{{Cost|Star
+        Jelly|100}}
+        |[[File:Turpentine.png|80px|center]]<div style=\"text-align:
+        center;\">{{Color|Turpentine}}
+        |}
+        == Gallery ==
+        <gallery>
+        HoneysuckleToken.png|A honeysuckle token.
+        Inv.hsoff.png|Honeysuckles in a player's inventory
+        </gallery>
+        {{Items}}
+        [[Category:Consumables]]
+        [[Category:Inventory]]
+        [[Category:Items]]"}

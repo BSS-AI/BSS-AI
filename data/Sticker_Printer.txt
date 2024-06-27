@@ -1,0 +1,122 @@
+{"text": "{{Inaccurate}}
+        [[File:StickerPrinter.png|The Sticker Printer.|alt=The Sticker Printer.|thumb]]
+        The '''Sticker Printer''' is a machine past the [[Lion Bee Gate]], it is located to the
+        right of the Instant Converter next to the [[Mountain Top Field]]. The Sticker Printer costs
+        [[egg]]s (excluding Bee Specific Eggs) to print [[stickers]].
+
+        ==Mechanics==
+        The printer can print stickers depending on the type of egg donated, and the quality of the
+        type of stickers from the printer is also affected by the type of the egg inserted, you can
+        check the types of [[Sticker#Sticker Index (being finished 1/13/24-1/14/24)|Hive Skin]],
+        [[Sticker|Cub Skin]] or [[Sticker]] chances when you click the egg before using it to print
+        a sticker.
+
+        The Printer will print one sticker upon use and it has a cooldown of 1 hour before you can
+        use it again.<gallery>
+        File:StickerPrinterMenu.png|The menu of the Sticker Printer.
+        File:Sticker printer animation.gif|The Sticker Printer spinning.
+        </gallery>
+
+        ==Egg Chances==
+        By putting an egg in the Sticker Printer, you can get different types of stickers.
+
+        ===Basic Egg===
+        *Yellow Coffee Mug, Simple Sun, Green Check Mark, Rubber Duck, Green Plus Sign (11.1486%, or
+        about 1/9)
+        *Yellow Hi, Red X, Baseball Bat (6.6892%, or about 1/15)
+        *Green SELL, Giraffe, Simple Cloud, Colorful Buttons, Wishbone, Launching Rocket, Simple
+        Skyscraper (3.1216%, or about 1/32)
+        *Green Circle, Eighth Note, Red Palm Hand, Window (0.4459%, or about 1/224)
+        *Rhubarb, Blue Square, Yellow Sticky Hand, Pink Chair (0.1114%, or about 1/897)
+        * Wall Crack (0.0445%, or about 1/2,242)
+        *Basic Red Hive Skin, Basic Blue Hive Skin (0.0178%, or about 1/5,606)
+        *Basic Green Hive Skin, Basic Pink Hive Skin (0.0089%, or about 1/11,212)
+        *Basic White Hive Skin, Basic Black Hive Skin (0.0044%, or about 1/22,242)
+        *Round Basic Bee (0.0008%, or about 1/112,121)
+
+        === Silver Egg===
+        *Flying Rad Bee, Basic Red Hive Skin, Basic Blue Hive Skin, Fork and Knife, Barcode, Bomber
+        Bee Bear, Flying Brave Bee, Grey Diamond Logo (8.9126%, or about 1/11)
+        *Yellow Swirled Marble, Orange Swirled Marble, Pink Chair, Green Circle, Blue and Green
+        Marble (4.4563%, or about 1/22)
+        *Basic Pink Hive Skin, Blue Square, Basic Green Hive Skin (1.7825%, or about 1/56)
+        *Moai (0.8912%, or about 1/112)
+        *Blob Bumble Bee, Round Rascal Bee (0.0891%, or about 1/1,122)
+
+        === Gold Egg ===
+
+        * Uplooking Bear, Simple Sun, Giraffe, Window, Pyramid, Sitting Green Shirt Bear, Small Blue
+        Chick (8.1757%, or about 1/12)
+        * Shocked Hive Slot, Alert Icon, Pink Cupcake, Rhubarb, Happy Fish, Green Circle (4.0878%,
+        or about 1/24)
+        * Orange Step Array, Orange Green Tri Deco, Basic Blue Hive Skin, Basic Red Hive Skin
+        (2.4527%, or about 1/41)
+        * Blue Square (1.6351%, or about 1/61)
+        * Hourglass, Shy Brown Bear, Honey Bear, Yellow Sticky Hand, Sitting Mother Bear (0.8175%,
+        or about 1/122)
+        * Basic Green Hive Skin, Basic Pink Hive Skin (0.8094%, or about 1/124)
+        * Basic White Hive Skin, Basic Black Hive Skin (0.4087%, or about 1/245)
+        * Left Gold Swirl Fleuron, Right Gold Swirl Fleuron (0.0908%, or about 1/1,101)
+        * Tabby From Behind (0.0817%, or about 1/1,223)
+        * Pearl Girl (0.0081%, or about 1/12,231)
+
+        === Diamond Egg ===
+
+        * Flying Ninja Bee, Basic Red Hive, Diamond Cluster, Blue and Green Marble, Yellow Swirled
+        Marble, Basic Blue Hive, Orange Swirled Marble (10.101%, or about 1/10)
+        * Basic Green Hive Skin, Basic Pink Hive Skin (6.0606%, or about 1/16)
+        * Cyan Decorative Border, Diamond Trim (5.0505%, or about 1/20)
+        * Basic White Hive Skin, Basic Black Hive Skin (3.0303%, or about 1/33)
+        * Left Shining Diamond Fleuron, Right Shining Diamond Fleuron (0.505%, or about 1/198)
+
+        === Star Egg ===
+
+        * Cyan Star, Shining Star, Pearl Girl (16.0965%, or about 1/6)
+        * Basic White Hive Skin (12.8772%, or about 1/8)
+        * Sagittarius Star Sign, Scorpio Star Sign, Taurus Star Sign, Leo Star Sign, Virgo Star
+        Sign, Aquarius Star Sign, Capricorn Star Sign, Gemini Star Sign, Pisces Star Sign, Libra
+        Star Sign, Cancer Star Sign, Aries Star Sign (3.2193%, or about 1/31)
+        * Star Cub Skin (0.2012%, or about 1/497)
+
+        === Gifted Silver Egg ===
+
+        * Moai, Cyan Decorative Border, Atom Symbol (11.1098%, or about 1/9)
+        * Basic White Hive Skin (8.8879%, or about 1/11)
+        * Cyan Star, Shining Star, Black Star (6.6659%, or about 1/15)
+        * Blob Bumble Bee, Round Rascal Bee (5.5549%, or about 1/18)
+        * Sagittarius Star Sign, Scorpio Star Sign, Taurus Star Sign, Leo Star Sign, Virgo Star
+        Sign, Aquarius Star Sign, Capricorn Star Sign, Gemini Star Sign, Pisces Star Sign, Libra
+        Star Sign, Cancer Star Sign, Aries Star Sign (2.2219%, or about 1/45)
+        * Star Cub Skin (0.0111%, or about 1/9,001)
+
+        === Gifted Gold Egg ===
+
+        * Prehistoric Hand, Basic Black Hive Skin, Red Palm Hand, Prehistoric Bear, Honey Bear
+        (14.6923%, or about 1/7)
+        * Shining Star, Cyan Star (7.3461%, or about 1/14)
+        * Cancer Star Sign, Taurus Star Sign, Aries Star Sign, Gemini Star Sign, Virgo Star Sign,
+        Leo Star Sign, Tabby From Behind (1.4692%, or about 1/68)
+        * Left Gold Swirled Fleuron, Right Gold Swirled Fleuron (0.7346%, or about 1/136)
+        * Star Cub Skin (0.0918%, or about 1/1,089)
+
+        === Gifted Diamond Egg ===
+
+        * Basic Pink Hive Skin, Cyan Star, Diamond Diamond Bee, Diamond Trim, Diamond Cluster,
+        Shining Star, Cyan Decorative Border, Basic White Hive Skin (10.582%, or about 1/9)
+        * Aquarius Star Sign, Libra Star Sign, Pisces Star Sign, Capricorn Star Sign, Scorpio Star
+        SIgn, Sagittarius Star Sign (2.1164%, or about 1/47)
+        * Left Shining Diamond Fleuron, Right Shining Diamond Fleuron (1.0582%, or about 1/95)
+        * Star Cub Skin (0.5291%, or about 1/189)
+
+        === Gifted Mythic Egg ===
+
+        * Basic Black Hive Skin (25.974%, or about 1/4)
+        * Royal Symbol (12.987, or about 1/8)
+        * Royal Bear, Purple Fleuron, 4-Pronged Vector Bee, Mythic M (5.1948%, or about 1/19)
+        * Left Mythic Gem Fleuron, Right Mythic Gem Fleuron (3.8961%, or about 1/26)
+        * Sagittarius Star Sign, Scorpio Star Sign, Taurus Star Sign, Leo Star Sign, Virgo Star
+        Sign, Aquarius Star Sign, Capricorn Star Sign, Gemini Star Sign, Pisces Star Sign, Libra
+        Star Sign, Cancer Star Sign, Aries Star Sign (2.5874%, or about 1/38)
+        * Star Cub Skin (1.2987% or about 1/77)
+        [[Category:Machines]]
+        [[Category:Locations]]"}

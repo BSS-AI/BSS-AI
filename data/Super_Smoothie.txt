@@ -1,0 +1,166 @@
+{"text": "{{Consumables|image = Super Smoothie.png|description = Grants the improved boosts of many
+        consumable items combined for 20 minutes!|cooldown = 20 minutes|}}A '''Super Smoothie''' is
+        a [[Crafting|craftable]] [[:Category:Inventory|inventory item]] added in the
+        [[Updates#2020.06.06|6/6/2020 update]]. When used, it grants the following for 20 minutes:
+        *x1.5 [[System Page#Capacity Multiplier|Capacity]].
+        *x1.6 [[System Page#Red Pollen|Red Pollen]].
+        *x1.6 [[System Page#Blue Pollen|Blue Pollen]].
+        *x1.6 [[System Page#White Pollen|White Pollen]].
+        *x1.4 [[System Page#Bee Gather Pollen|Bee Gather Pollen]].
+        *x1.4 [[System Page#Pollen From Tools|Pollen From Tools]].
+        *x1.5 [[System Page#Convert Rate|Convert Rate]].
+        *x1.5 [[System Page#Hive Convert Rate|Convert Rate At Hive]].
+        * +20% [[System Page#Instant Conversion|Instant Conversion]].
+        *+1% [[System Page#Super-Crit Chance|Super-Crit Chance]].
+        *+6% [[System Page#Critical Chance|Critical Chance]].
+        *x1.25 [[Stats#Speed|Bee Movespeed]].
+        *x1.25 [[System Page#Movespeed|Player Movespeed]].
+        {{Cost|Red Extract}}, {{Cost|Blue Extract}}, {{Cost|Glue}}, {{Cost|Oil}}, {{Cost|Tropical
+        Drink}}, {{Cost|Purple Potion}}, or {{Cost|Enzymes}} buffs cannot be active simultaneously
+        along with Super Smoohie. If any of these buffs are active, when a Super Smoothie is used,
+        they will be overridden.
+
+        == Ways to Obtain==
+        * [[Crafting]] via [[Blender]] for:
+        ** {{Cost|Neonberry|3}}
+        ** {{Cost|Star Jelly|3}}
+        ** {{Cost|Purple Potion|3}}
+        ** {{Cost|Tropical Drink|6}}
+        * As an extremely rare drop from defeating certain [[mobs]], such as the [[Aphid#Diamond
+        Aphid|Diamond Aphid]] or [[Tunnel Bear]].
+        * As an extremely rare drop from [[Mythic Meteor Shower]]s.
+        * As a reward from the [[Robo Bear Challenge]].
+        * As a very rare drop from [[planter]]s.
+        ** {{Cost|Plastic Planter}} has a rare chance of dropping 1 Super Smoothie in any field, 36
+        days cooldown .
+        ** {{Cost|Paper Planter}} has a very rare chance of dropping 1 Super Smoothie in any field,
+        36 days cooldown.
+        ** {{Cost|The Planter Of Plenty}} drops 10 Super Smoothies when harvested from the [[Bamboo
+        Field]], 36 days cooldown.
+        ** {{Cost|Candy Planter}} has a low chance to drop 1-3 Super Smoothies.
+        * As a reward from certain [[quests]]:
+        ** Dapper Bear's \"More Than Myth\" (#15) gives 1 Super Smoothie and other items.
+        ** Science Bear's \"Corrupting The Glitched Drive\" gives 1 Super Smoothie and other items.
+        * Redeeming certain valid [[codes]]:
+        ** 1MLikes (Activates the buff + other stuff).
+        ** WalmartToys (Activates the buff + other stuff).
+
+        ===Outdated Ways===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Purchasing certain [[Robux Shop|Robux]] offers:
+        ** Purchasing the Jumbo June Pack for 1,700 Robux gave 10 Super Smoothies and other items.
+        ** Purchasing the Honeyday Mega-Haul for 4,500 Robux gave 25 Super Smoothies and other
+        items.
+        ** Purchasing the Festive Frenzy Haul for 1,700 Robux gave 10 Super Smoothies and other
+        items.
+        ** Purchasing the Magical Mythic Pack for 800 Robux gave 5 Super Smoothies and other items.
+        * Giving presents to certain [[:Category:NPC|NPCs]] during certain Beesmas years:
+        ** Giving a [[present]] to Onett during Beesmas 2020 activated the buff.
+        ** Giving a present to Onett during Beesmas 2021 activated the buff. Giving a [[present]] to
+        Onett during Beesmas 2022 activated the buff.
+        * Completing [[Onett|Onett's]] [[Beesmas]] 2020 Quest rewarded 1 Super Smoothie and other
+        items.
+        * [[Spirit Bear]]'s [[Galentine Wind Shrine|Galentine's Shrine]] quest (Beesmas 2020) gave 1
+        Super Smoothie and other stuff upon completion.
+        * Opening the [[Gift Boxes|Mondo Gift Box]] gave 3 Super Smoothies + other items.
+        * Completing Bee Bear's 10th quest rewarded 3 Super Smoothies.
+        * Buying the 50 Super Smoothies Bundle from [[Bee Bear’s Catalog]] during Beesmas 2020, 2021
+        and 2022 for 500 [[Gingerbread Bear]]s.
+        * Completing 10th and 20th [[Bee Bear|Bee Bear's]] Beesmas 2022 quests give 3 and 1
+        accordingly.
+        * Redeeming certain expired [[codes]]:
+        ** 3YearParty (Activated the buff + other stuff).
+        ** RebootFriday (Activated the buff + other stuff)
+        ** FourYearFiesta (Activated the buff + other stuff).
+        * As a rare reward from [[Memory Match#Winter Memory Match|Winter Memory Match]].
+        |}
+
+        ==Crafting Uses==
+        Total required for all in-game equipment: {{Cost|Super Smoothie|275}}
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        ! style=\"text-align: center\" |{{Cost|Super Smoothie}}
+        !Other ingredients
+        ! style=\"text-align: center\" |Result
+        |-
+        |<div style=\"text-align: center;\">10
+        | {{Cost|Caustic Wax|10}}<br>{{Cost|Star
+        Jelly|100}}<br>{{Cost|Honeysuckle|1000}}
+        |[[file:Turpentine.png|center|80px]]<div style=\"text-align:
+        center;\">{{Color|Turpentine}}
+        |-
+        |<div style=\"text-align: center;\">25
+        |{{Cost|Honey|{{Hover|5T|5,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|100}}<br>{{Cost|Glitter|100}}<br>{{Cost|Soft
+        Wax|250}}<br>{{Cost|Swirled Wax|50}}
+        |[[file:Petal Planter.png|center|80px]]<div style=\"text-align: center;\">{{Color|Petal
+        Planter}}
+        |-
+        | <div style=\"text-align: center;\">50
+        |{{Cost|Honey|{{Hover|2T|2,500,000,000,000}}}}<br>{{Cost|Red
+        Extract|1500}}<br>{{Cost|Stinger|200}}<br>{{Cost|Hard
+        Wax|100}}<br>{{Cost|Caustic Wax|50}}
+        |[[file:Dark Scythe.png|center|80px]]<div style=\"text-align: center;\">[[Dark Scythe]]
+        |-
+        |<div style=\"text-align: center;\">50
+        | {{Cost|Honey|{{Hover|2T|2,500,000,000,000}}}}<br>{{Cost|Blue
+        Extract|1500}}<br>{{Cost|Stinger|200}}<br>{{Cost|Tropical
+        Drink|150}}<br>{{Cost|Swirled Wax|75}}
+        |[[file:Tide Popper.png|center|80px]]<div style=\"text-align: center;\">[[Tide Popper]]
+        |-
+        |<div style=\"text-align: center;\">50
+        |{{Cost|Honey|{{Hover|10T|10,000,000,000,000}}}}<br>{{Cost|Glue|1500}}<br>{{Cost|Gumdrops|2500}}<br>{{Cost|Caustic
+        Wax|50}}<br>{{Cost|Turpentine|5}}
+        |[[file:Gummyballer.png|center|80px]]<div style=\"text-align: center;\">[[Gummyballer]]
+        |-
+        |<div style=\"text-align: center;\">100
+        | {{Cost|Honey|{{Hover|100T|100,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|500}}<br>{{Cost|Swirled Wax|100}}<br>{{Cost|Caustic
+        Wax|100}}<br>{{Cost|Turpentine|25}}
+        |[[file:The Planter Of Plenty.png|center|80px]]<div style=\"text-align:
+        center;\">{{Color|The Planter Of Plenty}}
+        |}
+
+        ==Trivia==
+
+        * This is one of the 4 [[:Category:Consumables|consumable]] item that increases capacity,
+        with the other being {{Cost|Marshmallow Bee}}, {{Cost|Purple Potion}} and {{Cost|Snowflake}}
+        * Super smoothies were once misspelled as \"Super Smoothy\".
+        * The Super Smoothie is the consumable that gives the most amount of different buffs in the
+        game.
+        * Super Smoothie's raw ingredients cost (excluding gumdrops and moon charms downgrading):
+        ** {{Cost|Neonberry|12}}
+        ** {{Cost|Coconut|60}}
+        ** {{Cost|Sunflower Seed|600}}
+        ** {{Cost|Strawberry|450}}
+        ** {{Cost|Pineapple|600}}
+        ** {{Cost|Blueberry|450}}
+        ** {{Cost|Moon Charm|225}}
+        ** {{Cost|Royal Jelly|810}} ({{Cost|Honey|810,000,000}})
+        ** {{Cost|Magic Bean|9}} ({{Cost|Ticket|180
+        }})
+        ** {{Cost|Gumdrops|450}} ({{Cost|Ticket|150}})
+        * Super smoothies, [[translator]]s, [[Sprinklers|sprinkler builders]], certain
+        [[Egg#Specific Bee Egg|specific bee eggs]] (all except for [[Egg|Honey Bee eggs]]), [[Royal
+        Jelly#Specific Bee Jelly Variants|specific bee jellies]], [[Spirit Petal|spirit petals]] (if
+        the player has already donated one), [[Gingerbread Bear|gingerbread bears]], [[snowflake]]s,
+        [[balloon]]s, [[planter]]s, the [[Beequip#Beequip Cases and Storage|beequip case]] and
+        [[7-Pronged Cog|7-pronged cogs]] are the only items that cannot be donated to the [[Wind
+        Shrine]].
+        ** The Super Smoothie is also the only craftable item that cannot be donated to the [[Wind
+        Shrine]].
+        * [[Beequip#Beequip Cases and Storage|Bee Bear]] calls this the \"ultimate boost granting
+        beverage\" in his 2021 beesmas quest, \"Quality Cousin Time\".
+        * The only other mention of a smoothie is by [[Polar Bear]] and his \"Thick Smoothie\" quest.
+        * The Super Smoothie used to have +7% [[Critical Hits|Critical Chance]] and no [[Critical
+        Hits|Super-Crit Chance]].
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Crafted]]
+        [[Category:Inventory]]
+        [[zh-tw:Super Smoothie]]"}

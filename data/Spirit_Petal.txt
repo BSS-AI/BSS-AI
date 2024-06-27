@@ -1,0 +1,33 @@
+{"text": "{{Consumables
+        |image = Spirit Petal-1.png
+        |description = A delicate flower petal used in rituals.
+        |cooldown = N/A
+        }}
+        '''Spirit Petals''' are a special [[crafting]] material that can be used as one of the
+        ingredients to craft the [[Petal Wand]] and the [[Petal Belt]]. It can also be donated to
+        the [[Wind Shrine]] to allow the player a chance of obtaining a [[Windy Bee]] or a [[Star
+        Treat|Star Treat]] when donating [[Cloud Vial]]s (The star treat can only be obtained if the
+        player has already bought Windy Bee from the limited-time pack in the [[Robux Shop]]). Note
+        that players are only able to donate one Spirit Petal with Cloud Vials to the Wind Shrine to
+        get a chance to obtain a Windy Bee, as the other two are strictly to be used for crafting
+        the Petal Belt and Petal Wand.
+
+        All three of the Spirit Petals are given every 10th [[Spirit Bear#Quests (30)|Spirit Bear
+        quest]], first one being Sway Away, second being Tickle The Wind, and third being Spring Out
+        Of The Mountain.
+        [[File:A sprit petal on inventory.jpg|thumb|A Spirit Petal inside the player’s
+        Inventory.|alt=]]
+
+        == Trivia ==
+        * This is one of the two unique items that can only be obtained from completing a
+        [[:Category:Bears|bear]]’s quests, the other being [[Translator]]s from [[Science Bear]].
+        * If a player attempts to donate another Spirit Petal to the Wind Shrine after already
+        donating one, Spirit Bear will shout \"Only one, dear!\" upon rejection.
+        **Ironically, it is considered that the player has donated to the [[Wind Shrine]] even
+        though it wasn't actually donated to it.
+        **If the player tries to donate 2 or more '''Spirit Petals''', only one will be donated and
+        the rest will be given back to the player.
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[zh-tw:靈花瓣]]"}

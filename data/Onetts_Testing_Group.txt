@@ -1,0 +1,34 @@
+{"text": "{{Group
+        |title1=[https://www.roblox.com/groups/5211428 Onett&#39;s Testing Group]
+        |image1=OnettTestingGroupIcon.png
+        |owner=Onett
+        |roles=Member, Admin, Owner
+        |members=66K+
+        |games=Bee Swarm Test Realm ⚠️ READ DESC ⚠️
+        }}
+        '''[https://www.roblox.com/groups/5211428 Onett's Testing Group]''' is a Roblox group with
+        66K+ members. Joining it grants access to the '''[https://www.roblox.com/games/4079902982
+        Test Realm]''', a ROBLOX place where [[Onett (Developer)|Onett]] tests updates before
+        releasing them to the [[Bee Swarm Simulator|main game]].
+
+        You can not freely join the group, however. You must send a join request and wait for Onett
+        or any other group admin (in this case, zlib) to accept your request for admission. This
+        group is notorious for being very hard to get into, and people are randomly accepted at
+        unannounced times (usually during periods when the Test Realm is open).
+        ==Description==
+        [ Note: This group very rarely accepts new members. The most recent applications will be
+        accepted first because of how Roblox's site works (I cannot view the oldest applications).
+        For best chance of acceptance please cancel and resend your request. ]
+
+        The purpose of this group is to limit access to temporary test places. I use these places to
+        test bug fixes and new content. Access to this group may be limited at any time, and all
+        games owned by this group may go private or have their data reset.
+
+        I am currently testing some bug fixes and measuring statistics in this place:
+        https://www.roblox.com/games/4079902982/
+
+        ==Trivia==
+        *Every major update starting with the [[Updates#2019.09.28|09/28/2019 update]] has been
+        publicly tested within the Test Realm.
+        [[Category:Groups]]
+        [[Category:Community]]"}

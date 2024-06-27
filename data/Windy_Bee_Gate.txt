@@ -1,0 +1,38 @@
+{"text": "{{Bee Gate|title1 = Windy Bee Gate|image1 = GreenWindyGate.png|caption1 = The Windy Bee
+        Gate.|mobs = * [[Coconut Crab]]|bears = * [[Spirit Bear]]|shops = * [[Coconut Cave]]
+        * [[Petal Shop]]|fields = * [[Coconut Field]]
+        * [[Pepper Patch]]|extras = * [[Wind Shrine]]
+        * [[Daily Top White Collectors]]
+        * [[All-Time Top White Collectors]]
+        * [[Memory Match#Extreme Memory Match|Extreme Memory Match]]
+        * [[Coconut Dispenser]]
+        * [[Mazes#Blue Maze|Blue Maze]]
+        *[[Fastest Crab Slayers Leaderboard]]}}The '''Windy Bee Gate''', or the '''35 Bee Gate''',
+        is a gate that requires 35 [[bees]] to unlock. It is located on the right of the [[Ticket
+        Tent]] and [[Red Cannon]]. It gets its name by the large [[Windy Bee]] figure on top of it.
+        Inside this Gate is the [[Coconut Field]], the [[Pepper Patch]], [[Spirit Bear]], [[Wind
+        Shrine]], the Extreme [[Memory Match]], and two Shops, the [[Petal Shop]] and [[Coconut
+        Cave]]. The [[Petal Shop]] sells the [[Petal Wand]], [[Petal Belt]] and the [[Petal
+        Planter]]. while the Coconut Cave sells the [[Coconut Canister]] and [[Coconut Clogs]].
+
+        == Music ==
+
+        The following soundtrack \"[[Music#Overflowin4|overflowin4]]\" plays past this
+        gate:[[File:Overflowin4.ogg]]
+
+        == Trivia ==
+        *This gate is the first and currently the only gate in the game that has an
+        [[Bees/Event|Event bee]] representing it.
+        *This gate, along with the [[Bear Gate]], are currently the only gates that require
+        purchasing [[Hive Slot|hive slots]] to pass.
+        **The gate also plays the same music as the Bear Gate.
+        *This gate gives access to the blocked off area in the [[Mazes#Blue Maze|Blue Maze]] through
+        the [[Petal Shop]].
+        *This gate is the only place where sprouts can't appear naturally or be planted with the
+        [[Special Sprout Summoner]].
+        *The sprouts planted by a player require more pollen to grow than in other locations for
+        better loot and guaranteed more drops.
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Gates]]"}

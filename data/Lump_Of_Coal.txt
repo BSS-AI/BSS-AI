@@ -1,0 +1,56 @@
+{"text": "{{Unobtainable}}
+        {{Beequip
+        |color=Any
+        |level=13
+        |limit=3
+        |image1=Lump Of Coal.png
+        |description=Naughty bees are forced to carry this burdensome load.
+        |beesmas=yes
+        |requirement=
+        |stats=<span style=\"color:red;\">-%Energy</span><br/><span
+        style=\"color:red;\">-%Movespeed</span>
+        |hive=%Bomb Pollen
+        |bonusstats=%Bomb Pollen
+        |bonushive=%Buzz Bomb Pollen<br/>%Blue Bomb Pollen<br/>%Red Bomb
+        Pollen<br/>%Pollen<br/>%White Pollen<br/>%Red Pollen
+        }}A '''Lump Of Coal''' is a [[Bond|level]] 13 [[:Category:Beesmas|Beesmas]] [[beequip]]. It
+        has an equip limit of three. There is no color requirement.
+
+        == Possible Stats ==
+        * [[Energy]] (Guaranteed) - -70% to -80%.
+        * Movespeed (Guaranteed) - -40% to -50%.
+        * [[Ability Tokens#Bomb|Bomb Pollen]] (from waxing) - +1% to +40%
+        * [Hive Bonus] Bomb Pollen (Guaranteed) - +1% to +3%. (up to +15% from [[Waxes|waxing]])
+        * [Hive Bonus] Buzz Bomb Pollen - +1% to +3%. (up to +15% from waxing)
+        * [Hive Bonus] Blue Bomb Pollen - +1% to +3%. (up to +15% from waxing)
+        * [Hive Bonus] Red Bomb Pollen - +1% to +3%. (up to +15% from waxing)
+        * [Hive Bonus] [[Pollen]] - +1%.
+        * [Hive Bonus] White Pollen - +1% to +2%.
+        * [Hive Bonus] Blue Pollen - +1% to +2%.
+        * [Hive Bonus] Red Pollen - +1% to +2%.
+
+        ==Way(s) to Obtain==
+        ''There are currently no methods to obtain the Lump Of Coal.''
+
+        === These methods are no longer possible. ===
+        *An extremely low chance of dropping from the [[Stockings]].
+        *By dying from the 2020, 2021, and 2022 [[Naughty List]]'s falling coal.
+
+        == Gallery ==
+        <gallery>
+        File:LumpOfCoal1.png|A Lump Of Coal equipped to a Bumble Bee.
+        File:LumpOfCoal2.png|A Lump Of Coal in the Beequip Case.
+        </gallery>
+
+        == Trivia ==
+
+        * This is one of six beequips to give a negative stat.
+        ** The other five are [[Kazoo]], [[Whistle]], [[Beesmas Top]], [[Toy Horn]], and [[Toy
+        Drum]].
+        ** This is the only beequip to give two negative stats.
+        * The Lump Of Coal, tied with the [[Charm Bracelet]], has the most possible hive bonuses out
+        of any beequip, at eight.
+        {{Items}}
+        [[Category:Beequips]]
+        [[Category:Beesmas]]
+        [[Category:Items]]"}

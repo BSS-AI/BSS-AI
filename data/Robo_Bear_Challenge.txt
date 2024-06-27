@@ -1,0 +1,660 @@
+{"text": "''<sup>This page is for the Robo Bear Challenge and only it. For the quest-giver and
+        shop owner, see [[Robo Bear]].</sup>''
+        [[File:Robo bear challenge (Sharpest zoom in by beeswarmer791).jpg|thumb|Robo Bear Challenge
+        with quests loaded]]
+        The '''Robo Bear Challenge''' is a 5 minute Challenge that can be started by talking to
+        [[Robo Bear]]. Upon entering the Challenge, the Player receives 2 Quests, which can be
+        rerolled once in the whole run. Then, the Player should pick 3 Bees from their Hive, which
+        can also be rerolled. After the 3 Bees are chosen, all other Bees that isn’t picked in prior
+        Rounds or the current Round are deactivated. The Player is then allowed to purchase
+        Buffs/upgrades that cost [[Cog]]s. After this, the Player has 5 minutes to complete the
+        Quest that the player have chosen. [[Mechsquito]]s, [[Mega Mechsquito]]s, [[Cogmower]]s,
+        [[Cogturret]]s, are mainly spawned and [[Golden Cogmower]]s spawns at random fields during
+        the Challenge. Each 5 rounds completed; gets to earn a new tier of [[Amulet#Cog Amulet|Cog
+        Amulet]].
+
+        == Gameplay ==
+        [[File:Robo.jpg|thumb|280x280px|The starting of a Robo Bear challenge displays a quest
+        selection screen]]
+
+        === Before Starting ===
+        To start the Robo Bear Challenge, the Player must spend a [[Robo Pass]]. Once spent, the
+        Player receives free 10 Cogs and a Quest Reroll. Then, the Player has to select one of two
+        Quests. After this, the Player will select one of the three selected Bees in the Player's
+        Hive (the Player must select 3 Bees in the first Round and 2 Bees in subsequent rounds) and
+        can be Rerolled at the expense of Cogs. This expense increases as it is used more. The Bees
+        in the selection is shown their Hive Level, their Gifted Status, their equipped [[Beequip]]
+        and their Mutation. After choosing the three Bees, the Player can purchase upgrades for
+        Cogs, there are three different Upgrades the Player can choose from and can also be rerolled
+        for Cogs that also has an expense increasing as it is used more.
+
+        === After Starting ===
+        After starting the Round, the Player will receive the Quest, the Robo Bear Challenge Debuff,
+        and their selected Bees. The unselected Bees are shut down in the Player's Hive. The Robo
+        Bear Challenge Debuff affects Capacity, Pollen from Tools, Pollen from Movement Collection,
+        and Pollen from Coconuts. The Player has 5 minutes to finish the Quests. During the
+        Challenge, the Player is unable to harvest Planters and use [[:Category:Beesmas|Beesmas]]
+        Decorations. Upon completion of the Quest, the Round ends, and the Player will receive Cogs
+        based on how many cogs the Quest said it would give, along with bonus Cogs depending on how
+        fast the player finished the quest. The Cogs from the Round Speed Bonus is given if the
+        Player completes the quest within 3 minutes and 45 seconds and the amount of Cogs given is
+        calculated proportionately. If the Player has upgrades that grant bonus Cogs, they will also
+        be granted bonus Cogs based on the total amount of Cogs from all Upgrades. After a Round is
+        finished or if the challenge ends, all Mobs exclusive in the Challenge will be gone along
+        with the Upgrades and the Robo Bear Challenge Debuff. This process will repeat again in
+        subsequent Rounds, but the Player can only select two Bees to add on to the Bees they
+        already selected.
+
+        * '''Upon reaching Round 5''', there is a guaranteed Quest to that requires the Player to
+        defeat 25 Mechsquitos and collect 1,600,000 of a certain color of Pollen. This Round grants
+        the Player a [[Cog Amulet#Bronze Cog Amulet|Bronze Cog Amulet]] upon completion.
+        * '''Upon reaching Round 10''', there is a guaranteed Quest that requires the Player to
+        defeat 10 Cogmowers and collect 60,000,000 of a certain color of Pollen. This Round grants
+        the Player a [[Cog Amulet#Silver Cog Amulet|Silver Cog Amulet]] upon completion.
+        * '''Upon reaching Round 15''', there is a guaranteed Quest that requires the Player to
+        defeat 10 Mega Mechsquitos and collect 2,000,000,000 of a certain color of Pollen. This
+        Round grants the Player a [[Cog Amulet#Gold Cog Amulet|Gold Cog Amulet]] upon completion.
+        * '''Upon reaching Round 20''', there is a guaranteed Quest that requires the Player to
+        defeat 20 Cogmowers and collect 60,000,000,000 of a certain color of Pollen. This Round
+        grants the Player a [[Cog Amulet#Diamond Cog Amulet|Diamond Cog Amulet]] upon completion.
+        * '''Upon completing Round 25''', the Challenge ends and grants the Player a [[Cog
+        Amulet#Supreme Cog Amulet|Supreme Cog Amulet]] and the [[Cub Buddy|Robo Bear Cub Buddy]] (If
+        not already owned) upon completion.
+
+        During and between Rounds, Cogs may be spent at [[Robo Bear's Shop]].
+
+        All Cogs in the Player's Inventory are removed once the Challenge ends, which happens when
+        either the Player hatches or transforms a Bee, the timer of the challenge Quest runs out, or
+        if the Player presses the “Quit” button which appears on the Challenge Quest box.
+        [[File:Rbcloading.ogg|thumb|250x250px|<big>'''\"Rbcloading\", the theme that plays
+        before starting a round in the challenge.'''</big>|center]]
+        [[File:Digitize.ogg|thumb|250x250px|<big>'''\"Digitize\", the theme that plays upon
+        starting a round in the challenge.'''</big>|center]]
+
+        ===Upgrades===
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Collapse\" width=\"100%\"
+        |+ style=\"background-color:#AE782F; color:white; font-size:125%;\" | Common Upgrades
+        !'''Upgrade Name'''
+        !'''Cap'''
+        !'''Effects'''
+        !'''Effects at Cap'''
+        |-
+        |Botnet
+        |1
+        | +25% Bee Gather Pollen, +1 Cogs Per Round
+        |N/A
+        |-
+        |Credit
+        |3
+        | +2 Cogs Per Round
+        | +6 Cogs Per Round
+        |-
+        |Defragment
+        |10
+        |x1.5 Capacity, <span style=\"color:red\">x0.9 Critical Power</span>
+        |x6 Capacity, <span style=\"color:red\">x0.5 Critical Power</span>
+        |-
+        |Homepage
+        |10
+        |x1.25 Sunflower Field Pollen, x1.25 Dandelion Field Pollen, x1.25 Mushroom Field Pollen,
+        x1.25 Blue Flower Field Pollen
+        |x3.5 Sunflower Field Pollen, x3.5 Dandelion Field Pollen, x3.5 Mushroom Field Pollen, x3.5
+        Blue Flower Field Pollen
+        |-
+        |Iterate
+        | 100
+        |x1.05 Pollen
+        |x5 Pollen
+        |-
+        |Overfit: Blue
+        |10
+        |x1.25 Blue Pollen, <span style=\"color:red\">x0.95 Player Movespeed, -5% Bee
+        Movespeed</span>
+        |x4 Blue Pollen, <span style=\"color:red\">x0.75 Player Movespeed, -15% Bee
+        Movespeed</span>
+        |-
+        |Overfit: Red
+        |10
+        |x1.25 Red Pollen, <span style=\"color:red\">x0.9 Capacity</span>
+        |x4 Red Pollen, <span style=\"color:red\">x0.5 Capacity</span>
+        |-
+        |Overfit: White
+        |10
+        |x1.25 White Pollen, <span style=\"color:red\">x0.9 Convert Rate</span>
+        |x4 White Pollen, <span style=\"color:red\">x0.5 Convert Rate</span>
+        |-
+        |Sharpen
+        |10
+        |x1.2 Bee Attack, <span style=\"color:red\">x0.9 Capacity</span>
+        |x3 Bee Attack, <span style=\"color:red\">x0.5 Capacity</span>
+        |}
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Collapse\" width=\"100%\"
+        |+ style=\"background-color:#DCDDE3; color:white; font-size:125%;\" |Rare Upgrades
+        !'''Upgrade Name'''
+        !'''Cap'''
+        !'''Effects'''
+        !'''Effects at Cap'''
+        |-
+        |APM
+        |1
+        | Focus tokens grant x1.03 Pollen from Tools and Collector Tool Speed for 20s. Stacks up to
+        10 times.
+        |N/A
+        |-
+        |Blue Screen
+        |1
+        |Blue Boost tokens grant x1.03 Attack and x1.03 Blue Bee Attack for 15s. Stacks up to 10
+        times.
+        |N/A
+        |-
+        |Crypto
+        |3
+        | +3 Cogs Per Round, <span style=\"color:red\">x0.8 Pollen, x0.8 Capacity</span>
+        | +9 Cogs Per Round, <span style=\"color:red\">x0.5 Pollen, x0.5 Capacity</span>
+        |-
+        |Commit
+        |2
+        | +5% Critical Chance, <span style=\"color:red\">-10% Instant Conversion, -10% Instant
+        Red Conversion, -10% Instant White Conversion</span>
+        | +10% Critical Chance, <span style=\"color:red\">-20% Instant Conversion, -20% Instant
+        Red Conversion, -20% Instant White Conversion</span>
+        |-
+        |Dynamo
+        |10
+        | x1.25 Bomb Pollen, <span style=\"color:red\">x0.9 Bee Gather Pollen</span>
+        |x2.5 Bomb Pollen, <span style=\"color:red\">x0.4 Bee Gather Pollen</span>
+        |-
+        |Equalize
+        |1
+        | +1 Bee Attack, x1.25 Ungifted Bee Attack
+        |N/A
+        |-
+        |Expansion
+        |100
+        |x1.25 Capacity
+        |x25 Capacity
+        |-
+        |GPU
+        |3
+        |x1.25 Pollen, <span style=\"color:red\">-4 Cogs Per Round</span>
+        |x1.75 Pollen, <span style=\"color:red\">-12 Cogs Per Round</span>
+        |-
+        |Multithread
+        |1
+        |All Ability Tokens can be created During Battle, <span style=\"color:red\">-1 Cogs Per
+        Round</span>
+        |N/A
+        |-
+        |Nullify
+        |2
+        |x1.5 Critical Power, <span style=\"color:red\">x0.8 Pollen</span>
+        |x2 Critical Power, <span style=\"color:red\">x0.6 Pollen</span>
+        |-
+        |Outsource
+        |3
+        |x1.5 Bee Gather Pollen, <span style=\"color:red\">x0.85 Pollen From Tools</span>
+        |x2.5 Bee Gather Pollen, <span style=\"color:red\">x0.55 Pollen From Tools</span>
+        |-
+        |RAM
+        |10
+        | +75,000 Capacity, +1 Cogs per Round
+        | +750,000 Capacity, +10 Cogs per Round
+        |-
+        |Router
+        |10
+        |x1.3 Strawberry Field Pollen, x1.3 Spider Field Pollen, x1.3 Bamboo Field Pollen, x1.3
+        Pineapple Field Pollen
+        |x4 Strawberry Field Pollen, x4 Spider Field Pollen, x4 Bamboo Field Pollen, x4 Pineapple
+        Field Pollen
+        |-
+        |Saturate
+        |3
+        |x1.25 Blue Bee Attack, x1.25 Colorless Bee Attack, <span style=\"color:red\">x0.8 Red
+        Bee Attack</span>
+        |x1.75 Blue Bee Attack, x1.75 Colorless Bee Attack, <span style=\"color:red\">x0.4 Red
+        Bee Attack</span>
+        |-
+        |SSD: Blue
+        |3
+        |x2 Blue Field Capacity, x1.5 Blue Bee Convert Rate, <span style=\"color:red\">-3%
+        Critical Chance</span>
+        |x4 Blue Field Capacity, x2.5 Blue Bee Convert Rate, <span style=\"color:red\">-6%
+        Critical Chance</span>
+        |-
+        | SSD: Red
+        |3
+        |x2 Red Field Capacity, x1.5 Red Bee Convert Rate, <span style=\"color:red\">x0.75 Bomb
+        Pollen</span>
+        |x4 Red Field Capacity, x2.5 Red Bee Convert Rate, <span style=\"color:red\">x0.5 Bomb
+        Pollen</span>
+        |-
+        |SSD: White
+        |3
+        |x2 White Field Capacity, x1.5 Colorless Bee Convert Rate, <span
+        style=\"color:red\">x0.8 Bee Attack</span>
+        |x4 White Field Capacity, x2.5 Colorless Bee Convert Rate, <span
+        style=\"color:red\">x0.6 Bee Attack</span>
+        |-
+        |Subscribe
+        |1
+        | +1 Cogs Per Round, x1.1 Event Bee Pollen
+        |N/A
+        |-
+        |Virus
+        |3
+        | +1 Bee Attack, +1% Critical Chance, <span style=\"color:red\">x0.9 Pollen</span>
+        | +3 Bee Attack, +3% Critical Chance, <span style=\"color:red\">x0.7 Pollen</span>
+        |-
+        |VPN
+        |3
+        | +10% Dodge Chance
+        | +30% Dodge Chance
+        |}
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Collapse\" width=\"100%\"
+        |+ style=\"background-color:#F5D00D; color:white; font-size:125%;\" |Epic Upgrades
+        !'''Upgrade Name'''
+        !'''Cap'''
+        !'''Effects'''
+        !'''Effects at Cap'''
+        |-
+        |Bandwidth
+        |1
+        |x1.25 Convert Rate At Hive, x1.1 Mark Ability Pollen, x3 Crimson and Cobalt Ability Pollen
+        |N/A
+        |-
+        |Base-15
+        |10
+        |x1.25 Cactus Field Pollen, x1.25 Pumpkin Field Pollen, x1.25 Pine Tree Forest Pollen, x1.25
+        Rose Field Pollen
+        |x3.5 Cactus Field Pollen, x3.5 Pumpkin Field Pollen, x3.5 Pine Tree Forest Pollen, x3.5
+        Rose Field Pollen
+        |-
+        |beeBay
+        |1
+        | +1 Option When Choosing Bees
+        |N/A
+        |-
+        |Client-Side
+        |1
+        |x1.25 Player Movespeed, x1.25 Pollen From Tools, <span style=\"color:red\">x0.75
+        Convert Rate</span>
+        |N/A
+        |-
+        |Demarcate
+        |1
+        |Mark tokens grant x1.03 Critical Power for 15s. Stacks up to 10 times.
+        |N/A
+        |-
+        |F5
+        |1
+        | +1 Quest Reroll, <span style=\"color:red\">-3 Cogs Per Round</span>
+        |N/A
+        |-
+        |Fission
+        |1
+        |x4 Bomb Pollen, +1 Cogs Per Round, +1 Bee Attack, <span style=\"color:red\">x0.75
+        Pollen</span>
+        |N/A
+        |-
+        |FOV
+        |1
+        | +1 Option When Choosing Upgrades, <span style=\"color:red\">-2% Critical
+        Chance</span>
+        |N/A
+        |-
+        |Furnace
+        |1
+        |x1.5 Flame Pollen, x1.5 Flame Duration, x1.5 Flame Damage, <span style=\"color:red\">-4
+        Cogs Per Round</span>
+        |N/A
+        |-
+        |HDD
+        | 1
+        |x3 Capacity, x4 Convert Rate at Hive, <span style=\"color:red\">x0.5 Convert Rate. x0
+        Instant Conversion, x0.5 Goo Conversion</span>
+        |N/A
+        |-
+        |Inject
+        |1
+        | +2 Blue Bee Attack, +1 Colorless Bee Attack, x1.25 Impale Damage
+        |N/A
+        |-
+        |Invert
+        |1
+        |Bubbles collect x4 from Red Flowers. Flames collect x4 from Blue Flowers.
+        |N/A
+        |-
+        |Malware
+        |3
+        | +3 Bee Attack, <span style=\"color:red\">x0.75 Capacity, x0.75 Convert
+        Rate</span>
+        | +9 Bee Attack, <span style=\"color:red\">x0.25 Capacity, x0.25 Convert
+        Rate</span>
+        |-
+        |NFT
+        |1
+        | +4 Cogs Per Round, <span style=\"color:red\">-3 Bee Attack</span>
+        |N/A
+        |-
+        |Normalize
+        |1
+        |x2 Pollen, x2 Bee Attack, <span style=\"color:red\">x0 Critical Chance</span>
+        |N/A
+        |-
+        |Pop-Up
+        |1
+        |x2 Bubble Pollen, x1.5 Bubble Lifespan, +2 Blue Bee Attack, <span
+        style=\"color:red\">-4 Cogs Per Round</span>
+        |N/A
+        |-
+        |Proxy
+        |1
+        |Haste tokens grant +2% Dodge Chance for 20s. Stacks up to 10 times.
+        |N/A
+        |-
+        |Refractor
+        |10
+        |x1.1 Bee Ability Pollen, <span style=\"color:red\">x0.9 Convert Rate</span>
+        |x2 Bee Ability Pollen, <span style=\"color:red\">x0.75 Convert Rate</span>
+        |-
+        |Respec: Blue
+        |2
+        |<span style=\"color:red\">x0.6 Blue Pollen</span>, x1.25 White Pollen, x1.25 Red
+        Pollen
+        |<span style=\"color:red\">x0.4 Blue Pollen</span>, x1.5 White Pollen, x1.5 Red
+        Pollen
+        |-
+        |Respec: Red
+        |2
+        |<span style=\"color:red\">x0.6 Red Pollen</span>, x1.25 Blue Pollen, x1.25 White
+        Pollen
+        |<span style=\"color:red\">x0.4 Red Pollen</span>, x1.5 Blue Pollen, x1.5 White
+        Pollen
+        |-
+        |Respec: White
+        | 2
+        |<span style=\"color:red\">x0.6 White Pollen</span>, x1.25 Blue Pollen, x1.25 Red
+        Pollen
+        |<span style=\"color:red\">x0.4 White Pollen</span>, x1.5 Blue Pollen, x1.5 Red
+        Pollen
+        |-
+        |RGB
+        |1
+        | +1% Critical Chance, x1.25 Flame Pollen, x1.25 Bubble Pollen, <span
+        style=\"color:red\">x0.8 Bee Gather Pollen</span>
+        |N/A
+        |-
+        |Synchronize
+        |1
+        |x1.2 Bomb Power, Red Bomb Sync is always active if Crimson Bee is active. Blue Bomb Sync is
+        always active if Cobalt Bee is active.
+        |N/A
+        |-
+        |Torrent
+        | 1
+        | +10% Instant Conversion, x1.5 Tornado Pollen, x1.5 Beamstorm Pollen
+        |N/A
+        |-
+        |Trojan
+        |10
+        |x1.25 Bee Attack, <span style=\"color:red\">-10% Bee Movespeed</span>
+        |x2.5 Bee Attack, <span style=\"color:red\">-50% Bee Movespeed</span>
+        |-
+        |White Noise
+        |1
+        |x1.1 White Pollen. x1.5 Buzz Bomb Pollen, <span style=\"color:red\">-1 Cogs Per
+        Round</span>
+        |N/A
+        |-
+        |Virtual Pet
+        |1
+        | +10% Bee Movespeed, x1.5 Scratch Pollen, x3 Fetch Pollen
+        |N/A
+        |}
+        {| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center\"
+        data-expandtext=\"Expand\" data-collapsetext=\"Collapse\" width=\"100%\"
+        |+ style=\"background-color:#4CF5E0; color:white; font-size:125%;\" |Legendary Upgrades
+        !'''Upgrade Name'''
+        !'''Cap'''
+        !'''Effects'''
+        !'''Effects at Cap'''
+        |-
+        |Bluetooth
+        |1
+        |x2 Blue Bee Attack, x1.25 Blue Pollen
+        |N/A
+        |-
+        |Bruteforce
+        |1
+        | +6% Super-Crit Chance, x1.25 Red Pollen
+        |N/A
+        |-
+        |Codec
+        |1
+        | +20% Instant Conversion, <span style=\"color:red\">x0.8 Attack</span>
+        |N/A
+        |-
+        |Corrupt
+        |1
+        | +1% Ability Duplication Chance, x2 Duped Ability Pollen
+        |N/A
+        |-
+        |Fluid Simulation
+        |1
+        | x1.25 Goo, x1.25 White Pollen
+        |N/A
+        |-
+        |Optimize
+        |25
+        | x1.1 Pollen, x1.1 Convert Rate, x1.1 Capacity
+        |x2.5 Pollen, x2.5 Convert Rate, x2.5 Capacity
+        |-
+        |Overclock
+        |1
+        | +10% Bee Movespeed, +10% Bee Ability Rate, <span style=\"color:red\">x0.75
+        Capacity</span>
+        |N/A
+        |-
+        |Pseudo-RNG
+        |1
+        | +3% Critical Chance, x1.25 Super-Crit Power, x2 Clover Field Pollen
+        |N/A
+        |-
+        |Reboot
+        |1
+        | +1 Quest Reroll
+        |N/A
+        |-
+        |Stack Overflow
+        |1
+        | +10 Cogs Per Round, <span style=\"color:red\">x0.75 Movespeed, -25% Bee
+        Movespeed</span>
+        |N/A
+        |-
+        |The Cloud
+        |3
+        |x2.5 Capacity
+        |x5.5 Capacity
+        |-
+        |Wifi
+        |10
+        |x1.5 Stump Field Pollen, x1.5 Mountain Top Field Pollen, x1.5 Coconut Field Pollen, x1.5
+        Pepper Patch Pollen
+        |x6 Stump Field Pollen, x6 Mountain Top Field Pollen, x6 Coconut Field Pollen, x6 Pepper
+        Patch Pollen
+        |}
+
+        === Mobs ===
+
+        <tabview>
+        Mechsquito
+        Cogmower
+        Cogturret
+        Mega Mechsquito
+        Golden Cogmower
+        </tabview>
+
+        == Tips ==
+
+        === Pre-Round Preparations ===
+        * If you are aiming for a high score, you should '''use consumables''', such as Super
+        Smoothies. You are also able to use field boosts and winds during a round. Even if you're
+        not aiming for a high score, doing so can still be useful.
+        ** Giving Onett a Present grants the Super Smoothie buff as well as a 3x Mountain Top Field
+        buff. It also gives a free Robo Pass.
+        * Attempt to '''save your quest rerolls''' or get the Reboot upgrade for an extra quest
+        re-roll. Quest re-rolls are important if you get bad quests (i.e. being a red hive and
+        getting two quests related to blue pollen, or a convert at hive quest).
+        * Don't be afraid to '''save up cogs''' if the options are bad. They can be spent later on
+        other re-rolls, upgrades, or drives.
+        * '''Use the lock feature when necessary.''' If there is an upgrade that you need but cannot
+        afford it, this feature will allow that specific upgrade to stay where it is until you
+        select it. There is a lock beside each upgrade.
+        * '''Prioritize attack bees''' such as Precise Bees, Spicy Bees, Vicious Bees, and Windy
+        Bees. Vicious Bee is an especially useful as it can attack entire swarms of mobs with
+        Impale. Windy Bees provide excellent crowd control by damaging multiple mobs at a time with
+        Tornado.
+        * Digital Bee can freeze enemies and makes them receive more damage.
+        * Avoid picking a \"Convert at Hive\" quest, unless you are a Blue Hive or the required amount
+        is low.
+
+        === Tips During Rounds ===
+        * '''Always keep on your toes!''' Mechsquitoes will apply Mechsquito Toxin on you, which
+        reduces Pollen and Player movespeed. This can quickly accumulate in later rounds and
+        severely hamper your collection. Mega Mechsquitoes can also do considerable damage to a
+        still player.
+        * '''Prioritize Cogturrets''' if possible. Cogturrets can make large swathes of the field
+        dangerous with their rolling cogs, so try to stay near them so your Bees will attack them
+        and take them down before they pile up and make the field impossible to navigate.
+        ** In addition, Cogturrets only shoot their rolling cogs forward, to the left, to the right
+        or backwards, so tracking where the rolling cogs will go and avoiding those spaces can be
+        very helpful in dodging their cogs.
+        * If the Cogmower/Cogturret spam is becoming too great, '''use Star Saw (if you have it).'''
+        Star Saw circles around you for 30 seconds after activation, and while it's difficult to hit
+        Mechsquitoes and Mega Mechsquitoes (owing to their flying hitboxes), Cogmowers and
+        Cogturrets can easily be hit with it, allowing you to quickly take down these threats if the
+        Bees are preoccupied with Mechsquitoes and Mega Mechsquitoes.
+        * '''Finish the round quickly!''' A fast and decisive completion is key to a good run. As
+        the round drags on, waves of enemies will pile up on each other, making them harder to
+        clear. This in turn leads to a more cluttered field and a higher chance of death, ending in
+        a death spiral that's sure to end in defeat (especially in later rounds).
+        * If you're a Blue Hive or a mid-game Bomb Hive, make sure to use both Crimson and Cobalt
+        Bee as the synchronize upgrade can save you. Also, in general there are a ton of upgrades
+        that synergize around bombs and Crimson and Cobalt bee.
+        * If you have any boost items active, such as [[Purple Potion]] or [[Super Smoothie]] when
+        the round seems unbeatable, it is best to leave the challenge to give their buffs more time
+        to be used in later sessions.
+
+        == Rewards ==
+        After the challenge ends, a message box displays the rewards. The number of rewards received
+        tends to increase with a higher score. The rewards also increase in quality and quantity
+        relative to the player's level. A higher level will also give players higher-tier Cog
+        Amulets. The player will also only receive four rewards (other than the amulet) in varying
+        quantities (except for the drive, which is guaranteed to have only one).
+
+        === Rewards List ===
+        {| class=\"article-table\"
+        |-
+        |
+        *{{Cost|Honey}}
+        *One of the following (the player gains a chance of having increments of 2 after reaching
+        past round 20 and has a chance to reward one more type of drive when triumphing the
+        challenge):
+        ** {{Cost|Red Drive}} (Past completing round 5).
+        **{{Cost|White Drive}} (Past completing round 5).
+        **{{Cost|Blue Drive}} (Past completing round 5).
+        **{{Cost|Glitched Drive}} (Past completing round 10, chance increases the higher the round
+        the challenge ended).
+        ***Reaching Round 21 or higher guarantees {{Cost|Glitched Drive|1}} with a cooldown of 1
+        day.
+        ***Beating Round 25 guarantees {{Cost|Glitched Drive|1}} and has a limit of obtaining with a
+        cooldown of 1 day.
+        *Three of the following (The chance of getting certain items are affected by the round the
+        challenge ended):
+        **{{Cost|Star Jelly}}
+        **{{Cost|Hard Wax}}
+        **{{Cost|Field Dice}}
+        **{{Cost|Smooth Dice}}
+        **{{Cost|Loaded Dice}}
+        **{{Cost|Whirligig}}
+        **{{Cost|Honeysuckle}}
+        **{{Cost|Micro-Converter}}
+        **{{Cost|Jelly Beans}}
+        **{{Cost|Glue}}
+        **{{Cost|Oil}}
+        **{{Cost|Neonberry}}
+        **{{Cost|Atomic Treat}} (Very Rare)
+        **{{Cost|White Balloon}} (Somewhat rare).
+        **{{Cost|Purple Potion}} (Somewhat rare).
+        **{{Cost|Super Smoothie}} (Rare).
+        **{{Cost|Gold Egg|||0}} (Very Rare).
+        **{{Cost|Diamond Egg|||0}} (Extremely Rare).
+        **{{Cost|Mythic Egg|||0}} (Extremely Rare).
+        **{{Cost|Turpentine|||0}} (Extremely Rare).
+        **{{Cost|Gifted Silver Egg|||0}} (Extremely Rare).
+        **{{Cost|Gifted Gold Egg|||0}} (Extremely Rare).
+        **{{Cost|Whistle|||0}} (Very Rare).
+        **{{Cost|Small Shield Sticker|||0}} (Very Rare).
+        **{{Cost|Robot Head Sticker|||0}} (Extremely rare).
+        **{{Cost|Cub Buddy Voucher|||0}} (Unfathomably Rare).
+        |}
+
+        ===Amulets===
+        {| class=\"sortable fandom-table\"
+        !Requirement(s)
+        !Amulet
+        !Detail
+        |-
+        |Round 5 - 9
+        |[[File:BronzeCogAmulet.png|50px]] Bronze [[Cog Amulet]]
+        |-
+        |Round 10 - 14
+        |[[File:SilverCogAmulet.png|50px]] Silver [[Cog Amulet]]
+        |-
+        |Round 15 - 19
+        |[[File:GoldCogAmulet.png|50px]] Gold [[Cog Amulet]]
+        |Access to crafting {{Cost|Glitched Drive}}
+        |-
+        |Round 20 - 24
+        |[[File:DiamondCogAmulet.png|50px]] Diamond [[Cog Amulet]]
+        |Access to purchasing the [[File:Digital Bee.png|25px]] [[Digital Bee]]
+        |-
+        |Round 25
+        |[[File:SupremeCogAmulet.png|50px]] Supreme [[Cog Amulet]]
+        |Challenge Completion
+        Access to the [[File:RoboCub.png|25px]] [[Cub Buddy#Skins|Robo Cub]]
+        |}
+
+        ==Trivia==
+        *When you complete a quest, you might briefly see a green 'Finish' button that's in the
+        place of the 'Quit' button. It is unknown what purpose this button would serve, as the round
+        automatically finishes once the quest(s) are completed.
+        *There is a glitch where after the timer ends, it disappears and the challenge doesn't end.
+        In this period, you get infinite time to complete the quest. It is unknown why this glitch
+        is caused, but it's most likely caused by lag.
+        *If you attempt to use a royal jelly on a bee or hatch an egg in-between Robo Bear Challenge
+        rounds, it will prompt you with the message: \"⚠ Hatching or transforming a bee will end your
+        Robo Bear Challenge. Continue?⚠\". Choosing \"Yes\" will end your Robo Bear Challenge, and \"No\"
+        will cancel it.
+        *When in the quest picking menu, your bees are frozen in place.
+        *If the player ended the session through disconnecting, the player will not obtain the
+        amulet of the session until they claim their hive when they rejoined.
+        *You can obtain [[Cog]]s outside of Robo Bear's Challenge. To do this, end RBC right after
+        you kill a [[Golden Cogmower]], however the cogs won't transfer into the next challenge.
+        *When you complete a round your balloon blessing will refresh.
+        *TurboTobyTwo was the first player who triumphed the Robo Bear Challenge.
+        *While receiving a quest, the players movespeed is set to 0, meaning it's impossible for
+        them to move.
+        * If a bee isn't picked in the challenge, its gifted hive bonus, or any bonus on it's
+        beequip doesn't apply.
+        *The final score is calculated with the following formula: Score = (5000 x Round Reached) +
+        (1000 x Progress % made in round you lost) + (Total number of earned cogs)
+        **If the player manages to triumph the challenge, the score formula is instead: 125,000 +
+        (Total number of earned cogs)
+
+        [[Category:Challenges]]
+        [[Category:Robo Bear Challenge]]
+        [[Category:Robo Bear]]"}

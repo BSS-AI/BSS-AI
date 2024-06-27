@@ -1,0 +1,36 @@
+{"text": "{{RemovedContent}}
+        {{EventInfobox
+        |image= Weirdagents.png
+        |Date= 4/7/2020 to 4/28/2020
+        |Bears= [[Sun Bear]]
+        |Additions= [[Chicks]]
+        }}
+
+        The '''Egg Hunt 2020''' was a Roblox event that spanned across multiple games. In each game,
+        players had to complete a certain task/quest in order to obtain one of the eggs, which they
+        could then wear on their avatar.
+
+        == The Story ==
+        [[Sun Bear]] stated that he wanted to work with the bears for the Egg Hunt. He said that he
+        would hide exotic eggs on the map (presumably in the form of a scavenger/egg hunt). The eggs
+        hatched, however, and Sun Bear needed the players to capture the [[chicks]] and bring them
+        to [[Black Bear]], [[Brown Bear]], and [[Mother Bear]].
+
+        == How to Obtain the Egg ==
+        To get the egg from [[Bee Swarm Simulator]], the player needed to talk to [[Sun Bear]] near
+        the [[Ant Gate]] to receive the [[Quests|quest]]. Then, the player needed to help three
+        bears (Black, Brown, and Mother Bears) with their Egg Hunt 2020 quests. Their quests
+        revolved around capturing chicks, along with a few other side objectives.
+
+        Once the player had helped the bears, they had to return to Sun Bear for a few special
+        rewards along with the [[Swarming Egg of the Hive]], which players can wear on their Roblox
+        avatar as a hat.
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Beeswarmegghuntlogo.png|Bee Swarm Simulator's icon during the Egg Hunt 2020 Event.
+        Swarmingegg.png|Bee Swarm Simulator's 2020 Egg Hunt egg - the Swarming Egg of the Hive.
+        </gallery>
+        [[Category:Egg Hunt 2020]]
+        [[Category:Events]]
+        [[Category:Removed Content]]"}

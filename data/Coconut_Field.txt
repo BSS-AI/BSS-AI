@@ -1,0 +1,116 @@
+{"text": "{{Field
+        |image = CoconutField2.png
+        |fieldcolor = White
+        |bees = 35
+        |width = 30
+        |height = 21
+        }}The '''Coconut Field''' is a [[Fields|field]] added in the [[Updates#2019.9.28|9/28/2019
+        update]], located past the [[Windy Bee Gate]] and next to [[Spirit Bear]]. It is protected
+        by the [[Coconut Crab]].
+
+        This is a 30x21 field, containing 630 [[flowers]]. The flowers are white, red, and blue, and
+        the only natural size is triple.
+
+        {| class=\"article-table\"
+        |-
+        !'''Flowers'''
+        !White
+        !Red
+        !Blue
+        !Total
+        |-
+        !Single
+        |0%
+        |0%
+        |0%
+        |'''0%'''
+        |-
+        !Double
+        |0%
+        |0%
+        |0%
+        |'''0%'''
+        |-
+        !Triple
+        |89.4%
+        |6%
+        |4.6%
+        |'''100%'''
+        |-
+        !'''Total'''
+        |'''89.4%'''
+        |'''6%'''
+        |'''4.6%'''
+        |'''100%'''
+        |}
+        '''Note: the flowers in fields are randomly generated, so the flower counts above may not be
+        100% accurate. The percentages should be roughly correct, however.'''
+
+        The field can spawn [[honey]], [[Treat|treats]], [[coconut]]s, [[Tropical Drink|tropical
+        drinks]], [[ticket]] and [[Magic Bean|magic bean]] tokens when collecting [[pollen]].
+        [[Bees]] that like the Coconut Field are [[Vector Bee]], [[Buoyant Bee]], [[Digital Bee]],
+        and [[Windy Bee]]. There are no bees that dislike the Coconut Field.
+
+        This field gives Refreshing [[Nectar]] when a planter is placed here.
+
+        A level 1-20 [[Wild Windy Bee]] can spawn in this field.
+
+        == Obtaining Boosts ==
+        * Using [[glitter]] will add 100% Coconut Field [[pollen]] onto the current boost for 15
+        minutes if it isn't already maxed out. [[File:CoconutFieldBoost.png|thumb|75px|The Coconut
+        Field boost icon.]]
+        * Using [[Field Dice|field dice]], [[Smooth Dice|smooth dice]], or [[Loaded Dice|loaded
+        dice]] may add +100% - 300% Coconut Field pollen for 15 minutes based on the type used if it
+        isn't already maxed out.
+        * Coconut [[Field Wind]]s can be obtained through the [[Wind Shrine]] or [[codes]].
+        They have a base of +20% Instant Coconut Field Conversion, and give +5% Instant Coconut
+        Field Conversion and +10% Coconut Field pollen for each stack. Coconut Field Winds can stack
+        up to a total of 15 times.
+        *Redeeming certain valid codes:
+        **DarzethDoodads (Coconut Field Code Buff + other stuff).
+        **FrozenBugReboot (Coconut Field Code Buff and Coconut Field Boost x4 + other stuff INVALID
+        NOW)
+        * Using the [[Coconut Dispenser]] will always give Coconut [[Field Boost]] x1 (if the player
+        has [[Badges#Coconut Badges|Coconut Badge]] cadet or higher), along with coconuts depending
+        on the player's badge.
+
+        === The methods below are no longer possible. ===
+        * Giving [[Gummy Bear]] a [[present]] gave Coconut Field Boost x3 + other stuff.
+        * Redeeming certain expired codes:
+        ** Gumaden10T (Gave Coconut Field Boost x1 and Coconut Field Winds x3 + other stuff).
+        ** Purchasing a Coconut Field [[Buffs & Debuffs#From Areas|Market Boost]] from the
+        [[Boost Market]] will give x1.5 Coconut [[Field Capacity]], x1.25 Coconut Field Pollen, x2.5
+        Pollen From Coconuts, and x1.1 [[System Page#White Pollen|White Pollen]].
+        ** Mocito100T (Gives Coconut Field Boost x2 and Coconut Field Capacity x2 + other stuff).
+
+        == Trivia ==
+        * This is the only field where [[sprout]]s and [[leaves]] can yield coconuts and tropical
+        drinks.
+        * It is also the only field to have a regular [[:Category:Bosses|boss]] defending it.
+        * This is one of four fields to solely have contain triple flowers without pollination, the
+        others being the [[Mountain Top Field]], [[Stump Field]], and the [[Pepper Patch]].
+        ** Furthermore, this field is the only triple-flower field dominated by white flowers.
+        * Under the coconut tree opposite of the cave and closest to [[Spirit Bear]], there is a
+        coconut token that can be collected to give 10 coconuts.
+        * This and the Pepper Patch are the only fields where sprouts cannot naturally appear or be
+        planted with the [[Special Sprout Summoner]].
+        * Like the [[Badges#Pepper Badge|Pepper Badge]], the [[Badges#Coconut Badge|Coconut Badge]]
+        requires more pollen collected than the other field badges. For example, the cadet badge for
+        the Coconut Field requires 50,000,000 (50 million) pollen, compared to the normal
+        requirement of 250,000 (250 thousand) pollen.
+        * It is possible to gather pollen from this field without 35 [[bees]] from the ledge facing
+        the [[Ticket Tent]].
+        ** Players can also collect from the field by going outside the map and finding the back of
+        the Ticket Tent. Jumping on the Ticket Tent with enough jump height will reach the field,
+        allowing bees to farm.
+        * The Coconut Dispenser used to boost this field differently based on the player's Coconut
+        Badge, with the Junior badge giving no boost, Cadet giving a +100% pollen boost, Hotshot
+        giving a +200% pollen boost, and anything Ace and above giving a +300% pollen boost. After
+        the [[Updates#2019.12.23|Beesmas 2019 update]], the Coconut Dispenser will always provide a
+        +100% pollen boost, regardless of the player's Coconut Badge.
+        * This is the only field to have no bees that dislike it.
+
+        {{MapNav}}
+        [[Category:Fields]]
+        [[Category:Locations]]
+        [[Category:Colorless]]"}

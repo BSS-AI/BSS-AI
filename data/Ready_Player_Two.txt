@@ -1,0 +1,100 @@
+{"text": "[[File:Readyplayertwo bookcover.png|thumb|175px|The cover of the book the event is based
+        off of.]]
+        '''Ready Player Two''' was a Roblox event that began on November 23, 2020 and ended on
+        November/December 2021. The event spans across seven games, including [[Bee Swarm
+        Simulator]], where players must decipher each game's clues and obtain its badge along with
+        the [[How to Program BASIC]] accessory to wear on their avatar.
+
+        == Event ==
+        '''NOTE''': The clues for 6 of the codes have been removed, but you can still see the codes
+        listed below here. [[The Computer]] can no longer be interacted with when wearing the
+        [[Strange Goggles]] as of the [[Updates|05/23/24]] update.
+        {| class=\"article-table mw-collapsible mw-collapsed sortable\" style=\"width: 100%\"
+        ! class=\"unsortable\" ! |Code
+        ! class=\"unsortable\" ! |Riddle Source
+        ! class=\"unsortable\" ! |Reward
+        |-
+        |Troggles
+        |[[Mother Bear]]
+        |[[7-Pronged Cog]] x1, [[Clover Field]] Code Buff (+100% Clover Field Pollen, +100% Clover
+        Field Capacity)
+        |-
+        |WordFactory
+        |Onett's tweet
+        |7-Pronged Cog x1, [[Pine Tree Forest]] Code Buff (+100% Pine Tree Forest Pollen, +100% Pine
+        Tree Forest Capacity)
+        |-
+        |Millie
+        |[[Wind Shrine]]
+        |7-Pronged Cog x1, [[Sunflower Field]] Code Buff (+100% Sunflower Field Pollen, +100%
+        Sunflower Field Capacity)
+        |-
+        |Luther
+        |[[Onett|Onett (NPC)]]
+        |7-Pronged Cog x1, [[Blue Flower Field]] Code Buff (+100% Blue Flower Field Pollen, +100%
+        Blue Flower Field Capacity)
+        |-
+        |CarmenSanDiego
+        |[[Elite Red Guard]] description
+        |7-Pronged Cog x1, [[Rose Field]] Code Buff (+100% Rose Field Pollen, +100% Rose Field
+        Capacity)
+        |-
+        |Jumpstart
+        |Tutorial
+        |7-Pronged Cog x1, [[Dandelion Field]] Code Buff (+100% Dandelion Field Pollen, +100%
+        Dandelion Field Capacity)
+        |-
+        |Dysentery
+        |[[Ant Challenge Info]]
+        |7-Pronged Cog x1, [[Mushroom Field]] Code Buff (+100% Mushroom Field Pollen, +100% Mushroom
+        Field Capacity)
+        |}
+
+        Each code awards the player a [[7-Pronged Cog]]. They can be used to craft [[Strange
+        Goggles]]. When equipped, the player needs to go to [[The Computer]], where they can now
+        interact with it. Upon use, the player will see [[Digital Bee (NPC)|Digital Bee]]. Digital
+        Bee acts as an NPC and will begin citing the first puzzle. Upon completing each puzzle, the
+        player is rewarded with various items, and can go back to The Computer to receive the next
+        puzzle. The puzzle guides are listed below.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        ! style=\"width:3%\" |Puzzle
+        ! style=\"width:40%\" |Guide
+        ! style=\"width:35%\" |Example
+        ! style=\"width:10%\" |Reward
+        |-
+        |Puzzle 1
+        |Upon interacting with The Computer, Digital Bee will flash 4 symbols, acting as a code. Go
+        to the [[Dandelion Field]] and use your collector to reveal and change to the appropriate
+        symbols left to right, with the first symbol closest to the [[Sunflower Field]]. If done
+        right, a sound will play, and the symbols are replaced with happy faces.
+        |Digital Bee signals '''? * ~ {'''. Therefore, the first symbol is '''?''', then '''*''',
+        then '''~''', and last '''{'''.
+        |1x [[Royal Jelly]], [[Honey]]
+        |-
+        |Puzzle 2
+        |After the first puzzle is done, upon interacting with The Computer, Digital Bee will
+        disappear, and begin teleporting around the Sunflower, [[Clover Field|Clover]], and
+        [[Mushroom Field]]. At a field, Digital Bee will continuously flash 3 symbols. Then, you
+        will have to uncover the hidden symbols with your collector and change them into the right
+        sequence. <br />When entered, the symbols will change into happy faces and a sound
+        will play.
+        |N/A
+        |1x [[Royal Jelly]], 8x [[Gumdrops]]
+        |-
+        |Puzzle 3
+        |After the second puzzle is done, upon interacting with The Computer, Digital Bee will flash
+        4 letters. The 4 letters are '''S'''unflower, '''D'''andelion, '''M'''ushroom, and
+        '''C'''lover. In each of the 4 fields, a symbol can be revealed with your collector. In the
+        order of the fields flashed by Digital Bee, reveal the symbols left to right in the [[Blue
+        Flower Field]], with the first symbol nearest to the [[Basic Bee Gate|5 Bee Gate]]. If done
+        right, a sound will play, and the symbols are replaced with happy faces.
+        |Digital Bee will not just flash '''DSMC,''' but will flash other codes (e.g, '''MSCD or
+        DMSC).''' just type the code correctly and you'll get the final puzzle finished!
+        |1x [[Atomic Treat]], 8x [[Ticket]]
+        |}
+
+        When the third and final puzzle is done, interacting with The Computer will award the game's
+        event item, badge, and a [[Royal Jelly#Star Jelly|Star Jelly]].
+
+        [[Category:Ready Player Two]]
+        [[Category:Events]]"}

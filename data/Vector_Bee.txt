@@ -1,0 +1,87 @@
+{"text": "{{Bee
+        |color = Colorless
+        |rarity = Mythic
+        |image-orig = Vector Bee.png
+        |image-gifted = VectorBee_Gifted.png
+        |description = A bee brought to life by an extremely complex trigonometric equation.
+        |energy = 45.6
+        |energylabel = more
+        |speed = 16.24
+        |attack = 5
+        |skincolor1 = #b7bcc8
+        |skincolor2 = #ffffff
+        |skincolor3 = #b7bcc8
+        }}
+
+        '''Vector Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Mythic|Mythic bee]].
+
+        Vector Bee's favorite type of Treat is [[Sunflower Seed|Sunflower Seeds]].
+
+        Vector Bee likes the [[Spider Field]] and the [[Coconut Field]]. It dislikes the [[Pineapple
+        Patch]].
+
+        == Stats ==
+        * Collects 18 [[Pollen]] in 4 seconds.
+        * Makes 144 [[Honey]] in 2.72 seconds.
+        * +4 [[Stats#Attack|Attack]], +8 [[Stats#Gather Amount|Gather Amount]], +16%
+        [[Stats#Speed|Movespeed]], +32% Convert Speed, +64 [[System Page#Convert Amount|Convert
+        Amount]], +128% [[Energy]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +15% Mark Duration.
+
+        === Abilities ===
+        * '''[[Ability Tokens#Mark|[Pollen Mark+]]]''' Marks a large random area on the
+        [[Fields|Field]] for 8 seconds (+0.25s per Level) that increases all pollen by 50% while
+        that player stands in it. Stacks up to 3 times.
+        * '''[[Ability Tokens#Triangulate|[Triangulate]]]''' Draws a triangle between the player,
+        the bee, and the token. After 3s, it collects [[Ability Tokens|Ability tokens]] and 10
+        pollen (+2 per Level) from all [[Flowers]] inside. All Marks within the triangle increase
+        the pollen by 50%.
+        **If the triangle contains a Pollen Mark, it gains x2 White pollen.
+        **If the triangle contains a Honey Mark or Festive Mark, it gains 50% instant conversion.
+        **If the triangle contains a Precise Mark, it always deals critical hits.
+        * '''[[Ability Tokens#Mark Surge|[🌟Gifted Ability: Mark Surge]]]''' Causes all of the
+        player's active Marks to collect 7 Pollen (+10% per Level) from all flowers in their radius.
+        Extends the duration of the Marks by 1s (+0.1s per Level). Each mark can perform up to 5
+        surges.
+        **When a Honey Mark or Festive Mark surges, the Pollen is Instantly Converted.
+        **When a Precise Mark surges, it always does Critical Hits.
+
+        {{Stat|pollen = 18|pollentime = 4|honey = 144|honeytime = 1|rarity = mythic}}
+
+        == Gallery ==
+        <gallery widths=\"176\" navigation=\"true\" hideaddbutton=\"true\">
+        Vector Bee Face.png|Vector Bee's Face.
+        VectorHiveGt-Pm-Rd-11.gif|A Gifted Mutated Radioactive Vector Bee hive slot.
+        Giftedvectorhiveslot.png|A Gifted Vector Bee hive slot.
+        GIDVector.png|Gifted Vector Bee in the darkness.
+        Triangulate.png|Triangulate token.
+        RobloxScreenShot20200101 050632134.png|A Triangulate token in action.
+        Mark Surge.png|Mark Surge token.
+        Bssbeesmas2019cover.png|Vector Bee with Spicy Bee, Tadpole Bee, [[Basic Bee]], and [[Cub
+        Buddy|Cub Buddies]] in the game thumbnail.
+        </gallery>
+
+        == Trivia ==
+        * Vector Bee's stats follow a [[Wikipedia:Geometric Progression|Geometric Progression]]
+        pattern, where each number is double the amount of the previous number.
+        * Vector Bee is the only Mythic bee to not share any of its abilities with other bees. It is
+        also the only Mythic Bee to not have a [[Passive Abilities|Passive Ability]].
+        * Vector Bee is the only [[Bees|Bee]] to have a different skin pattern on each of its sides.
+        * Vector Bee's design is heavily inspired by mathematics.
+        ** Its relation to trigonometry is implied in its description and the triangular motifs on
+        its head.
+        ** Vectors reference Euclidean vectors, objects with magnitude and direction. A triangle can
+        be composed of three vectors.
+        ** Triangulation is a method to determine the location of a point through forming triangles
+        from known points.
+        * Vector Bee, [[Spicy Bee]], [[Precise Bee]] and [[Buoyant Bee]] emit light when they are
+        gifted.
+        * Vector Bee shares similar color schemes with [[Brave Bee]].
+        * Triangulate is [[Onett (Developer)|Onett]]'s favorite ability, due to the fact that he
+        thinks it's satisfying.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Colorless]]
+        [[Category:Mythic]]
+        [[zh-tw:向量蜂]]"}

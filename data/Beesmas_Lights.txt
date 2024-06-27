@@ -1,0 +1,32 @@
+{"text": "{{RemovedContent}}
+        '''Beesmas Lights''' occasionally appeared in fields as the player collected pollen as the
+        reward of [[Science Bear|Science Bear's]] Beesmas 2020, 2021, or 2022 quest. They fell from
+        the sky like a similar way of the [[Passive Abilities#Star Shower|Star Shower passive]],
+        taking 2 seconds to fall. They were used to convert a certain amount of [[pollen]] to
+        [[honey]]. Whenever a Beesmas Light was caught, it granted the [[Ability
+        Tokens#Inspire|inspire]] buff and converts based on the player's [[System Page#Convert
+        Total|convert total]]. If it wasn't caught, it collected pollen. Beesmas Lights spawned
+        after collecting 25 Ability Tokens (with a 30 second cooldown), dropping 5 lights into the
+        field. Beesmas Lights could spawn in any field, including the [[Ant Field]].
+
+        == Gallery ==
+        <gallery>
+        Screen Shot 2020-12-27 at 4.58.27 PM 3.png|A falling Beesmas Light.
+        Screen Shot 2020-12-27 at 4.54.01 PM.png|A green circle, indicating where a Beesmas Light
+        would fall.
+        RobloxScreenShot20210215 150122914 (2).png|The Beesmas Light switch.
+        RobloxScreenShot20210216 081419755 (2).png|The Beesmas Lights display in the map, turned on
+        after the completion of Science Bear's Beesmas 2020 quest.
+        </gallery>
+
+        == Trivia ==
+        * Players are required to catch a certain amount of Beesmas Lights for [[Bee Bear]] and
+        [[Onett]]'s quests.
+        * The Beesmas Lights has the same function as the [[Passive Abilities#Star Shower|Star
+        Shower passive]] with the difference of the fact that the star shower is more focused in a
+        small area than Beesmas Lights.
+        ** This means that if the passive is disregarded, the Beesmas Lights are the only way to get
+        the inspire buff without [[Gifted Bee|gifted bees]] or redeeming certain [[codes]].
+        [[Category:Beesmas]]
+        [[Category:Locations]]
+        [[Category:Beesmas Decorations]]"}

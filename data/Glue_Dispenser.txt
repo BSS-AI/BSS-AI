@@ -1,0 +1,43 @@
+{"text": "[[File:Glue Dispenser.png|thumb|250px|The Glue Dispenser seen in Gummy Bear's Lair.]]
+        The '''Glue Dispenser '''is a [[dispenser]] located in [[Gummy Bear's Lair]], behind the
+        location where the player teleports to. It can be used every 22 hours and dispenses [[glue]]
+        (number given depends on what [[Badges#Goo Badges|goo badge]] the player has) along with the
+        [[Buffs & Debuffs#From Areas|Unlimited Gumdrops buff]] for 3 minutes. The type of goo
+        badge doesn't affect the duration of the buff.
+        {| class=\"article-table\"
+        !Goo Badge Rank
+        !Glue
+        |-
+        |[[File:5 Million Goo.png|50px]] Hotshot
+        |2
+        |-
+        |[[File:50 Million Goo.png|50px]] Ace
+        |3
+        |-
+        |[[File:500 Million Goo.png|50px]] Master
+        |4
+        |-
+        |[[File:Goo.png|50px]] Grandmaster
+        |5
+        |}
+
+        == Trivia ==
+        * Using this is one of the two only ways to get the Unlimited Gumdrops Buff, the other being
+        certain [[codes]].
+        * It is the only dispenser that requires the player to have a certain badge to access, as
+        the Gummy Bear's Lair requires the player to have [[Badges#Goo Badge|Goo Hotshot]] or above
+        to enter.
+        * This, the [[Free Ant Pass Dispenser]], [[Ant Pass Dispenser]], [[Free Robo Pass
+        Dispenser]], [[Robo Pass Dispenser]], and the [[Coconut Dispenser]] are the only dispensers
+        to not grant [[Ability Tokens#Haste|haste]].
+        * This is the only dispenser that can give a [[Passive Abilities|Passive Ability]].
+        * This, the Free Robo Pass Dispenser, and the [[Royal Jelly Dispenser|Free Royal Jelly
+        Dispenser]] are the only dispensers with a 22 hour cooldown, the longest in the game.
+        * This and the Coconut Dispenser are the only dispensers to give more items based on the
+        rank of a badge.
+
+        {{MapNav}}
+        [[Category:Machines]]
+        [[Category:Locations]]
+        [[Category:Dispenser]]
+        [[Category:Goo]]"}

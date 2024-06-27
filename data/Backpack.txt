@@ -1,0 +1,29 @@
+{"text": "{{Bag
+        |image1 = Backpack.png
+        |description = \"A heavy-duty backpack.\"
+        |cost = 5,500 Honey
+        |capacity = 3,500 Pollen
+        }}
+        {{Quote|A heavy-duty Backpack.}}
+        The '''Backpack''' is a [[:Category:Bags|Bag]] that can be purchased in the [[Noob Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|5,500}}
+        |}
+
+        == Stats ==
+        * +3,500 Capacity.
+
+        == Trivia ==
+        * This and the [[Canister]] are the only bags in the Noob Shop that cost more Honey than
+        their base Capacity.
+        *This is the 2nd most expensive Bag in the Noob Shop, behind the [[Canister]].
+        *This and the [[Pouch]] are the only visually realistic Bags, and the only Bag that has a
+        texture in the whole game.
+
+        {{Items}}
+        [[Category:Bags]]
+        [[Category:Items]]
+        [[zh-tw:大背包]]"}

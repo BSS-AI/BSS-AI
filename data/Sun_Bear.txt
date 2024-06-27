@@ -1,0 +1,121 @@
+{"text": "{{RemovedContent}}
+        {{Bear
+        |image =Sun.png
+        |type = Traveling Bear
+        |location = Between Noob Shop and Hives and in front of the Ant Challenge
+        |bees = None
+        |basecolor1 = #211b19
+        |basecoloramount = 1
+        |shadecoloramount = 2
+        |shadecolor1 = #695030
+        |shadecolor2 = #1f1917
+        |snoutcoloramount = 1
+        |snoutcolor1 = #685b4b
+        |torsocolor1 = #241e1c
+        |torsocoloramount = 2
+        |torsocolor2 = #8f7656
+        |armscolor = #382f2b
+        |legscolor = #332c29
+        |enableother = y
+        |othercolor1 = #1a1817
+        |othercoloramount = 2
+        |othercolor2 = #7d7c7b
+        |othername = Sun Glasses
+        }}
+        '''Sun Bear''' was a Traveling Bear who appeared during Egg Hunts. He was one of the five
+        temporary Quest Givers, the others being [[Bee Bear]], [[Gummy Bear]], [[Stick Bug]], and
+        [[Bubble Bee Man]].
+
+        He made four appearances. His first visit was from April 27, 2018, to May 13, 2018. He gave
+        12 quests with rewards including the [[Belt Bag]] and a final reward of a [[Mondo Belt
+        Bag]]. His second visit was from September 10, 2018, to October 8, 2018. He gave 14 quests
+        with rewards including the [[Basic Boots]], the [[Hiking Boots]], and the [[Beekeeper's
+        Boots]]. His third visit was from September 28, 2019, to October 28, 2019. He gave 10 quests
+        themed around [[Bean Bugs|bean bugs]], with a final reward of 250 [[ticket]]s. His fourth
+        visit was from April 6, 2020 to May 21, 2020, for the [[Egg Hunt 2020|Roblox Egg Hunt
+        2020]].
+
+        '''NOTE: Sun Bear's [[:Category:Belts|Belt Bags]] and [[:Category:Boots|Boots]] can now be
+        crafted with [[Honey]] and other [[Crafting|Ingredients]].'''
+
+        {{Quest/SunBear}}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        SunBear.png|Sun Bear standing next to his trailer during his Belt Bag event.
+        Sun Bear.png|Sun Bear standing next to his trailer during his Boot event.
+        RobloxPlayerBeta 2018-10-08 18-54-17.png|A message about Sun Bear leaving.
+        SunBearLeft-(.jpeg|An announcement about Robux Deals before Sun Bear leaves.
+        Oooof.jpeg|An announcement about Sun Bear leaving.
+        Sun Bear 3rd.png|Sun Bear's visit during Bean Bug Quest.
+        Bean Bug Caged.png|A trapped bean bug next to Sun Bear during the Bean Bug Quest.
+        Screen Shot 2019-10-11 at 4.25.35 PM.png|A player inside the bean bug's cage.
+        RobloxScreenShot20191021 070627420 (2).png|The bean bug outside of its cage.
+        Sunbearleavesus.png|An announcement about Sun Bear leaving in 6 hours (9/28/2019 visit)
+        2020 egghunt.jpg|Sun Bear in the 2020 Egg Hunt event.
+        Travelbody1.png|The decal used for Sun Bear's torso.
+        Flag of Phoenix--PhoenixFlag.png|The flag of Phoenix, Arizona, which was pasted on Sun
+        Bear's RV in 2018.
+        EF9C458B-D4E3-4ADC-A94D-59E9F2515D98.jpeg|Sun Bear leaving.
+        </gallery>
+
+        == Trivia ==
+        *He was the only traveling b<nowiki/>ear to not introduce his own event bee.
+        *In the quest ''''Focus Feature'''<nowiki/>', Sun Bear said to defeat a [[Werewolf]]
+        instead of 3 [[Spider]]s.
+        *The [[Badges#Ability Badge|Ability Badge]] is represented by him in the game's description.
+        *After his spring visit, the belt bags can be bought in [[Pro Shop]] ([[Belt Bag]]) and the
+        [[Mountain Top Shop]] ([[Mondo Belt Bag]]).
+        *During his spring visit, there was a [[Ticket]] behind Sun Bear’s trailer. When Sun Bear
+        went away, the ticket stayed there for a little time, but now it's gone.
+        *Sun Bear uses the [https://web.roblox.com/catalog/734338331/Knight-Animation-Package Knight
+        Animation Package].
+        *Sun Bear says that only [[Rage Bee|Rage]], [[Exhausted Bee|Exhausted]], and [[Music
+        Bee|Music]] Bees spawn [[Ability Tokens#Token Link|Token Link]], but [[Shocked Bee]] does as
+        well. This was fixed a few days later.
+        *In his second visit ([[Updates#2018.09.10|9/10/2018 Update]]) and his third visit
+        ([[Updates#2019.09.28|9/28/2019 Update]]), his trailer had a
+        [https://en.wikipedia.org/wiki/Flag_of_Phoenix Flag of Phoenix] bumper sticker on the back.
+        *During his first visit, Sun Bear was shown to be wearing the [[Mondo Belt Bag]], which he
+        gave at the very end of his quests. During his second visit, he was shown to be wearing both
+        the Mondo Belt bag and [[Beekeeper's Boots]], which he gave at the end of his quests.
+        *Sun Bear gives 48 tickets throughout all his quests with the ticket token that was behind
+        the trailer.
+        *During Sun Bear's Scavenger Hunt, he says 3 more quests are needed to be completed to get
+        the [[Beekeeper's Boots]], when it is actually 4 quests. However, [[Onett
+        (Developer)|Onett]] could have done this on purpose, because Sun Bear was completely
+        surprised by [[Rogue Vicious Bee|Vicious Bee]] in his dialogue, and gives you a quest around
+        this.
+        *He was the first traveling bear added to the game, with [[Gummy Bear]] being the second and
+        [[Bee Bear]] being the third.
+        *The item prices of his rewards after his visit are: [[Basic Boots]] are 4,400, [[Hiking
+        Boots]] are 2,200,000, Beekeeper's Boots are 15,000,000, Belt Bag is 440,000, and Mondo Belt
+        Bag is 12,400,000.
+        *He was the only traveling bear who never gave an egg on his last quest.
+        *Him and [[Bubble Bee Man]] were the only [[:Category:NPC|NPCs]] to give an
+        [[:Category:Accessories|Accessory]].
+        *It was hinted that Sun Bear is from Arizona, this is from the [[Codes|Code]]
+        \"'''Arizona'''\", and the City of Arizona flag that was on his RV the second and the third
+        visit.
+        *During the quests in his 3rd visit, it is revealed that the reason he had [[Bean Bug]]s was
+        that he was taking them to Orlando for an unknown reason.
+        *In the quest 'Total Focus', Sun Bear said to collect 200 [[Ability Tokens#Focus|Focus
+        Tokens]] before you received the quest, but he didn't say to collect 200 Focus Tokens after
+        you received the quest.
+        *For the 'Total Focus' quest, after you finish the dialogue with Sun Bear, a [[Memory
+        Match]] game will start automatically for free.
+        *He stated only [[Basic Bee]] doesn't generate tokens, but [[Brave Bee]] doesn't as well,
+        even though both of them can generate [[Ability Tokens#Inspire|Inspire tokens]] when they
+        are [[Gifted Bee|Gifted]].
+        *To complete every quest on his 3rd visit, you must collect 3835 tokens from bean bugs.
+        *It was possible for his trapped bean bug to jump out of its cage.
+        **It was also possible for the player to go in and out of the bean bug's cage.
+        *Onett has stated that Sun Bear isn't welcome on the mountain anymore for accidently
+        releasing Bean Bugs and the Chicks.
+        {{QuestNav}}
+        [[Category:Bears]]
+        [[Category:Traveling Bears]]
+        [[Category:Quest giver]]
+        [[Category:NPC]]
+        [[Category:Removed Content]]
+        [[Category:Egg Hunt 2020]]"}

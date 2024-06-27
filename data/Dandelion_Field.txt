@@ -1,0 +1,155 @@
+{"text": "{{Field
+        |image = DandelionField2.png
+        |fieldcolor = White
+        |bees = None
+        |width = 36
+        |height = 18
+        }}The [[Dandelion Field]] is one of the five [[Starter Zone|starting]] [[fields]] a new
+        player can go to. There are no [[mobs]] that protect this field.
+
+        This is an 18x36 field, containing 648 [[flowers]]. The flowers are white, red, and blue, in
+        sizes of single and double.
+        {| class=\"article-table\"
+        !Flowers
+        ! colspan=\"2\" |White
+        ! colspan=\"2\" |Red
+        ! colspan=\"2\" |Blue
+        ! colspan=\"2\" |Total
+        |-
+        !Single
+        |480
+        |''{{Hover|74.1%|74.07%}}''
+        |31
+        |''{{Hover|4.8%|4.78%}}''
+        |53
+        |''{{Hover|8.2%|8.17%}}''
+        |'''564'''
+        |'''''{{Hover|87%|87.04%}}'''''
+        |-
+        !Double
+        |69
+        |''{{Hover|10.6%|10.64%}}''
+        |5
+        |''{{Hover|0.8%|0.77%}}''
+        |10
+        |''{{Hover|1.5%|1.54%}}''
+        |'''84'''
+        |'''''{{Hover|12.9%|12.96%}}'''''
+        |-
+        !Triple
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |'''0'''
+        |'''''0%'''''
+        |-
+        !Total
+        |'''549'''
+        |'''''{{Hover|84.7%|84.72%}}'''''
+        |'''36'''
+        |'''''{{Hover|5.6%|5.56%}}'''''
+        |'''63'''
+        |'''''{{Hover|9.7%|9.72%}}'''''
+        |'''648'''
+        |'''''100%'''''
+        |}
+        '''Note: The flowers in fields are randomly generated, so the flower counts above may not be
+        100% accurate. The percentages should be roughly correct, however.'''
+
+        This field can produce [[honey]], [[Ability Tokens#Boost|red boost]], blue boost,
+        [[ticket]], [[glue]], [[glitter]], [[Magic Bean|magic bean]], and [[Treat|treat]] tokens
+        when collecting [[pollen]].
+
+        Bees that like the Dandelion Field are [[Baby Bee]], [[Bomber Bee]], [[Demo Bee]],
+        [[Exhausted Bee]], [[Music Bee]], [[Stubborn Bee]], [[Windy Bee]], [[Fuzzy Bee]], and
+        [[Digital Bee]]. Bees that dislike the Dandelion Field are [[Commander Bee]], [[Brave Bee]],
+        and [[Vicious Bee]].
+
+        This field gives Comforting [[Nectar]] when a planter is placed here.
+
+        A level 1-5 [[Wild Windy Bee]] can spawn here.
+
+        == Obtaining Boosts ==
+        [[File:Fis_dandelion.png|thumb|75px|The Dandelion Field boost icon.]]
+
+        *Using the [[Field Booster]] may give a Dandelion [[Field Boost]]. When it does, it will
+        give +300% Dandelion Field pollen for 15 minutes.
+        * Using [[glitter]] in the field will add 100% Dandelion Field pollen onto the current boost
+        if it isn't already maxed out.
+        * Using [[Field Dice|field dice]], [[Smooth Dice|smooth dice]], or [[Loaded Dice|loaded
+        dice]] may add +100%-300% Dandelion Field pollen for 15 minutes based on the dice used if
+        the current boost isn't already maxed out.
+        * Dandelion [[Field Wind]]s can be obtained through the [[Wind Shrine]] or [[codes]]. They
+        have a base of 20% instant Dandelion Field conversion and give +5% instant Dandelion Field
+        conversion and +25% Dandelion Field pollen for each stack. Dandelion Field Winds can stack
+        up to a total of 13 times.
+        *Redeeming certain valid codes:
+        **Sure (Gives Dandelion Field Boost x3 + other stuff).
+        **Wink (Gives Dandelion Field Boost x7 + other stuff). '''Note that because of the field
+        boost nerf, the boost will only be x4.'''
+        **Jumpstart (Activates Dandelion Field Code Buff + other stuff).
+        **PlushFriday (Gives Dandelion Field Code Buff + other stuff).
+        *It can be boosted by the [[Shell Amulet]]. If it has a Dandelion Field Boost, it can boost
+        the field by +5% to +30% depending on the amulet rarity.
+
+        ===The methods below are no longer possible.===
+
+        *Giving [[present]]s to certain [[Quest Givers|NPCs]]:
+        **[[Mother Bear]] gave Dandelion Field Boost x5 and other [[items]].
+        **[[Onett]] gave Dandelion Field Boost x1 and other boosts and items.
+        **Mother Bear gave x3 Dandelion Field Boost and other items.
+        *Redeeming certain expired codes:
+        **AccentMaster (Gave Dandelion Field Boost x1 + other stuff).
+        **Afternoon (Gave Dandelion Field Boost x5 + other stuff).
+        **NikTacAttack (Gave Dandelion Field Boost x5 + other stuff).
+        **Noobasha+ (Gave Dandelion Field Boost x6 + other stuff).
+        **SunBearSendoff (Gave Dandelion Field Boost x6 + other stuff).
+        **Waiting (Gave Dandelion Field Boost x6 + other stuff).
+        **SDMittens1T (Gave Dandelion Field Boost x3 + other stuff).
+        **Crafty (Gave Dandelion Field Boost x4 + other stuff).
+        **RebootCode (Gave Dandelion Field Boost x5 + other stuff).
+        ** Breeze (Gave Dandelion Field Boost x3 + other stuff).
+        **TornadoGlitch (Gave Dandelion Field Boost x3 and Dandelion Field Winds x3 + other stuff).
+        **WindyWeekend (Gave Dandelion Field Boost x1 and Dandelion Field Winds x3 + other stuff).
+        ** BeesmasBegins (Gave Dandelion Field Boost x3 and Dandelion Field Winds x6 + other stuff).
+        **FestiveFinale (Gave Dandelion Field Boost x3 and Dandelion Field Winds x4 + other stuff).
+        **SpaceReboot (Gave Dandelion Field Boost x3 and Dandelion Field Capacity x3 + other stuff).
+        **RebootFriday (Gave Dandelion Field Code Buff + other stuff).
+        *Purchasing a Dandelion Field [[Buffs & Debuffs#From Areas|Market Boost]] from the
+        [[Boost Market]] gave 1.25x Dandelion Field Pollen along with x1.5 Dandelion [[Field
+        Capacity]], +10% [[System Page#Bee Ability Rate|Bee Ability Rate]], and x1.25 [[System
+        Page#Hive Convert Rate|Convert Rate At Hive]].
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        RoyalJellyLocation TopofDandelion.png|The royal jelly on top of the tallest dandelion.
+        DandelionFieldA FarAbove.png|The {{PAGENAME}} from above.
+        </gallery>
+
+        ==Trivia==
+
+        *Before the [[Updates#2019.09.28|9/28/2019 update]], the Dandelion Field was the only field
+        that was mob-proof, meaning no mobs could spawn/attack there.
+        *There is a [[Royal Jelly|royal jelly]] token on top of the tallest dandelion which can be
+        obtained by using the [[Parachute]]/[[Glider]] with cannons or from a high place.
+        **This is also the only dandelion in the field that has collision at its top.
+        *The [[Bubble Wand]] model on the [[Blue HQ]] can grow a face and blow [[sparkles]] onto
+        this field, along with the [[Mushroom Field]], [[Clover Field]], and [[Blue Flower Field]].
+        *The [[All-Time Top Honeymakers|All-Time Top Honeymakers Leaderboard]] is adjacent to the
+        Dandelion Field.
+        *There used to be a [[Glitches|glitch]] where [[Stick Bug]] could fall from the tallest
+        mushroom and land in the Dandelion Field. This has now been patched.
+        *During the Ready Player Two event, the field can be seen glitching after using [[the
+        Computer]].
+        *[[Onett]] threatens to remove every field but the Dandelion Field if the [[bees]] and
+        [[bears]] don't stop complaining in his Star Journey 2 quest dialogue. He then follows this
+        up stating he wouldn't really do this though.
+
+        {{MapNav}}
+        [[Category:Fields]]
+        [[Category:Locations]]
+        [[Category:Colorless]]
+        [[Category:Starter Zone]]"}

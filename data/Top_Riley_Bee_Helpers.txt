@@ -1,0 +1,28 @@
+{"text": "{{DISPLAYTITLE:All-Time Top Riley Bee Helpers}}
+        {{DailyCheck}}
+        ''(Leaderboard as of 04/11/2024)''
+        {{LB|name1=7Elevenss|amount1=5,401|name2=master_dad6453653|name3=OLNIKYE|amount3=3,850|amount2=4,533|name4=Doc_Nana|amount4=3,203|name5=steakyj84|amount5=3,170|name6=Vod76Ka|amount6=2,820|name7=suchnsane|amount7=2,806|name8=howdoyougetmorepets|amount8=2,773|name9=AncientRedHots|amount9=2,667|name10=Penangwen|amount10=2,627}}
+        The '''Global Top Riley Bee Helpers Leaderboard''' is one of the 62 [[leaderboards]] in the
+        game. It displays the top 100 people who've completed the most [[quests]] from Gifted Riley
+        Bee. It shows 10 leaderboard positions at one time. If the player stands on the white circle
+        in front of it, they can see how many Gifted Riley Bee quests they've completed.
+
+        ==Location==
+        It is located on the roof of the [[Red HQ]] next to [[Gifted Riley Bee]].
+
+        == Achievements ==
+
+        * OLNIKYE was the first user to reach 1,000 Gifted Riley Bee quests completed, excluding
+        hackers/exploiters.
+        * OLNIKYE was the first user to reach 2,000 Gifted Riley Bee quests completed.
+        * OLNIKYE was the first user to reach 3,000 Gifted Riley Bee quests completed.
+        * 7Elevenss was the first user to reach 4,000 Gifted Riley Bee quests completed.
+        * 7Elevenss was the first user to reach 5,000 Gifted Riley Bee quests completed.
+
+        ==Trivia==
+
+        * 7Elevenss, the user that is currently at the top of the Top Riley Bee Helpers leaderboard,
+        is also currently at the top of the [[Top Brown Bear Helpers]] leaderboard.
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Leaderboards]]"}

@@ -1,0 +1,42 @@
+{"text": "{{Consumables
+        |image = Pink Balloon.png
+        |description = Floats on the field for 3 minutes, storing and doubling pollen you collect
+        beneath it. Then it floats to your hive!
+        |cooldown = 5 min
+        |cap = 25
+        }}
+        The '''Pink Balloon''' is a [[:Category:Consumables|consumable]] [[Items#Misc. Items|item]]
+        that was added in the [[Updates|12/26/2021 update]]. Once used, it creates a pink
+        [[balloon]] over the [[Fields|field]] the player is in. The balloon floats over the field,
+        storing [[pollen]] collected underneath it. The pollen collected below is doubled. It holds
+        up to double the player's capacity. It floats over the field for 3 minutes before floating
+        to the [[hive]] balloon.
+
+        Pink balloons have a cap of 25 in the player's [[:Category:Inventory|inventory]], and 1 per
+        player in the field.
+
+        == Ways to Obtain ==
+        * As a drop from certain [[mobs]].
+        * Using the code \"ThnxCyasToyBox\" (Gives 1 Pink Balloon and other stuff).
+        * As a Reward From Retro Swarm Challenge.
+
+        === '''Outdated Ways''' ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        * Certain Codes:
+        ** Using the code \"FourYearFiesta\" (Gave 1 Pink Balloon and other stuff).
+        ** Using the code “2MLikes” (Gave 2 Pink Balloons and other stuff).
+        * Opening the [[Gift Boxes|Kitsch Gift Box]]. (Gave 1 Pink Balloon + other stuff).
+        * From purchasing the Balloon Bundle in [[Bee Bear's Catalog]] during Beesmas 2021.
+        * As a reward from a [[Robo Bear's Party Cake|Robo Party.]]
+        * Purchasing the Balloon Bundle from [[Bee Bear's Catalog]] for 333 [[Snowflake]]s, granting
+        4 Pink Balloons and other items.
+        |}
+
+        {{Items}}
+        [[Category:Inventory]]
+        [[Category:Items]]
+        [[Category:Consumables]]
+        [[Category:Balloons]]"}

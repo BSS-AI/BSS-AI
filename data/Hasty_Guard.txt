@@ -1,0 +1,35 @@
+{"text": "{{Accessory
+        |image1 = Hasty Guard.png
+        |description = A right shoulder pad crafted by a Hasty Bee.
+        |cost = 300,000 [[Honey]] and 5 [[Moon Charm|Moon Charms]].
+        |stats = +15,000 Capacity<br>+1% Bee Movespeed<br>x1.1 Player Movespeed
+        }}
+        {{Quote|A right shoulder pad crafted by a [[Hasty Bee]].}}
+        The '''Hasty Guard''' is a [[:Category:Guards|guard]] purchasable in the [[Pro Shop]]. It is
+        equipped on the right shoulder.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|300,000}}<br>{{Cost|Moon Charm|5}}
+        |}
+
+        == Stats ==
+        * +15,000 [[Capacity]].
+        *+1% [[Stats#Speed|Bee Movespeed.]]
+        * x1.1 [[System Page#Movespeed|Player Movespeed.]]
+        == Gallery ==
+        <gallery>
+        Hastyguardicon.png|The Hasty Guard icon.
+        </gallery>
+
+        == Trivia ==
+
+        * This is the only guard that provides a Player Movespeed boost.
+        * This is one of the 4 guards in the Pro Shop, the others being the [[Looker Guard]], the
+        [[Bomber Guard]], and the [[Brave Guard]].
+        {{Items}}
+        [[Category:Guards]]
+        [[Category:Items]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]"}

@@ -1,0 +1,1464 @@
+{"text": "[[File:InventoryIcon.png|85x85px|The icon for the inventory.]]The following is a list of
+        all of the '''Items''' in [[Bee Swarm Simulator]].
+
+        <tabber>
+
+        Tools=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Tool
+        ! style=\"width:30%\" |Use
+        ! style=\"width:27%\" |Cost
+        !Source
+        |-
+        |[[File:Scooper.png|70px|center]]<div style=\"text-align: center;\">[[Scooper]]
+        |Collects 5 [[pollen]] per second.
+        |{{Cost|Honey|0| (Default tool)}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Rake.png|70px|center]]<div style=\"text-align: center;\">[[Rake]]
+        |Collects 8 [[pollen]] per second.
+        |{{Cost|Honey|800}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Clippers.png|70px|center]]<div style=\"text-align: center;\">[[Clippers]]
+        |Collects 13.85 [[pollen]] per second.
+        |{{Cost|Honey|2,200}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Magnet.png|70px|center]]<div style=\"text-align: center;\">[[Magnet]]
+        |Collects 18 [[pollen]] per second.
+        |{{Cost|Honey|5,500}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Vacuum.png|70px|center]]<div style=\"text-align: center;\">[[Vacuum]]
+        |Collects 32.5 [[pollen]] per second.
+        |{{Cost|Honey|14,000}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Super Scooper.png|50px|center]]<div style=\"text-align:
+        center;\">[[Super-Scooper]]
+        |Collects 40 [[pollen]] per second.
+        |{{Cost|Honey|40,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Pulsar.png|50px|center]]<div style=\"text-align: center;\">[[Pulsar]]
+        |Collects 58 [[pollen]] per second.
+        |{{Cost|Honey|125,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Electro-Magnet.png|70px|center]]<div style=\"text-align:
+        center;\">[[Electro-Magnet]]
+        |Collects 72 [[pollen]] per second.
+        |{{Cost|Honey|300,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Scissors.png|70px|center]]<div style=\"text-align: center;\">[[Scissors]]
+        |Collects 120 [[pollen]] per second.
+        |{{Cost|Honey|850,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Honey Dipper.png|50px|center]]<div style=\"text-align: center;\">[[Honey
+        Dipper]]
+        |Collects 108.89 [[pollen]] per second.
+        |{{Cost|Honey|1,500,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Bubble Wand.png|70px|center]]<div style=\"text-align: center;\">[[Bubble Wand]]
+        |Collects 240 [[pollen]] per second from blue flowers and 120 from white and red flowers.
+        |{{Cost|Honey|3,500,000}}
+        | [[Blue HQ]]
+        |-
+        |[[File:Scythe.png|70px|center]]<div style=\"text-align: center;\">[[Scythe]]
+        |Collects 238 [[pollen]] per second from red [[flowers]] and 119 from white and blue
+        flowers.
+        |{{Cost|Honey|3,500,000}}
+        | [[Red HQ]]
+        |-
+        |[[File:Sticker-Seeker.png|70px|center]]<div style=\"text-align:
+        center;\">[[Sticker-Seeker]]
+        |Collects 130 [[pollen]] per second.
+        |{{Cost|Honey|7,000,000}}<br>{{Cost|Glue|1}}<br>{{Cost|Oil|1}}<br>{{Cost|Soft
+        Wax|5}}<br>{{Cost|Neonberry|5}}<br>{{Cost|Micro-Converter|10}}
+        |[[Hub Field Shop]]
+        |-
+        |[[File:Golden Rake.png|70px|center]]<div style=\"text-align: center;\">[[Golden Rake]]
+        |Collects 149.33 [[pollen]] per second (238.93 with supercharged scoop). Every 5th scoop is
+        supercharged to reach further and collect more.
+        |{{Cost|Honey|20,000,000}}
+        |[[Mountain Top Shop]]
+        |-
+        |[[File:Spark_Staff.png|70px|center]]<div style=\"text-align: center;\">[[Spark Staff]]
+        |Collects 345 [[pollen]] per second at full potential.
+        |{{Cost|Honey|60,000,000}}
+        |[[Mountain Top Shop]]
+        |-
+        |[[File:Porcelain Dipper.png|70px|center]]<div style=\"text-align: center;\">[[Porcelain
+        Dipper]]
+        |Collects 324 [[pollen]] per second from white [[flowers]] and 216 from blue and red
+        flowers. Every 10th scoop summons a pillar of light that collects massive pollen.
+        |{{Cost|Honey|150,000,000}}
+        |[[Mountain Top Shop]]
+        |-
+        |[[File:Petal Wand.png|70px|center]]<div style=\"text-align: center;\">[[Petal Wand]]
+        |Collects 528.57 [[pollen]] per second. Every 3rd swing fires a Petal Shuriken that causes
+        bees to instantly convert pollen to honey.
+        |{{Cost|Honey|{{Hover|1.5B|1,500,000,000}}}}<br>{{Cost|Spirit
+        Petal|1}}<br>{{Cost|Star
+        Jelly|10}}<br>{{Cost|Glitter|25}}<br>{{Cost|Enzymes|75}}
+        |[[Petal Shop]]
+        |-
+        |[[File:Tide Popper.png|70px|center]]<div style=\"text-align: center;\">[[Tide Popper]]
+        |Pierce through flowers and bubbles with torriental waves. Ramps up the more you pop, then
+        unleashes tidal waves in a violent surge. Splash Balloons with tall waves to earn Tide
+        Blessing.
+        |{{Cost|Honey|{{Hover|2.5T|2,500,000,000,000}}}}<br>{{Cost|Blue
+        Extract|1,500}}<br>{{Cost|Stinger|200}}<br>{{Cost|Tropical
+        Drink|150}}<br>{{Cost|Swirled Wax|75}}<br>{{Cost|Super Smoothie|50}}
+        |[[Blue HQ]]
+        |-
+        |[[File:Dark scythe.png|70px|center]]<div style=\"text-align: center;\">[[Dark Scythe]]
+        |Harvest flames to unlock their Dark potential. Tend a violent field of violet fire to
+        enhance your Super-Crit power and Red Ability Conversion.
+        |{{Cost|Honey|{{Hover|2.5T|2,500,000,000,000}}}}<br>{{Cost|Red
+        Extract|1,500}}<br>{{Cost|Stinger|200}}<br>{{Cost|Hard
+        Wax|100}}<br>{{Cost|Caustic Wax|50}}<br>{{Cost|Super Smoothie|50}}
+        |[[Red HQ]]
+        |-
+        |[[File:Gummyballer.png|70px|center]]<div style=\"text-align: center;\">[[Gummyballer]]
+        |Conjures up a delectible arsenal of gummy wrecking balls. Bombard Marks and Honey Tokens
+        for massive gooey gains.
+        |{{Cost|Honey|{{Hover|10T|10,000,000,000,000}}}}<br>{{Cost|Glue|1,500}}<br>{{Cost|Gumdrops|2,500}}<br>{{Cost|Caustic
+        Wax|50}}<br>{{Cost|Super Smoothie|50}}<br>{{Cost|Turpentine|5}}
+        |[[Gummy Bear's Lair]]
+        |-|
+
+        Bags=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Bag
+        ! style=\"width:30%\" |Capacity and bonus
+        ! style=\"width:27%\" |Cost
+        !Source
+        |-
+        |[[File:Pouch.png|70px|center]]<div style=\"text-align: center;\">[[Pouch]]
+        |Holds 200 [[pollen]].
+        |{{Cost|Honey|0| (Default bag)}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Jar.png|70px|center]]<div style=\"text-align: center;\">[[Jar]]
+        |Holds 750 [[pollen]].
+        |{{Cost|Honey|650}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Backpack.png|70px|center]]<div style=\"text-align: center;\">[[Backpack]]
+        |Holds 3,500 [[pollen]].
+        |{{Cost|Honey|5,500}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Canister.png|70px|center]]<div style=\"text-align: center;\">[[Canister]]
+        |Holds 10,000 [[pollen]].
+        * +30% [[System Page#Convert Rate|Convert Rate]]
+        |{{Cost|Honey|22,000}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Mega-Jug.png|70px|center]]<div style=\"text-align: center;\">[[Mega-Jug]]
+        |Holds 25,000 [[pollen]].
+        * +40% [[System Page#Convert Rate|Convert Rate]]
+        |{{Cost|Honey|50,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Compressor.png|70px|center]]<div style=\"text-align: center;\">[[Compressor]]
+        |Holds 50,000 [[pollen]].
+        * +55% [[System Page#Convert Rate|Convert Rate]]
+        |{{Cost|Honey|160,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Elite Barrel.png|70px|center]]<div style=\"text-align: center;\">[[Elite
+        Barrel]]
+        |Holds 125,000 [[pollen]].
+        * +70% [[System Page#Convert Rate|Convert Rate]]
+        |{{Cost|Honey|650,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Port-O-Hive.png|70px|center]]<div style=\"text-align: center;\">[[Port-O-Hive]]
+        |Holds 250,000 [[pollen]].
+        * +100% [[System Page#Convert Rate|Convert Rate]]
+        * +5% [[Instant Conversion]].
+        |{{Cost|Honey|1,250,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Blue Port-O-Hive.png|70px|center]]<div style=\"text-align: center;\">[[Blue
+        Port-O-Hive]]
+        |Holds 350,000 [[pollen]].
+        * +150% [[System Page#Convert Rate|Convert Rate]]
+        * +10% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * +5% [[System Page#Blue Pollen|Blue Pollen]]
+        * +1 [[System Page#Blue Attack|Blue Bee Attack]]
+        |{{Cost|Honey|12,500,000}}<br>{{Cost|Blue Extract|2}}<br>{{Cost|Soft Wax|2}}
+        |[[Blue HQ]]
+        |-
+        |[[File:Red Port-O-Hive.png|70px|center]]<div style=\"text-align: center;\">[[Red
+        Port-O-Hive]]
+        |Holds 350,000 [[pollen]].
+        * +150% [[System Page#Convert Rate|Convert Rate]]
+        * +10% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * +5% [[System Page#Red Pollen|Red Pollen]]
+        * +1 [[System Page#Red Attack|Red Bee Attack]]
+        |{{Cost|Honey|12,500,000}}<br>{{Cost|Red Extract|2}}<br>{{Cost|Soft Wax|2}}
+        |[[Red HQ]]
+        |-
+        |[[File:Porcelain Port-O-Hive.png|70px|center]]<div style=\"text-align:
+        center;\">[[Porcelain Port-O-Hive]]
+        |Holds 500,000 [[pollen]].
+        * +250% [[System Page#Convert Rate|Convert Rate]]
+        * +10% [[Instant Conversion]]
+        * +50% [[System Page#White Pollen|White Pollen]]
+        * +10% [[System Page#Red Pollen|Red Pollen]]
+        * +10% [[System Page#Blue Pollen|Blue Pollen]]
+        * +1 [[System Page#Bee Attack|Bee Attack]]
+        |{{Cost|Honey|250,000,000}}<br>{{Cost|Glitter|3}}<br>{{Cost|Soft
+        Wax|3}}<br>{{Cost|Moon Charm|10}}
+        |[[Mountain Top Shop]]
+        |-
+        |[[File:Coconut Canister.png|70px|center]]<div style=\"text-align: center;\">[[Coconut
+        Canister]]
+        |Holds 1,000,000 [[pollen]].
+        * +400% [[System Page#Convert Rate|Convert Rate]]
+        * +10% [[Instant Conversion]]
+        * +10% [[System Page#Instant White Conversion|Instant White Conversion]]
+        * +100% [[System Page#White Pollen|White Pollen]]
+        * +5% [[Pollen]]
+        * +1 [[System Page#Bee Attack|Bee Attack]]
+        * [[Passive Abilities#Emergency Coconut Shield|+Passive: Emergency Coconut Shield]]
+        * [[Passive Abilities#Inspire Coconuts|+Passive: Inspire Coconuts]]
+        |{{Cost|Honey|{{Hover|25B|25,000,000,000}}}}<br>{{Cost|Tropical
+        Drink|150}}<br>{{Cost|Coconut|150}}<br>{{Cost|Red
+        Extract|150}}<br>{{Cost|Blue Extract|150}}
+        |[[Coconut Cave]]
+        |}
+
+        |-|
+
+        Hats/Masks=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Hat/Mask
+        ! style=\"width:30%\" |Description
+        ! style=\"width:27%\" |Cost/Requirements
+        !Source
+        |-
+        |[[File:Helmet.png|70px|center]]<div style=\"text-align: center;\">[[Helmet]]
+        |A hard hat that helps prevent head injuries.
+        * +10% [[Pollen]]
+        * +25% [[System Page#Defense|Defense]]
+        |{{Cost|Honey|30,000}}<br>{{Cost|Pineapple|5}}<br>{{Cost|Moon Charm|1}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Strange Goggles.png|70px|center]]<div style=\"text-align: center;\">[[Strange
+        Goggles]]
+        |This futuristic looking headset doesn't seem to do very much...
+        * +77 [[System Page#Capacity|Capacity]]
+        * +7% [[System Page#Defense|Defense]]
+        |{{Cost|Honey|77}}<br>{{Cost|Micro-Converter|1}}<br>{{Cost|7-Pronged Cog|7}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Propeller Hat.png|70px|center]]<div style=\"text-align: center;\">[[Propeller
+        Hat]]
+        |A playful hat that keeps the sun out of your eyes.
+        * +15% [[Pollen]]
+        * +5% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        * +10% [[System Page#Defense|Defense]]
+        * +10 [[System Page#Jump Power|Jump Power]]
+        |{{Cost|Honey|2,500,000}}<br>{{Cost|Gumdrops|25}}<br>{{Cost|Pineapple|100}}<br>{{Cost|Moon
+        Charm|5}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Beekeeper's Mask.png|70px|center]]<div style=\"text-align:
+        center;\">[[Beekeeper's Mask]]
+        |A veiled hat only worn by real-deal beekeepers.
+        * +20% [[Pollen]]
+        * +20% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        * +10% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        * +25% [[System Page#Defense|Defense]]
+        |{{Cost|Honey|20,000,000}}<br>{{Cost|Enzymes|5}}<br>{{Cost|Glue|3}}<br>{{Cost|Glitter|1}}
+        |[[Mountain Top Shop]]
+        |-
+        |[[File:Honey Mask.png|70px|center]]<div style=\"text-align: center;\">[[Honey Mask]]
+        |This handsome mask is guaranteed to bring satisfaction into your life.
+        * +25% [[Pollen]]
+        * +25% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        * x1.25 [[System Page#Capacity Multiplier|Capacity]]
+        * +50% [[System Page#Honey From Tokens|Honey From Tokens]]
+        * +80 [[System Page#Convert Amount|Convert Amount]]
+        * +30% [[System Page#Defense|Defense]]
+        * +15% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        * [[Passive Abilities#Coin Scatter|+Passive: Coin Scatter]]
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Treat|9,999}}<br>{{Cost|Oil|50}}<br>{{Cost|Enzymes|25}}<br>{{Cost|Gold
+        Egg|5}}
+        |[[Badge Bearer's Guild]]
+        |-
+        |[[File:Fire Mask.png|70px|center]]<div style=\"text-align: center;\">[[Fire Mask]]
+        |Ignite your mind to enhance your Red bees.
+        * x1.5 [[System Page#Red Pollen|Red Pollen]]
+        * +15% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * x1.25 Capacity
+        * +50% Instant Flame Conversion
+        * +2 [[System Page#Red Attack|Red Bee Attack]]
+        * +35% [[System Page#Defense|Defense]]
+        * +15% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        * [[Passive Abilities#Ignite|+Passive: Ignite]]
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Strawberry|500}}<br>{{Cost|Red
+        Extract|50}}<br>{{Cost|Enzymes|25}}<br>{{Cost|Glue|15}}
+        |[[Red HQ]]
+        |-
+        |[[File:Bubble Mask.png|70px|center]]<div style=\"text-align: center;\">[[Bubble Mask]]
+        |Harness the power of the sea to enhance your Blue Pollen gathering.
+        *x1.5 [[System Page#Blue Pollen|Blue Pollen]]
+        *x1.5 [[Capacity]]
+        *x1.25 [[Field Capacity|Blue Field Capacity]]
+        *x1.25 [[Bubble#Bubble Pollen|Bubble Pollen]]
+        *+30% [[System Page#Defense|Defense]]
+        *+15% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        *[[Passive Abilities#Bubble Bombs|+Passive: Bubble Bombs]]
+        |{{Cost|Honey|100,000,000}}<br>{{Cost|Blueberry|500}}<br>{{Cost|Blue
+        Extract|50}}<br>{{Cost|Oil|25}}<br>{{Cost|Glitter|15}}
+        |[[Blue HQ]]
+        |-
+        |[[File:Gummy Mask.png|70px|center]]<div style=\"text-align: center;\">[[Gummy Mask]]
+        |The official mask of a Gummy Soldier.
+        * +75% [[System Page#Goo|Goo]]
+        * +10% [[System Page#Goo Conversion|Goo Conversion]]
+        * x1.25 [[System Page#White Pollen|White Pollen]]
+        * +25% [[Pollen]]
+        * x1.5 Capacity
+        * x1.5 [[Field Capacity|White Field Capacity]]
+        * +30% [[System Page#Defense|Defense]]
+        * +20% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        * +Passive: [[Coin Scatter]] (Need Honey Mask)
+        * [[Passive Abilities#Gummy Morph|+Passive: Gummy Morph]]
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Glue|250}}<br>{{Cost|Enzymes|100}}<br>{{Cost|Oil|100}}<br>{{Cost|Glitter|100}}<br>{{Cost|Satisfying
+        Vial|1}}
+        |[[Gummy Bear's Lair]]
+        |-
+        |[[File:Demon Mask.png|70px|center]]<div style=\"text-align: center;\">[[Demon Mask]]
+        |Embrace hate to take on the form of a Demon Bee. Become both extremely unpleasant and
+        powerful.
+        * x1.5 [[System Page#Red Pollen|Red Pollen]]
+        * +25% [[Pollen]]
+        * +15% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * x1.5 Red Field Capacity
+        * x1.5 Capacity
+        * x1.25 Flame Pollen
+        * +50% Instant Flame Conversion
+        * +25% [[System Page#Attack Multiplier|Bee Attack]]
+        * +35% [[System Page#Defense|Defense]]
+        * +20% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        * +Passive: Ignite (Need Fire Mask)
+        * [[Passive Abilities#X-Flame|+Passive: X-Flame]]
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Stinger|500}}<br>{{Cost|Red
+        Extract|250}}<br>{{Cost|Enzymes|150}}<br>{{Cost|Glue|100}}<br>{{Cost|Invigorating
+        Vial|1}}
+        |[[Obstacle Courses#Lava Obby|Lava Obby]]
+        |-
+        |[[File:Diamond Mask.png|70px|center]]<div style=\"text-align: center;\">[[Diamond
+        Mask]]
+        |Proudly show your extreme wealth to the world. Shine so brightly that others will complain.
+        * x1.5 [[System Page#Blue Pollen|Blue Pollen]]
+        * +25% [[Pollen]]
+        * +15% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * x2 [[System Page#Pollen From Bubbles|Bubble Pollen]]
+        * x3 [[System Page#Capacity Multiplier|Capacity]]
+        * +35% [[System Page#Defense|Defense]]
+        * +20% [[System Page#Bee Ability Rate|Bee Ability Rate]]
+        * +Passive: [[Passive Abilities|Bubble Bombs]] (Needs Bubble Mask)
+        * [[Passive Abilities#Diamond Drain|+Passive: Diamond Drain]]
+        |{{Cost|Honey|{{Hover|5B|5,000,000,000}}}}<br>{{Cost|Blue
+        Extract|250}}<br>{{Cost|Oil|150}}<br>{{Cost|Glitter|100}}<br>{{Cost|Diamond
+        Egg|5}}<br>{{Cost|Comforting Vial|1}}
+        |[[Obstacle Courses#Cloud Obby|Cloud Obby]]
+        |-
+        |[[File:Bubble Bee Man Mask.png|70px|center]]<div style=\"text-align: center;\">[[Bubble
+        Bee Man Mask]]
+        |
+        * +75,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +25 [[System Page#Convert Amount|Convert Amount]]
+        * +50% [[System Page#Honey From Tokens|Honey From Tokens]]
+        * +1 [[System Page#Blue Attack|Blue Bee Attack]]
+        |Not craftable and not purchasable.
+        |[[Bubble Bee Man]]
+        |-
+        |[[File:Mondo Bubble Bee Man Mask.png|70px|center]]<div style=\"text-align:
+        center;\">[[Mondo Bubble Bee Man Mask]]
+        |
+        * +250,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +50 [[System Page#Convert Amount|Convert Amount]]
+        * +100% [[System Page#Honey From Tokens|Honey From Tokens]]
+        * +1 [[System Page#Bee Attack|Bee Attack]]
+        |Not craftable and not purchasable.
+        |[[Bubble Bee Man]]
+        |
+        |}
+
+        |-|
+
+        Guards=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Guard
+        ! style=\"width:30%\" |Description
+        ! style=\"width:27%\" |Cost/Requirement
+        !Source
+        |-
+        |[[File:Brave Guard.png|70px|center]]<div style=\"text-align: center;\">[[Brave Guard]]
+        |A right shoulder pad crafted by a [[Brave Bee]].
+        * [Right Shoulder]
+        * +15,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +5% [[System Page#White Pollen|White Pollen]]
+        * +1 [[System Page#Colorless Attack|Colorless Bee Attack]]
+        |{{Cost|Honey|300,000}}<br>{{Cost|Stinger|3}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Hasty Guard.png|70px|center]]<div style=\"text-align: center;\">[[Hasty Guard]]
+        |A right shoulder pad crafted by a [[Hasty Bee]].
+        * [Right Shoulder]
+        * +15,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +1% [[Stats#Speed|Bee Movespeed]]
+        * x1.1 [[System Page#Movespeed|Player Movespeed]]
+        |{{Cost|Honey|300,000}}<br>{{Cost|Moon Charm|5}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Bomber Guard.png|70px|center]]<div style=\"text-align: center;\">[[Bomber
+        Guard]]
+        |A left shoulder pad crafted by a [[Bomber Bee]].
+        * [Left Shoulder]
+        * +15,000 [[System Page#Capacity Multipler|Capacity]]
+        * +5% [[System Page#White Pollen|White Pollen]]
+        * +15% [[System Page#Bomb Pollen|Bomb Pollen]]
+        |{{Cost|Honey|300,000}}<br>{{Cost|Sunflower Seed|25}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Looker Guard.png|70px|center]]<div style=\"text-align: center;\">[[Looker
+        Guard]]
+        |A left shoulder pad crafted by a [[Looker Bee]].
+        * [Left Shoulder]
+        * +15,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +1% [[System Page#Critical Chance|Critical Chance]]
+        * +25% [[System Page#Critical Power|Critical Power]]
+        |{{Cost|Honey|300,000}}<br>{{Cost|Sunflower Seed|25}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Blue Guard.png|70px|center]]<div style=\"text-align: center;\">[[Blue Guard]]
+        |A durable pad worn on the right shoulder of Blue Beekeepers.
+        * [Right Shoulder]
+        * +25,000 [[System Page#Capacity Multipler|Capacity]]
+        * +15% [[System Page#Blue Pollen|Blue Pollen]]
+        * +5% [[System Page#Defense|Defense]]
+        * +1 [[System Page#Blue Attack|Blue Bee Attack]]
+        |{{Cost|Honey|1,000,000}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Royal
+        Jelly|1}}<br>{{Cost|Moon Charm|3}}
+        |[[Blue HQ]]
+        |-
+        |[[File:Elite Blue Guard.png|70px|center]]<div style=\"text-align: center;\">[[Elite
+        Blue Guard]]
+        |A Blue Guard reserved for the most dedicated Blue Beekeepers.
+        * [Right Shoulder]
+        * +75,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +25% [[System Page#Blue Pollen|Blue Pollen]]
+        * +7% [[System Page#Defense|Defense]]
+        * +50% [[System Page#Critical Power|Critical Power]]
+        * +1 [[System Page#Blue Attack|Blue Bee Attack]]
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Blue
+        Extract|3}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Royal
+        Jelly|5}}<br>{{Cost|Moon Charm|15}}
+        |[[Blue HQ]]
+        |-
+        |[[File:Bucko Guard.png|70px|center]]<div style=\"text-align: center;\">[[Bucko Guard]]
+        |A piece of armor forged by the leader of the Blue Bees!
+        * [Right Shoulder]
+        * +150,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +35% [[System Page#Blue Pollen|Blue Pollen]]
+        * +10% [[System Page#Defense|Defense]]
+        * +75% [[System Page#Critical Power|Critical Power]]
+        * +2 [[System Page#Blue Attack|Blue Bee Attack]]
+        |{{Cost|Honey|30,000,000}}<br>{{Cost|Blue
+        Extract|10}}<br>{{Cost|Blueberry|100}}<br>{{Cost|Glue|5}}<br>{{Cost|Moon
+        Charm|75}}
+        |[[Blue HQ]]
+        |-
+        |[[File:Red Guard.png|70px|center]]<div style=\"text-align: center;\">[[Red Guard]]
+        |A durable pad worn on the left shoulder of Red Beekeepers.
+        * [Left Shoulder]
+        * +25,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +15% [[System Page#Red Pollen|Red Pollen]]
+        * +5% [[System Page#Defense|Defense]]
+        * +1 [[System Page#Red Attack|Red Bee Attack]]
+        |{{Cost|Honey|750,000}}<br>{{Cost|Strawberry|50}}<br>{{Cost|Royal
+        Jelly|1}}<br>{{Cost|Stinger|1}}
+        |[[Red HQ]]
+        |-
+        |[[File:Elite Red Guard.png|70px|center]]<div style=\"text-align: center;\">[[Elite Red
+        Guard]]
+        |A Red Guard reserved for the most dedicated Red Beekeepers.
+        * [Left Shoulder]
+        * +75,000 [[System Page#Capacity Multipler|Capacity]]
+        * +25% [[System Page#Red Pollen|Red Pollen]]
+        * +7% [[System Page#Defense|Defense]]
+        * +5% [[System Page#Critical Chance|Critical Chance]]
+        * +1 [[System Page#Red Attack|Red Bee Attack]]
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Red
+        Extract|3}}<br>{{Cost|Strawberry|50}}<br>{{Cost|Royal
+        Jelly|5}}<br>{{Cost|Stinger|5}}
+        |[[Red HQ]]
+        |-
+        |[[File:Riley Guard.png|70px|center]]<div style=\"text-align: center;\">[[Riley Guard]]
+        |A piece of armor forged by the leader of the Red Bees!
+        * [Left Shoulder]
+        * +150,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +35% [[System Page#Red Pollen|Red Pollen]]
+        * +10% [[System Page#Defense|Defense]]
+        * +8% [[System Page#Critical Chance|Critical Chance]]
+        * +2 [[System Page#Red Attack|Red Bee Attack]]
+        |{{Cost|Honey|30,000,000}}<br>{{Cost|Red
+        Extract|10}}<br>{{Cost|Strawberry|100}}<br>{{Cost|Glue|5}}<br>{{Cost|Stinger|25}}
+        |[[Red HQ]]
+        |-
+        |[[File:Cobalt Guard.png|70px|center]]<div style=\"text-align: center;\">[[Cobalt
+        Guard]]
+        |A guard bestowed with the heroic power of Cobalt Bee - Defender of the Blue Bees.
+        * [Right Shoulder]
+        * +250,000 [[System Page#Capacity Multipler|Capacity]]
+        * +50% [[System Page#Blue Pollen|Blue Pollen]]
+        * +20% [[System Page#Blue Bomb Pollen|Blue Bomb Pollen]]
+        * +3 [[System Page#Blue Attack|Blue Bee Attack]]
+        * +10% [[System Page#Defense|Defense]]
+        * +100% [[System Page#Critical Power|Critical Power]]
+        * [[Passive Abilities#Haste Pulser|+Passive: Haste Pulser]]
+        |{{Cost|Honey|200,000,000}}<br>{{Cost|Blue
+        Extract|100}}<br>{{Cost|Stinger|100}}<br>{{Cost|Enzymes|50}}<br>{{Cost|Glitter|25}}
+        |[[Badge Bearer's Guild]]
+        |-
+        |[[File:Crimson Guard.png|70px|center]]<div style=\"text-align: center;\">[[Crimson
+        Guard]]
+        |A guard bestowed with the heroic power of Crimson Bee - Defender of the Red Bees.
+        * [Left Shoulder]
+        * +250,000 [[System Page#Capacity Multipler|Capacity]]
+        * +50% [[System Page#Red Pollen|Red Pollen]]
+        * +20% [[System Page#Red Bomb Pollen|Red Bomb Pollen]]
+        * +3 [[System Page#Red Attack|Red Bee Attack]]
+        * +10% [[System Page#Defense|Defense]]
+        * +10% [[System Page#Critical Chance|Critical Chance]]
+        * [[Passive Abilities#Focus Pulser|+Passive: Focus Pulser]]
+        |{{Cost|Honey|200,000,000}}<br>{{Cost|Red
+        Extract|100}}<br>{{Cost|Stinger|100}}<br>{{Cost|Oil|50}}<br>{{Cost|Glitter|25}}
+        |[[Badge Bearer's Guild]]
+        |}
+
+        |-|
+
+        Belts=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Belt
+        ! style=\"width:30%\" |Description
+        ! style=\"width:27%\" |Cost/Requirements
+        !Source
+        |-
+        |[[File:Belt Pocket.png|70px|center]]<div style=\"text-align: center;\">[[Belt Pocket]]
+        |Attaches to your waist to expand the size of your container.
+        * +5,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +10 [[System Page#Convert Amount|Convert Amount]]
+        * +15% [[Loot Luck]]
+        |{{Cost|Honey|14,000}}<br>{{Cost|Sunflower Seed|10}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Belt Bag.png|70px|center]]<div style=\"text-align: center;\">[[Belt Bag]]
+        |
+        A convenient pouch designed for easy access.
+        * +25,000 [[System Page#Capacity Multipler|Capacity]]
+        * +20 [[System Page#Convert Amount|Convert Amount]]
+        * +50% [[Loot Luck]]
+        |{{Cost|Honey|440,000}}<br>{{Cost|Pineapple|50}}<br>{{Cost|Sunflower
+        Seed|50}}<br>{{Cost|Stinger|3}}
+        |[[Pro Shop]] or [[Sun Bear]]
+        |-
+        |[[File:Mondo Belt Bag.png|70px|center]]<div style=\"text-align: center;\">[[Mondo Belt
+        Bag]]
+        |A highly-embelished Belt Bag imported from a far away land.
+        * +100,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +50 [[System Page#Convert Amount|Convert Amount]]
+        * +75% [[Loot Luck]]
+        |{{Cost|Honey|12,400,000}}<br>{{Cost|Soft
+        Wax|1}}<br>{{Cost|Pineapple|150}}<br>{{Cost|Sunflower
+        Seed|150}}<br>{{Cost|Stinger|10}}
+        |[[Mountain Top Shop]] or [[Sun Bear]]
+        |-
+        |[[File:Honeycomb Belt.png|70px|center]]<div style=\"text-align: center;\">[[Honeycomb
+        Belt]]
+        |A luxurious faux honeycombs you can wear as a belt to greatly enhance your pollen capacity.
+        * +150,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +25% Capacity
+        * +75 [[System Page#Convert Amount|Convert Amount]]
+        * +100% [[Loot Luck]]
+        * +20% [[System Page#Buzz Bomb Pollen|Buzz Bomb Pollen]]
+        * +50% [[System Page#Honey From Tokens|Honey From Tokens]]
+        * +1 [[System Page#Colorless Attack|Colorless Bee Attack]]
+        |{{Cost|Honey|75,000,000}}<br>{{Cost|Enzymes|50}}<br>{{Cost|Glue|50}}<br>{{Cost|Oil|25}}
+        |[[Badge Bearer's Guild]]
+        |-
+        |[[File:Petal Belt.png|70px|center]]<div style=\"text-align: center;\">[[Petal Belt]]
+        |Drape these petals about your waist to harness unlimited flower power.
+        * +250,000 [[System Page#Capacity Multiplier|Capacity]]
+        * +50% Capacity
+        * +100 [[System Page#Convert Amount|Convert Amount]]
+        * +100% [[Loot Luck]]
+        * +75% [[System Page#Honey From Tokens|Honey From Tokens]]
+        * +25% [[System Page#Buzz Bomb Pollen|Buzz Bomb Pollen]]
+        * +1 [[System Page#Colourless Attack|Colorless Bee Attack]]
+        * [[Passive Abilities#Petal Storm|+Passive: Petal Storm]]
+        |{{Cost|Honey|{{Hover|15B|15,000,000,000}}}}<br>{{Cost|Star
+        Jelly|25}}<br>{{Cost|Glitter|50}}<br>{{Cost|Glue|100}}<br>{{Cost|Spirit
+        Petal|1}}
+        |[[Petal Shop]]
+        |-
+        |[[File:Coconut Belt.png|70px|center]]<div style=\"text-align: center;\">[[Coconut
+        Belt]]
+        |This cumberbund creates Combo Coconuts that can be juggled for massive boosts!
+        * +350,000 Capacity
+        * +75% Capacity
+        * +120 Convert Amount
+        * +102% Loot Luck
+        * +100% Honey From Tokens
+        * x1.1 Coconut Field Pollen
+        * +10% Gifted Bee Pollen
+        * +1 Bee Attack
+        * +Passive Petal Storm (Needs [[Petal Belt]])
+        * +Passive Combo Coconuts
+        |{{Cost|Honey|{{Hover|7.5T|7,500,000,000,000}}}}<br>{{Cost|Coconut|500}}<br>{{Cost|Tropical
+        Drink|1,500}}<br>{{Cost|Purple Potion|200}}<br>{{Cost|Hard
+        Wax|200}}<br>{{Cost|Turpentine|3}}<br>{{Cost|Refreshing Vial|3}}
+        |[[Coconut Cave]]
+        |}
+
+        |-|
+
+        Boots=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Boots
+        ! style=\"width:30%\" |Description
+        ! style=\"width:10%\" |Cost/Requirements
+        !Source
+        |-
+        |[[File:Basic Boots.png|70px|center]]<div style=\"text-align: center;\">[[Basic Boots]]
+        |Collect pollen as you walk through flowers!
+        * +5 [[System Page#Movespeed|Player Movespeed]]
+        * +2 [[Movement Collection]]
+        |{{Cost|Honey|4,400}}<br>{{Cost|Sunflower Seed|3}}<br>{{Cost|Blueberry|3}}
+        |[[Noob Shop]]
+        |-
+        |[[File:Hiking Boots.png|70px|center]]<div style=\"text-align: center;\">[[Hiking
+        Boots]]
+        |A durable pair of boots helpful for traversing the mountain.
+        * +6 [[System Page#Movespeed|Player Movespeed]]
+        * +10 [[System Page#Jump Power|Jump Power]]
+        * +6 [[Movement Collection]]
+        |{{Cost|Honey|2,200,000}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Strawberry|50}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Beekeeper's Boots.png|70px|center]]<div style=\"text-align:
+        center;\">[[Beekeeper's Boots]]
+        |Practical and stylish boots that aid in the beekeeping process.
+        * +20% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        * +8 [[System Page#Movespeed|Player Movespeed]]
+        * +20 [[System Page#Jump Power|Jump Power]]
+        * +10 [[Movement Collection]]
+        |{{Cost|Honey|15,000,000}}<br>{{Cost|Oil|5}}<br>{{Cost|Red
+        Extract|3}}<br>{{Cost|Blue Extract|3}}
+        |[[Mountain Top Shop]]
+        |-
+        |[[File:Coconut Clogs.png|70px|center]]<div style=\"text-align: center;\">[[Coconut
+        Clogs]]
+        |Kick around Coconuts with a pair of clunky kicks for a surge of speed.
+        * x2 Pollen From Coconuts
+        * +10% [[Pollen]]
+        * x1.5 [[System Page#Hive Convert Rate|Convert Rate At Hive]]
+        * +5% [[System Page#Bee Attack|Bee Attack]]
+        * +25% [[System Page#Honey From Tokens|Honey From Tokens]]
+        * +10 [[System Page#Movespeed|Player Movespeed]]
+        * +22 [[System Page#Jump Power|Jump Power]]
+        * +12 [[Movement Collection]]
+        * [[Passive Abilities#Coconut Haste|+Passive: Coconut Haste]]
+        |{{Cost|Honey|{{Hover|10B|10,000,000,000}}}}<br>{{Cost|Coconut|150}}<br>{{Cost|Tropical
+        Drink|50}}<br>{{Cost|Glue|100}}<br>{{Cost|Oil|100}}<br>{{Cost|Refreshing
+        Vial|1}}
+        |[[Coconut Cave]]
+        |-
+        |[[File:Gummy Boots.png|70px|center]]<div style=\"text-align: center;\">[[Gummy Boots]]
+        |Squishy boots that leave a trail of Goo wherever you go.
+        * +25% [[Goo]]
+        * +10% [[Pollen]]
+        * x2 [[System Page#Hive Convert Rate|Convert Rate At Hive]]
+        * +10% [[System Page#Bee Attack|Bee Attack]]
+        * +50% [[System Page#Honey From Tokens|Honey From Tokens]]
+        * +10 [[System Page#Movespeed|Player Movespeed]]
+        * +22 [[System Page#Jump Power|Jump Power]]
+        * +15 [[Movement Collection]]
+        * +Passive: Coconut Haste
+        * [[Passive Abilities#Goo Trail|+Passive: Goo Trail]]
+        |
+        {{Cost|Honey|{{Hover|100B|100,000,000,000}}}}<br>{{Cost|Glue|500}}<br>{{Cost|Glitter|250}}<br>{{Cost|Red
+        Extract|250}}<br>{{Cost|Blue Extract|250}}<br>{{Cost|Satisfying
+        Vial|1}}<br>{{Cost|Motivating Vial|1}}
+        |[[Gummy Bear's Lair]]
+        |}
+
+        |-|
+
+        Gliding Tools=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Gliding Tool
+        ! style=\"width:30%\" |Description
+        ! style=\"width:10%\" |Cost
+        !Source
+        |-
+        |[[File:Parachute.png|70px|center]]<div style=\"text-align: center;\">[[Parachute]]
+        |A parachute you can use to glide down the mountain and reach new places! Press jump while
+        in the air to open.
+        |{{Cost|Honey|500,000}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Glider.png|70px|center]]<div style=\"text-align: center;\">[[Glider]]
+        |Floats much faster than the [[Parachute]], allowing you to fly through the sky!
+        Press jump while in the air to open.
+        |{{Cost|Honey|5,000,000}}
+        |[[Mountain Top Shop]]
+        |}
+
+        |-|
+
+        Planters=
+
+        {|class=\"article-table\"
+        ! style=\"text-align: center\" |Planter
+        ! style=\"width:30%\" |Description
+        ! style=\"width:27%\" |Cost/Requirement
+        !Source
+        |-
+        |[[File:Paper Planter.png|70px|center]]<div style=\"text-align: center;\">{{Color|Paper
+        Planter}}
+        |When placed in a flower field, this grows in about 1 hour of playtime. Harvest it to gain
+        around 50,000 [[Pollen]]. random items. and Nectar boosts!
+        |{{Cost|Honey|25,000}}<br>{{Cost|Sunflower Seed|1}}
+        |[[Pro Shop]]
+        |-
+        |[[File:Ticket Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Ticket Planter}}
+        |Grows in about 2 hours of playtime. Grants tickets and spawns a [[Puffshroom]]!
+        |None
+        |Using the [[Samovar]], buying it for {{Cost|Snowflake|100}} in Bee Bear's Catalog,
+        completing certain quests.
+        |-
+        |[[File:Festive Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Festive Planter}}
+        |Grows in about 4 hours of playtime, grants many rewards and 3x nectar!
+        |None
+        |Completing certain quests of npcs during beesmas 2021, Bee Bear's Catalog.
+        |-
+        |[[File:Sticker Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Sticker Planter}}
+        |Grows in about 3 hours of playtime. Always grants some Stickers and spawns a Puffshroom
+        (Rare+)!
+        |None
+        |[[Sticker-Seeker Quest Machine]], [[Robux Shop]], Sticker [[Sprout]]
+        |-
+        |[[File:Plastic Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Plastic Planter}}
+        |A reusable planter that grows in about 2 hours. Stores around 250k [[Pollen]]. Harvest to
+        collect random Items and Nectar boosts!
+        |{{Cost|Honey|750,000}}<br>{{Cost|Magic Bean|3}}<br>{{Cost|Soft Wax|1}}
+        |[[Dapper Bear's Shop]]
+        |-
+        |[[File:Candy Planter.png|70px|center]]<div style=\"text-align: center;\">{{Color|Candy
+        Planter}}
+        |Alone, grows in about 4 hours and stores around 1 million [[Pollen]]. Grants bonus
+        [[Gumdrops]] and [[Jelly Beans]]. • Grows 25% faster in the [[Strawberry Field]],
+        [[Pineapple Patch]], and [[Coconut Field]]. • Gives 10% bonus White [[Pollen]] from
+        harvests. • Grants +20% Motivating [[Nectar]].
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Magic
+        Bean|5}}<br>{{Cost|Gumdrops|30}}<br>{{Cost|Jelly Beans|3}}<br>{{Cost|Soft
+        Wax|5}}
+        |[[Dapper Bear's Shop]]
+        |-
+        |[[File:Tacky Planter.png|70px|center]]<div style=\"text-align: center;\">{{Color|Tacky
+        Planter}}
+        |
+        Alone, grows in about 8 hours. Stores around 15 million Pollen. Grants bonus [[Field Dice]]
+        and [[Sunflower Seeds]].
+        • Grows 25% faster and grants 100% [[Pollen]] on harvest in the starting zone.
+        • Grants +25% Satisfying [[Nectar]] and Comforting Nectar.
+        |{{Cost|Honey|50,000,000}}<br>{{Cost|Magic Bean|10}}<br>{{Cost|Purple
+        Potion|1}}<br>{{Cost|Hard Wax|5}}<br>{{Cost|Soft Wax|20}}
+        |[[Dapper Bear's Shop]]
+        |-
+        |[[File:Pesticide Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Pesticide Planter}}
+        |Alone, grows in about 10 hours. Stores around 200 million Pollen. Grants bonus
+        Bitterberries and Neonberries. • Grows 30% faster and grants +50% pollen on harvest in the 5
+        bee zone. • Bees with mutations are 25% more likely to sip [[Nectar]] from this. • Grants
+        +30% Satisfying and Motivating [[Nectar]].
+        |{{Cost|Honey|750,000,000}}<br>{{Cost|Magic
+        Bean|25}}<br>{{Cost|Neonberry|25}}<br>{{Cost|Glue|15}}<br>{{Cost|Caustic
+        Wax|3}}<br>{{Cost|Hard Wax|10}}
+        |[[Dapper Bear's Shop]]
+        |-
+        |[[File:Blue Clay Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Blue Clay Planter}}
+        |Alone, grows in around 6 hours. Stores around 3 million pollen. Grants bonus [[Blue
+        Extract]], [[Micro-Converter]] and [[Honeysuckle]]. • Grows up to 25% faster in fields with
+        blue flowers. • Gives 50% bonus blue pollen from harvests. • Blue bees are 25% more likely
+        to sip [[Nectar]] from this. • Grants +20% Refreshing and Comforting [[Nectar]].
+        |{{Cost|Honey|10,000,000}}<br>{{Cost|Magic Bean|5}}<br>{{Cost|Blue
+        Extract|15}}<br>{{Cost|Soft Wax|20}}
+        | [[Blue HQ]]
+        |-
+        |[[File:Red Clay Planter.png|70px|center]]<div style=\"text-align: center;\">{{Color|Red
+        Clay Planter}}
+        |Alone, grows in around 6 hours. Stores around 3 million pollen. Grants bonus [[Red
+        Extract]] and [[Wax]] • Grows up to 25% faster in fields with Red flowers. • Gives 50% bonus
+        red pollen from harvests. • Red bees are 25% more likely to sip [[Nectar]] from this. •
+        Grants +20% Invigorating and Satisfying [[Nectar]].
+        |{{Cost|Honey|10,000,000}}<br>{{Cost|Magic Bean|5}}<br>{{Cost|Red
+        Extract|15}}<br>{{Cost|Soft Wax|20}}
+        | [[Red HQ]]
+        |-
+        |[[File:Heat-Treated Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Heat-Treated Planter}}
+        |Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants Red Extracts and
+        Enzymes.
+        |{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Magic
+        Bean|75}}<br>{{Cost|Red Extract|750}}<br>{{Cost|Hard
+        Wax|150}}<br>{{Cost|Swirled Wax|25}}<br>{{Cost|Turpentine|1}}
+        | [[Red HQ]]
+        |-
+        |[[File:Hydroponic Planter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Hydroponic Planter}}
+        |Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants bonus Blue Extract
+        and Oils.
+        |{{Cost|Honey|{{Hover|750B|750,000,000,000}}}}<br>{{Cost|Magic
+        Bean|75}}<br>{{Cost|Blue Extract|750}}<br>{{Cost|Soft
+        Wax|500}}<br>{{Cost|Caustic Wax|25}}<br>{{Cost|Turpentine|1}}
+        | [[Blue HQ]]
+        |-
+        |[[File:Petal Planter.png|70px|center]]<div style=\"text-align: center;\">{{Color|Petal
+        Planter}}
+        |Alone, grows in about 14 hours. Stores around 100 billion Pollen. Grants bonus [[Jelly
+        Beans]], [[Field Dice]] and [[Glitter]]. • Grows up to 50% faster in fields with white
+        flowers. • Colorless bees are 50% more likely to sip [[Nectar]] from this. • Grants +33%
+        bonus white pollen on harvest. • Grants +50% Comforting and Satisfying [[Nectar]].
+        |{{Cost|Honey|{{Hover|5T|5,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|100}}<br>{{Cost|Glitter|100}}<br>{{Cost|Soft
+        Wax|250}}<br>{{Cost|Swirled Wax|50}}<br>{{Cost|Super Smoothie|25}}
+        |[[Petal Shop]]
+        |-
+        |[[File:The Planter Of Plenty.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|The Planter Of Plenty}}
+        |Alone, grows in about 16 hours. Stores around 1 trillion Pollen. Grants many bonus items,
+        including Neonberries, Waxes and Turpentine. • Grows 50% faster and grants 50% more pollen
+        on harvest in the Pepper Patch, Stump, Coconut and Mountain Top fields. • Gifted bees are
+        50% more likely to sip nectar from this. • Grants +50% of all [[Nectar]] types.
+        |{{Cost|Honey|{{Hover|100T|100,000,000,000,000}}}}<br>{{Cost|Magic
+        Bean|500}}<br>{{Cost|Super Smoothie|100}}<br>{{Cost|Swirled
+        Wax|100}}<br>{{Cost|Caustic Wax|100}}<br>{{Cost|Turpentine|25}}
+        |[[Dapper Bear's Shop]]
+        |-|
+
+        Sprinklers=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Sprinkler
+        ! style=\"width:30%\" |Description
+        ! style=\"width:27%\" |Cost/Requirement
+        !Source
+        |-
+        |[[File:Basic Sprinkler.png|70px|center]]<div style=\"text-align: center;\">[[Basic
+        Sprinkler]]
+        |When planted in the ground, causes nearby flowers to regrow faster!
+        * Count: 1
+        * Radius: 7
+        * Power: 7
+        * Rate: 5 Seconds
+        * Setup: 6 Seconds
+        |{{Cost|Honey|1,111,111}}<br>15 Badges
+        |[[Badge Bearer's Guild]]
+        |-
+        |[[File:Silver Soakers.png|70px|center]]<div style=\"text-align: center;\">[[Silver
+        Soakers]]
+        |Two sprinklers which fire faster!
+        * Count: 2
+        * Radius: 7
+        * Power: 7
+        * Rate: 4.5 Seconds
+        * Setup: 5 Seconds
+        |{{Cost|Honey|22,222,222}}<br>10 Hotshot Badges
+        |[[Badge Bearer's Guild]]
+        |-
+        |[[File:Golden Gushers.png|70px|center]]<div style=\"text-align: center;\">[[Golden
+        Gushers]]
+        |Three gorgeous sprinklers with enormous range.
+        * Count: 3
+        * Radius: 8
+        * Power: 8
+        * Rate: 4.5 Seconds
+        * Setup: 5 Seconds
+        |{{Cost|Honey|333,333,333}}<br>10 Ace Badges
+        |[[Badge Bearer's Guild]]
+        |-
+        |[[File:Diamond Drenchers.png|70px|center]]<div style=\"text-align: center;\">[[Diamond
+        Drenchers]]
+        |Four enhanced sprinklers made of durable artificial diamond!
+        * Count: 4
+        * Radius: 8
+        * Power: 9
+        * Rate: 4 Seconds
+        * Setup: 4 Seconds
+        |{{Cost|Honey|{{Hover|4.44B|4,444,444,444}}}}<br>10 Master Badges
+        |[[Badge Bearer's Guild]]
+        |-
+        |[[File:The Supreme Saturator.png|70px|center]]<div style=\"text-align: center;\">[[The
+        Supreme Saturator]]
+        |The ultimate sprinkler. Nobody knows how it works or where it came from.
+        * Count: 1
+        * Radius: 16
+        * Power: 10
+        * Rate: 1 Second
+        * Setup: 3 Seconds
+        |{{Cost|Honey|{{Hover|55.5B|55,555,555,555}}}}<br>10 Grandmaster Badges
+        |[[Badge Bearer's Guild]]
+        |}
+
+        |-|
+
+        Misc. Items=
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Item
+        ! style=\"width:30%\" |Description
+        ! style=\"width:27%\" |Cost/Requirement
+        !Source
+        |-
+        |[[File:Smile sticker icon.png|70px|center]]<div style=\"text-align: center;\">[[Sticker
+        Book]]
+        |Stickers are cosmetics that you can stick to your hive! Some change the look of your hive
+        or cub buddy. Earn them from achievements, loot, trading, and more!
+        |None
+        | -
+        |-
+        |[[File:Beequip Case.png|70px|center]]<div style=\"text-align:
+        center;\">[[Beequip#Beequip Cases and Storage|Beequip Case]]
+        |Holds accessories for your bees to wear!
+        |None
+        |Talking to [[Dapper Bear]] for the first time
+        |-
+        |[[File:Ticket.png|70px|center]]<div style=\"text-align: center;\">{{Color|Ticket}}
+        |Used to activate and purchase special things!
+        |Varies
+        |[[Ticket Shop]], [[Robux Shop]], [[Memory Match]], [[Mythic Meteor Shower|Meteors]],
+        [[Mobs]], [[Honeystorm]], [[Sprout|Sprouts]]
+        |-
+        |[[File:Sprinkler builder.png|70px|center]]<div style=\"text-align:
+        center;\">[[Sprinkler|Sprinkler Builder]]
+        |Use while standing in flowers to place a Sprinkler.
+        |None
+        |Obtained after getting a [[Sprinkler]] from the [[Badge Bearer's Guild]]
+        |-
+        |[[File:Gumdrops.png|70px|center]]<div style=\"text-align: center;\">{{Color|Gumdrops}}
+        |Use while standing in a field to cover flowers in goo. [[Goo]] grants bonus honey.
+        |{{Cost|Ticket|1}} per 3
+        |[[Gumdrop Shop]], Blender, Memory Match, Meteors, [[Mobs]]
+        |-
+        |[[File:Coconut.png|thumbs|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Coconut}}
+        |Drops a huge Coconut into the field. Catch it to convert pollen to [[Ability Tokens#Honey
+        Gift|Honey Tokens]].
+        |Varies
+        |[[Coconut Crab]], [[Coconut Field]], [[Coconut Dispenser]], Memory Match, [[Cub Buddy]],
+        Sprouts, certain codes
+        |-
+        |[[File:Stinger.png|70px|center]]<div style=\"text-align: center;\">{{Color|Stinger}}
+        |Grants your bees x1.5 attack for 30 seconds.
+        |{{Cost|Ticket|10}}
+        |[[Rogue Vicious Bee]], Memory Match, [[Stinger Shop]]
+        |-
+        |[[File:Micro-Converter.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Micro-Converter}}
+        |Instantly converts all Pollen in your bag to Honey.
+        |None
+        |[[Quests]], Mobs, Memory Match, certain codes, Mondo Chick
+        |-
+        |[[File:Honeysuckle.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Honeysuckle}}
+        |Automatically makes bees instantly convert some Pollen into Honey when your bag becomes
+        full. (Cooldown 30s)
+        |None
+        |[[Samovar]], [[Ladybug|Ladybugs]], [[Planter|Planters]], [[Memory Match|Winter Memory
+        Match]]
+        |-
+        |[[File:Whirligig.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Whirligig}}
+        |Swiftly carries you and your bees back to your hive.
+        |None
+        |[[Planter|Planters]], [[Rhino Beetle]]
+        |-
+        |[[File:Field Dice.png|70px|center]]<div style=\"text-align: center;\">{{Color|Field
+        Dice}}
+        |Boosts a random field, granting +100% pollen for 15 minutes.
+        |{{Cost|Soft Wax|1}}<br>{{Cost|Whirligig|1}}<br>{{Cost|Red
+        Extract|1}}<br>{{Cost|Blue Extract|1}}
+        |[[Black Bear]]'s quests, mobs, certain codes, [[Memory Match]], [[Brown Bear]]'s quests,
+        [[Mythic Meteor Shower|Meteors]], [[Mondo Chick]], [[Blender]]
+        |-
+        |[[File:Smooth Dice.png|70px|center]]<div style=\"text-align: center;\">{{Color|Smooth
+        Dice}}
+        |Boosts 2 random fields with +200% pollen for 15 minutes.
+        |{{Cost|Field Dice|3}}<br>{{Cost|Soft
+        Wax|3}}<br>{{Cost|Whirligig|3}}<br>{{Cost|Oil|3}}
+        |[[Mantis]], [[King Beetle]], [[Blender]]
+        |-
+        |[[File:Loaded Dice.png|70px|center]]<div style=\"text-align: center;\">{{Color|Loaded
+        Dice}}
+        |Boosts 3 random fields with +300% pollen for 15 minutes. A bit biased towards the field
+        you're in...
+        |{{Cost|Smooth Dice|3}}<br>{{Cost|Hard
+        Wax|3}}<br>{{Cost|Oil|3}}<br>{{Cost|Glue|1}}
+        |[[Werewolf]], [[Tunnel Bear]], [[Blender]], [[Puffshroom|Puffshrooms]]
+        |-
+        |[[File:Jelly Beans.png|70px|center]]<div style=\"text-align: center;\">{{Color|Jelly
+        Beans}}
+        |Scatters various buff-granting beans on nearby flowers. Works best when shared.
+        |None
+        |Bears' Quests, [[Ant Challenge]], [[Memory Match]], [[Cub Buddy]] gifts,
+        [[Planter|Planters]]
+        |-
+        |[[File:Red Extract.png|70px|center]]<div style=\"text-align: center;\">{{Color|Red
+        Extract}}
+        |Grants x1.25 Red Pollen for 10 minutes.
+        |{{Cost|Strawberry|50}}<br>{{Cost|Royal Jelly|10}}
+        |[[Blender]], [[Memory Match]], [[Gifted Riley Bee]]'s quests, [[Ladybug]] (rare),
+        [[Planter|Planters]]
+        |-
+        |[[File:Blue Extract.png|70px|center]]<div style=\"text-align: center;\">{{Color|Blue
+        Extract}}
+        |Grants x1.25 Blue Pollen for 10 minutes.
+        |{{Cost|Blueberry|50}}<br>{{Cost|Royal Jelly|10}}
+        |[[Blender]], [[Memory Match]], [[Gifted Bucko Bee]]'s quests, [[Rhino Beetle]] (rare),
+        [[Planter|Planters]]
+        |-
+        |[[File:Glitter.png|70px|center]]<div style=\"text-align: center;\">{{Color|Glitter}}
+        |Boosts the field you're standing in, granting +100% pollen for 15 minutes.
+        |{{Cost|Moon Charm|25}}<br>{{Cost|Magic Bean|1}}
+        |Blender, Memory Match, Spirit Bear's Quests, Meteors, Mobs, [[Fireflies]],
+        [[Planter|Planters]]
+        |-
+        |[[File:Glue.png|70px|center]]<div style=\"text-align: center;\">{{Color|Glue}}
+        |Grants x1.25 Bee Gather Pollen and Tools for 10 minutes.
+        |{{Cost|Gumdrops|50}}<br>{{Cost|Royal Jelly|10}}
+        |[[Blender]], [[Glue Dispenser]], [[Memory Match]], [[Mobs]], Gummy [[Sprout]],
+        [[Planter|Planters]]
+        |-
+        |[[File:Oil.png|70px|center]]<div style=\"text-align: center;\">{{Color|Oil}}
+        |Grants x1.2 Bee and Player Movespeed for 10 minutes.
+        |{{Cost|Sunflower Seed|50}}<br>{{Cost|Royal Jelly|10}}
+        |[[Blender]], [[Memory Match]], [[Mobs]], [[Sprout|Sprouts]]
+        |-
+        |[[File:Enzymes.png|70px|center]]<div style=\"text-align: center;\">{{Color|Enzymes}}
+        |Grants +10% Instant Conversion and x1.25 Conversion Rate for 10 minutes.
+        |{{Cost|Pineapple|50}}<br>{{Cost|Royal Jelly|10}}
+        |[[Blender]], [[Memory Match]], [[Mobs]], [[Sprouts]]
+        |-
+        |[[File:Tropical Drink.png|thumbs|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Tropical Drink}}
+        |Grants x1.25 White Pollen and +5% Critical Chance for 10 minutes.
+        |{{Cost|Coconut|10}}<br>{{Cost|Enzymes|2}}<br>{{Cost|Oil|2}}
+        |Coconut Crab, Coconut Field, Memory Match, Blender, Sprout (in Coconut Field)
+        |-
+        |[[File:Purple Potion.png|70px|center]]<div style=\"text-align: center;\">{{Color|Purple
+        Potion}}
+        |Grants x1.25 Capacity, x1.25 Convert Rate At Hive, x1.5 Red Pollen, x1.5 Blue Pollen, x1.3
+        Bee Gather Pollen, and x1.3 Pollen From Tools for 15 minutes.
+        |{{Cost|Red Extract|3}}<br>{{Cost|Blue
+        Extract|3}}<br>{{Cost|Neonberry|3}}<br>{{Cost|Glue|3}}
+        |Blender, Black Bear's \"Mountain Mix\" quest, Tunnel Bear, King Beetle, Mythic Meteors
+        |-
+        |[[File:Super Smoothie.png|70px|center]]<div style=\"text-align: center;\">{{Color|Super
+        Smoothie}}
+        |Grants x1.5 Capacity, x1.6 Red Pollen, x1.6 Blue Pollen, x1.6 White Pollen, x1.4 Bee Gather
+        Pollen, x1.4 Pollen From Tools, x2 Convert Rate, x1.5 Convert Rate At Hive, +12% Instant
+        Conversion, +7% Critical Chance, x1.25 Bee Movespeed, and x1.25 Player Movespeed for 20
+        minutes.
+        |{{Cost|Neonberry|3}}<br>{{Cost|Star Jelly|3}}<br>{{Cost|Purple
+        Potion|3}}<br>{{Cost|Tropical Drink|6}}
+        |Blender, Tunnel Bear, Meteors, Diamond Aphid
+        |-
+        |[[File:Marshmallow Bee.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Marshmallow Bee}}
+        |50% White Pollen, +50% Capacity, and +250% Conversion Rate for 30 minutes.
+        |None
+        |[[Bears]]' Quests during the [[Egg Hunt 2019]] event (Currently unobtainable), Mondo Chick,
+        Codes
+        |-
+        |[[File:Magic Bean.png|70px|center]]<div style=\"text-align: center;\">{{Color|Magic
+        Bean}}
+        |Plants a random [[Sprout]] in the field you're standing in.
+        |{{Cost|Ticket|20}}
+        |[[Magic Bean Shop]], Robux Shop, Memory Match
+        |-
+        |[[File:Festive Bean.png|70px|center]]<div style=\"text-align: center;\">{{Color|Festive
+        Bean}}
+        |Plants a Festive Sprout in the field you're standing in.
+        |None
+        |Very rare chance from [[Ability Tokens#Festive Gift|Festive Gift]], certain [[Ornament
+        Presents]], gift boxes and packs during Beesmas.
+        |-
+        |[[File:Cloud Vial.png|thumbs|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Cloud Vial}}
+        |Summons a [[Clouds|Cloud]] in the field you're standing in. Lasts for 3 minutes.
+        |None
+        |Around the 35 area, [[Wild Windy Bee]], Memory Match and codes
+        |-
+        |[[File:Night Bell.png|70px|center]]<div style=\"text-align: center;\">{{Color|Night
+        Bell}}
+        |Summons [[Day/Night Cycle|nighttime]]. A [[Sprout|Moon sprout]] and [[Rogue Vicious Bee]]
+        are guaranteed to appear.
+        |None
+        |Robux Shop, [[Mobs]], Memory Match, Wind Shrine Badge reward
+        |-
+        |[[File:Box-O-Frogs.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Box-O-Frogs}}
+        |Summons 3 [[Frog]]s that last for 3 minutes.
+        |None
+        |Completing certain quests
+        |-
+        |[[File:Ant Pass.png|70px|center]]<div style=\"text-align: center;\">{{Color|Ant Pass}}
+        |Grants one attempt at the [[Ant Challenge]].
+        |{{Cost|Ticket|10}}
+        |Ant Pass Dispenser, Free Ant Pass Dispenser, Panda Bear Star Treat Quests
+        |-
+        |[[File:Robo Pass.png|70px|center]]<div style=\"text-align: center;\">{{Color|Robo
+        Pass}}
+        |Used to activate [[Robo Bear Challenge|Robo Bear's Challenge]].
+        |{{Cost|Ticket|50}}
+        |Robo Pass Dispenser, Free Robo Pass Dispenser, Mobs, Ant Challenge, Puffshrooms
+        |-
+        |[[File:Translator.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Translator}}
+        |A device used to decipher languages you don't understand.
+        |None
+        |[[Science Bear]]’s translator quests
+        |-
+        |[[File:Present.png|70px|center]]<div style=\"text-align: center;\">{{Color|Present}}
+        |A festively wrapped gift.
+        |None
+        |[[Bee Bear]] quests and other varied ways during the Beesmas event (Currently obtainable)
+        |-
+        |[[File:7-Pronged Cog.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|7-Pronged Cog}}
+        |A component used in mysterious electronics.
+        |None
+        |Redeeming certain [[Codes]]
+        |-
+        |[[File:Spirit Petal.png|thumbs|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Spirit Petal}}
+        |A delicate flower petal used in rituals.
+        |None
+        |[[Spirit Bear|Spirit Bear's]] quests.
+        |-
+        |[[File:Treat.png|70px|center]]<div style=\"text-align: center;\">{{Color|Treat}}
+        |Raises the [[Bond]] of a bee by 10.
+        |From {{Cost|Honey|100}} to {{Cost|Honey|10,000}}.
+        |[[Treat Shop]], certain [[:Category:Dispenser|Dispensers]], certain packs from the Robux
+        Shop, Mobs, Memory Match, Meteors
+        |-
+        |[[File:Atomic Treat.png|70px|center]]<div style=\"text-align: center;\">{{Color|Atomic
+        Treat}}
+        |Raises the Bond of a bee by 1,000 and grants a random mutation.
+        |None
+        |Meteor shower, [[Robo Bear Challenge]]
+        |-
+        |[[File:Star Treat.png|70px|center]]<div style=\"text-align: center;\">{{Color|Star
+        Treat}}
+        |Raises the Bond of a bee by 1,000 and transforms it into a [[Gifted Bee]].
+        |{{Cost|Ticket|1000}}
+        |[[Ticket Tent]], certain quests, Memory Match, drops from certain mobs (extremely rare)
+        |-
+        |[[File:Sunflower Seed.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Sunflower Seed}}
+        |Raises the Bond of a bee by 25.
+        |None
+        |Mobs, Memory Match, Sprouts, certain codes
+        |-
+        |[[File:Strawberry.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Strawberry}}
+        |Raises the Bond of a bee by 25.
+        |None
+        |Mobs, the [[Strawberry Dispenser]], Memory Match, Sprouts, certain codes
+        |-
+        |[[File:Pineapple.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Pineapple}}
+        |Raises the Bond of a bee by 25.
+        |None
+        |Mobs, the [[Treat Dispenser]], Memory Match, Sprouts, certain codes
+        |-
+        |[[File:Blueberry.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Blueberry}}
+        |Raises the Bond of a bee by 25.
+        |None
+        |Mobs, the [[Blueberry Dispenser]], Memory Match, Sprouts, certain codes
+        |-
+        |[[File:Bitterberry.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Bitterberry}}
+        |Raises the Bond of a bee by 100 and has a chance to grant a mutation.
+        |None
+        |Drops from certain mobs, certain quests, certain codes, Meteors
+        |-
+        |[[File:Neonberry.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Neonberry}}
+        |Raises the Bond of a bee by 500 and will make it [[Radiation|radioactive]] for a short
+        period of time.
+        |None
+        |Drops from certain mobs, certain quests, certain codes, Meteors
+        |-
+        |[[File:Moon.png|70px|center]]<div style=\"text-align: center;\">{{Color|Moon Charm}}
+        |Raises the Bond of a bee by 250.
+        |{{Cost|Pineapple|5}}<br>{{Cost|Gumdrops|5}}<br>{{Cost|Royal Jelly|1}}
+        |Blender, mobs, Memory Match, Moon Sprouts, Meteors, Fireflies
+        |-
+        |[[File:White Drive.png|70px|center]]<div style=\"text-align: center;\">{{Color|White
+        Drive}}
+        |Grants the following boosts during a single round of Robo Bear's Challenge:
+        * x1.25 White Pollen
+        * x1.25 White Field Capacity
+        * +1 White Bee Attack
+        |{{Cost|Honey|250,000}} (Increases every time)<br>{{Cost|Cog|50}}
+        |[[Robo Bear's Shop]], Robo Bear Challenge
+        |-
+        |[[File:Red Drive.png|70px|center]]<div style=\"text-align: center;\">{{Color|Red
+        Drive}}
+        |Grants the following boosts during a single round of Robo Bear's Challenge:
+        * x1.25 Red Pollen
+        * x1.25 Red Field Capacity
+        * +1 Red Bee Attack
+        |{{Cost|Honey|250,000}} (Increases every time)<br>{{Cost|Cog|50}}
+        |[[Robo Bear's Shop]], Robo Bear Challenge
+        |-
+        |[[File:Blue Drive.png|70px|center]]<div style=\"text-align: center;\">{{Color|Blue
+        Drive}}
+        |Grants the following boosts during a single round of Robo Bear's Challenge:
+        * x1.25 Blue Pollen
+        * x1.25 Blue Field Capacity
+        * +1 Blue Bee Attack
+        |{{Cost|Honey|250,000}} (Increases every time)<br>{{Cost|Cog|50}}
+        |[[Robo Bear's Shop]], Robo Bear Challenge
+        |-
+        |[[File:Glitched Drive.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Glitched Drive}}
+        |Grants the following boosts during a single round of Robo Bear's Challenge:
+        * x1.25 Pollen
+        * x1.25 Capacity
+        * +1 Bee Attack
+        |{{Cost|Honey|1,000,000}} (Increases every
+        time)<br>{{Cost|Cog|100}}<br>{{Cost|Red Drive|5}}<br>{{Cost|Blue
+        Drive|5}}<br>{{Cost|White Drive|5}}
+        |[[Robo Bear's Shop]], Robo Bear Challenge
+        |-
+        |[[File:Comforting Vial.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Comforting Vial}}
+        |Grants 4 hours of Comforting Nectar. (Boosts: Blue Pollen, Convert Rate, Convert Rate at
+        hive.)
+        |None
+        |Dapper Bear's quests, [[Nectar Condenser]]
+        |-
+        |[[File:Invigorating Vial.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Invigorating Vial}}
+        |Grants 4 hours of Invigorating Nectar. (Boosts: Red Pollen, Convert Rate, Bee Attack.)
+        |None
+        |Dapper Bear's quests, [[Nectar Condenser]]
+        |-
+        |[[File:Motivating Vial.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Motivating Vial}}
+        |Grants 4 hours of Motivating Nectar. (Boosts: Blue Pollen, Convert Rate, Bee Ability
+        Pollen)
+        |None
+        |Dapper Bear's quests, [[Nectar Condenser]]
+        |-
+        |[[File:Refreshing Vial.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Refreshing Vial}}
+        |Grants 4 hours of Refreshing Nectar. (Boosts: Red Pollen, Blue Convert Rate, Bee Ability
+        Pollen)
+        |None
+        |Dapper Bear's quests, [[Nectar Condenser]]
+        |-
+        |[[File:Satisfying Vial.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Satisfying Vial}}
+        |Grants 4 hours of Satisfying Nectar. (Boosts: White Pollen, Red Convert Rate, Honey at
+        Hive)
+        |None
+        |Dapper Bear's quests, [[Nectar Condenser]]
+        |-
+        |[[File:Pink Balloon.png|70px|center]]<div style=\"text-align: center;\">{{Color|Pink
+        Balloon}}
+        |Floats on the field for 3 minutes, storing and doubling pollen you collect beneath it. Then
+        it floats to your hive!
+        |None
+        |[[Retro Swarm Challenge]], [[Mobs]]
+        |-
+        |[[File:Red Balloon.png|70px|center]]<div style=\"text-align: center;\">{{Color|Red
+        Balloon}}
+        |Floats over the field for 3 minutes. Stores up to 5x your capacity and works best with Red
+        flowers.
+        |None
+        |[[Scorpion]] (Exceptionally Rare), [[Dapper Bear]]'s quests, [[Sticker-Seeker Quest
+        Machine]]
+        |-
+        |[[File:White Balloon.png|70px|center]]<div style=\"text-align: center;\">{{Color|White
+        Balloon}}
+        |Floats over the field for 5 minutes. Stores up to 10x your capacity and works best with
+        White flowers.
+        |None
+        |[[Spider]] (Very Rare), [[Robo Bear Challenge]], [[Dapper Bear]]'s quests
+        |-
+        |[[File:Black Balloon.png|70px|center]]<div style=\"text-align: center;\">{{Color|Black
+        Balloon}}
+        |Floats over the field for 5 minutes. Stores up to 25x your capacity and increases pollen
+        inside x4.
+        |None
+        |[[Spider]] (Exceptionally Rare), [[Tunnel Bear]] (Exceptionally Rare), [[Dapper Bear]]'s
+        quests, Sticking {{Cost|Black Star Sticker}} to the [[Sticker Stack]]
+        |-
+        |[[File:Soft Wax.png|70px|center]]<div style=\"text-align: center;\">{{Color|Soft Wax}}
+        |A squishy hunk of beeswax. Has a 100% chance to slightly improve a bee’s Beequip.
+        |{{Cost|Honeysuckle|5}}<br>{{Cost|Oil|1}}<br>{{Cost|Enzymes|1}}<br>{{Cost|Royal
+        Jelly|10}}
+        |Puffshrooms, Blender
+        |-
+        |[[File:Hard Wax.png|70px|center]]<div style=\"text-align: center;\">{{Color|Hard Wax}}
+        |A firm hunk of beeswax. Has a 60% chance to improve a bee’s Beequip.
+        |{{Cost|Soft
+        Wax|3}}<br>{{Cost|Enzymes|3}}<br>{{Cost|Bitterberry|33}}<br>{{Cost|Royal
+        Jelly|33}}
+        |Rare Puffshrooms, Blender
+        |-
+        |[[File:Caustic Wax.png|70px|center]]<div style=\"text-align: center;\">{{Color|Caustic
+        Wax}}
+        |A glowing hunk of beeswax. Has a 25% Chance to GREATLY improve a beequip, but a 75% chance
+        to DESTROY it!.
+        |{{Cost|Hard
+        Wax|5}}<br>{{Cost|Enzymes|4}}<br>{{Cost|Neonberry|25}}<br>{{Cost|Royal
+        Jelly|5252}}
+        |Planters, Blender
+        |-
+        |[[File:Swirled Wax.png|70px|center]]<div style=\"text-align: center;\">{{Color|Swirled
+        Wax}}
+        |A spiraled hunk of beeswax. Used to redetermine the stats of a bee's Beequip.
+        |{{Cost|Hard Wax|3}}<br>{{Cost|Soft Wax|9}}<br>{{Cost|Purple
+        Potion|6}}<br>{{Cost|Royal Jelly|3333}}
+        |Epic Puffshrooms, Planters, Blender
+        |-
+        |[[File:Turpentine.png|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Turpentine}}
+        |A strong solvent that can remove all Waxes from a bee's Beequip.
+        |{{Cost|Super Smoothie|10}}<br>{{Cost|Caustic Wax|10}}<br>{{Cost|Star
+        Jelly|100}}<br>{{Cost|Honeysuckle|1000}}
+        |Epic, Legendary, and Mythic Puffshrooms, Blender, [[Robo Bear Challenge]]
+        |-
+        |[[File:Basic Egg.png|70px|center]]<div style=\"text-align: center;\">{{Color|Basic
+        Egg}}
+        |Usually hatches into a Basic Bee.
+        |From {{Cost|Honey|1,000}} to {{Cost|Honey|1,000,000}}
+        |[[Basic Egg Shop]]
+        |-
+        |[[File:Silver Egg.png|70px|center]]<div style=\"text-align: center;\">{{Color|Silver
+        Egg}}
+        |Hatches into a Rare, Epic, Legendary, or Mythic Bee.
+        |{{Cost|Ticket|50}}
+        |[[Ticket Tent]], Drops from certain mobs, certain quests, certain codes, Rare Sprouts
+        |-
+        |[[File:Gold Egg.png|70px|center]]<div style=\"text-align: center;\">{{Color|Gold Egg}}
+        |Hatches into an Epic, Legendary, or Mythic Bee.
+        |{{Cost|Ticket|100}}
+        |[[Ticket Tent]], drops from certain mobs, certain quests, Epic Sprouts, Memory Match
+        |-
+        |[[File:Diamond Egg.png|70px|center]]<div style=\"text-align: center;\">{{Color|Diamond
+        Egg}}
+        |Hatches into a Legendary or Mythic Bee.
+        |{{Cost|Ticket|400}}
+        |[[Ticket Tent]], Drops from certain mobs, certain quests, Legendary and Supreme Sprouts,
+        Memory Match
+        |-
+        |[[File:Mythic Egg.png|70px|center]]<div style=\"text-align: center;\">{{Color|Mythic
+        Egg}}
+        |Always hatches into a Mythic Bee.
+        |{{Cost|Ticket|2500}}
+        |[[Ticket Tent]], Mythic Meteor, drops from certain bosses, certain quests, Ornament
+        Presents
+        |-
+        |[[File:Royal Jelly.png|70px|center]]<div style=\"text-align: center;\">{{Color|Royal
+        Jelly}}
+        |Transforms a bee into a random Rare, Epic, Legendary, or Mythic bee.
+        |Varies
+        |[[Royal Jelly Shop]], [[Royal Jelly Dispenser]], [[Robux Shop]], [[Memory Match]], [[Mythic
+        Meteor Shower|Meteors]]
+        |-
+        |[[File:Star Jelly.png|70px|center]]<div style=\"text-align: center;\">{{Color|Star
+        Jelly}}
+        |Transforms a bee into a random [[Gifted Bee|Gifted]] Rare, Epic, Legendary, or Mythic bee.
+        |Varies
+        |[[Blender]], Robux Shop, Memory Match, Meteors
+        |-
+        |[[File:Eviction.png|70px|center]]<div style=\"text-align: center;\">[[Eviction]]
+        |Removes a bee in your hive.
+        |50,000 honey
+        |[[Mountain Top Shop]], one of [[Bubble Bee Man]]’s quests (Permanently Unobtainable)
+        |-
+        |[[File:Hive Slot.png|70px|center]]<div style=\"text-align: center;\">[[Hive Slot]]
+        |Adds an additional slot to your [[hive]].
+        |Increasing [[honey]] starting at 3,000,000 honey, up to 2,169,203,229,760 for the last hive
+        slot.
+        |Mountain Top Shop
+        |-
+        |[[File:HoneyJar BlackBear'sOrnament.png|70px|center]]<div style=\"text-align:
+        center;\">[[Ornaments]]
+        |N/A
+        |None
+        |
+        *Completing specific quests by all [[Quest Givers]] except [[Honey Bee (NPC)]] during the
+        Beesmas 2019 Event.
+        *Delivering a present to all [[Quest Givers]] except [[Honey Bee (NPC)]] during the Beesmas
+        2020 Event.
+        |}
+
+        |-|Removed=
+
+        {| class=\"article-table\"
+        ! style=\"text-align: center\" |Item
+        ! style=\"width:30%\" |Use
+        ! style=\"width:27%\" |Cost
+        !Source
+        |-
+        |[[File:Eviction.png|70px|center]]<div style=\"text-align: center;\">[[Eviction]]
+        |Removes a bee in your hive.
+        |{{Cost|Honey|50,000}}
+        |[[Mountain Top Shop]], one of [[Bubble Bee Man]]’s quests (Permanently Unobtainable)
+        |-
+        |[[File:Plastic Egg.png|thumbs|70px|center]]<div style=\"text-align:
+        center;\">{{Color|Plastic Egg}}
+        |Turn in 3 to Brown Bear for a prize!
+        |None
+        |Around the [[Starter Zone]] (Currently unobtainable)
+        |}
+
+        </tabber>
+
+        [[Category:Items]]
+        [[Category:Crafted]]
+        [[zh-tw:物品]]"}

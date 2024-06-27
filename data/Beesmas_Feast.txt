@@ -1,0 +1,52 @@
+{"text": "{{RemovedContent}}
+        [[File:Beesmas Feast2.png|alt=|thumb|302x302px|The Beesmas Feast.]]
+        The '''Beesmas Feast''' was a [[:Category:Beesmas|Beesmas]] exclusive machine. It was
+        introduced in [[Updates#12.25.2020|Beesmas 2020]], returned on Beesmas 2021, and 2022. It
+        could be unlocked by completing [[Polar Bear|Polar Bear's]] Beesmas quest. It was positioned
+        right behind Polar Bear. It could be used every 90 minutes and granted the player [[bond]]
+        for all of their [[bees]] and a variety of [[treats]]. The amount of bond and rewards were
+        affected by the amount of [[Buffs & Debuffs#From NPCs|Polar Power]] the player currently
+        had.
+
+        If a player walked onto the platform without completing his quest, it would have displayed
+        the message, <span style=\"background-color:#a61e19;color:white\">“An empty plate...
+        where’s the Beesmas Feast, Polar Bear?”</span>
+
+        ==Granted Items ==
+        Guaranteed
+        *[[Bond]] (guaranteed). The bond per bee is slightly more than (Polar Bear Quests completed)
+        ^ 3/2.
+        *[[Treat|Treats]] (guaranteed). There are two tokens that sum to a total slightly less than
+        (Polar Bear Quests completed) ^ 3/2 treats.
+        *[[Bitterberry|Bitterberries]].
+
+        One of the following:
+        *[[Strawberry|Strawberries]].
+        *[[Blueberry|Blueberries]].
+        *[[Pineapple|Pineapples]].
+        *[[Sunflower Seed|Sunflower seeds]].
+
+        ==Gallery==
+        <gallery>
+        Beesmas Feast.png|The Beesmas Feast after completing Polar Bear's Beesmas quest.
+        RobloxScreenShot20220228 195119586.png|A player claiming tokens from the Beesmas Feast.
+        File:BeesmasFeastPreComplete.jpg|The Beesmas Feast before completing Polar Bear's Beesmas
+        quest.
+        </gallery>
+
+        ==Information ==
+        *Polar Bear's feast design is reminiscent to Big Ol' Turkey Legs, a running gag within the
+        [https://www.youtube.com/user/ThnxCya ThnxCya] community.
+        **Polar Bear's dialogue after you complete his Beesmas 2020 quest directly referenced this,
+        with the phrase \"''A big ol' turkey and treat...''\".
+        *[[Onett (Developer)|Onett]] stated on Discord that the Beesmas Feast was the Hostage Chicks
+        from the [[Egg Hunt 2020]] event.
+        *The eating sound is a cut out section of the song
+        \"''[https://www.youtube.com/watch?v=SMWi7CLoZ2Q Nom Nom Nom Nom Nom Nom Nom]''\", made by
+        Parry Grip.
+        *The Beesmas Feast used to drop all the 4 treats but was changed in Beesmas 2022.
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Beesmas]]
+        [[Category:Beesmas Decorations]]
+        [[Category:Removed Content]]"}

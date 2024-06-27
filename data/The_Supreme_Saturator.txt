@@ -1,0 +1,48 @@
+{"text": "{{Sprinkler
+        |title1 = The Supreme Saturator
+        |image1 = TheSupremeSaturatorOriginal.png
+        |requires = 10 Grandmaster Badges
+        |cost = 55,555,555,555 Honey
+        |description = The ultimate sprinkler. Nobody knows how it works or where it came from.
+        |count = 1
+        |radius = 16
+        |power = 10
+        |rate = 1 second
+        |setup = 3 seconds
+        }}'''The Supreme Saturator''' is the highest tier [[Sprinklers|sprinkler]] available for
+        purchase in the [[Badge Bearer's Guild]]. To unlock it, the player must obtain 10 different
+        [[Badges|Grandmaster badges]]. Once the player unlocks it, they can purchase it for
+        55,555,555,555 (~55.5 billion) [[honey]]. Its description reads, “The ultimate sprinkler.
+        Nobody knows how it works or where it came from.\"
+
+        The Supreme Saturator is a single sprinkler. Its radius extends to 16 [[flowers|flower]]
+        tiles, its rate is 1 second, and its power is 10. This adds up to 8042 [[pollen]] per
+        second, outperforming four [[Diamond Drenchers]] (1809 [[pollen]] per second) by over 340%
+        (4.44x as effective).
+
+        == Audio ==
+        When a sprinkler is placed in a field, the following audio plays:
+        [[File:Sprinklerbuild.ogg]]
+
+        When a sprinkler regenerates flowers, the following audio plays:
+        [[File:Sprinklerwater.ogg]]
+
+        == Gallery ==
+        <gallery widths=\"185\" hideaddbutton=\"true\">
+        TheSupremeSat.gif|The Supreme Saturator regenerating flowers.
+        </gallery>
+
+        == Trivia ==
+        * The shape of The Supreme Saturator resembles the head of a [[bear]].
+        * The Supreme Saturator is currently the most expensive sprinkler in the game.
+        * Before the [[Updates#2021.12.26|12/26/2021 update]], The Supreme Saturator was the second
+        most expensive [[Items|item]] in terms of [[honey]] in the game (excluding [[Hive Slot|hive
+        slots]]), only behind the [[Gummy Boots]].
+        [[File:Capture.PNGd.PNG|right|thumb|200px|SDMittens obtaining The Supreme Saturator.]]
+        * SDMittens was the first player to buy The Supreme Saturator. She purchased it on September
+        19, 2018, and an in-game message appeared in every server in order to congratulate her on
+        the achievement. The message said: \"Wow! SDMittens has unleashed THE SUPREME SATURATOR on
+        the mountain!\"
+
+        {{Items}}
+        [[zh-tw:至尊飽和器]]"}

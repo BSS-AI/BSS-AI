@@ -1,0 +1,319 @@
+{"text": "[[File:Screenshot_2018-07-11_at_9.48.02_PM.png|thumb|A bee's level up notification.]]
+        '''Bond''' is a [[Mechanics|mechanic]] that is equivalent to the leveling system found in
+        many other games. When [[bees]] have a high enough bond with the player, they will level up,
+        gaining the following boosts per level above 1:
+        * +10% [[Stats#Production Amount|production amount]];
+        * +10% [[Stats#Gather Amount|gather amount]];
+        * +5% [[energy]];
+        * +3% [[Stats#Speed|movespeed]].
+
+        Bond can be checked at any time by clicking on the bee's [[Hive Slot|hive slot]] and it will
+        show the bee's bond and [[stats]].
+
+        A bee will automatically gain bond when collecting [[pollen]] in a [[Fields|field]]. When
+        collecting pollen, each bee type has different opinions of each field and either likes, is
+        neutral toward, or dislikes any given field. If a bee has a sad [[Emoticons|emoticon]] over
+        its head, it means that the bee does not like that field and will gain only minimal bond
+        from collecting pollen in that field. If it has a happy emoticon instead, it likes the field
+        and will gain extra bond. If it doesn't have an emoticon at all, it's neutral towards that
+        field and will gain the usual amount of bond. Bees can be fed [[treats]] to increase the
+        bee's bond by 10, 25, 50, 100, 250, 500, or 1000 depending on the type of treat the bee is
+        fed. If the player feeds a bee its favorite treat, it will gain double the amount of bond it
+        would otherwise get, as well as having a very low chance to become [[Gifted Bee|gifted]] or
+        [[Mutation|mutated]]. Bond is also rewarded from defeating [[mobs]] and collecting a
+        [[Ability Tokens#Puppy Love|Puppy Love]] token from [[Puppy Bee]].
+
+        A bee's bond does '''not''' reset after a level up; however, the information window only
+        shows the bond required for the next level, so it can appear as if the bond went down to
+        zero. (This is why when feeding a bee a treat, the server message on the lower right of the
+        screen and the chat will have a different number than the bee information window.) A bee's
+        rarity does not affect how much bond it needs to level up. Both a [[Bees/Common|Common]] and
+        [[Bees/Mythic|Mythic bee]] at level 1 would require 10 bond to level up. Bond does not
+        diminish when using [[Royal Jelly|royal jelly]] or replacing it with an [[egg]].
+
+        Mobs also have levels, which affects whether a bee will hit, or miss its attack. If the bee
+        has the same or a higher level than the mob, it is guaranteed to hit. If the bee is one
+        level lower than the mob, it has a {{Hover|50%|1/2}} chance to hit the mob. If the bee is
+        two levels down, it only has a {{Hover|25%|1/4}} chance to hit, and so on.
+
+        The formula to calculate the chance of hitting a mob is: <math>1/[2^(monster level -
+        bee level)]</math>.
+
+        The maximum level a bee can achieve is 25. It is generally difficult to reach levels above
+        20, but if a bee reaches the maximum level, the bee will still gain bond.
+
+        == Bee Levels ==
+        {| class=\"article-table\" border=\"0\" cellspacing=\"1\" cellpadding=\"1\"
+        style=\"height:200px;width:250px;\"
+        ! rowspan=\"2\" |Level
+        ! rowspan=\"2\" |Total Bond
+        ! rowspan=\"2\" |Bond required for next level
+        ! colspan=\"4\" |Honey costs for next level (per 1 bee)
+        |-
+        !Base
+        !'''Moon Amulet Max (+10%)'''
+        !'''With Gifted Puppy Bee (+20%)'''
+        !Both
+        '''(+30%)'''
+        |-
+        |1
+        |0
+        |10
+        |{{Hover|10K|10,000}}
+        |{{Hover|9.09K|9,091}}
+        |{{Hover|8.33K|8,333}}
+        |{{Hover|7.69K|7,692}}
+        |-
+        |2
+        |10
+        |40
+        |{{Hover|40K|40,000}}
+        |{{Hover|36.4K|36,364}}
+        |{{Hover|33.3K|33,333}}
+        |{{Hover|30.8K|30,769}}
+        |-
+        |3
+        |50
+        |200
+        |{{Hover|200K|200,000}}
+        |{{Hover|182K|181,818}}
+        |{{Hover|167K|166,667}}
+        |{{Hover|154K|153,846}}
+        |-
+        |4
+        |250
+        |750
+        |{{Hover|750K|750,000}}
+        |{{Hover|682K|681,818}}
+        |{{Hover|625K|625,000}}
+        |{{Hover|577K|576,923}}
+        |-
+        |5
+        |1,000
+        |4,000
+        |{{Hover|4M|4,000,000}}
+        |{{Hover|3.64M|3,636,364}}
+        |{{Hover|3.33M|3,333,333}}
+        |{{Hover|3.08M|3,076,923}}
+        |-
+        |6
+        |5,000
+        |15,000
+        |{{Hover|15M|15,000,000}}
+        |{{Hover|13.6M|13,636,364}}
+        |{{Hover|12.5M|12,500,000}}
+        |{{Hover|11.5M|11,538,462}}
+        |-
+        |7
+        |20,000
+        |60,000
+        |{{Hover|60M|60,000,000}}
+        |{{Hover|54.5M|54,545,455}}
+        |{{Hover|50M|50,000,000}}
+        |{{Hover|46.2M|46,152,846}}
+        |-
+        |8
+        |80,000
+        |270,000
+        |{{Hover|270M|270,000,000}}
+        |{{Hover|245M|245,454,545}}
+        |{{Hover|225M|225,000,000}}
+        |{{Hover|208M|207,692,308}}
+        |-
+        |9
+        |350,000
+        |450,000
+        |{{Hover|450M|450,000,000}}
+        |{{Hover|409M|409,090,909}}
+        |{{Hover|375M|375,000,000}}
+        |{{Hover|346M|346,153,846}}
+        |-
+        |10
+        |800,000
+        |1,200,000
+        |{{Hover|1.2B|1,200,000,000}}
+        |{{Hover|1.09B|1,090,909,091}}
+        |{{Hover|1B|1,000,000,000}}
+        |{{Hover|923M|923,076,923}}
+        |-
+        |11
+        |2,000,000
+        |2,000,000
+        |{{Hover|2B|2,000,000,000}}
+        |{{Hover|1.82B|1,818,181,818}}
+        |{{Hover|1.67B|1,666,666,667}}
+        |{{Hover|1.54B|1,538,461,538}}
+        |-
+        |12
+        |4,000,000
+        |4,000,000
+        |{{Hover|4B|4,000,000,000}}
+        |{{Hover|3.64B|3,636,363,636}}
+        |{{Hover|3.33B|2=3,333,333,333}}
+        |{{Hover|3.08B|3,076,923,077}}
+        |-
+        |13
+        |8,000,000
+        |7,000,000
+        |{{Hover|7B|7,000,000,000}}
+        |{{Hover|6.36B|6,363,636,364}}
+        |{{Hover|5.83B|2=5,833,333,333}}
+        |{{Hover|5.38B|5,384,615,385}}
+        |-
+        |14
+        |15,000,000
+        |15,000,000
+        |{{Hover|15B|15,000,000,000}}
+        |{{Hover|13.6B|13,636,363,636}}
+        |{{Hover|12.5B|12,500,000,000}}
+        |{{Hover|11.5B|11,538,461,538}}
+        |-
+        |15
+        |30,000,000
+        |120,000,000
+        |{{Hover|120B|120,000,000,000}}
+        |{{Hover|109B|109,090,909,091}}
+        |{{Hover|100B|100,000,000,000}}
+        |{{Hover|92.3B|92,307,692,308}}
+        |-
+        |16
+        |150,000,000
+        |450,000,000
+        |{{Hover|450B|450,000,000,000}}
+        |{{Hover|409B|409,090,909,091}}
+        |{{Hover|375B|375,000,000,000}}
+        |{{Hover|346B|346,153,846,154}}
+        |-
+        |17
+        |600,000,000
+        |1,900,000,000
+        |{{Hover|1.9T|1,900,000,000,000}}
+        |{{Hover|1.72T|1,727,272,727,273}}
+        |{{Hover|1.58T|1,583,333,333,333}}
+        |{{Hover|1.46T|1,461,538,461,538}}
+        |-
+        |18
+        |2,500,000,000
+        |7,500,000,000
+        |{{Hover|7.5T|7,500,000,000,000}}
+        |{{Hover|6.82T|6,818,181,818,181}}
+        |{{Hover|6.25T|6,250,000,000,000}}
+        |{{Hover|5.77T|576,923,076,923,077}}
+        |-
+        |19
+        |10,000,000,000
+        |15,000,000,000
+        |{{Hover|15T|15,000,000,000,000}}
+        |{{Hover|13.6T|13,636,363,636,364}}
+        |{{Hover|12.5T|12,500,000,000,000}}
+        |{{Hover|11.5T|11,538,461,538,462}}
+        |-
+        |20
+        |25,000,000,000
+        |475,000,000,000
+        |{{Hover|475T|475,000,000,000}}
+        |{{Hover|432T|431,818,181,818,182}}
+        |{{Hover|396T|395,833,333,333}}
+        |{{Hover|365T|365,384,615,384,615}}
+        |-
+        |21
+        |500,000,000,000
+        |4,500,000,000,000
+        |{{Hover|4.5Qd|4,500,000,000,000,000}}
+        |{{Hover|4.09Qd|4,090,909,090,909}}
+        |{{Hover|3.75Qd|3,750,000,000,000,000}}
+        |{{Hover|3.46Qd|3,461,538,461,538}}
+        |-
+        |22
+        |5,000,000,000,000
+        |95,000,000,000,000
+        |{{Hover|95Qd|95,000,000,000,000,000}}
+        |{{Hover|86.4Qd|86,363,636,363,636,364}}
+        |{{Hover|79.2Qd|79,166,666,666,666,667}}
+        |{{Hover|73.1Qd|73,076,923,076,923,077}}
+        |-
+        |23
+        |100,000,000,000,000
+        |5,000,000,000,000,000
+        |{{Hover|4.75Qt|4,750,000,000,000,000,000}}
+        |{{Hover|4.32Qt|4,318,181,818,818,181,818}}
+        |{{Hover|3.96Qt|3,958,333,333,333,333,333}}
+        |{{Hover|3.65Qt|3,653,846,153,846,153,846}}
+        |-
+        |24
+        |5,100,000,000,000,000
+        |95,000,000,000,000,000
+        |{{Hover|95Qt|95,000,000,000,000,000,000}}
+        |{{Hover|86.4Qt|86,363,636,363,636,363,636}}
+        |{{Hover|79.2Qt|79,166,666,666,666,666,667}}
+        |{{Hover|73.1Qt|73,076,923,076,923,076,923}}
+        |-
+        |25
+        |100,100,000,000,000,000
+        | No levels beyond 25 (N/A)
+        | 9.5Qn
+        | 8.64Qn
+        | 7.92Qn
+        | 7.31Qn
+        |}
+
+        Alternatively, you can use this formula to determine the cost to level up your bees:
+        <math>(\tfrac{10(BondForNextLevel)(NumberOfBees)}{BondFromTreats}-TreatsInInventory)*10000</math>
+        You can also use this [https://www.desmos.com/calculator/k4utvtdloz calculator].
+
+        The following audio plays when a bee levels up:[[File:Levellllup.ogg]]Note that the sound is
+        slightly faster in-game.
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        Capture65.png|(New) A bee's stat page.
+        Screenshot 2018-07-11 at 9.35.43 PM.png|(Old) A bee's stat page.
+        7AF8805A-E275-4AF4-8231-3DD43D86D966.jpeg|A Shy Bee gaining 10 bond, with the old design for
+        gaining bond.
+        BondIncreased.jpeg|The new design for gaining bond.
+        </gallery>
+
+        ==Bee Wings==
+        <gallery hideaddbutton=\"true\">
+        Wing2.png
+        Wing3.png
+        Wing4.png
+        Wing5.png
+        Wing6.png
+        Wing7.png
+        Wing8.png
+        Wing9.png
+        Wing10.png
+        Wing11.png
+        Wing12.png
+        Wing13.png
+        Wing14.png
+        Wing15.png
+        Wing16.png
+        Wing17.png
+        Wing18.png
+        Wing19.png
+        Wing20.png
+        Wing21.png
+        Wing22.png
+        Wing23.png
+        Wing24.png
+        Wing25.png
+        </gallery>
+
+        * Level 1 Bee wings do not exist, as the wings will have no decal.
+
+        == Trivia==
+        *Prior to the [[Updates#2018.11.25|11/25/2018 update]], the bee information page always
+        showed the bee's total bond, not the current bond-to-next-level.
+        *Leveling a full hive of 50 bees from level 0 to level 20 would cost
+        {{Hover|1.25Qd|1,250,000,000,000,000}} (1.25 quadrillion) honey and costs
+        {{Hover|1.041Qd|1,041,666,666,666,650}} (~1.041 quadrillion) honey in treats with gifted
+        Puppy Bee.
+        *Leveling a full hive of 50 bees from level 0 to level 25 would cost 5.005Sx (~5.005
+        sextillion) honey in treats and 4.1708Sx (~4.1708 sextillion) honey in treats with gifted
+        Puppy Bee.
+        *There was a exploit that allowed bees to reach level 25 instantly.
+
+        [[Category:Mechanics]]
+        [[zh-tw:親密度]]"}

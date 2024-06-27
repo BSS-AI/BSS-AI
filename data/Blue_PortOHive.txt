@@ -1,0 +1,46 @@
+{"text": "{{Bag
+        |image1 = Blue_Port-O-Hive.png
+        |description = \"A Port-O-Hive dipped in shiney ''[sic]'' blue paint.\"
+        |cost = 12,500,000 Honey, 2 Blue Extracts, 2 Soft Wax
+        |capacity = 400,000 Pollen
+        |stats = +150% Convert Rate<br>+10% Red Bee Convert Rate<br>+10% Instant Blue
+        Conversion<br>+10% Blue Pollen
+        }}
+        {{Quote|A Port-O-Hive dipped in shiney ''[sic]'' blue paint.}}
+        The '''Blue Port-O-Hive''' is a [[:Category:Bags|Bag]] that was added in the
+        [[Updates|4/5/2019 Update]] and can be bought in the [[Blue HQ]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|12,500,000}}<br>{{Cost|Blue Extract|2}}<br>{{Cost|Soft Wax|2}}
+        |}
+
+        ==Stats==
+        *+400,000 Capacity.
+        *+150% [[System Page#Convert Rate|Convert Rate]].
+        *+10% Blue Bee Convert Rate.
+        *+10% [[System Page#Instant Blue Conversion|Instant Blue Conversion]].
+        *+10% [[System Page#Blue Pollen|Blue Pollen]].
+
+        ==Gallery==
+        <gallery>
+        Hivesticker cool backpack.png|The {{PAGENAME}}'s associated [[Stickers|sticker]].
+        </gallery>
+        ==Trivia==
+        *This is one of the three improved [[Port-O-Hive]]s, alongside the [[Red Port-O-Hive]] and
+        the [[Porcelain Port-O-Hive]].
+        *Out of the 4 Port-O-Hive variants, this and the Red Port-O-Hive were the last ones to be
+        added to the game.
+        *This is the only bag purchasable in the Blue HQ.
+        *During Beesmas 2021, [[Bee Bear]] said Snow Cub Buddy hates “Blue Backpackers” (players
+        with Blue Port-O-Hive equipped). This is a reference to a running stereotype that went on in
+        the BSS community.
+        **The Cool Backpack sticker is also a reference to the Blue Port-O-Hive. With it being the
+        only backpack sticker currently in the game, it is likely another reference to the
+        stereotype.
+        {{Items}}
+        [[Category:Bags]]
+        [[Category:Items]]
+        [[Category:Blue]]
+        [[zh-tw:藍蜂巢背包]]"}

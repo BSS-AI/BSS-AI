@@ -1,0 +1,89 @@
+{"text": "{{Stub}}{{Update}}
+        {{Planter
+        |image1=Sticker Planter.png
+        |description=Grows in about 3 hours of playtime. Always grants some Stickers and spawns a
+        Puffshroom (Rare+)!
+        |reusable=No
+        |grow=~3 hours
+        |nectar=x2 Refreshing<br>x2 Comforting<br>x2 Satisfying<br>x2
+        Motivating<br>x2 Invigorating
+        |pollen=200,000 Pollen
+        |growbonus=-
+        |pollenbonus=-
+        |item=Stickers
+        |cost=100 Robux}}
+        The '''Sticker Planter''' is a single-use [[planter]] added in the
+        [[Updates#2024.01.12|01/12/2024 update]]. It grows in about 3 hours of playtime and grants
+        x2 of every [[nectar]]. It is guaranteed to spawn a rare+ [[Puffshroom]]. Only 1 Sticker
+        Planter can be active at a time. It has a cap of 25.
+
+        == Drops ==
+        ''Note that some drops and buffs it gives are based on the field the planter is in.''
+
+        {| class=\"article-table\"
+        !Possible Drops List
+        |-
+        |[[File:Smile sticker icon.png|25px]] [[Sticker]]s <small>(The sticker index specifies
+        which stickers can be
+        obtained)</small><br>{{Cost|Ticket}}<br>{{Cost|Treat}}<br>{{Cost|Gumdrops}}<br>{{Cost|Sunflower
+        Seed}}<br>{{Cost|Strawberry}}<br>{{Cost|Pineapple}}<br>{{Cost|Blueberry}}<br>{{Cost|Smooth
+        Dice}}<br>{{Cost|Cloud Vial}}<br>{{Cost|Coconut}} (Exclusive in 35 bee zone
+        fields)<br>{{Cost|Star Jelly|||0}} (Rare)<br>{{Cost|Super Smoothie|||0}}
+        (Rare)<br>{{Cost|Turpentine|||0}} (Extremely Rare)
+        |}
+
+        == Ways To Obtain ==
+        * As a drop from [[Sprouts|Sticker Sprouts]].
+        * By purchasing it in the [[Robux Shop]] for 100 Robux. however, it requires having 20 bees
+        to gain access to purchasing it and has a limit of 10 per player.
+        * Completing [[Sticker-Seeker Quest Machine|Sticker-Seeker]] quests.
+        ** Completing a Rank that has 3 digits with all numbers repeated will grant (Quests
+        Completed)/111) sticker planters:
+        *** Completing 111 Quests Guarantees a Sticker Planter.
+        *** Completing 222 Quests Guarantees 2 Sticker Planters.
+        *** Completing 333 Quests Guarantees 3 Sticker Planters.
+        *** Completing 444 Quests Guarantees 4 Sticker Planters.
+        *** Completing 555 Quests Guarantees 5 Sticker Planters.
+        *** Completing 666 Quests Guarantees 6 Sticker Planters.
+        *** Completing 777 Quests Guarantees 7 Sticker Planters.
+        *** Completing 888 Quests Guarantees 8 Sticker Planters.
+        *** Completing 999 Quests Guarantees 9 Sticker Planters.
+
+        === Outdated Ways ===
+        {| class=\"mw-collapsible mw-collapsed article-table\"
+        |+
+        |-
+        |
+        *Being in the top 100 of the [[Tallest Sticker Stack]] leaderboard in the Public Test Realm
+        on 01/13/2024 gave 10 Sticker Planters. This reward was also accidentally given to the top
+        100 in the main game too.
+        |}
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        NewlyPlacedStickerPlanter.jpeg|A newly placed Sticker Planter.
+        StickerPlantersInventory.jpg|Sticker Planters in a player's inventory.
+        Stickerplantershop.png|The Sticker Planter in the shop
+        Fully grown Sticker Planter.png|A fully grown Sticker Planter.
+        Screenshot 2024-01-12 203309.png|A Sticker Planter in the Sunflower Field.
+        </gallery>
+
+        == Trivia ==
+        * The Sticker Planter continuously alternates between different colors, which can be tuned
+        down in the [[Settings]].
+        * Out of the four single-use planters, the Sticker Planter is the only one of them to have a
+        cap of 25.
+        * This, the [[Ticket Planter]] and the [[Paper Planter]] share the same base models.
+        ** They also share the same outline for their decals.
+        * It is tied with the Ticket Planter for the second-best Nectar multiplier in the game,
+        behind the [[Festive Planter]] at x3.
+        * It is one of four single-use planters in the game, the others being the Festive Planter,
+        the Ticket Planter and the Paper Planter.
+        * This and the Ticket Planter are the only planters that will always spawn a [[Puffshroom]]
+        at full growth.
+        ** Additionally, this is the only planter to always spawn at least a Rare Puffshroom.
+        {{Planters}}
+        [[Category:Items]]
+        [[Category:Inventory]]
+        [[Category:Planter]]
+        [[Category:Consumables]]"}

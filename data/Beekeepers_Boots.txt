@@ -1,0 +1,68 @@
+{"text": "{{Accessory
+        |image1 = Beekeeper's Boots.png
+        |description = Practical and stylish boots that aid in the beekeeping process.
+        |cost = 15,000,000 [[Honey]], 5 [[Oil]], 3 [[Red Extract]]s, and 3 [[Blue Extract]]s.
+        |stats = +25% Bee Gather Pollen<br>+6 Player Movespeed<br>+20 Jump
+        Power<br>+10 Movement Collection<br>+1 Bee Attack
+        }}
+        {{Quote|Practical and stylish boots that aid in the beekeeping process.}}
+        The '''Beekeeper's Boots''' are a pair of [[:Category:Boots|boots]] that were added in the
+        [[Updates#2018.09.10|9/10/2018 update]]. The Beekeeper's Boots can be bought at the
+        [[Mountain Top Shop]] and cost . Its description reads, \"\"
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|15,000,000}}<br>{{Cost|Oil|5}}<br>{{Cost|Red
+        Extract|3}}<br>{{Cost|Blue Extract|3}}
+        |}
+
+
+        == Stats ==
+        * +25% [[System Page#Bee Gather Pollen|Bee Gather Pollen]].
+        * +6 [[System Page#Movespeed|Player Movespeed]].
+        * +20 [[System Page#Jump Power|Jump Power]].
+        * +10 [[Movement Collection]].
+        * +1 [[Bee Attack]].
+        == Gallery ==
+        <gallery>
+        Beekeeper's Boots Buffs.png|The Beekeeper's Boots icon.
+        </gallery>
+        == Trivia ==
+        * They could have been obtained from [[Sun Bear]] by completing his last quest before he
+        left on 10/8/2018.
+        *To craft these boots using the [[Blender]], a total of 15,000,000 honey, 110 [[Royal
+        Jelly|royal jellies]], 150 [[Strawberry|strawberries]], 150 [[Blueberry|blueberries]], and
+        250 [[Sunflower Seed|sunflower seeds]] must be collected. Also, keep in mind that crafting
+        the materials requires a total of 55 minutes of playtime without speeding it up using
+        [[ticket]]s.
+        * [[Onett]] wears a pair of Beekeeper's Boots. He doesn't wear the [[Gummy Boots]] or the
+        [[Coconut Clogs]] because they were added later in the [[Updates#2018.11.25|11/25/2018
+        update]] and [[Updates#2019.09.28|9/28/2019 updates]] respectively.
+        ** Onett didn't wear any boots prior to the [[Updates#2018.09.10|9/10/2018 update]], as
+        boots weren't added then. Shortly after the 9/10/2018 update, this was changed to Onett's
+        current gear today.
+        * The version worn by Sun Bear is much bigger than the one the player wears to fit his
+        model.
+        * Prior to the 11/25/2018 [[Updates|update]], this item, [[Basic Boots]] and [[Hiking
+        Boots]] didn't require any items as there was no [[crafting]] then.
+        * After Sun Bear left, the Beekeeper's Boots were transferred over to the Mountain Top Shop
+        for 33,000,000 (33 million) honey.
+        ** The original price was changed to the current price (15,000,000 honey) in the 11/25/2018
+        update because of the new crafting materials needed to make it.
+        * After the nerf of hats, these replaced the removed bonuses of the [[Beekeeper's Mask]],
+        including the Movespeed bonus, which was 6, the Jump Power boost, and the Bee Gather Pollen
+        boost, which was 25%. Now, both the mask and the boots are 30%, meaning that the boost for
+        Bee Gather Pollen is larger when wearing both the Beekeeper's Mask and Beekeeper's Boots.
+        * These were the highest-tiered boots in the game until the 11/25/2018 update when the Gummy
+        Boots were introduced to the game.
+        ** In the 9/28/2019 update, Coconut Clogs were added, also surpassing the Beekeeper's Boots.
+        As a result, the Beekeeper's Boots are currently the third highest-tiered boots in the game,
+        behind the Gummy Boots and Coconut Clogs.
+
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Boots]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]
+        [[zh-tw:養蜂人靴]]"}

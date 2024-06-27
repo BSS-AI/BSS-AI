@@ -1,0 +1,66 @@
+{"text": "[[File:StarHall.PNG|thumb|268x268px|The entrance of the Star Hall.]]
+        [[File:Starhall.png|thumb|271x271px|The interior of the Star Hall.]]
+        The '''Star Hall''' is located on the roof of the [[Noob Shop]]. Players can reach it using
+        the [[Parachute]] or the [[Glider]] after using a [[Red Cannon|cannon]]. They can also glide
+        down from the [[Lion Bee Gate]]. If the player has enough [[System Page#Jump Power|Jump
+        Power]], they can glide from the rock that is above [[Brown Bear]] to the edge of the Star
+        Hall or jump off the top of the [[Royal Jelly Dispenser]] that is next to the [[Clover
+        Field]].
+
+        Outside of the Star Hall, there is a [[Royal Jelly]] token to the right of the gate and a
+        Green Cog with a [[Robo Pass]] token to the left of the gate. Inside, it has five types of
+        [[Star Amulet]] Generators, an [[Ant Pass]] token (located behind the Supreme Star Amulet
+        Generator), and the Royal Jelly Dispenser.
+        *'''Royal Jelly Dispenser''': Allows players to claim 1 Royal Jelly per [[Gifted Bee]] in
+        their [[hive]] and activates the [[Ability Tokens#Haste|Haste+]] boost. This boost lasts for
+        exactly 60 seconds after using the machine. Naturally, players need at least one Gifted Bee
+        in order to use the machine. It does not cost anything to use the machine, but there is a
+        22-hour cooldown.
+        *'''Bronze Star Amulet Generator''': Players must discover 5 Gifted Bee types (not gifted
+        bees in hive) to use this machine. It costs 25 million [[honey]] to generate a Bronze Star
+        Amulet.
+        *'''Silver Star Amulet Generator''': Players must discover 10 Gifted Bee types (not gifted
+        bees in hive) to use this machine. It costs 50 million honey to generate a Silver Star
+        Amulet.
+        *'''Gold Star Amulet Generator''': Players must discover 20 Gifted Bee types (not gifted
+        bees in hive) to use this machine. It costs 250 million honey to generate a Gold Star
+        Amulet.
+        *'''Diamond Star Amulet Generator''': Players must discover 30 Gifted Bee types (not gifted
+        bees in hive) to use this machine. It costs 1 billion honey to generate a Diamond Star
+        Amulet.
+        *'''Supreme Star Amulet Generator''': Players must discover 40 Gifted Bee types (not gifted
+        bees in hive) to use this machine. It costs 10 billion honey to generate a Supreme Star
+        Amulet and an option to spend 500 billion honey to guaranteed two Supreme Star Amulet
+        [[Passive Abilities]].
+
+        == Music ==
+        [[File:Starhall.ogg]]
+
+        == Trivia ==
+        [[File:Antpassinstarhall.png|thumb|220x220px|The ant pass at the back of the Star Hall. Now
+        behind the supreme star amulet generator.]]
+        * The room gets its name from the [[music]] playing inside it:
+        \"[https://www.roblox.com/library/2062483297/starhall starhall]\".
+        * The cog outside the Star Hall is a hint to the in-game [[Codes|code]], \"Cog\".
+        * This room contains 5 of the 6 Amulet Generators in the game, the last one being the [[Moon
+        Amulet Generator]].
+        * Before the [[Updates#2019.09.28|9/28/2019 update]], the Royal Jelly Dispenser inside the
+        Star Hall gave out 1 Royal Jelly per Gifted Bee type, rather than the number of gifted bees
+        you have.
+        * Before the [[Updates#2020.04.06|4/6/2020 update]], the [[Ant Pass]] token used to be
+        behind the Diamond Star Amulet Generator. This is because of how the Diamond Star Amulet
+        Generator sat in the location of the Supreme Star Amulet generator before the
+        [[Updates#2020.06.06|6/6/2020 update]].
+        * The Supreme Star Amulet Generator is currently the only Amulet Generator in the Star Hall
+        that has not been released with the Star Hall itself, as the generator was released in the
+        6/6/2020 update.
+        * In order to use the Supreme Star Amulet Generator, the player must discover at least 2
+        Gifted [[Bees/Mythic|Mythic]] bee types, because there are only 38 non-mythic bee types. (39
+        including [[Bear Bee]].)
+        * The sound pitch when creating a Star Amulet decreases when going up in tiers.
+        * An ant pass can be found at the back of the Star Hall before the
+        [https://bee-swarm-simulator.fandom.com/wiki/Updates#2020.06.06 6/06/2020] update
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Starter Zone]]"}

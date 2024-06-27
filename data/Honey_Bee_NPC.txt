@@ -1,0 +1,313 @@
+{"text": "''<sup>This page is for the quest-giving NPC. For the worker bee version, see
+        [[Honey Bee]].</sup>''
+        {{NonBearNPC|image=HoneyBeeNPCTransparent.png|type=Bee|bees=15|location=Next to the Pine
+        Tree Forest and to the right of the [[Sticker Stack]]}}
+
+        '''Honey Bee''' is a [[Quest Givers|Quest Giver]] and one of the three permanent
+        [[:Category:Quest Bees|Quest Bees]], the others being [[Gifted Riley Bee]] and [[Gifted
+        Bucko Bee]]. Honey Bee is located on the rock near the [[Pine Tree Forest]]. Added in the
+        [[Updates#2019.02.01|2/1/2019 Update]], its original purpose was to give players something
+        to do while the next update was being worked on, but it has now become a Permanent Quest
+        Giver.
+
+        It doesn't require a [[Translator]] to give quests, making it different from the other
+        quest-giving bees.
+
+        It used to be located next to the ramp leading to the [[Basic Bee Gate]], but it was moved
+        behind the biggest tree in the Pine Tree Forest in the [[Updates#2020.06.06|6/6/2020
+        Update]].
+
+        == Quests ==
+        Honey Bee only gives quests that solely revolve around collecting [[Ability Tokens#Honey
+        Gift|Honey Tokens]]. The first Quest starts from collecting 500 honey tokens, then the
+        amount of Honey Tokens needed to complete a Quest is increased by 500 per subsequent Quest.
+        Completion of each quest will award the player with a [[Buffs & Debuffs#From
+        NPCs|Conversion Boost]] (×2 [[System Page#Convert Rate|Convert Rate]]) that lasts for 30
+        minutes. Other rewards, such as [[Honey]], [[Treat#Treat|Treats]], [[Magic Bean]]s, [[Royal
+        Jelly]], or [[Ticket]]s, can be rewarded. For every 10th Quest that is completed, a [[Royal
+        Jelly#Star Jelly|Star Jelly]] is rewarded.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest Name
+        !Requirements
+        !Rewards
+        |-
+        |Honey Bee's Honey Hunt
+        |Collect 500*n Honey Tokens (n is the number of quests the player has recieved)
+        |×2 Conversion rate for 30 minutes.
+        Every 10th quest completed rewards a Star Jelly.
+
+        Every 5th quest you complete, you will be rewarded with Royal Jellies, Honey, Treats, Magic
+        Beans, Tickets, or star jellies in addition to the 2x conversion boost.
+        |}
+
+        == Dialogue==
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Dialogue
+        |-
+        |''-Initial (Old)-''
+        BuzzzUh zz zz.. buzz buzz! (Honey Bee stares deeply into your eyes) (It's trying to tell you
+        something) (That it won't be here long, just until the next update) (And if you complete its
+        quests, it'll boost your conversion rate for a while!) Bzz bzz buzz bz!!! (It smiles in
+        agreement, it can sense that you understand)
+
+        ''-Initial-''
+
+        BuzzzUh zz zz.. buzz buzz! (Honey Bee stares deeply into your eyes) (It's trying to tell you
+        something) (If you complete its quests, it'll boost your conversion rate for a while!) Bzz
+        bzz buzz bz!!! (It smiles in agreement, it can sense that you understand)
+
+        ''-During-''
+
+        BuzzzZZZzz zzz zz z z z z z z z z (You can see the rabid desire for Honey Tokens in its
+        eyes) (It's contagious - you want those Honey Tokens too!)
+
+        ''-Completion-''
+
+        Buzz zz buzz zz buzz zz BUZZZZZZZZ!! (Honey Bee will now bless you with 30 minutes of x2
+        Conversion Rate)
+        |}
+
+        ==2020 Beesmas Quest - Honey Bee's Honey Wreath?==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Honey Bee's Honey Wreath?
+        |
+        *Collect 99,999 [[Honey]] Tokens.
+        *Collect 9,999 Tokens from [[Passive Abilities#Coin Scatter|Coin Scatter]].
+        *Collect 999 [[Ability Tokens#Honey Gift|Honey Gift]] Tokens.
+        *Collect 999 [[Treat|Treat]] Tokens.
+        *Collect 99 Tokens from the [[Honey Wreath]].
+        *Use the [[Honey Dispenser]] 9 times.
+        *Feed 9,999 Treats to your Bees.
+        *Use 9 [[Enzymes]].
+        |
+        *99,999,999 Honey
+        *99,999x Treats
+        *9x [[Gingerbread Bear]]
+        *9x Star Jelly
+        *9x [[Micro-Converter]]
+        *9x [[Oil]]
+        *Summons a [[Honeystorm]]
+        *Conversion Boost (2 hours)
+
+        An upgrade to the [[Honey Wreath]]
+        |}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Dialogue
+        !
+        |-
+        |Honey Bee's Honey Wreath?
+        |Bzzzz... BUZZ BZZZZ! Buzzz zz ZZ? (Honey Bee sounds concerned) Buzz bzzz? Bzz bzz? BZ BZZ?
+        (It's staring longingly towards the Honey Wreath) (Its buzz sounds woefully disappointed)
+        Buzz bzz zuh... zz... ZUHZZ BUZZUH!
+        ''-During-''
+
+        N/A
+
+        ''-Completion-''
+
+        Bzz zzuh zuh! (Honey Bee smiles towards the wreath) (It’s smile grows more and more
+        grotesquely wide) BUZZUH!! (Pure satisfaction can be felt in the bee’s gaze) Bzzz zzz buzz
+        zuh. Zuh zuzh zhhzhh zzz zuh zuh. Buzz buzz zuh. Zzzz ZZZZ bzz. (You aren’t sure what the
+        bee is trying to say) (But somehow you can sense that the Honey Wreath will now grant 50%
+        more honey) (And that it’ll summon a Lvl 20 Honey Bee with each use... maybe)
+        |}
+
+        ==Present Dialogue==
+        You need to own the [[Honey Mask]] and have it equipped to give a present to Honey Bee.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Dialogue
+        |-
+        |Bzzz zzz zzuh... '''You are given a choice to either give a present to Honey Bee or
+        continue talking like normal. You choose to give a present to Honey Bee.''' Bzzz buz ZZ!
+        ZZZZZ BZZ BZZZZ!!! ...(krumple krumple)... (You open up the [Present] for Honey Bee) (The
+        box is filled to the brim with honey) BUZZZZZZZUH BZZZZZZZ! Bzz zz zz! (Honey Bee's eye open
+        wide with joy) (You can tell it's very grateful) Bzzzz zzz buzz bz BUZ zz. (Honey Bee pulls
+        out a platic [''sic''] bag full of honey) (Inside floats a crude plastic figurine of Honey
+        Bee) Zzzz! (You can sense that with this on the Beesmas tree, you'll receive these boosts:)
+        (+10% Convert Rate) (+10% Capacity) (+5% Mark Duration) (And +10% Honey From Tokens) Bzz zuh
+        Buzz buzz BuzzZuhz (Honey Bee smiles warmly)
+        |}
+
+        == 2021 Beesmas Quest - Honey Bee's Honey Wreath?==
+        {{RemovedContent}}
+        You need to own the [[Honey Mask]] and complete [[Black Bear]]'s Honey Wreath quest to
+        receive this quest.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Honey Bee's Honey Wreath?
+        |
+        *Complete 99,999 Honey Conversion Links.
+        *Collect 99,999 Honey Tokens.
+        *Feed 9,999 Treats to your Bees.
+        *Collect 999 Honey Gift Tokens.
+        *Use 999 Honeysuckles.
+        *Collect 99 Tokens from the Honey Wreath.
+        *Use the Honey Dispenser 9 times.
+        *Use 9 Micro-Converters.
+        *Use 9 Enzymes.
+        |
+        *99,999,999 Honey
+        *9 [[Ticket]]s
+        *99,999 [[Treats]]
+        *9 [[Gingerbread Bear]]s
+        *9 [[Royal Jelly|Star Jellies]]
+        *9 [[Oil]]s
+        *9 [[Soft Wax]]
+        *9 [[Smooth Dice]]
+        *9 [[Micro-Converter]]s
+        |}
+
+        ==2022 Beesmas Quest - Honey Bee's Honey Wreath?==
+        {{RemovedContent}}
+        You need to own the [[Honey Mask]] and complete [[Black Bear]]'s Honey Wreath quest to
+        receive this quest.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Honey Bee's Honey Wreath?
+        |
+        *Make 999,999,999 Honey.
+        *Complete 99,999 Honey Conversion Links.
+        *Collect 99,999 Honey Tokens.
+        *Collect 9,999 [[Ability Tokens|Honey Mark Tokens]].
+        *Collect 4,999 Honey Tokens from [[Honeystorm]]s.
+        *Collect 999 [[Ability Tokens|Honey Gift Tokens]].
+        *Complete 9 \"Make Honey\" Quests in [[Robo Bear Challenge|Robo Bear's Challenge]].
+        *Complete 9 \"Convert Pollen\" Quests in [[Robo Bear Challenge|Robo Bear's Challenge]].
+        *Use 99 [[Honeysuckle]]s.
+        *Use 9 [[Hard Wax]]es.
+        *Use 9 [[Oil]]s.
+        *Use 9 [[Enzymes]].
+        *Defeat 9 [[Golden Cogmower]]s.
+        |
+        *999,999,999 Honey
+        *999,999x [[Treats]]
+        *9x [[Gingerbread Bear]]s
+        *9x [[Ticket]]s
+        *9x [[Magic Bean]]s
+        *9x [[Royal Jelly|Star Jellies]]
+        *9x [[Tropical Drink]]s
+        *9x [[Purple Potion]]
+        *9x [[Micro-Converter]]s
+        *1x [[Pink Shades]]
+        *Summons a [[Honeystorm]]
+        *An upgrade to [[Honey Wreath]]
+        |-
+        |Honey Bee's Honey Wreath? (before nerf, not available)
+        |
+        *Make 999,999,999 Honey.
+        *Complete 99,999 Honey Conversion Links.
+        *Collect 99,999 Honey Tokens.
+        *Collect 9,999 [[Ability Tokens|Honey Mark Tokens]].
+        *Collect 9,999 Honey Tokens from [[Honeystorm]]s.
+        *Collect 999 [[Ability Tokens|Honey Gift Tokens]].
+        *Complete 9 \"Make Honey\" Quests in [[Robo Bear Challenge|Robo Bear's Challenge]].
+        *Complete 9 \"Convert Pollen\" Quests in [[Robo Bear Challenge|Robo Bear's Challenge]].
+        *Use 99 [[Honeysuckle]]s.
+        *Use 9 [[Hard Wax]]es.
+        *Use 9 [[Oil]]s.
+        *Use 9 [[Enzymes]].
+        *Defeat 9 [[Golden Cogmower]]s.
+        |}
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        ! Dialogue
+        !
+        |-
+        |Honey Bee's Honey Wreath?
+        |Bzzzz... BUZZ BZZZZ! Buzzz zz ZZ? (Honey Bee sounds concerned) Buzz bzzz? Bzz bzz? BZ BZZ?
+        (It's staring longingly towards the Honey Wreath) (Its buzz sounds woefully disappointed)
+        Buzz bzz zuh... zz... ZUHZZ BUZZUH!
+        ''-During-''
+
+        N/A
+
+        ''-Completion-''
+
+        Bzz zzuh zuh! (Honey bee smile towards the Honey Wreath) (Its smile grows more and more
+        grotesquely wide) BUZZZUH!! (Pure satisfaction can be felt in the bee's gaze) Bzzz zzz buzz
+        zuh. Zuh zuzh zhhzhh zzz zuh zuh. Buzz buzz zuh. Zzzz ZZZZ bzz. (You aren't sure what the
+        bee is trying to say )(But somehow you can sense that the Honey Wreath will now grant 50%
+        more honey) (And that it'll summon a Lvl 20 Honey Bee with each use... maybe) Buzz buzz!
+        |}
+
+        ==Gallery==
+        <gallery hideaddbutton=\"true\">
+        Honeybeeboost.png|The x2 Conversion Boost.
+        Dehoneybeebutcurrent.png|Honey Bee's Oldest Location.
+        07247D7C-E41C-40E5-AD2B-1D85ED8A561C.jpg|Honey Bee summoning a honeystorm.
+        File:HoniNPC.png|Exclamation Mark when Honey Bee's quest is ready or finished.
+        File:Dehoneybeeebutcurrentpart2.png|Honey Bee's Previous Location.
+        File:Dehoneybeeebutcurrentpart3.png|Honey Bee's Current Location.
+        ExtendHoney.png|A better view of Honey Bee's previous location after the area was amplified.
+        StickerStackHoney.png|A better view of Honey Bee's current location after the addition of
+        the [[Sticker Stack]].
+        </gallery>
+
+        ==Tips==
+        *Fighting [[Stick Bug]] and [[Stick Nymph]]s and/or the [[Mondo Chick]] are very effective
+        for completing its quests, as they spawn many honey tokens. Defeating normal [[mobs]] for
+        their token rewards can also help with Honey Bee's quests.
+        *Defeating many [[Wild Windy Bee]]s is another way of completing this quest faster.
+        *Farming [[sprout]]s is a viable way, as they spawn many honey tokens.
+        *[[Passive Abilities#Coin Scatter|Coin Scatter]] is also an effective way of collecting
+        honey tokens quickly.
+        **Coin Scatter can be easily triggered by having multiple [[Stubborn Bee]]s, [[Honey Bee]]s,
+        [[Carpenter Bee]]s and [[Vector Bee]]s.
+        **Use Coin Scatter on fields where there aren't many decorations blocking them, such as the
+        [[Mountain Top Field]].
+        *Catching [[coconut]]s and [[Mythic Meteor Shower|meteors]] produces many honey tokens.
+        **Summoning a [[honeystorm]] is also an option.
+        *Lower level [[fields]] such as the [[Sunflower Field]] spawn more honey tokens than
+        higher-level fields such as the Mountain Top Field.
+        *Have bees that can spawn [[Ability Tokens#Honey Gift|honey gift]] tokens in your hive in
+        order to complete the quests faster.
+        *Using the [[Passive Abilities#Gummy Star|Gummy Star]] passive would be effective as it
+        spawns many honey tokens.
+        *When the quest is finished, claim it '''ONLY''' when you're about to boost due to its 2x
+        conversion.
+
+        ==Trivia==
+        *This is the third bee-based [[:Category:NPC|NPC]] in the game. It is also first bee-based
+        NPC that isn't in its gifted form, the second being the [[Digital Bee (NPC)|Digital Bee
+        NPC]].
+        *Honey Bee is the only Bee Quest giver that you don't need a translator to talk to.
+        *Honey Bee, [[Science Bear]], and [[Polar Bear]] are the only quest givers to give a buff as
+        a reward for finishing a quest.
+        *Honey Bee, along with [[Gifted Bucko Bee]], [[Gifted Riley Bee]], [[Onett]], and [[Bubble
+        Bee Man]] are the only non-bear quest givers.
+        *In the [[Updates#2019.04.17|Egg Hunt 2019 update]], there was a [[Plastic Egg|plastic egg]]
+        token hidden behind it.
+        **It has been replaced by a ticket token granting 3 [[Ticket]]s.
+        **Honey Bee was one of the three quest givers that did not give an Egg Hunt quest, the
+        others being Onett and [[Spirit Bear]].
+        *Honey Bee is the only NPC whose [[Beesmas]] quest affected another NPC's machine (Black
+        Bear's Honey Wreath).
+        *Honey Bee along with [[Spirit Bear]] are the only quest givers that can summon a
+        [[Honeystorm]].
+        *Honey Bee is one of 3 NPCs who have moved place, the others being [[Bubble Bee Man]] and
+        [[Gummy Bear]].
+        *Honey Bee's quests are the only repeatable quests which don't contain the NPCs name
+        followed by a colon (:).
+        *During Beemas 2021, there was an error with Honey Bee’s ornament that made the Bag of Honey
+        ornament and buffs are not visible to the player. This bug has been fixed and all players
+        who gave Honey Bee a present before 01/06/2022 were refunded.
+        *Honey Bee is one of the 2 NPCs (the other being Science Bear) that require you to join the
+        [https://www.roblox.com/groups/3982592/Bee-Swarm-Simulator-Club#!/about Bee Swarm Simulator
+        Club] in order to access the Club Dispensers and complete their quests. Its Beesmas quests
+        require you to use the Honey Dispenser.
+        {{QuestNav}}
+        [[Category:Quest Bees]]
+        [[Category:NPC]]
+        [[Category:Quest giver]]
+        [[Category:Bees]]"}

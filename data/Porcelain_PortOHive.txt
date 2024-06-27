@@ -1,0 +1,46 @@
+{"text": "{{Bag
+        |image1 = Porcelain_O_Hive.png
+        |description = \"A rare and precious Port-O-Hive that boosts white pollen.\"
+        |cost = 250,000,000 Honey, 3 Glitter, 3 Soft Wax, 10 Moon Charms
+        |capacity = 600,000 Pollen
+        |stats = +250% Convert Rate<br>x1.25 Convert Rate at Hive<br>+10% Instant
+        Conversion<br>+50% White Pollen
+        }}
+        {{Quote|A rare and precious Port-O-Hive that boosts white pollen.}}
+        The '''Porcelain Port-O-Hive''' is a [[:Category:Bags|Bag]] that can be purchased in the
+        [[Mountain Top Shop]]. Added in the 7/11/2018 Update. It has the second-highest Capacity and
+        second-highest price of all Containers.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|250,000,000}}<br>{{Cost|Glitter|3}}<br>{{Cost|Soft
+        Wax|3}}<br>{{Cost|Moon Charm|10}}
+        |}
+
+        == Stats ==
+        * +600,000 Capacity.
+        * +250% [[System Page#Convert Rate|Convert Rate]].
+        * x1.25 Convert Rate at Hive.
+        * +10% [[Instant Conversion]].
+        * +50% [[System Page#White Pollen|White Pollen]].
+
+        == Trivia ==
+        * Out of the four variants of [[Port-O-Hive]], the Porcelain Port-O-Hive was the second
+        Port-O-Hive added into the game, after the regular Port-O-Hive.
+        * Before the [[Updates#2019.04.05|4/5/2019 update]], its base capacity was 500,000 pollen.
+        After the update, it was increased to 1,000,000 pollen before being reverted back to 500,000
+        after the [[Updates#2019.05.13|5/13/2019 Update]]. Changed to 600,000 Pollen after the
+        5/23/2024 Update.
+        * Before the 4/5/2019 update, its description was read as, \"The rarest and most precious
+        Port-O-Hive in the world. Can store up to 500,000 pollen.\"
+        * This container is worn by [[Onett]] in the [[Bear Gate]], along with the [[Porcelain
+        Dipper]], [[Beekeeper's Boots]], [[Mondo Belt Bag]], [[Beekeeper's Mask]], and the [[Riley
+        Guard|Riley]] and [[Bucko Guard]]s.
+        * This container is currently the only Container in the Game that emits particles.
+
+        {{Items}}
+
+        [[Category:Items]]
+        [[Category:Bags]]
+        [[zh-tw:陶瓷蜂巢背包]]"}

@@ -1,0 +1,45 @@
+{"text": "{{Stub}}
+        ''<small>Not to be confused with the [[Hub Field]].</small>''
+
+        The '''Hive Hub''' is a unique location added in the [[Updates|1/12/2024]] update. It is
+        inside the Hive Hub Portal, which is beyond the [[Ant Gate]]. It has several features,
+        including a total of 36 hives for players to claim, the [[Public Sticker Board]], the
+        [[Sticker-Seeker]], the [[Hub Field]], a [[Beequip]] Storage chest, and [[Sprout|Sticker
+        Sprouts]] that spawns every 3 hours or through [[Magic Bean]]s. The Hive Hub's purpose is to
+        seek out opportunities to trade with other players and to craft the [[Sticker-Seeker]], a
+        tool that specializes in collecting stickers and unlocks the [[Sticker-Seeker Quest
+        Machine|Sticker-Seeker's quests]]. The Hive Hub also has a field, aptly named the Hub Field,
+        which instantly converts all pollen collected into honey, as well as [[flowers]] regrowing
+        instantly, so there is no need for Sprinklers. [[Bees]] do not spawn to reduce lag.
+
+        == Gallery ==
+        <gallery>
+        HivesInHiveHub.jpg|Several hives in the Hive Hub.
+        EmptyStickerBoard.jpg|The Sticker Board in the Hive Hub, without any stickers on it.
+        HubField.png|The Hub Field.
+        </gallery>
+
+        == Tips ==
+        * Sharing [[Jelly Beans]] is possible here. This makes it easy to share Jelly Beans for
+        quests, the sharing buff, or other purposes.
+        * Be aware that the Hive Hub isn't very well optimized (Bee Swarm Simulator wasn't made to
+        handle this much data at once), so its best to have a decent device and set your graphics to
+        1 in order to avoid crashing and major framedrops. Still, expect your frames per second to
+        drop to at least 50.
+
+        == Trivia ==
+        * The following items are not usable in the Hive Hub:
+        **[[Sprinklers]].
+        **[[Snowflake]].
+        **[[Stinger]] (This means that [[Passive Abilities#Star Saw|Star Saw]] cannot be activated
+        here).
+        **[[Cloud Vial]].
+        **[[Field Dice]], [[Smooth Dice]], and [[Loaded Dice]].
+        **[[Whirligig]]s.
+        **[[Night Bell]]s.
+        **Every type of [[Balloon]].
+        **Every type of [[Planter]].
+        *The Hive Hub is the only field in which your Bees don't spawn.
+
+        [[Category:Locations]]
+        [[Category:Hive Hub]]"}

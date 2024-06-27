@@ -1,0 +1,47 @@
+{"text": "{{Accessory
+        |image1 = Elite Red Guard.png
+        |description = A Red Guard reserved for the most dedicated Red Beekeepers.
+        |cost = 5,000,000 [[Honey]], 3 [[Red Extract]]s, 50 [[Strawberry|Strawberries]], 5 [[Royal
+        Jelly]], and 5 [[Stinger]]s.
+        |stats = +75,000 Capacity<br>+25% Red Pollen<br>+7% Defense<br>+5%
+        Critical Chance<br>+1 Red Bee Attack
+        }}
+        {{Quote|A Red Guard reserved for the most dedicated Red Beekeepers.}}
+        The '''Elite Red Guard''' is a [[:Category:Guards|guard]] purchasable in the [[Red HQ]]. It
+        is equipped on the left shoulder.
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|5,000,000}}<br>{{Cost|Red
+        Extract|3}}<br>{{Cost|Strawberry|50}}<br>{{Cost|Royal
+        Jelly|5}}<br>{{Cost|Stinger|5}}
+        |}
+
+        This guard is one of 3 guards that can be purchased in the [[Red HQ]], the others being the
+        [[Red Guard]], and the [[Riley Guard]].
+
+        == Stats ==
+        * +75,000 [[Capacity]].
+        * +25% [[System Page#Red Pollen|Red Pollen]].
+        * +7% [[System Page#Defense|Defense]].
+        * +5% [[Critical Hits|Critical Chance]].
+        * +1 [[System Page#Red Attack|Red Bee Attack]].
+        == Gallery ==
+        <gallery>
+        Eliteredguardicon.png|The Elite Red Guard icon.
+        </gallery>
+        == Trivia ==
+        * Before the [[Updates#2018.11.25|11/25/2018 update]], the Elite Red Guard costed 8,000,000
+        honey and no [[Crafting|crafting materials]].
+        * Previously in the [[Ready Player Two]] event, its description read \">> ☺ Sa livsuee
+        sa dawol, romf nyyeds ot moakab.\" It hinted towards the [[Codes#Ready Player Two
+        codes|code]], \"CarmenSanDiego\". Despite the text being removed the code still works.
+        * This guard’s [[:Category:Blue|blue]] counterpart is the [[Elite Blue Guard]].
+
+        {{Items}}
+        [[Category:Guards]]
+        [[Category:Items]]
+        [[Category:Accessories]]
+        [[Category:Crafted]]
+        [[Category:Red]]"}

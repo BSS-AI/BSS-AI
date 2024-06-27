@@ -1,0 +1,181 @@
+{"text": "The '''Cog Amulet''' is an amulet that can be obtained from the [[Robo Bear Challenge]].
+
+        In order to obtain these amulets, the player will need to beat certain rounds during the
+        Robo Bear Challenge. The more rounds the player beats, the higher the tier of the Cog
+        Amulet. The average stats of the amulet also scale higher the more cogs you collect in a
+        round.
+
+        == Requirement(s) ==
+        The requirements are based on what round was completed during a challenge.
+        {| class=\"sortable article-table\"
+        !Requirement(s)
+        !Amulet
+        !Detail
+        |-
+        |Round 5+
+        |[[File:BronzeCogAmulet.png|40px]] Bronze Cog Amulet
+        |-
+        |Round 10+
+        |[[File:SilverCogAmulet.png|40px]] Silver Cog Amulet
+        |-
+        |Round 15+
+        |[[File:GoldCogAmulet.png|40px]] Gold Cog Amulet
+        |Access to purchasing {{Cost|Glitched Drive}}
+        |-
+        |Round 20+
+        |[[File:DiamondCogAmulet.png|40px]] Diamond Cog Amulet
+        |Access to the [[File:Digital Bee.png|40px]] [[Digital Bee]]
+        |-
+        |Round 25
+        |[[File:SupremeCogAmulet.png|40px]] Supreme Cog Amulet
+        |Challenge Completion and Obtaining the [[File:RoboCub.png|40px]] [[Cub Buddy#Skins|Robo Cub
+        Buddy Skin]] (if not already owned)
+        |}
+
+        == Possible Buffs ==
+        <!--Note that the buffs below may not be correct, as there is a lot of missing
+        information and incorrect data. -->
+
+        <!--
+
+        BEFORE EDITING THIS SECTION:
+
+        Please note that Cog Amulets got buffed in the reboot (12/29). With this in mind, Cog
+        Amulets before this reboot do not necessarily reflect the true stat ranges that exist in the
+        game and therefore cannot be written down on this page in good faith. Only update stats with
+        Cog Amulets obtained AFTER this reboot
+
+        -->
+        <tabber>
+        Bronze Cog Amulet=
+        === Bronze Cog Amulet ===
+        [[File:BronzeCogAmulet.png|thumb|right|The icon for the Bronze Cog Amulet.]]
+        * +22,500 to +26,500 [[Capacity]] (increments of 500) (Guaranteed)
+        * +3% to +6% [[System Page#Attack Multiplier|Bee Attack]] (Guaranteed)
+        *One of the following:
+        ** +?% to +?% [[Pollen]]
+        ** +3% to +10% [[System Page#White Pollen|White Pollen]]
+        ** +5% to +10% [[System Page#Red Pollen|Red Pollen]]
+        ** +5% to +10% [[System Page#Blue Pollen|Blue Pollen]]
+        *One of the following:
+        ** +1% to +2% [[System Page#Instant White Conversion|Instant White Conversion]]
+        ** +1% to +2% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        ** +1% to +2% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        |-|
+        Silver Cog Amulet=
+        === Silver Cog Amulet ===
+        [[File:SilverCogAmulet.png|thumb|right|The icon for the Silver Cog Amulet.]]
+        * +45,000 to +51,500 [[Capacity]] (increments of 500) (Guaranteed)
+        * +5% to +7% [[System Page#Attack Multiplier|Bee Attack]] (Guaranteed)
+        *One of the following:
+        ** +1% to +2% [[Pollen]]
+        ** +10% to +15% [[System Page#White Pollen|White Pollen]]
+        ** +10% to +13% [[System Page#Red Pollen|Red Pollen]]
+        ** +11% to +12% [[System Page#Blue Pollen|Blue Pollen]]
+        *One of the following:
+        ** +5% to +7% Event Bee Ability Pollen
+        ** +?% to +?% Mark Ability Pollen
+        ** +?% to +11% [[Flame#Flame Pollen|Flame Pollen]]
+        ** +5% to +6% [[Bubble#Bubble Pollen|Bubble Pollen]]
+        ** +5% to +7% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        *One of the following:
+        ** +2% to +3% [[System Page#Instant White Conversion|Instant White Conversion]]
+        ** +2% to +3% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        ** +2% to +3% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        |-|
+        Gold Cog Amulet=
+        === Gold Cog Amulet ===
+        [[File:GoldCogAmulet.png|thumb|right|The icon for the Gold Cog Amulet.]]
+        * +90,000 to +108,000 [[Capacity]] (increments of 500) (Guaranteed)
+        *One of the following:
+        ** +8% to +10% [[System Page#Attack Multiplier|Bee Attack]]
+        ** +1 [[System Page#Red Attack|Red Bee Attack]]
+        ** +1 [[System Page#Blue Attack|Blue Bee Attack]]
+        ** +1 [[System Page#Colorless Attack|Colorless Bee Attack]]
+        *One of the following:
+        ** +2% to +3% [[Pollen]]
+        ** +15% to +17% [[System Page#White Pollen|White Pollen]]
+        ** +15% to +17% [[System Page#Red Pollen|Red Pollen]]
+        ** +15% to +17% [[System Page#Blue Pollen|Blue Pollen]]
+        *One of the following:
+        ** +8% to +9% Event Bee Ability Pollen
+        ** +8% to +10% Mark Ability Pollen
+        ** +?% to +8% [[Flame#Flame Pollen|Flame Pollen]]
+        ** +?% to +10% [[Bubble#Bubble Pollen|Bubble Pollen]]
+        ** +8% to +9% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        *One of the following:
+        ** +3% to +4% [[System Page#Instant White Conversion|Instant White Conversion]]
+        ** +3% to +4% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        ** +3% to +4% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        |-|
+        Diamond Cog Amulet=
+        === Diamond Cog Amulet ===
+        [[File:DiamondCogAmulet.png|thumb|right|The icon for the Diamond Cog Amulet.]]
+        * +127,500 to +167,500 [[Capacity]] (increments of 500) (Guaranteed)
+        *One of the following:
+        **+9% to +11% [[System Page#Attack Multiplier|Bee Attack]]
+        ** +1 [[System Page#Red Attack|Red Bee Attack]]
+        ** +1 [[System Page#Blue Attack|Blue Bee Attack]]
+        ** +1 [[System Page#Colorless Attack|Colorless Bee Attack]]
+        *One of the following:
+        ** +3% to +5% [[Pollen]]
+        ** +16% to +22% [[System Page#White Pollen|White Pollen]]
+        ** +?% to +24% [[System Page#Red Pollen|Red Pollen]]
+        ** +?% to +22% [[System Page#Blue Pollen|Blue Pollen]]
+        *One of the following:
+        ** +10% to +13% Event Bee Ability Pollen
+        ** +10% to +14% Mark Ability Pollen
+        ** +12% to +20% [[Flame#Flame Pollen|Flame Pollen]]
+        ** +?% to +21% [[Bubble#Bubble Pollen|Bubble Pollen]]
+        ** +10% to +12% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        *One of the following:
+        ** +?% to +5% Ability Token Lifespan
+        ** +10% to +12% [[Critical Hits#Super-Crit|Super-Crit Power]]
+        ** +?% to +5% [[Nectar]]
+        ** +26% to +48% [[System Page#Honey From Tokens|Honey From Tokens]]
+        *One of the following:
+        ** +4% to +5% [[System Page#Instant White Conversion|Instant White Conversion]]
+        ** +4% to +5% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        ** +4% to +5% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        |-|
+        Supreme Cog Amulet=
+        === Supreme Cog Amulet ===
+        [[File:SupremeCogAmulet.png|thumb|right|The icon for the Supreme Cog Amulet.]]
+        * +200,000 to +250,000 [[Capacity]] (increments of 5000) (Guaranteed)
+        *One of the following:
+        ** +10% to 15% [[System Page#Attack Multiplier|Bee Attack]]
+        ** +1 to +2 [[System Page#Red Attack|Red Bee Attack]]
+        ** +1 to +2 [[System Page#Blue Attack|Blue Bee Attack]]
+        ** +1 to +2 [[System Page#Colorless Attack|Colorless Bee Attack]]
+        *One of the following:
+        ** +6% to +10% [[Pollen]]
+        ** +25% to +30% [[System Page#White Pollen|White Pollen]]
+        ** +25% to +30% [[System Page#Red Pollen|Red Pollen]]
+        ** +25% to +30% [[System Page#Blue Pollen|Blue Pollen]]
+        *One of the following:
+        ** +15% to +20% Event Bee Ability Pollen
+        ** +15% to +20% Mark Ability Pollen
+        ** +15% to +20% [[Flame#Flame Pollen|Flame Pollen]]
+        ** +15% to +20% [[Bubble#Bubble Pollen|Bubble Pollen]]
+        ** +15% to +20% [[System Page#Bee Gather Pollen|Bee Gather Pollen]]
+        *One of the following:
+        ** +5% to +10% Ability Token Lifespan
+        ** +50% to +75% [[System Page#Honey From Tokens|Honey From Tokens]]
+        ** +15% to +25% [[Critical Hits#Super-Crit|Super-Crit Power]]
+        ** +5% [[Nectar]]
+        *One of the following:
+        ** +4% to +5% [[System Page#Instant White Conversion|Instant White Conversion]]
+        ** +4% to +5% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        ** +4% to +5% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        </tabber>
+
+        == Trivia ==
+
+        * The Cog Amulet is the only amulet that unlocks items in a [[:Category:Shops|shop]].
+        * The Cog Amulet is the only amulet to boost [[Nectar]].
+        ** It is also the only amulet to boost Event Bee Ability Pollen, Mark Ability Pollen,
+        [[Flame#Flame Pollen|Flame Pollen]], and [[Bubble#Bubble Pollen|Bubble Pollen]].
+        {{Items}}
+        [[Category:Amulet]]
+        [[Category:Robo Bear Challenge]]
+        [[Category:Accessories]]"}

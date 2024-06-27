@@ -1,0 +1,30 @@
+{"text": "'''Honey Per Pollen''' is a [[Mechanics|mechanic]] that increases the amount of [[honey]]
+        earned when converting [[pollen]]. For example, if a player has 10 pollen in their
+        [[Bags|container]], with a 110% Honey Per Pollen multiplier, they would receive 11 honey if
+        converted. 20 to 22, etc. To determine how much honey will be earned when converting pollen,
+        multiply bag space ''B'', by Honey Per Pollen percentage.
+
+        Similar to many other boosts, (for example, [[Instant Conversion]]) the player can always
+        check their current percentage of Honey Per Pollen on the [[System Page]]. It starts off at
+        100% and increases later on when the player gets more and more Honey Per Pollen boosts.
+
+        The player can increase their Honey Per Pollen through the [[Moon Amulet]], [[Gifted
+        Bee|Gifted]] [[Gummy Bee]], and through the [[Badges#Goo Badge|Goo Badge]]. They can also
+        obtain it temporarily when using the [[Wealth Clock]], granting x1.01 Honey Per Pollen every
+        hour (stacks up to x1.05 Honey Per Pollen), lasting until they leave the current server they
+        were in and not join another server for 15 minutes. The player could have also gotten a
+        temporary Honey Per Pollen boost from the [[Buffs & Debuffs#From Ability Tokens|Beesmas
+        Cheer]] buff before it was modified in the [[Updates#2019.04.17|Easter 2019 update]]. The
+        player can also gain up to x1.05 Honey Per Pollen from each of the 5 [[Nectar]] types. The
+        maximum Honey Per Pollen possible used to be 138%, today it is now 165%.
+
+        Honey Per Pollen, along with other boosts like Instant Conversion, [[goo]], and extra
+        capacity, is one of the best ways to get maximum efficiency when producing honey. These
+        boosts, when combined with each other, are extremely helpful overall. It can affect the
+        player's condition when, for example, grinding or converting your [[Balloon|hive balloon]].
+        Keep in mind that there is a difference between Instant Conversion and Honey Per Pollen.
+        While both help with honey production, Instant Conversion converts pollen collected in
+        [[fields]] into honey instantly. However, Honey Per Pollen affects the amount of honey the
+        player makes for every pollen.
+
+        [[Category:Mechanics]]"}

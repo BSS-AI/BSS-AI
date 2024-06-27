@@ -1,0 +1,24 @@
+{"text": "<blockquote>''Not to be confused with the [[Ant Pass Dispenser]], which requires
+        [[ticket]]s.''</blockquote>
+        [[File:AntPassFree.png|thumb|The design of the Free Ant Pass Dispenser.]]
+        The '''Free Ant Pass Dispenser''' is a [[dispenser]] located past the [[Ant Gate]] and to
+        the left of the [[Ant Pass Dispenser]]. Players can use the dispenser to get a free [[Ant
+        Pass|ant pass]] every 2 hours, which can be used to participate in the [[Ant Challenge]].
+        Players cannot use the dispenser if they already have 10 or more ant passes in their
+        inventory.
+
+        == Trivia ==
+        * This and the [[Free Robo Pass Dispenser]] are the only free dispensers in the game that do
+        not grant any [[Buffs & Debuffs|buffs]] when used.
+        ** This, the [[Ant Pass Dispenser]], the [[Free Robo Pass Dispenser]], the [[Robo Pass
+        Dispenser]], the [[Coconut Dispenser]], and the [[Glue Dispenser]] are the only dispensers
+        that do not grant [[Ability Tokens#Haste|Haste]] when used.
+        * This, the [[Ant Pass Dispenser]], the [[Free Robo Pass Dispenser]], and the [[Robo Pass
+        Dispenser]] are the only dispensers that don't have any visible faucets. Instead, they have
+        a small compartment, similar to a vending machine or an ATM.
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Dispenser]]
+        [[Category:Ant Challenge]]"}

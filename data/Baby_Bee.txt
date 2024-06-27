@@ -1,0 +1,89 @@
+{"text": "{{Bee
+        |image-orig = Baby_Bee.png
+        |image-gifted = BabyBee Gifted.png
+        |description = This little bee isn't very good at bee tasks yet, but it's guaranteed to
+        bring you joy (and luck).
+        |rarity = Legendary
+        |color = Colorless
+        |energy = 15
+        |energylabel = less
+        |speed = 10.5
+        |attack = 0
+        |skincolor1 = #f1f1f1
+        |skincolor2 = #88dce8
+        |skincolor3 = #1b2a35
+        }}'''Baby Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Legendary|Legendary bee]].
+        Baby Bee's favorite type of treat is [[Strawberry|Strawberries]].
+
+        Baby Bee likes the [[Dandelion Field]], [[Sunflower Field]], [[Mushroom Field]], and the
+        [[Blue Flower Field]]. It dislikes the [[Rose Field]], [[Cactus Field]], [[Pine Tree
+        Forest]], [[Spider Field]], and the [[Stump Field]].
+
+        == Stats ==
+        * Collects 10 [[Pollen]] in 5 seconds.
+        * Makes 80 [[Honey]] in 5 seconds.
+        * -25% [[Stats#Speed|Movespeed]] and [[Energy]]. Can't attack.
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +25% [[System Page#Loot Luck|Loot Luck]].
+
+        === Abilities ===
+        * '''[[Ability Tokens#Baby Love|[Baby Love]]]''' Grants x2 [[System Page#Pollen|Pollen]] and
+        +50% Loot Luck for 30 seconds. Loot Luck increases your chance of obtaining prizes from
+        defeating enemies.
+
+        {{Stat|pollen = 10|pollentime = 5|honey = 80|honeytime = 5|rarity = legendary|color = blue}}
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+
+        BabyBee Hive.png|Baby Bee's old hive slot design.
+        Gifted Baby Bee hive.png|A Gifted Baby Bee hive slot.
+        BabyFace.png|Baby Bee's face.
+        BabyBeeEggs Inventory.png|[[Eggs#Specific Bee Eggs|Baby Bee eggs]] in the inventory.
+        File:BabyLove.png|Baby Love Token.
+
+        </gallery>
+
+        == Trivia ==
+        * Baby Bee has the second-lowest base energy (lowest being [[Tadpole Bee]]), second-lowest
+        base [[System Page#Convert Rate|Convert Rate]] (lowest being [[Fuzzy Bee]]), and the lowest
+        base gather amount in the game. Baby Bee also has the second-slowest base gather speed, 1
+        second faster than Tadpole Bee and Fuzzy Bee.
+        * Baby Bee and Tadpole Bee tie for the smallest [[Bees]] in the game. They are also the only
+        two bee types to have a different size compared to other bees, and the only bees who have
+        less than 1 base [[Stats#Attack|Attack]]. Attack mutations won't give Baby Bee attack so
+        Baby Bee '''<u>''can't''</u>''' attack.
+        ** They are also the only bees who can generate Baby Love tokens. However, Tadpole Bee will
+        need to be gifted in order to do so.
+        * Baby Bee is the only bee that has 0 base attack. Because of that, it cannot attack any
+        [[Mobs]].
+        ** Baby Bee used to be able to attack and could do damage if the player had any damage
+        boosts. After the [[Updates#2018.11.25|11/25/2018 Update]], this is no longer the case.
+        ** According to [[Black Bear]], the reason why they don't attack is because \"They're too
+        dumb to notice\" the mobs.
+        ** Even though it says, \"0 attack\", attack added to baby bee still counts towards total
+        attack, which can buff [[Passive Abilities#Star Saw|Star Saw]].
+        * Baby Bee, [[Bumble Bee]], [[Demon Bee]], and [[Exhausted Bee]] are tied as the slowest
+        bees in the game.
+        * Baby Bee has the most field preferences in the game. It also dislikes the most [[Fields]].
+        ** Baby Bee prefers the lower-tier fields (Dandelion, Blue Flower, Sunflower, etc.) and
+        dislikes the higher-tier fields (Rose, Cactus, Pine Tree Forest, etc.).
+        * Baby Bee is the only bee that isn't red to like the Mushroom Field.
+        *Baby Bee and [[Stubborn Bee]] are the only [[:Category:Colorless|Colorless]] bees that like
+        strawberries.
+        * Baby Bee and [[Rage Bee]] are the only bees with three unique colors on their skins. Baby
+        Bee is also the only gifted bee with three unique colors on its skin.
+        * There is a small chance that a Baby Bee egg will drop from [[Tunnel Bear]].
+        * Before 11/25/2018 update, the Gifted Hive Bonus of Baby Bee was +5% Loot Luck, which was
+        then changed to +10% in said update. This was then changed to +20% Loot Luck in the
+        [[Updates#2019.04.05|4/5/2019 Update]] and once again to +25% Loot Luck in the Beesmas 2019
+        update.
+        * Onett paid $2 for the laughing baby sound that Baby Love uses. It can be bought
+        [https://audiojungle.net/item/baby-laughing/21354817 Here].
+        * This is one of the only 4 bees that has a specific egg obtainable from mob drops, with the
+        others being a Rascal Bee egg from ladybugs, a Bumble Bee egg from rhino beetles, or a Honey
+        Bee egg from cave monsters.
+        * Baby Bee, [[Basic Bee]], and Bumble Bee are the only bees shown on [[Onett's Lid Art]].
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Legendary]]
+        [[Category:Colorless]]
+        [[zh-tw:嬰兒蜂]]"}

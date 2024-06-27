@@ -1,0 +1,96 @@
+{"text": "{{Mob
+        |title = Werewolf
+        |image =WerewolfBSS.png
+        |location = [[Cactus Field]], [[Pumpkin Patch]]
+        |timer = 60 minutes (1 hour) (51 minutes with Gifted Vicious Bee)
+        |hp = 250
+        |damage = 35
+        |points = 25
+        |bond = 75
+        |honey = 5,000
+        |level = 7
+        }}The '''Werewolf''' is a level 7 [[Mob]] found only behind the [[Honey Bee Gate]]. Unlike
+        other mobs, it defends two fields instead of one: the [[Cactus Field]] and the [[Pumpkin
+        Patch]]. He spawns at the entrance of the [[Werewolf's Cave]], in between the Cactus Field
+        and the Pumpkin Patch.
+
+        It takes 1 hour for the werewolf to respawn after being defeated (51 minutes with [[Gifted
+        Bee|Gifted]] [[Vicious Bee]]).
+
+        ==Locations==
+        {| class=\"article-table\"
+        !Field
+        !Quantity
+        !Level
+        |-
+        |Entire level containing the [[Cactus Field]], [[Pumpkin Patch]], and [[Pine Tree Forest]].
+        |1
+        |7
+        |}
+
+        ==Drops==
+        Guaranteed:
+        *25 [[Battle Point]]s.
+        *5000 [[Honey]] (Increased by Honey From Tokens).
+        *75 [[Bond]].
+        Possible:
+        *[[Ticket]]s (increments of 1, 3, 5, 10 very rare, 15 or 20 extremely rare, 25 exceptionally
+        rare) (50% chance) ([[Loot Luck]]: +drop rate).
+        *[[Gumdrops]] (increments of 1, 3, 5, 10 or 15) (Loot Luck: +drop rate).
+        *[[Treats]] (increments of 5, 10, or 50).
+        *[[Sunflower Seeds|Sunflower seeds]] (increments of 5, 10, 50, or 250).
+        *[[Pineapples]] (increments of 1 or 20).
+        *[[Royal Jelly|Royal jellies]] (increments of 1, 5, 10, and 25).
+        *[[Micro-Converter|Micro-converters]] (Increments of 1 and 5).
+        *[[Glue]] (Somewhat Rare) (increments of 1, 3, 5, 10, and 25).
+        *[[Oil]] (Somewhat Rare).
+        *[[Enzymes]] (Rare).
+        *[[Glitter]] (Rare).
+        *[[Gingerbread Bear|Gingerbread Bear]] (Beesmas only).
+        *[[Robo Pass]] (Rare).
+        *[[Pinecone]] (Rare) (Beesmas only).
+        *[[Royal Jelly#Star Jelly|Star jelly]] (Very Rare) (increments of 1 and 2).
+        *[[Loaded Dice]] (Very Rare).
+        *[[Night Bell]] (Extremely Rare).
+        *[[Egg#Diamond Egg|Diamond Egg]] (Extremely Rare).
+        *[[Egg#Gifted Silver Egg|Gifted Silver Egg]] (Exceptionally Rare).
+
+        ==Strategies==
+        The main strategy players use is to have something in the way between them and the Werewolf.
+        The main things players use are the bigger cactus or the smaller pumpkin. The werewolf will
+        bounce off the object when he tries to attack, making killing him easy.
+
+        The run-and-jump method also works: like most Mobs, the Werewolf gets confused while the
+        player is in the air and will lunge at the point the player was when they jumped, not where
+        they’re at after they jumped.
+
+        The [[Glitches#Frozen Field Defenders|Frozen Field Defenders Glitch]] works well against the
+        Werewolf.
+
+        Players can also just go through the Honey Bee Gate, then quickly run behind the Pine Tree
+        nearest to the [[Badge Bearer's Guild]]. Then, if he goes back to the cave, just walk beside
+        him and then run back behind the tree. The player should keep doing this until they defeat
+        him.
+
+        ==Trivia==
+        *This and the [[spider]] are the only mobs that attack players beyond the field they spawn
+        in.
+        *This is the only normal mob to defend three fields (Cactus Field, Pumpkin Patch and Pine
+        tree forest).
+        *The werewolf uses the [https://www.roblox.com/catalog/132574130/White-Fang \"White Fang
+        Package\"] on the Roblox Catalog.
+        *This was the first non-bug/arachnid mob added into the game.
+        *The player can earn more than one egg after defeating the werewolf; for example, he can
+        drop 5 [[Egg|Silver Eggs]] at once.
+        *This is the second strongest normal mob in the game, only beaten by the estimated health of
+        the [[Cave Monster]]s.
+        *Among the normal mobs, the werewolf is the one that spawns the least frequently, at 1 hour
+        after every defeat.
+        *This is the first mob in which the respawn timer is 1 hour or more, the other 7 being
+        [[Stump Snail]], [[Snowbear]] and [[:Category:Bosses|Bosses]].
+        *If you run inside the Werewolf's Cave, you would be faced with a tunnel, which, if you
+        cross, rewards you with a gold egg. However, the cave is guarded by the previously mentioned
+        Cave Monsters that you will have to rush past to reach the egg.
+
+        {{MobNav}}
+        [[Category:Mobs]]"}

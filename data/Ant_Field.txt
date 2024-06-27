@@ -1,0 +1,107 @@
+{"text": "{{Field|fieldcolor=Assorted|bees=20|width=32|height=12|image=AntField1.png}}The '''Ant
+        Field''' is a [[Fields|field]] located behind the [[Ant Gate]] and near the [[Top Ant
+        Exterminators]] leaderboard. It can only be accessed by starting the [[Ant Challenge]] which
+        will summon waves of [[ants]].
+
+        This is a 12×32 field, containing 384 [[flowers]]. The flowers are white, red, and blue, and
+        the only natural size in single.
+        {| class=\"article-table\"
+        !Flowers
+        ! colspan=\"2\" |White
+        ! colspan=\"2\" |Red
+        ! colspan=\"2\" |Blue
+        ! colspan=\"2\" |Total
+        |-
+        !Single
+        |72
+        |''{{Hover|20%|19.95%}}''
+        |138
+        |''{{Hover|35.6%|35.57%}}''
+        |174
+        |''{{Hover|44.5%|44.47%}}''
+        |384
+        |'''''100%'''''
+        |-
+        !Double
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |'''''0%'''''
+        |-
+        !Triple
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |''0%''
+        |0
+        |'''''0%'''''
+        |-
+        !Total
+        |'''83'''
+        |'''''{{Hover|20%|19.95%}}'''''
+        |'''148'''
+        |'''''{{Hover|35.6%|35.57%}}'''''
+        |'''185'''
+        |'''''{{Hover|44.5%|44.47%}}'''''
+        |'''384'''
+        |'''''100%'''''
+        |}
+        '''Note: The flowers in fields are randomly generated, so the flower counts above may not be
+        100% accurate. The percentages should be roughly correct, however.'''
+
+        This field can produce [[honey]] and [[ticket]] tokens while collecting [[pollen]].
+
+        The only [[Bees|bee]] that likes the Ant Field is [[Lion Bee]]. There are no bees that
+        dislike the Ant Field.
+
+        [[Planter]]s cannot be planted in this field, although [[Onett (Developer)|Onett]] has
+        stated that the Ant Field contains Invigorating [[Nectar]]
+
+        == Obtaining Boosts ==
+
+        * Using an [[Ant Pass]] to start the Ant Challenge will give 100% Instant Ant Field
+        Conversion.
+        * There is no possible to way to boost the pollen for the Ant Field.
+        * The flowers can still be [[Pollination|pollinated]].
+
+        == Gallery ==
+        <gallery>
+        Unused Ant.png|An unused Ant Field boost icon.
+        Antchallengenewsurroundings.png|The Ant Field next to the Ant Pass Dispensers, the Top Ant
+        Exterminators leaderboard and the [[Hive Hub|Hive Hub Portal]] viewed from the Ant Gate.
+        Ticket from ant challenge.jpg|A player getting a ticket from the Ant Field.
+        </gallery>
+
+        == Trivia ==
+
+        * You can collect pollen from the Ant Field outside the challenge by using the
+        [[Sticker-Seeker]] or spawning flames with the [[Scythe]].
+        * The Ant Field is the only [[fields|field]] that does not have its own [[badges|badge]].
+        * [[Lion Bee]] is the only bee to like the Ant Field; all other bees are neutral to this
+        field.
+        * The Ant Field is the only field to have exclusively single [[flowers]].
+        ** The flowers on this field contain 50 pollen per flower, and instead of going up by 15
+        pollen per tier, go up 10 per [[pollination]] tier up to 90, although pollen multiplier
+        remains the same as regular flowers.
+        * The Ant Field is the only field that can't be boosted with [[glitter]], the only field
+        where a [[Magic Bean|magic bean]] cannot be planted, the only field where [[clouds]] cannot
+        be summoned, the only field that had no Market Boost from the [[Boost Market]], the only
+        field that can't get [[Field Wind|winds]] from the [[Wind Shrine]], and the only field where
+        [[planter]]s cannot be planted.
+        * The Ant Field is the smallest field in the game with 384 flowers, smaller than the
+        [[Pumpkin Patch]] with 561 flowers and the [[Stump Field]] with 563 flowers.
+        * The Ant Field is one of the 5 fields that are exclusively used for a challenge. The others
+        are: Mixed Brick Field, White Brick Field, Blue Brick Field and Red Brick Field.
+        * Players are able to glitch into the Ant Field without triggering the actual challenge.
+        This can only be achieved by having a slow internet connection or [[Ability Tokens#Bear
+        Morph|bear morph]] and/or [[Buffs & Debuffs#From Areas|haste+]].
+        * Despite being impossible to boost, the Ant Field has an unused [[Field Boost]] icon.
+        {{MapNav}}
+        [[Category:Fields]]
+        [[Category:Locations]]"}

@@ -1,0 +1,33 @@
+{"text": "{{Tool|image =Golden_Rake.png|price = 20,000,000|shop = Mountain Top Shop|range =
+        26|pattern = 7 pollen from 4 lines of 4 patches|time = 0.75 sec|collectbase = 7}}
+        The '''Golden Rake''' is a [[:Category:Tools|tool]] that was added in the [[Updates|4/5/2019
+        update]]. It can be purchased in the [[Mountain Top Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|20,000,000}}
+        |}
+
+        The Golden Rake collects 7 [[pollen]] from 4 lines of 4 patches in 0.75 seconds. It gets
+        supercharged for every 5th scoop, collecting 7 pollen from 4 lines of 12 patches for every
+        fifth scoop. It emits sparkles. Its average base pollen collection rate is 149.333 pollen
+        per second, 238.933 pollen per second when including the supercharged collection.
+
+        == Gallery ==
+        <gallery hideaddbutton=\"true\">
+        Hivesticker golden rake.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        SuperChargeRake.gif|A supercharged Golden Rake in action.
+        SidewaySuperchargedRake.gif|A supercharged Golden Rake collecting sideways when the player
+        turns their body.
+        </gallery>
+        == Trivia ==
+        * If the supercharged Golden Rake is activated right when the player turns their body, the
+        rake will collect sideways.
+        * Like all the other tools with an ability, it still activates when the player is not in a
+        [[field]].
+        * This is the superior version of the [[Rake]], which can be bought in the [[Noob Shop]] for
+        800 honey.
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]"}

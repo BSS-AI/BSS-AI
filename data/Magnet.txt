@@ -1,0 +1,49 @@
+{"text": "{{Tool
+        |image =Magnet.png
+        |price = 5,500
+        |shop = Noob Shop
+        |range = 9
+        |pattern = Surround
+        |time = 0.8
+        |collectbase = 2
+        }}
+        The '''Magnet''' is a [[:Category:Tools|tool]] that can be purchased at the [[Noob Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|5,500}}
+        |}
+
+        It collects 2 [[pollen]] from 9 surrounding patches every 0.8 seconds. It has a base pollen
+        collection rate of 22.5 pollen per second on average, making it the second best tool in the
+        Noob Shop.
+
+        ==Appearance==
+        The magnet is consisted of a magnet colored red with white tips. The pole is a shade of
+        grey.
+
+        ==Gallery==
+        <gallery>
+        Hivesticker magnet.png|The {{PAGENAME}}'s associated [[Sticker#Stickers|sticker]].
+        </gallery>
+
+        ==Trivia==
+        *According to LunaTalks, an [[BSS Staff|administrator]] on the official Bee Swarm Simulator
+        Discord, the Magnet was the first tool [[Onett (Developer)|Onett]] ever made when developing
+        the game.
+        *The Magnet is a weaker version of the [[Electro-Magnet]], a tool that can be purchased in
+        the [[Pro Shop]] for 300,000 honey.
+        **In addition, the Electro-Magnet bears a different appearance to the Magnet; instead of the
+        body color being red, it is yellow. In addition, it has four poles instead of two, and there
+        is electricity in between the poles, unlike the Magnet.
+        **The two are the only tools to collect pollen in a square pattern. They also have the same
+        exact collecting pattern.
+        *Interestingly, the Magnet's associated sticker portrays a different gray magnet with
+        colored ends.
+        **This is the only tool sticker in the entire game that is completely different from the
+        original tool's appearance.
+        *The Magnet’s design is most likely based upon a real-life horseshoe magnet.
+        {{Items}}
+        [[Category:Items]]
+        [[Category:Tools]]"}

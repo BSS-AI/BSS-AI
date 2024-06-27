@@ -1,0 +1,1086 @@
+{"text": "[[File:BadgeIcon.png|thumb|180x180px|The badge icon.]]
+        '''Badges''' are part of the achievement system of [[Bee Swarm Simulator]]. There are
+        currently 147 badges in Bee Swarm Simulator (including inactive badges). 22 of the badges
+        are currently unobtainable.
+
+        Most of these badges are based on collecting a certain amount of [[pollen]] from a certain
+        [[Fields|field]]. Obtaining a non-event badge awards [[ticket]]s and a permanent boost.
+        Boosts in the same category do not stack - earning a higher-ranked badge overwrites the old
+        boost with the new one. The number of tickets earned depends on the rank of the badge
+        earned.
+
+        The player needs the Goo Hotshot badge to enter [[Gummy Bear's Lair]], 15 badges of any tier
+        to enter the [[Badge Bearer's Guild]], and one ace badge to access the special room in the
+        Badge Bearer's Guild.
+
+        Certain badges also unlock badge rewards from the [[Wind Shrine]], which can be obtained by
+        donating specific items.
+
+        To get more [[coconut]]s from the [[Coconut Dispenser]], the player must get better Coconut
+        Badges, and to get more [[glue]] from the [[Glue Dispenser]], better Goo Badges are needed.
+        Event badges are the only badges that don't give any tickets, permanent buffs, or even show
+        up in the badge menu, but the Beesmas Badges allow the player to get two different masks
+        with some buffs (the [[B.B.M. Mask]] and the [[Mondo B.B.M. Mask]]), and the [[Egg Hunt
+        2019]], [[Egg Hunt 2020]], and the [[Ready Player Two]] badges each gave an item for the
+        player's Roblox avatar. The only exception to this were the fifteen badges from [[Roblox:
+        The Classic]], which didn't give any avatar items, but counted as currency in the event hub.
+        Upon claiming any non-event badge, it will be announced in the server publicly, and a
+        cheerful audio will play in the background, saying: \"<span
+        style=\"background-color:#F4A90D; color:black;\">🥇 {Username} earned the {Badge name}
+        Badge - {Badge Rank} 🥇</span>\"[[File:RobloxScreenShot20190201
+        161219050.png|thumb|220x220px|A player receiving a badge, with the notification in chat.]]
+        [[File:Yay.ogg]]
+
+        ==Honey Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:1 Million Honey.png|centre|100x100px]] Cadet
+        |Make {{texttip|1 Million|1,000,000}} [[Honey]].
+        |
+        * x1.3 [[System Page#Convert Rate|Convert Rate]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:10 Million Honey.png|centre|100x100px]] Hotshot
+        |Make {{texttip|10 Million|10,000,000}} [[Honey]].
+        |
+        * x1.6 [[System Page#Convert Rate|Convert Rate]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:100 Million Honey.png|centre|100x100px]] Ace
+        |Make {{texttip|100 Million|100,000,000}} [[Honey]].
+        |
+        * x1.9 [[System Page#Convert Rate|Convert Rate]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:1 Billion Honey.png|centre|100x100px]] Master
+        |Make {{texttip|1 Billion|1,000,000,000}} [[Honey]].
+        |
+        * x2.2 [[System Page#Convert Rate|Convert Rate]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:HoneyGrandmaster.png|centre|100x100px|alt=|frameless]] Grandmaster
+        |Make {{texttip|20 Billion|20,000,000,000}} [[Honey]].
+        |
+        * x2.5 [[System Page#Convert Rate|Convert Rate]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==Quest Badges==
+        {|class=\"wikitable\"
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:10 Quests.png|center|100x100px]] Cadet
+        |Complete 10 [[Quests]].
+        |
+        * x1.25 [[System Page#Capacity Multiplier|Capacity]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:100 Quests.png|center|100x100px]] Hotshot
+        |Complete 50 [[Quests]].
+        |
+        * x1.5 [[System Page#Capacity Multiplier|Capacity]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:1 Thousand Quests.png|centre|100x100px]] Ace
+        |Complete 250 [[Quests]].
+        |
+        * x1.75 [[System Page#Capacity Multiplier|Capacity]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:10 Thousand Quests.png|center|100x100px]] Master
+        |Complete {{texttip|1 Thousand|1,000}} [[Quests]].
+        |
+        * x2 [[System Page#Capacity Multiplier|Capacity]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Quest Grandmaster.png|thumb|100x100px|centre]] Grandmaster
+        |Complete {{texttip|5 Thousand|5,000}} [[Quests]].
+        |
+        * x2.25 [[System Page#Capacity Multiplier|Capacity]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==Battle Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:100 Battle Points.png|centre|100x100px]] Cadet
+        |Obtain 100 [[Battle Points]].
+        |
+        * +10% [[System Page#Critical Power|Critical Power]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:1 Thousand Battle Points.png|centre|100x100px]] Hotshot
+        |Obtain {{texttip|1 Thousand|1,000}} [[Battle Points]].
+        |
+        * +20% [[System Page#Critical Power|Critical Power]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:10 Thousand Battle Points.png|centre|100x100px]] Ace
+        |Obtain {{texttip|10 Thousand|10,000}} [[Battle Points]].
+        |
+        * +40% [[System Page#Critical Power|Critical Power]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:100 Thousand Battle Points.png|centre|100x100px]] Master
+        |Obtain {{texttip|50 Thousand|50,000}} [[Battle Points]].
+        |
+        * +70% [[System Page#Critical Power|Critical Power]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Battle Points.png|centre|thumb|100x100px]] Grandmaster
+        |Obtain {{texttip|500 Thousand|500,000}} [[Battle Points]].
+        |
+        * +100% [[System Page#Critical Power|Critical Power]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==Ability Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:250 Ability Tokens.png|center|100x100px]] Cadet
+        |Collect 2500 [[Ability Tokens]].
+        |
+        * {{texttip|+25k|25,000}} [[System Page#Capacity Multiplier|Capacity]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:25 Thousand Ability Tokens.png|center|100x100px]] Hotshot
+        |Collect {{texttip|25 Thousand|25,000}} [[Ability Tokens]].
+        |
+        * {{texttip|+50k|50,000}} [[System Page#Capacity Multiplier|Capacity]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:250 Thousand Ability Tokens.png|center|101x101px]] Ace
+        |Collect {{texttip|100 Thousand|100,000}} [[Ability Tokens]].
+        |
+        * {{texttip|+100k|100,000}} [[System Page#Capacity Multiplier|Capacity]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:2.5 Million Ability Tokens.png|center|100x100px]] Master
+        |Collect {{texttip|1 Million|1,000,000}} [[Ability Tokens]].
+        |
+        * {{texttip|+150k|150,000}} [[System Page#Capacity Multiplier|Capacity]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Ability Tokens.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Million|5,000,000}} [[Ability Tokens]].
+        |
+        * {{texttip|+250k|250,000}} [[System Page#Capacity Multiplier|Capacity]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==Goo Badges==
+        {|class=\"wikitable\"
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:500 Thousand Goo.png|centre|100x100px]] Cadet
+        |Collect {{texttip|500 Thousand|500,000}} [[Goo]].
+        |
+        * +2% [[System Page#Honey Per Pollen|Honey Per Pollen]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:5 Million Goo.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|5 Million|5,000,000}} [[Goo]].
+        |
+        * +4% [[System Page#Honey Per Pollen|Honey Per Pollen]]
+        * 10x [[Ticket]]s
+        * Access to [[Gummy Bear's Lair]]
+        |-
+        |[[File:50 Million Goo.png|centre|100x100px]] Ace
+        |Collect {{texttip|50 Million|50,000,000}} [[Goo]].
+        |
+        * +6% [[System Page#Honey Per Pollen|Honey Per Pollen]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:500 Million Goo.png|centre|100x100px]] Master
+        |Collect {{texttip|500 Million|500,000,000}} [[Goo]].
+        |
+        * +8% [[System Page#Honey Per Pollen|Honey Per Pollen]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Goo.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|10 Billion|10,000,000,000}} [[Goo]].
+        |
+        * +10% [[System Page#Honey Per Pollen|Honey Per Pollen]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==Playtime Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:PlaytimeCadet.png|centre|100x100px]] Cadet
+        |Play for 8 hours (480 minutes) total.
+        |
+        * +1% Bee Movespeed
+        * 5x [[Ticket]]s
+        |-
+        |[[File:PlaytimeHotshot.png|centre|100x100px]] Hotshot
+        |Play for 1 day (24 hours) total.
+        |
+        * +2% Bee Movespeed
+        * 10x [[Ticket]]s
+        |-
+        |[[File:PlaytimeAce.png|centre|100x100px]] Ace
+        |Play for 7 days (168 hours) total.
+        |
+        * +3% Bee Movespeed
+        * 15x [[Ticket]]s
+        |-
+        |[[File:PlaytimeMaster.png|centre|100x100px]] Master
+        |Play for 30 days (720 hours) total.
+        |
+        * +4% Bee Movespeed
+        * 25x [[Ticket]]s
+        |-
+        |[[File:PlaytimeGrandmaster.png|centre|thumb|100x100px]] Grandmaster
+        |Play for 100 days (2,400 hours) total.
+        |
+        * +5% Bee Movespeed
+        * 40x [[Ticket]]s
+        |}
+        ==Sticker Stack Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:StackCadet.png|centre|100x100px]] Cadet
+        |Stack 25 Stickers to the Sticker Stack.
+        |
+        * +5% Pollen from Bee Gathering
+        * 5x [[Ticket]]s
+        |-
+        |[[File:StackHotshot.png|centre|100x100px]] Hotshot
+        |Stack 50 Stickers to the Sticker Stack.
+        |
+        * +10% Pollen from Bee Gathering
+        * 10x [[Ticket]]s
+        |-
+        |[[File:StackAce.png|centre|100x100px]] Ace
+        |Stack 100 Stickers to the Sticker Stack.
+        |
+        * +15% Pollen from Bee Gathering
+        * 15x [[Ticket]]s
+        |-
+        |[[File:StackMaster.png|centre|100x100px]] Master
+        |Stack 250 Stickers to the Sticker Stack.
+        |
+        * +20% Pollen from Bee Gathering
+        * 25x [[Ticket]]s
+        |-
+        |[[File:StackGrandmaster.png|centre|thumb|100x100px]] Grandmaster
+        |Stack 500 Stickers to the Sticker Stack.
+        |
+        * +25% Pollen from Bee Gathering
+        * 40x [[Ticket]]s
+        |}
+        ==[[Sunflower Field|Sunflower]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Sunflower Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Capacity Multiplier|Capacity]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Sunflower Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +20% [[System Page#Capacity Multiplier|Capacity]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Sunflower Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +30% [[System Page#Capacity Multiplier|Capacity]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Sunflower Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +40% [[System Page#Capacity Multiplier|Capacity]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:SunflowerGrandmaster.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]]
+        |
+        * +50% [[System Page#Capacity Multiplier|Capacity]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Dandelion Field|Dandelion]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Dandelion Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +3% Honey At Hive
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Dandelion Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +6% Honey At Hive
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Dandelion Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +9% Honey At Hive
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Dandelion Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +12% Honey At Hive
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Dandelion.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +15% Honey At Hive
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Mushroom Field|Mushroom]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Mushroom Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +2% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Mushroom Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +4% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Mushroom Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +6% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Mushroom Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +8% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Mushroom.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Instant Red Conversion|Instant Red Conversion]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Blue Flower Field|Blue Flower]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Blue Flower Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +2% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Blue Flower Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +4% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Blue Flower Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +6% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Blue Flower Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +8% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Blue Flower.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Instant Blue Conversion|Instant Blue Conversion]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Clover Field|Clover]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Clover Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +10% [[Loot Luck]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Clover Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +20% [[Loot Luck]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Clover Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +30% [[Loot Luck]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Clover Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +40% [[Loot Luck]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Clover.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +50% [[Loot Luck]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Spider Field|Spider]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Spider Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +10% [[System Page#White Pollen|White Pollen]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Spider Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +15% [[System Page#White Pollen|White Pollen]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Spider Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +20% [[System Page#White Pollen|White Pollen]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Spider Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +25% [[System Page#White Pollen|White Pollen]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:SpiderGrandmaster.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +30% [[System Page#White Pollen|White Pollen]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Strawberry Field|Strawberry]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Strawberry Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Red Pollen|Red Pollen]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Strawberry Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Red Pollen|Red Pollen]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Strawberry Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +15% [[System Page#Red Pollen|Red Pollen]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Strawberry Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +20% [[System Page#Red Pollen|Red Pollen]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Strawberry Grandmaster Badge.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +25% [[System Page#Red Pollen|Red Pollen]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Bamboo Field|Bamboo]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Bamboo Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Blue Pollen|Blue Pollen]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Bamboo Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Blue Pollen|Blue Pollen]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Bamboo Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +15% [[System Page#Blue Pollen|Blue Pollen]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Bamboo Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +20% [[System Page#Blue Pollen|Blue Pollen]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:BambooGrandmaster.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +25% [[System Page#Blue Pollen|Blue Pollen]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Pineapple Patch|Pineapple]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Pineapple Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +3% [[System Page#Instant White Conversion|Instant White Conversion]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Pineapple Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +6% [[System Page#Instant White Conversion|Instant White Conversion]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Pineapple Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +9% [[System Page#Instant White Conversion|Instant White Conversion]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Pineapple Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +12% [[System Page#Instant White Conversion|Instant White Conversion]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:PineappleGrandmaster.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +15% [[System Page#Instant White Conversion|Instant White Conversion]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Pumpkin Patch|Pumpkin]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Pumpkin Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * x1.2 [[System Page#Convert Rate At Hive|Convert Rate at Hive]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Pumpkin Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * x1.4 [[System Page#Convert Rate At Hive|Convert Rate at Hive]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Pumpkin Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * x1.6 [[System Page#Convert Rate At Hive|Convert Rate at Hive]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Pumpkin Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * x1.8 [[System Page#Convert Rate At Hive|Convert Rate at Hive]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Pumpkin.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * x2.0 [[System Page#Convert Rate At Hive|Convert Rate at Hive]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Cactus Field|Cactus]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Cactus Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +1% [[System Page#Instant Conversion|Instant Conversion]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Cactus Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +2% [[System Page#Instant Conversion|Instant Conversion]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Cactus Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +3% [[System Page#Instant Conversion|Instant Conversion]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Cactus Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +4% [[System Page#Instant Conversion|Instant Conversion]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Cactus.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Instant Conversion|Instant Conversion]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Rose Field|Rose]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Rose Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Red Field Capacity|Red Field Capacity]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Rose Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Red Field Capacity|Red Field Capacity]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Rose Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +15% [[System Page#Red Field Capacity|Red Field Capacity]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Rose Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +20% [[System Page#Red Field Capacity|Red Field Capacity]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Rose.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +25% [[System Page#Red Field Capacity|Red Field Capacity]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Pine Tree Forest|Pine Tree]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:Pine Tree Cadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Blue Field Capacity|Blue Field Capacity]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:Pine Tree Hotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Blue Field Capacity|Blue Field Capacity]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:Pine Tree Ace.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +15% [[System Page#Blue Field Capacity|Blue Field Capacity]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:Pine Tree Master.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +20% [[System Page#Blue Field Capacity|Blue Field Capacity]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:Pinetree.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +25% [[System Page#Blue Field Capacity|Blue Field Capacity]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Stump Field|Stump]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:StumpCadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|250 Thousand|250,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Pollen From Tools|Pollen From Tools]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:StumpHotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|2.5 Million|2,500,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Pollen From Tools|Pollen From Tools]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:StumpAce.png|centre|100x100px]] Ace
+        |Collect {{texttip|25 Million|25,000,000}} [[Pollen]].
+        |
+        * +15% [[System Page#Pollen From Tools|Pollen From Tools]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:StumpMaster.png|centre|100x100px]] Master
+        |Collect {{texttip|250 Million|250,000,000}} [[Pollen]].
+        |
+        * +20% [[System Page#Pollen From Tools|Pollen From Tools]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:StumpGrandmaster.png|centre|thumb|100x100px]] Grandmaster
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +25% [[System Page#Pollen From Tools|Pollen From Tools]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Coconut Field|Coconut]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:BCC.png|centre|100x100px]] Cadet
+        |Collect {{texttip|50 Million|50,000,000}} [[Pollen]].
+        |
+        * x1.04 [[System Page#White Pollen|White Pollen]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:BCH.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|500 Million|500,000,000}} [[Pollen]].
+        |
+        * x1.08 [[System Page#White Pollen|White Pollen]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:BCA.png|centre|100x100px]] Ace
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * x1.12 [[System Page#White Pollen|White Pollen]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:BCM.png|centre|100x100px]] Master
+        |Collect {{texttip|50 Billion|50,000,000,000}} [[Pollen]].
+        |
+        * x1.16 [[System Page#White Pollen|White Pollen]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:BCG.png|centre|100x100px]] Grandmaster
+        |Collect {{texttip|1 Trillion|1,000,000,000,000}} [[Pollen]].
+        |
+        * x1.20 [[System Page#White Pollen|White Pollen]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Pepper Patch|Pepper]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:BPC.png|centre|100x100px]] Cadet
+        |Collect {{texttip|50 Million|50,000,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Flame Pollen|Flame Pollen]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:BPH.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|500 Million|500,000,000}} [[Pollen]].
+        |
+        * +10% [[System Page#Flame Pollen|Flame Pollen]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:BPA.png|centre|100x100px]] Ace
+        |Collect {{texttip|5 Billion|5,000,000,000}} [[Pollen]].
+        |
+        * +15% [[System Page#Flame Pollen|Flame Pollen]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:BPM.png|centre|100x100px]] Master
+        |Collect {{texttip|50 Billion|50,000,000,000}} [[Pollen]].
+        |
+        * +20% [[System Page#Flame Pollen|Flame Pollen]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:BPG.png|centre|100x100px]] Grandmaster
+        |Collect {{texttip|1 Trillion|1,000,000,000,000}} [[Pollen]].
+        |
+        * +25% [[System Page#Flame Pollen|Flame Pollen]]
+        * 40x [[Ticket]]s
+        |}
+
+        ==[[Hub Field|Hive Hub]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:HubCadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|10 Million|10,000,000}} [[Pollen]].
+        |
+        * +2% [[Instant Conversion|Instant Gifted Bee Conversion]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:HubHotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|100 Million|100,000,000}} [[Pollen]].
+        |
+        * +4% [[Instant Conversion|Instant Gifted Bee Conversion]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:HubAce.png|centre|100x100px]] Ace
+        |Collect {{texttip|1 Billion|1,000,000,000}} [[Pollen]].
+        |
+        * +6% [[Instant Conversion|Instant Gifted Bee Conversion]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:HubMaster.png|centre|100x100px]] Master
+        |Collect {{texttip|10 Billion|10,000,000,000}} [[Pollen]].
+        |
+        * +8% [[Instant Conversion|Instant Gifted Bee Conversion]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:HubGrandmaster.png|centre|100x100px]] Grandmaster
+        |Collect {{texttip|100 Billion|100,000,000,000}} [[Pollen]].
+        |
+        * +10% [[Instant Conversion|Instant Gifted Bee Conversion]]
+        * 40x [[Ticket]]s
+        |}
+        ==[[Mountain Top Field|Mountain Top]] Badges==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:MtnTopCadet.png|centre|100x100px]] Cadet
+        |Collect {{texttip|100 Million|100,000,000}} [[Pollen]].
+        |
+        * +1% [[System Page#Bee Gather Pollen|Gifted Bee Pollen]]
+        * 5x [[Ticket]]s
+        |-
+        |[[File:MtnTopHotshot.png|centre|100x100px]] Hotshot
+        |Collect {{texttip|10 Billion|10,000,000,000}} [[Pollen]].
+        |
+        * +2% [[System Page#Bee Gather Pollen|Gifted Bee Pollen]]
+        * 10x [[Ticket]]s
+        |-
+        |[[File:MtnTopAce.png|centre|100x100px]] Ace
+        |Collect {{texttip|1 Trillion|1,000,000,000,000}} [[Pollen]].
+        |
+        * +3% [[System Page#Bee Gather Pollen|Gifted Bee Pollen]]
+        * 15x [[Ticket]]s
+        |-
+        |[[File:MtnTopMaster.png|centre|100x100px]] Master
+        |Collect {{texttip|100 Trillion|100,000,000,000,000}} [[Pollen]].
+        |
+        * +4% [[System Page#Bee Gather Pollen|Gifted Bee Pollen]]
+        * 25x [[Ticket]]s
+        |-
+        |[[File:MtnTopGrandmaster.png|centre|100x100px]] Grandmaster
+        |Collect {{texttip|1 Quadrillion|1,000,000,000,000,000}} [[Pollen]].
+        |
+        * +5% [[System Page#Bee Gather Pollen|Gifted Bee Pollen]]
+        * 40x [[Ticket]]s
+        |}
+        ==Event Badges [Obtainable]==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:You Played Bee Swarm Simulator!.png|centre|100px]] You Played Bee Swarm Simulator!
+        |Solve 3 puzzles from [[The Computer]] during Ready Player Two event.
+        |
+        * [[How to Program BASIC]]
+        |}
+
+        ==Event Badges [Unobtainable]==
+        {|class=\"wikitable\"
+        |-
+        !Badge
+        !Requirements
+        !Reward
+        |-
+        |[[File:BeesmasBeeliever.png|centre|100px]] Beesmas Beeliever
+        |Complete the 3rd [[Bee Bear]] 2018 quest.
+        |
+        *Unlocks the [[Bubble Bee Man#Quest .28Near Panda Bear.29|\"Helping B.B.M.\" Quest]]
+        |-
+        |[[File:BeesmasOverachiever.png|centre|100px]] Beesmas Overachiever
+        |Complete either of [[Bubble Bee Man|Bubble Bee Man's]] 2018 quests.
+        |
+        * [[B.B.M. Mask]] (Or [[Mondo B.B.M. Mask]] if the player completed B.B.M. Mission)
+        |-
+        |[[File:Egg_Hunt_2019_Egg.png|centre|100x100px]] Egg Hunt 2019
+        |Trade in 3 [[Marshmallow Bee]]s to the [[Egg Hunt Info]].
+        |
+        * [[Flight of the Bumble Bee Egg]]
+        |-
+        |[[File:Swarmingeggbadge.png|centre|100px]] Swarming Egg Of The Hive
+        |Help 3 Bears with their Egg Hunt 2020 quests and turn in [[Sun Bear|Sun Bear's]] Egg Hunt
+        2020 quest.
+        |
+        * [[Swarming Egg of the Hive]]
+        |-
+        |[[File:TIXBadge.png|centre|100px]] Bee Swarm Simulator: TIX ''X'' (10x)
+        |Find a total of a total of 10 Tix inside of Bee Swarm Simulator (4 were hidden in the main
+        game, 3 were in the lobby subplace, and 3 were hidden in the [[Retro Swarm Challenge]].
+        |
+        * +1 Tix currency to spend in the Roblox: The Classic hub (depending how many badges were
+        obtained).
+        |-
+        |[[File:OGTokenBadge.png|centre|100px]] Bee Swarm Simulator: OG Token (Round ''X'') (5x)
+        |A Token was awarded to the player if they managed to beat rounds 2, 4, 6, 8 and 10 in the
+        Retro Swarm Challenge.
+        |
+        * +1 Token currency to spend in the Roblox: The Classic hub (depending how many badges were
+        obtained).
+        |}
+
+        ==Inactive Badges==
+        {|class=\"wikitable\"
+        !Badge
+        !Description
+        !Awarded All-Time
+        |-
+        |[[File:1 Billion Honey.png|centre|100x100px]]
+        [https://www.roblox.com/badges/1749530191/Honey ############# Honey]
+        |You've achieved the rank of Honey Master!
+        |0 Players
+        |-
+        |[[File:BeesmasOverachiever.png|centre|100px]]
+        [https://www.roblox.com/badges/2124445685/Counterfeit-Beesmas-Overachiever Counterfeit
+        Beesmas Overachiever]
+        |Whoops! For a short while, Onett accidentally gave this badge out the first time you spoke
+        to Bubble Bee Man during the Beesmas 2018 event.
+        |353 Players
+        |}
+        ==Badge Rims==
+        <gallery hideaddbutton=\"true\" navigation=\"true\">
+        Badge rim cadet.png|Cadet
+        Badge rim hotshot.png|Hotshot
+        Badge rim ace.png|Ace
+        Badge rim master.png|Master
+        Badge rim grandmaster.png|Grandmaster
+        </gallery>
+
+        ==Trivia==
+        *The [[Ant Field]] is the only field that doesn't have a badge.
+        *In the [[Updates#2018.06.02|6/2/2018 update]], ticket prizes for badges were increased. If
+        the player had already claimed these badges, they received the extra tickets when they
+        logged back in.
+        *Even though Grandmaster Badges were added in the [[Updates#2018.09.10|9/10/2018 update]],
+        their icons still show images of the map prior to the [[Updates#2018.07.11|7/11/2018
+        update]].
+        *After the badges were released in the [[Updates#2018.05.12|5/12/2018 update]], the Clover
+        Badge was bugged and did not give any loot luck. In the [[Updates#2019.09.28|9/28/2019
+        update]], this has been fixed.
+        *The [[Hub Field|Hive Hub Badge]], [[Coconut Field|Coconut Badge]], [[Pepper Patch|Pepper
+        Badge]] and the [[Mountain Top Field|Mountain Top Badge]] are the only badges that need more
+        pollen than the other badges (10,000,000 pollen for Hive Hub Cadet, 50,000,000 pollen for
+        Coconut Cadet and Pepper Cadet and 100,000,000 pollen for Mountain Top Cadet, rather than
+        250,000 for the other fields).
+        *Badges can be used to get badge shivers from the [[Wind Shrine]]. These can give good loot.
+        However, each shiver can only be obtained once.
+        *As of 5/24/2024, the obtainable badges with the least amount of people to achieve them are
+        the Hive Hub Grandmaster and the Mountain Top Grandmaster Badges, with only 15 and 1 players
+        respectively.
+        **These milestones have been ruined when onett accidentally uploaded debug tools into the
+        main game on 6/6/2024.
+        [[Category:Gameplay]]
+        [[Category:Mechanics]]"}

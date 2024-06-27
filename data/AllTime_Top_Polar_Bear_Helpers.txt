@@ -1,0 +1,9 @@
+{"text": "{{DailyCheck}}
+        ''(Leaderboard as of 04/11/2024)''
+        {{LB|name1=afoby|name2=etarakro|name3=VoidOfDemons|name4=Aytrax_x|name5=7Elevenss|amount1=50,126|amount2=32,240|amount3=31,103|amount4=29,013|amount5=28,981|name6=Penangwen|amount6=21,984|name7=sugarsmacks12|amount7=21,908|name8=rybozor|amount8=19,392|name9=Morengatrees|amount9=18,793|name10=nickname9999999999|amount10=18,439}}
+        The '''All-Time Top Polar Bear Helpers''' is one of the 62 [[leaderboards]] in the game, and
+        one of the 41 leaderboards without an in-game model. This leaderboard shows how much [[Polar
+        Bear]] [[Quests]] players have completed over time. It shows 10 leaderboard positions at a
+        time. The player can scroll down the leaderboard to see more players, all the way to the
+        100th place.
+        [[Category:Leaderboards]]"}

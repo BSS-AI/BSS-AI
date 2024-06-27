@@ -1,0 +1,29 @@
+{"text": "[[File:RobloxScreenShot20190926 200721995 (3).png|thumb|275px|The Stinger Shop.]]
+        The '''Stinger Shop''' is a [[:Category:Shops|shop]] located behind the [[Ant Gate]] that
+        sells [[stinger]]s for 10 [[ticket]]s each. Stingers are purchasable in increments of 1, 10,
+        and 100.
+
+        It has pictures of stingers on the sides and a red circular base with a white top. Unlike
+        other shops with a similar appearance, it does not have a decoration on the top. It also
+        contains a black semicircle with a grey separator as the vending mechanism, which seems to
+        make it a rotary dispenser.
+
+        == Prices ==
+        {| class=\"article-table\"
+        !{{Cost|Stinger}}
+        !{{Cost|Ticket}}
+        |-
+        |1
+        |10
+        |-
+        |10
+        |100
+        |-
+        |100
+        |1,000
+        |}
+
+        {{MapNav}}
+        [[Category:Shops]]
+        [[Category:Locations]]
+        [[Category:Machines]]"}

@@ -1,0 +1,55 @@
+{"text": "[[File:SpecialSproutSummoner.jpeg|thumb|The Special Sprout Summoner.]]
+        The '''Special Sprout Summoner''' is a [[:Category:Machines|machine]] located near to the
+        [[Red HQ]] and [[Sunflower Field]]. It allows players who have discovered all 8
+        [[Bees/Legendary|Legendary bee]] types to summon either a rare, epic, legendary, supreme,
+        gummy, or a moon [[sprout]] in a random [[Fields|field]] (except [[Coconut Field]] or
+        [[Pepper Patch]]), and can only be used every 16 hours. It was added along with sprouts in
+        the [[Updates#2018.09.10|9/10/2018 update]]. It is decorated with a rare sprout that gives
+        off particles.
+
+        Once used, the game will announce:
+        \"🌱 {Username} has planted a(n) [Rarity] Sprout...🌱\"
+
+        Odds of sprout that can be spawned:
+        {| class=\"wikitable mw-collapsible\"
+        !Sprout Type
+        !Chance of Being Planted
+        |-
+        |Normal
+        |0%
+        |-
+        |Rare
+        |60%
+        |-
+        |Epic
+        |25%
+        |-
+        |Gummy
+        |20%
+        |-
+        |Legendary
+        |2%
+        |-
+        |Supreme
+        |0.05%
+        |}
+
+        == Trivia ==
+        * The Special Sprout Summoner and the [[honeystorm]] summoner are the only machines that
+        require discovering Legendary bee types to be used, with this summoner requiring 8 and the
+        honeystorm summoner requiring 4.
+        ** Similarly, the [[Mythic Meteor Shower|Mythic Meteor Shower summoner]] requires 3
+        [[Bees/Mythic|Mythic bee]] types discovered to be used.
+        * Before the [[Updates#2018.11.25|11/25/2018 update]], it was originally a normal sprout
+        summoner, which was called the Sprout Summoner. It had the appearance of a normal sprout.
+        The player only needed to discover 7 Legendary bees, as at the time there were only 7
+        Legendary bees. Its cooldown was only 8 hours and it had a chance to summon normal sprouts.
+        ** [[Magic Bean]]s also did not exist back then, so this summoner was the only way for a
+        player to summon a sprout manually.
+        * The Special Sprout Summoner cannot summon a normal sprout after the
+        [[Updates#2018.11.25|11/25/2018 update]].
+
+        {{MapNav}}
+        [[Category:Locations]]
+        [[Category:Machines]]
+        [[Category:Summoner]]"}

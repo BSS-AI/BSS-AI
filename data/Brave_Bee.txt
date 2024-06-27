@@ -1,0 +1,59 @@
+{"text": "{{Bee
+        |image-orig = Brave Bee.png
+        |image-gifted= BraveBee Gifted.png
+        |description = This loyal bee will do anything to protect its owner.
+        |rarity = Rare
+        |color = Colorless
+        |energy = 30
+        |energylabel = more
+        |speed = 16.8
+        |attack = 6
+        |skincolor1 = #9f9f9f
+        |skincolor2 = #f1f1f1
+        |skincolor3 = #9f9f9f
+        }}The '''Brave Bee''' is a [[:Category:Colorless|Colorless]] [[Bees/Rare|Rare Bee]].
+
+        Brave Bee's favorite type of treat are [[pineapples]].
+
+        Brave Bee likes the [[Clover Field]] and the [[Spider Field]], though disliking the
+        [[Dandelion Field]].
+
+        == Stats ==
+        * Collects 10 [[pollen]] in 4 seconds.
+        * Makes 200 [[honey]] in 4 seconds.
+        * +20% [[Stats#Speed|movespeed]], +50% [[energy]], +120 [[System Page#Convert Amount|convert
+        amount]], +4 [[Stats#Attack|attack]].
+        * 🌟 [[Gifted Bee|Gifted Hive Bonus]]: +1 [[System Page#Bee Attack|Bee Attack]].
+
+        === Abilities ===
+        ''None.''
+
+        {{Stat|pollen = 10|pollentime = 4|honey = 200|honeytime = 4|rarity = rare}}
+
+        == Gallery ==
+        <gallery widths=\"185\">
+        GiftedBraveBee Slot.png|A Gifted Brave Bee hive slot.
+        BraveFace.png|Brave Bee’s face.
+        File:BraveBeeGate.png|Brave Bee On The 10 Bee Gate.
+        File:Scaredbravebeereal.png|Brave Bee's original face.
+        </gallery>
+
+        == Trivia ==
+        * Brave Bee and [[Basic Bee]] are the only [[bees]] in the game that don't produce any
+        [[Ability Tokens|ability tokens]] unless they are in their gifted form or have a [[Beequip]]
+        that grants an ability token.
+        * The [[Brave Bee Gate]] has a large model of a Brave Bee on it.
+        * Brave Bee is the strongest Rare bee in terms of attack, with a base attack power of 5.
+        * The [[Brave Guard]], which is purchased in the [[Pro Shop]], has a special design, name,
+        and stats dedicated to Brave Bee.
+        * Brave Bee and [[Rage Bee]] have the same [[Gifted Bee#List of Hive Bonuses|Gifted Hive
+        Bonus]].
+        * Brave Bee's body color scheme is a darker version of the [[Vector Bee|Vector Bee's]] color
+        scheme.
+
+        {{BeeNav}}
+        [[Category:Bees]]
+        [[Category:Rare]]
+        [[Category:Colorless]]
+        [[fr:Abeille Intrépide]]
+        [[zh-tw:勇敢蜂]]"}

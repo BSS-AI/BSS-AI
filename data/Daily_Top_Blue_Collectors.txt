@@ -1,0 +1,28 @@
+{"text": "The '''Daily Top Blue Collectors Leaderboard''' is one of 62
+        [[:Category:Leaderboards|leaderboards]] in the game. It is located inside of the Blue HQ, to
+        the right of the [[All-Time Top Blue Collectors]] Leaderboard. This leaderboard shows much
+        Blue [[pollen]] players have collected on that day. It shows 10 leaderboard positions at a
+        time. The player can scroll down the leaderboard to see more players, all the way to 100th
+        place. It resets every day at 12:00 AM, CST.
+
+        If the player steps on the white pad in front of it, the message <span
+        style=\"background-color:#0090BF; color:white;\">\"You've collected \"X\" Blue Pollen today
+        (Resets in \"Y\")\"</span> will appear.
+
+        == Location ==
+        It is located on the second floor of the [[Blue HQ]], to the right of [[Gifted Bucko Bee]].
+        ==Prizes==
+        For being in the Top 100 when the leaderboard resets, you will be either awarded with the
+        '''Left Shining Diamond Fleuron [[Sticker]]''' or the '''Right Shining Diamond Fleuron
+        Sticker'''
+        <gallery widths=\"185\" hideaddbutton=\"true\">
+        File:Hivesticker_left_shining_diamond_fleuron.png|Top 100 Prize for Daily Top Blue
+        Collectors
+        File:Hivesticker_right_shining_diamond_fleuron.png|Top 100 Prize for Daily Top Blue
+        Collectors
+        </gallery>
+
+        {{MapNav}}
+        [[Category:Leaderboards]]
+        [[Category:Locations]]
+        [[Category:Blue]]"}

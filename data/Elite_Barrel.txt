@@ -1,0 +1,30 @@
+{"text": "{{Bag
+        |image1 = Elite Barrel.png
+        |description = \"The worlds ''[sic]'' most advanced barrel. Increases pollen from certain
+        fields.\"
+        |cost = 650,000 Honey
+        |capacity = 125,000 Pollen
+        |stats = +70% Convert Rate
+        }}
+        {{Quote|The worlds ''[sic]'' most advanced barrel. Increases pollen from certain
+        [[fields]].}}
+        The '''Elite Barrel''' is a [[:Category:Bags|Bag]] that can be purchased in the [[Pro
+        Shop]].
+
+        {| class=\"article-table\"
+        !Crafting Ingredients
+        |-
+        |{{Cost|Honey|650,000}}
+        |}
+
+        == Stats ==
+        * +125,000 Capacity.
+        * +70% [[System Page#Convert Rate|Convert Rate]].
+
+        == Trivia ==
+        * Despite its description, the Elite Barrel does not increase Pollen collected from a Field.
+        * This the second most expensive Bag in the Pro Shop, only behind the [[Port-O-Hive]].
+        {{Items}}
+        [[Category:Bags]]
+        [[Category:Items]]
+        [[zh-tw:精英桶子]]"}

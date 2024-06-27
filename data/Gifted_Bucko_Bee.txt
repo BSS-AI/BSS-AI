@@ -1,0 +1,577 @@
+{"text": "<sup>''This page is for the quest-giving NPC. For the worker bee version, see the
+        [[Bucko Bee]] page.''</sup>
+        {{NonBearNPC|image=GiftedBuckoBeeNPCTransparent.png|type=Bee NPC|location=Blue HQ|bees=4
+        blue types of}}
+
+        '''Gifted Bucko Bee''' is a [[Quest Givers|Quest Giver]] and one of three permanent
+        [[:Category:Quest Bees|Quest Bees]], the others being [[Gifted Riley Bee]] and [[Honey Bee
+        (NPC)|Honey Bee]]. Gifted Bucko Bee is located on the second floor of the [[Blue HQ]], in
+        between the [[Top Bucko Bee Helpers]] and the [[Daily Top Blue Collectors]]
+        [[Leaderboards]]. The player cannot start receiving and completing its [[Quests]] without a
+        [[Translator]], which is given by [[Science Bear]] three times. Completing 150 quests from
+        Gifted Bucko Bee is required to craft the [[Hydroponic Planter]] and completing 250 quests
+        from Gifted Bucko Bee is required to craft the [[Tide Popper]].
+
+        == Quests ==
+        Gifted Bucko Bee is an infinite quest giver whose quests scale up in difficulty. However,
+        some specific quest requirements may stay the same. Due to this, the reward will vary
+        depending on the quest. Rewards will always contain one [[Blue Extract]] and [[Honey]].
+
+        For the requirements below, ''X'' represents the number of quests the player has completed
+        for Gifted Bucko Bee, and ''Y'' represents how many times 10 quests have been completed.
+        Requirements are not represented this way are static or may progress in a way not yet
+        determined.
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        ! Quest Name
+        !Type of Requirements
+        |-
+        |Bucko Bee: Abilities
+        |
+        *Collect [1000 + 15''X''] Blue [[Ability Tokens]]
+        |-
+        |Bucko Bee: Bamboo
+        |
+        * Collect [5,000,000''X''] [[pollen]] from the [[Bamboo Field]]
+        |-
+        |Bucko Bee: Bombard
+        |
+        *Collect [400 + 5''X''] Bomb Tokens
+        *Defeat 10 [[Rhino Beetle]]s
+        *Defeat 20 [[Ants]]
+        *Defeat 10 Army Ants
+        |-
+        |Bucko Bee: Booster
+        |
+        *Collect [500 + 5''X''] Blue Boost Tokens.
+        *Use the [[Blue Field Booster]] 1 time.
+        |-
+        |Bucko Bee: Clean-up
+        |
+        *Collect [250,000''X''] [[Goo]] from the [[Blue Flower Field]].
+        *Collect [250,000''X''] Goo from the Bamboo Field.
+        *Collect [250,000''X''] Goo from the [[Pine Tree Forest]].
+        |-
+        | Bucko Bee: Extraction
+        |
+        *Collect [1,000,000''X''] Blue Pollen from the [[Clover Field]].
+        *Collect [1,000,000''X''] Blue Pollen from the [[Cactus Field]].
+        *Collect [1,000,000''X''] Blue Pollen from the [[Pumpkin Patch]].
+        |-
+        |Bucko Bee: Flowers
+        |
+        *Collect [3,000,000''X''] Pollen from the Blue Flower Field.
+        |-
+        |Bucko Bee: Goo
+        |
+        *Collect [2,500,000''X''] Goo from Blue Flowers.
+        |-
+        |Bucko Bee: Medley
+        |
+        *Collect [250 + 5''X''] Blue Ability Tokens.
+        *Collect [500,000''X''] Goo from the Bamboo Field.
+        *Collect [3,000,000''X''] Pollen from the Pine Tree Forest.
+        |-
+        |Bucko Bee: Picnic
+        |
+        * Collect [1,000,000''X''] Pollen from the Blue Flower Field.
+        *Collect [25 + 5''Y''] Blueberry Tokens.
+        *Feed 25 Blueberries to your Bees.
+        *Defeat [10 + 5''Y''] Ants.
+        *Defeat [5 + 5''Y''] Army Ants.
+        |-
+        |Bucko Bee: Pine Trees
+        |
+        *Collect [7,500,000''X''] Pollen from the Pine Tree Forest.
+        |-
+        |Bucko Bee: Pollen
+        |
+        *Collect [10,000,000''X''] Blue Pollen.
+        |-
+        |Bucko Bee: Scavenge
+        |
+        *Collect [2,500,000''X''] Blue Pollen.
+        *Collect [500 + 5''X''] Blue Ability Tokens.
+        * Collect [25 + 10''Y''] Blueberry Tokens.
+        |-
+        | Bucko Bee: Skirmish
+        |
+        *Collect [1,250,000''X''] Pollen from the Blue Flower Field.
+        *Defeat 10 Rhino Beetles.
+        |-
+        |Bucko Bee: Tango
+        |
+        *Collect [2,500,000''X''] Blue Pollen.
+        *Collect [500 + 5''X''] Blue Ability Tokens.
+        *Defeat 5 [[Mantis]]es.
+        |-
+        |Bucko Bee: Tour
+        |
+        *Collect [1,000,000''X''] Pollen from the Blue Flower Field
+        * Collect [1,000,000''X''] Pollen from the Bamboo Field
+        *Collect [1,000,000''X''] Pollen from the Pine Tree Forest
+        *Defeat 5 Rhino Beetles
+        *Defeat 3 Mantises
+        |}
+
+        In addition to Blue Extract and honey for completing each quest, certain thresholds may
+        reward other items as well. These can include [[royal jelly|Royal Jelly]], [[Moon Charm|Moon
+        Charms]], [[Treats]], [[Gumdrops]], [[Magic Bean]]s, [[Eggs|Gifted Eggs]], (excluding Gifted
+        Mythic Eggs) or [[Royal Jelly#Star Jelly|Star Jellies]].
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest Number
+        !Rare Reward
+        |-
+        |5
+        |75 [[Treat|Treats]] / 3 [[Magic Bean]]s / [[Blueberry|Blueberries]]
+        |-
+        |8 or 9
+        |50 [[Moon Charm|Moon Charms]]
+        |-
+        |10
+        | 25 [[Gumdrops]]
+        |-
+        |15
+        |3 Magic Beans / 15 Gumdrops / 100 Treats
+        |-
+        |20
+        |30 Blueberries / 3 Magic Beans / 10 Blue Extracts
+        |-
+        |25
+        |[[Royal Jelly#Star Jelly|Star Jelly]]
+        |-
+        |30
+        |30 [[Royal Jelly|Royal Jellies]] / 30 Blueberries / 150 Treats
+        |-
+        |34
+        |3 Magic Beans
+        |-
+        |35
+        |25 Gumdrops / 5 [[Ticket]]s / 30 Blueberries
+        |-
+        |40
+        |40 Royal Jellies / 175 Treats
+        |-
+        |45
+        |3 Magic Beans / 5 Tickets / 175 Treats
+        |-
+        |50
+        |[[Egg#Gifted Gold Egg|Gifted Gold Egg]]
+        |-
+        |53
+        |3 Magic Beans
+        |-
+        |55
+        |25 Gumdrops / 3 Magic Beans
+        |-
+        |60
+        |40 Royal Jellies
+        |-
+        |64
+        |Basic Blue Hive Skin [[Sticker]]
+        |-
+        |65
+        |3 Magic Bean
+        |-
+        |70
+        |25 Gumdrops
+        |-
+        |75
+        |50 Moon Charms
+        |-
+        |80
+        |30 Blueberries
+        |-
+        |85
+        |25 Gumdrops
+        |-
+        |90
+        |50 Royal Jellies
+        |-
+        |95
+        |250 Treats
+        |-
+        |100
+        |1 [[Egg#Gifted Diamond Egg|Gifted Diamond Egg]]
+        |-
+        |118
+        |20 Moon Charms
+        |-
+        |150
+        |10 [[Glitter]] / Access to the [[Hydroponic Planter]]
+        |-
+        |200
+        |100 Moon Charms
+        |-
+        |222
+        |25 Magic Beans
+        |-
+        |225
+        |Star Jelly
+        |-
+        |226
+        |25 Gumdrops
+        |-
+        |240
+        |25 Gumdrops
+        |-
+        |241
+        |25 Gumdrops
+        |-
+        |250
+        |1 Gifted Diamond Egg / Access to the [[Tide Popper]]
+        |-
+        |255
+        |80 Royal Jellies
+        |-
+        |300
+        |1 Star Jelly
+        |-
+        |400
+        |1 Star Jelly
+        |-
+        |447
+        |110 Royal Jellies
+        |-
+        |500
+        |1 Gifted Diamond Egg
+        |}
+
+        ==Dialogue==
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Initial Talk (without translator)
+        |Buzzuh bz bzz bzz. BUZZ bzz bz. Bzzzuh? (Gifted Bucko Bee is speaking buzzes) '''You are
+        given a choice to use a translator or to leave. You leave.''' Bzzh zz zz.
+        |-
+        |Initial Talk (with translator)
+        |Buzzuh bz bzz bzz. BUZZ bzz bz. Bzzzuh? (Gifted Bucko Bee is speaking buzzes) '''You are
+        given a choice to use a translator or to leave. You use a translator. '''What's this? Hmm,
+        amazing... A device that lets me talk to beekeepers... Well then, let me introduce myself!
+        I'm Bucko Bee - Leader of the Blue Bees! And this is the Blue Headquarters. Here, the Blue
+        Bees and I are constantly working... Thinking, planning, honing our skills... Doing
+        everything we can to advance the Blue cause. We've discovered a method to boost the blue
+        fields. We've developed highly advanced Blue Guards. That's what sets us apart - why we're
+        always one step ahead of the Red Bees! I see you've discovered quite a few Blue Bees. Seem
+        to have some great Blue potential. But you'll need some training if you're hoping to rank up
+        to a Blue Master. Complete my quests, and I'll reward you with some [Blue Extracts]. Those
+        can be used to boost your blue pollen collection... Or to craft some of the equipment we've
+        developed in house. Each time you complete one of my quests, they'll become more
+        challenging. To make it worth your effort, you'll be rewarded a bonus after every 5. What do
+        you say? Ready to start? Talk to me again, and we'll dive right in.
+        |-
+        |Repeatable Quests
+        |Brave, Bold, Blue. It's time for another blue-themed quest. Complete it, and you'll be
+        another step closer to realizing your True Blue potential! I'll also reward you with a [Blue
+        Extract]. [Blue Extracts] boost blue pollen by x1.25 for 10 minutes. They're also used as
+        materials for making advanced blue equipment. After every 5th quest, I'll reward you a
+        bonus. And after certain milestones, the bonus may be truly brilliant. I've loaded the next
+        quest into your Quest Menu. Report back when it's complete.
+
+        ''-During-''
+
+        My quests becoming progressively more challenging. There's no end to this fight - we just
+        keep moving. It's this ongoing work that gives us an edge over other bees. Do you have what
+        it takes to become True Blue? Complete my quests to prove it.
+
+        ''-Completion-''
+
+        Beautiful work! You've earned yourself a [Blue Extract]. But there's no time to rest. Blue
+        Bees are constantly working, striving... That's what gives us an edge over the Red Bees.
+        Keep moving forward, into the blue.
+        |-
+        | Exclusive Beesmas Dialogue 2018
+        |
+        The cool, calm spirit of winter reflects the nature of us Blue Bees. Still yet thoughtful.
+        Calm and steady. That's what gives us our edge. '''You are given a choice to give a present
+        to Gifted Bucko Bee or continue talking like normal. You choose to give him a present.'''Hah
+        hah, of course you'd do this. Suprise ''[sic]'' me with a [Present] out of the blue! You're
+        a stand up beekeeper, you know that? Let me just open this thing up... ...(krumple
+        krumple)... Nice! Some ticket to see the Blue Bee Group in Vegas. Not sure how I'll get
+        there or when I'll find the time to go, But it doesn't look like they expire. Now's your
+        turn! A little something from all us Blue Bees at the HQ.
+        |-
+        | Exclusive Beesmas Dialogue 2019
+        |
+        |-
+        | Exclusive Beesmas Dialogue 2020
+        |I'm just happy it's Winter. '''You are given a choice to give a present to Gifted Bucko Bee
+        or continue talking like normal. You choose to give him a present.''' Wait, don't tell me
+        you've brought a [Present]? Of all the beekeepers I've met, you really are the coolest! One
+        second, let me just try to unwrap this with my wings somehow... ...(krumple krumple)... Oh,
+        it's a [Snow Tiara] Beequip! Well, this is a little awkward... Bucko Bees can't equip [Snow
+        Tiaras],. But don't worry. I've got plenty of blue bee friends here at the HQ who will make
+        great use out of this! Thanks! And now some gifts for you, including the [Snowman Ornament]!
+        With this on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate +25%
+        Capacity in the Blue Flower Field and Pine Tree Forest and +10% Blue Field Capacity! Hope
+        that helps! Merry blue Beesmas!
+        |-
+        |Exclusive Beesmas Dialogue 2021
+        |
+        |-
+        | Exclusive Beesmas Dialogue 2022
+        |I'm just happy it's Winter. '''You are given a choice to give a present to Gifted Bucko Bee
+        or continue talking like normal. You choose to give him a present.''' Well, if it isn't the
+        coolest Beekeeper around! You bringing me a [Present] makes you even cooler. Let's see what
+        it is... ...(krumple krumple)... Well I'll be! An entire gallon of Comforting Nectar! No
+        wonder that thing was so heavy. Soo... I happened to get you some Comforting Nectar as
+        well.. That's just part of my gift though, so this isn't too awkward. The most important
+        part is the [Snowman Ornament]! With this on the Beesmas Tree, you'll receive the following
+        boosts: +25% Convert Rate +25% Capacity in the Blue Flower Field and Pine Tree Forest and
+        +10% Blue Field Capacity! Thanks for the nectar. Have a merry blue Beesmas!
+        |}
+
+        == Egg Hunt Quest 2019==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirement
+        !Reward
+        |-
+        |Egg Hunt: Bucko Bee
+        |
+        *Collect 200 blueberry tokens.
+        *Collect 200 [[Treats|treat]] tokens.
+        *Collect 10 [[gumdrops]] tokens.
+        *Collect 50 pineapple tokens.
+        *Collect 1 [[Royal Jelly]] token.
+        *Collect 5 Moon Charm tokens.
+        *Collect 5 blue jelly bean tokens.
+        *Collect 5 [[ticket]] tokens.
+        |15,000,000 [[honey]]<br />5 [[Marshmallow Bee]]s<br />10 [[Blue
+        Extract]]s<br />50 Moon Charms<br />15 [[Micro-Converter]]s<br />5 [[Jelly
+        Bean]]s<br />Blue Flower Field Boost ×5
+        |}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Egg Hunt: Bucko Bee
+        |Egg Hunts are all about the thrill of hunting for hidden stuff, And the excitement that
+        comes with a stroke of luck. When us bees at the Blue HQ were told to come up with an Egg
+        Hunt quest... We knew exactly what to do. Keep it simple. Keep it cool. But simple doesn't
+        have to be easy! For our quest, we want you to hunt for a bunch of different tokens. Nothing
+        else. Just token hunting, to really capture that traditional thrill. We put together a
+        brilliant basket for you when you're done. As a heads up, you might want to make room for
+        [Micro-Converters].
+        ''-During- ''
+
+        Some tokens are pretty obscure. [Royal Jelly] tokens, [Ticket] tokens, you'll probably need
+        to get those from mobs. The rest will show up eventually. You know how it is.
+
+        ''-Completion- ''
+
+        Look at all those beautiful tokens. We really put the hunt in Egg Hunt, didn't we? Well
+        then, like I said, we've got something special for you. Just think of me as your own
+        personal Beeaster Bunny!
+        |}
+
+        ==Ornament Quest ==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !'''Quest'''
+        !'''Requirements'''
+        !'''Reward'''
+        |-
+        |Bucko Bee's Ornament
+        |
+        *Collect 250,000,000 Blue Pollen
+        *Collect 100,000,000 Blue Pollen from the Cactus Field
+        *Collect 500 Blueberry Tokens
+        *Defeat 25 Mantises
+        *Defeat 10 Army Ants
+        *Use the Blue Field Booster 5 Times
+        | 250,000,000 Honey<br />5x Ticket<br />5x Blue Extract<br />Snowman
+        [[Ornaments|Ornament]]
+        |}
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Bucko Bee's Ornament
+        |Nothing clears one's mind more than a serene landscape covered in snow. Cool everything
+        down and helps silence noise. Literally and figuratively. Winter is definitely the season of
+        choice for the cool, calm, collected Blue Bees. This year, we've got a perfect idea for an
+        [Ornament] that'll celebrate winter. But we'll need your help to finish it, here's what
+        you've got to do: Collect 250,000,000 Blue pollen... Collect 100,000,000 Blue pollen from
+        the Cactus Field... Collect 500 Blueberry Tokens... Defeat 25 Mantises... Defeat 10 Army
+        Ants... And use Blue Field Booster 5 times.
+
+        ''-During-''
+
+        N/A
+
+        ''-Completion-''
+
+        Beautiful work out there! Now I can wrap this up... ...(Snip snip snip)... ...(Knock knock
+        knock)... Here we are: The [Snowman Ornament]! The perfect representation of the Blue Bees'
+        love for winter. It's even got the face of a Frosty Bee. Snowmen are a classic icon of
+        Beesmas, At least they have been ever since that cartoon came out in the 60s. With this
+        [Ornament] on the tree, you'll receive the following boosts: +10% Capacity; x1.1 Blue
+        Pollen; x1.25 Pollen from the Blue Flower Field; And x1.25 Pollen from the Pine Tree Forest!
+        Can't wait to see Riley Bee's face when you put that on the tree. Merry Beesmas and happy
+        new year!
+        |}
+
+        ==Beesmas 2020 Quest - Snow Machine==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Bucko Bee's Snow Machine
+        |
+        *Collect 150,000,000 Blue [[Pollen]].
+        *Collect 50,000,000 Pollen from the [[Blue Flower Field]].
+        * Collect 50,000,000 Pollen from the [[Pineapple Patch]].
+        *Collect 1,000 Blue [[Ability Tokens#Boost|Boost]] Tokens.
+        *Defeat 5 [[Spider]]s.
+        *Use 250 [[Snowflake]]s.
+        |250,000,000 [[Honey]]<br />5x [[Gingerbread Bear]]<br />5x
+        [[Micro-Converter]]<br />5x [[Blue Extract]]
+        Access to the [[Snow Machine]]
+        |}
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Bucko Bee's Snow Machine
+        |Winter is when Blue Bees truly excel. We crave the crisp, cool air. We thrive in the
+        soothing snow. But sometimes winters are just a bit too mild for our liking. That's why this
+        year, we're giving nature a helping hand. With this Snow Machine, we'll be able to summon
+        Snow Storms on command! Unfortunately, construction is still under way. If you and your
+        swarm pitch in, we should have it operational in no time. Time to paint this Beesmas white
+        and blue: Collect 150,000,000 Blue Pollen... Collect 50,000,000 pollen from the Blue Flower
+        Field... Collect 50,000,000 pollen from the Pineapple Patch... Collect 1,000 \"Blue Boost\"
+        Tokens... Defeat 10 Spiders... And use 250 Snowflakes.
+
+        -During-
+
+        N/A
+
+        -Completion-
+
+        Beautiful! The Snow Machine is just about ready to go. Just a few more adjustments and...
+        It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms
+        on command every 2 hours. Think of all those [Snowflakes]. I bet your friends will really
+        appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our
+        Blue Beesmas!
+        |}
+
+        ==Beesmas 2021 Quest - Snow Machine==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Bucko Bee's Snow Machine
+        |
+        *Collect 100,000,000 Blue [[Pollen]].
+        *Defeat 5 Rare Puffshrooms on the [[Blue Flower Field]].
+        * Defeat 5 Rare Puffshrooms on the [[Bamboo Field]].
+        *Defeat 5 Rare Puffshrooms on the [[Pine Tree Forest]].
+        *Collect 4 Hours of Comforting Nectar from Planters.
+        *Collect 4 Hours of Refreshing Nectar from Planters.
+        *Use 250 [[Snowflake]]s.
+        |250,000,000 [[Honey]]<br />5x [[Ticket]]s<br />5x [[Gingerbread
+        Bear]]s<br/>1x [[Ticket Planter]]<br />25x [[Blue Extract]]s<br />1x
+        [[Swirled Wax]]<br />3x [[Smooth Dice]]<br />Access to the [[Snow Machine]]
+        |}
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Bucko Bee's Snow Machine
+        |Winter is when Blue Bees truly excel. We crave the crisp, cool air. We thrive in the
+        soothing snow. But sometimes winters are just a bit too mild for our liking. That's why this
+        year, we're giving nature a helping hand. With this Snow Machine, we'll be able to summon
+        Snow Storms on command! Unfortunately, construction is still under way. If you and your
+        swarm pitch in, we should have it operational in no time. Time to paint this Beesmas white
+        and blue: Collect 100,000,000 Blue Pollen... Defeat 5 Rare Puffshrooms on the Blue Flower
+        Field... Defeat 5 Rare Puffshrooms on the Bamboo Field... Defeat 5 Rare Puffshrooms on the
+        Pine Tree Forest... Collect 4 hours of Comforting Nectar... Collect 4 hours of Refreshing
+        Nectar... And use 250 Snowflakes.
+
+        -During-
+
+        N/A
+
+        -Completion-
+
+        Beautiful! The Snow Machine is just about ready to go. Just a few more adjustments and...
+        It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms
+        on command every 2 hours. Think of all those [Snowflakes]. I bet your friends will really
+        appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our
+        Blue Beesmas!
+        |}
+
+        ==Beesmas 2022 Quest - Bucko Bee's Snow Machine==
+        {{RemovedContent}}
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Requirements
+        !Rewards
+        |-
+        |Bucko Bee's Snow Machine
+        |
+        *Collect 50,000,000 Blue [[Pollen]].
+        *Collect 8 Hours of Comforting Nectar.
+        *Pop 2,000 Bubbles.
+        *Defeat 25 [[Mechsquito]]s
+        * Use 250 [[Snowflake]]s.
+        |100,000,000 [[Honey]]<br />1x Robo Pass<br />1x [[Ticket Planter]]<br
+        />10x [[Blue Extract]]s<br />1x Comforting Vial<br />50x Snowflakes<br
+        />Access to the [[Snow Machine]]
+        |}
+
+        {| class=\"article-table mw-collapsible mw-collapsed\"
+        !Quest
+        !Dialogue
+        |-
+        |Bucko Bee's Snow Machine
+        |Winter is when Blue Bees truly excel. We crave the crisp, cool air. We thrive in the
+        soothing snow. But sometimes winters are just a bit too mild for our liking. That's why this
+        year, we're giving nature a helping hand. With this Snow Machine, we'll be able to summon
+        Snow Storms on command! Unfortunately, construction is still under way. If you and your
+        swarm pitch in, we should have it operational in no time. Time to paint this Beesmas white
+        and blue: Collect 50,000,000 Blue Pollen... Collect 8 Hours of Comforting Nectar... Pop
+        2,000 Bubbles... Use 250 [[Snowflake]]s... And defeat 25 Mechsquitos!
+
+        -During-
+
+        N/A
+
+        -Completion-
+
+        Beautiful! The Snow Machine is just about ready to go. Just a few more adjustments and...
+        It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms
+        on command every 2 hours. Think of all those [Snowflakes]. I bet your friends will really
+        appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our
+        Blue Beesmas!
+        |}
+
+        ==Trivia==
+        *Since the quests are all chosen at random, including the first, the formula for the first
+        requirements of any quest is \"x divided by (number of Gifted Bucko Bee quests completed
+        +1)\".
+        * Gifted Bucko Bee is one of the three [[:Category:NPC|NPCs]] to be based on [[Bees]], the
+        other two being [[Gifted Riley Bee]] and [[Honey Bee (NPC)]].
+        **This Bee is the only quest bee to reside indoors, though [[Gifted Riley Bee]] resided
+        indoors too before an update.
+        *In the Bucko Bee's [[Snow Machine]] for Beesmas 2020 dialogue, Gifted Bucko Bee says to
+        defeat ten Spiders. However, the [[Quests|Quest]] requires the Player to defeat five
+        Spiders.
+
+        {{QuestNav}}
+        [[Category:Blue]]
+        [[Category:Quest giver]]
+        [[Category:Quest Bees]]
+        [[Category:NPC]]
+        [[Category:Requires Translator]]"}

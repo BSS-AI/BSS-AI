@@ -1,0 +1,135 @@
+{"text": "[[File:Blender.Png|thumb|The Blender.]]
+        '''Crafting''' is a [[Mechanics|mechanic]] that consists of using the [[Blender]] in the
+        [[Badge Bearer's Guild]] to turn crafting ingredients into other [[items]].
+
+        == Usage ==
+        The first menu will offer 20 options for items to be crafted, as seen below. The options can
+        be navigated by clicking the left or right arrows. Select the item to be crafted by clicking
+        the green button saying \"Make (item name)\".
+
+        The next menu allows the player to set any number of that item to be produced, up to the max
+        number that can be allowed with the player's ingredients. Pressing \"Confirm\" starts the
+        crafting process. Pressing \"Cancel\" takes them back to the first menu.
+        [[File:RedExtract-0.png|thumb|215x215px]]
+        When an amount is confirmed, the interface is replaced with a screen showing the item being
+        produced, the number of said crafting material made so far and to be made, and the time left
+        until all of the items are made. There is a button to \"End Crafting,\" and a button to \"Speed
+        Up for # [[Ticket]]s\". If the player clicks \"End Crafting\", the blender will refund any
+        materials that have not completed crafting. The amount of tickets required to speed up the
+        ingredient varies. For every 5 minutes left, the Blender requires 1 more ticket to speed up.
+        [[Moon Charm|Moon charms]] and [[gumdrops]] only require 1 ticket for every 50 minutes on
+        the timer.
+
+        It takes 5 minutes to craft each item and ending crafting at any time adds the items
+        produced and the ingredients not yet used into the inventory. It also counts credit toward
+        [[quests]] that require the player to use the Blender for the number of items produced. The
+        time remaining for the items to be crafted only decreases while in-game. If the player
+        leaves the game either by losing connection or exiting, the timer will pause until they join
+        the game again.
+
+        {{clear}}
+        == Crafting Recipes ==
+        All recipes take five minutes per item to be produced.
+
+        {| class=\"article-table\"
+        |-
+        ! colspan=\"3\" style=\"text-align:center\" | Craftable items
+        |-
+        !Item
+        !Material
+        !Effect
+        |-
+        |[[File:Red Extract.png|50px]]<br />[[Red Extract]]
+        |50 [[Strawberry|strawberries]], 10 [[Royal Jelly|royal jellies]]
+        |Grants x1.25 [[System Page#Red Pollen|Red Pollen]] for 10 minutes.
+        |-
+        |[[File:Blue Extract.png|50px]]<br />[[Blue Extract]]
+        |50 [[Blueberry|blueberries]], 10 royal jellies
+        |Grants x1.25 [[System Page#Blue Pollen|Blue Pollen]] for 10 minutes.
+        |-
+        |[[File:Enzymes.png|50px]]<br />[[Enzymes]]
+        |50 [[Pineapple|pineapples]], 10 royal jellies
+        |Grants +10% [[System Page#Instant Conversion|Instant Conversion]] and x1.25 [[System
+        Page#Convert Rate|Convert Rate]] for 10 minutes.
+        |-
+        |[[File:Oil.png|50px]]<br />[[Oil]]
+        |50 [[Sunflower Seed|sunflower seeds]], 10 royal jellies
+        |Grants x1.2 [[Stats#Speed|Bee]] and [[System Page#Movespeed|Player Movespeed]] for 10
+        minutes.
+        |-
+        |[[File:Glue.png|50px]]<br />[[Glue]]
+        |50 [[gumdrops]], 10 royal jellies
+        |Grants x1.25 [[System Page#Bee Gather Pollen|Bee Gather Pollen]] and [[System Page#Pollen
+        From Tools|Tools]] for 10 minutes.
+        |-
+        |[[File:TropicalDrinkInventory.png|50px]]<br />[[Tropical Drink]]
+        |10 [[coconut]]s, 2 enzymes, 2 oil
+        |Grants x1.25 [[System Page#White Pollen|White Pollen]] and +5% [[System Page#Critical
+        Chance|Critical Chance]] for 10 minutes.
+        |-
+        |[[File:Gumdrops icon.png|50px]]<br />[[Gumdrops]]
+        |3 strawberries, 3 blueberries, 3 pineapples
+        |Creates [[goo]] in fields. Goo grants bonus honey.
+        |-
+        |[[File:Moon.png|50px]]<br />[[Moon Charm|Moon Charm]]
+        |5 pineapples, 5 gumdrops, 1 royal jelly
+        |When fed to a [[Bees|bee]], increases its [[bond]] by 250.
+        |-
+        |[[File:Glitter.png|50px]]<br />[[Glitter]]
+        |25 moon charms, 1 [[Magic Bean|magic bean]]
+        |Boosts the [[Fields|field]] you're standing in, granting +100% [[pollen]] for 15 minutes.
+        |-
+        |[[File:StarJelly.png|50px]]<br />[[Royal Jelly#Royal Jelly Variants|Star Jelly]]
+        |100 royal jellies, 3 glitter
+        |Apply to a bee in their [[Hive Slot|hive slot]] to change it to a random [[Gifted
+        Bee|Gifted]] [[Bees/Rare|rare]], [[Bees/Epic|epic]], [[Bees/Legendary|legendary]], or
+        [[Bees/Mythic|mythic bees]].
+        |-
+        |[[File:Purplepotion.png|50px]]<br />[[Purple Potion]]
+        |3 [[Neonberry|neonberries]], 3 red extracts, 3 blue extracts, 3 glue
+        |Grants x1.25 [[System Page#Capacity Multiplier|Capacity]] and the improved effects of Red
+        and Blue Extracts and Glue for 15 minutes.
+        |-
+        |[[File:Soft Wax.png|50px]]<br />[[Soft Wax]]
+        |5 [[honeysuckle]]s, 1 oil, 1 enzyme, 10 royal jellies
+        | A squishy hunk of beeswax. Has a 100% chance to slightly improve a bee's [[Beequip]].
+        |-
+        |[[File:Hardwax.png|50px]]<br />[[Hard Wax]]
+        |3 soft wax, 3 Enzymes, 33 [[Bitterberry|bitterberries]], 33 royal jellies
+        |A firm hunk of beeswax. Has a 60% chance to improve a bee's Beequip
+        |-
+        |[[File:Swirled Wax.png|50px]]<br />[[Swirled Wax]]
+        |3 hard wax, 9 soft wax, 6 [[Purple Potion|purple potions]], 3333 royal jellies
+        |A spiraled hunk of beeswax. Used to redetermine the stats of a bee's Beequip
+        |-
+        |[[File:Causticwax.png|50px]]<br />[[Caustic Wax]]
+        | 5 hard wax, 5 enzymes, 25 [[Neonberry|neonberries]], 5252 royal jellies
+        |A glowing hunk of beeswax. Has a 25% ''chance'' to GREATLY improve a Beequip - but a 75%
+        chance to DESTROY it!
+        |-
+        |[[File:Fdice.png|50px]]<br />[[Field Dice]]
+        | 1 soft wax, 1 [[whirligig]], 1 red extract, 1 blue extract
+        |Boosts a random field, granting +100% pollen for 15 minutes.
+        |-
+        |[[File:Smooth Dice.png|50px]]<br />[[Smooth Dice]]
+        |3 field dice, 3 soft wax, 3 whirligigs, 3 oils
+        |Boosts 2 random fields with +200% pollen for 15 minutes.
+        |-
+        |[[File:Loaded Dice.png|50px]]<br />[[Loaded Dice]]
+        |3 smooth dice, 3 hard wax, 3 oils, 1 glue
+        |Boosts 3 random fields with +300% pollen for 15m. A bit biased towards the field you're
+        in...
+        |-
+        |[[File:Super_Smoothie.png|50px]]<br />[[Super Smoothie]]
+        |3 neonberries, 3 star jellies, 3 purple potions, 6 tropical drinks.
+        |Grants x1.5 Capacity, x1.6 Red Pollen, x1.6 Blue Pollen, x1.6 White Pollen, x1.4 [[System
+        Page#Bee Gather Pollen|Bee Gather Pollen]], x1.4 [[System Page#Pollen From Tools|Pollen From
+        Tools]], x2 Convert Rate, x1.5 [[System Page#Hive Convert Rate|Convert Rate At Hive]], +12%
+        Instant Conversion, +1% Super-Crit Chance, +7% Critical Chance, x1.25 Bee Movespeed, and
+        x1.25 Player Movespeed for 20 minutes.
+        |-
+        |[[File:Turpentine.png|50px]]<br />[[Turpentine]]
+        |10 super smoothies, 10 caustic wax, 100 star jellies, 1000 honeysuckles
+        |A strong solvent that can remove all Waxes from a bee's Beequip.
+        |}
+        [[Category:Mechanics]]"}

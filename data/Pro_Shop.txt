@@ -1,0 +1,223 @@
+{"text": "{{Stores
+        |title1 = Pro Shop
+        |image1 = Shop2New.png
+        |row1 = Past the Brave Bee Gate.
+        }}The '''Pro Shop''' is a [[:Category:Shops|shop]] located past the [[Brave Bee Gate]], next
+        to the [[Pineapple Patch]]. The [[Mythic Meteor Shower|Mythic Meteor Shower Summoner]] used
+        to be on top of the shop before being moved in the Trading Update to the [[Badge Bearer's
+        Guild]].
+
+        This shop sells four [[bags]], five [[tools]], four [[:Category:Guards|guards]], a
+        [[:Category:Hats|hat]], a [[:Category:Belts|belt]], a pair of [[:Category:Boots|boots]],
+        [[Paper Planter|paper planters]], and the [[Parachute]].
+
+        As with the [[Noob Shop]], the game does not explicitly name the shop. However, the bear who
+        runs the shop is named \"[[Pro Bear]]\". Given that, the community has named the shop as such.
+        {{clear}}
+
+        <tabber>
+        Tools=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Super Scooper.png|50px|center|link=Super-Scooper]]<div style=\"text-align:
+        center;\">[[Super-Scooper]]</div>
+        |{{Cost|Honey|40,000}}
+        |Collects 4 pollen from the 5 patches in front of you in 0.5 seconds.
+        |-
+        |[[File:Pulsar.png|50px|center|link=Pulsar]]<div style=\"text-align:
+        center;\">[[Pulsar]]</div>
+        | {{Cost|Honey|125,000}}
+        |Collects 2 pollen from 29 surrounding patches in 1 second.
+        |-
+        |[[File:Electro-Magnet.png|50px|center|link=Electro-Magnet]]<div style=\"text-align:
+        center;\">[[Electro-Magnet]]</div>
+        |{{Cost|Honey|300,000}}
+        |Collects 4 pollen from 9 surrounding patches in 0.5 seconds.
+        |-
+        | [[File:Scissors.png|50px|center|link=Scissors]]<div style=\"text-align:
+        center;\">[[Scissors]]</div>
+        |{{Cost|Honey|850,000}}
+        |Collects ALL pollen from patch in front of you in 0.5 seconds.
+        |-
+        |[[File:Honey Dipper.png|50px|center|link=Honey Dipper]]<div style=\"text-align:
+        center;\">[[Honey Dipper]]</div>
+        |{{Cost|Honey|1,500,000}}
+        |Collects 2 pollen from 49 surrounding patches in 0.9 seconds.
+        |}
+
+        |-|Bags=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Mega-Jug.png|80px|center|link=Mega-Jug]]<div style=\"text-align:
+        center;\">[[Mega-Jug]]</div>
+        |{{Cost|Honey|50,000}}
+        |A humongous jug!
+        *+25,000 Capacity.
+        * +40% [[System Page#Convert Rate|Convert Rate]].
+        |-
+        |[[File:Compressor.png|80px|center|link=Compressor]]<div style=\"text-align:
+        center;\">[[Compressor]]</div>
+        |{{Cost|Honey|160,000}}
+        |A machine which packs [[pollen]] to increase space.
+        *+50,000 Capacity.
+        *+55% Convert Rate.
+        |-
+        |[[File:Elite Barrel.png|80px|center|link=Elite Barrel]]<div style=\"text-align:
+        center;\">[[Elite Barrel]]</div>
+        |{{Cost|Honey|650,000}}
+        |The worlds ''[sic]'' most advanced barrel. Increases pollen from certain fields.
+        *+125,000 Capacity.
+        *+70% Convert Rate.
+        |-
+        |[[File:Port-O-Hive.png|80px|center|link=Port-O-Hive]]<div style=\"text-align:
+        center;\">[[Port-O-Hive]]</div>
+        |{{Cost|Honey|1,250,000}}
+        |A miniature hive you can wear on your back! Instantly converts some pollen to honey.
+        * +250,000 Capacity.
+        *+100% Convert Rate.
+        *+5% [[System Page#Instant Conversion|Instant Conversion]].
+        |}
+
+        |-|Accessories=
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Propeller Hat.png|80px|center|link=Propeller Hat]]<div style=\"text-align:
+        center;\">[[Propeller Hat]]</div>
+        |{{Cost|Honey|2,500,000}}<br>{{Cost|Gumdrops|25}}<br>{{Cost|Pineapple|100}}<br>{{Cost|Moon
+        Charm|5}}
+        |A playful hat that keeps the sun out of your eyes.
+        *[Hat]
+        *+15% [[System Page#Pollen|Pollen]].
+        *+5% [[System Page#Bee Ability Rate|Bee Ability Rate]].
+        *+10 [[System Page#Jump Power|Jump Power]].
+        |-
+        |[[File:Brave Guard.png|80px|center|link=Brave Guard]]<div style=\"text-align:
+        center;\">[[Brave Guard]]</div>
+        |{{Cost|Honey|300,000}}<br>{{Cost|Stinger|3}}
+        |A right shoulder pad crafted by a [[Brave Bee]].
+        *[Right Shoulder]
+        *+15,000 Capacity.
+        *+5% [[System Page#White Pollen|White Pollen]].
+        *+1 [[System Page#Colorless Attack|Colorless Attack]].
+        |-
+        |[[File:Hasty Guard.png|80px|center|link=Hasty Guard]]<div style=\"text-align:
+        center;\">[[Hasty Guard]]</div>
+        |{{Cost|Honey|300,000}}<br>{{Cost|Moon Charm|5}}
+        |A right shoulder pad crafted by a [[Hasty Bee]].
+        *[Right Shoulder]
+        * +15,000 Capacity.
+        *+1% [[Stats#Speed|Bee Movespeed]].
+        *x1.1 [[System Page#Movespeed|Player Movespeed]].
+        |-
+        |[[File:Bomber Guard.png|80px|center|link=Bomber Guard]]<div style=\"text-align:
+        center;\">[[Bomber Guard]]</div>
+        |{{Cost|Honey|300,000}}<br>{{Cost|Sunflower Seed|25}}
+        |A left shoulder pad crafted by a [[Bomber Bee]].
+        *[Left Shoulder]
+        *+15,000 Capacity.
+        *+5% White Pollen.
+        *+15% [[System Page#Bomb Pollen|Bomb Pollen]].
+        |-
+        |[[File:Looker Guard.png|80px|center|link=Looker Guard]]<div style=\"text-align:
+        center;\">[[Looker Guard]]</div>
+        |{{Cost|Honey|300,000}}<br>{{Cost|Sunflower Seed|25}}
+        | A left shoulder pad crafted by a [[Looker Bee]].
+        *[Left Shoulder]
+        *+15,000 Capacity.
+        *+1% [[System Page#Critical Chance|Critical Chance]].
+        * +25% [[System Page#Critical Power|Critical Power]].
+        |-
+        |[[File:Belt Bag.png|80px|center|link=Belt Bag]]<div style=\"text-align:
+        center;\">[[Belt Bag]]</div>
+        |{{Cost|Honey|440,000}}<br>{{Cost|Pineapple|50}}<br>{{Cost|Sunflower
+        Seed|50}}<br>{{Cost|Stinger|3}}
+        |A convenient pouch designed for easy access.
+        *[Belt]
+        *+25,000 Capacity.
+        *+20 [[System Page#Convert Amount|Convert Amount]].
+        *+50% [[System Page#Loot Luck|Loot Luck]].
+        |-
+        |[[File:Hiking Boots.png|80px|center|link=Hiking Boots]]<div style=\"text-align:
+        center;\">[[Hiking Boots]]</div>
+        |{{Cost|Honey|2,200,000}}<br>{{Cost|Blueberry|50}}<br>{{Cost|Strawberry|50}}
+        |A durable pair of boots helpful for traversing the mountain.
+        *[Boots]
+        * +6 Movespeed.
+        *+10 Jump Power.
+        *+6 [[Movement Collection]].
+        |}
+
+        |-|Other=
+
+
+        {| class=\"article-table\"
+        |-
+        !Item
+        !Cost
+        !Description
+        |-
+        |[[File:Parachute.png|80px|center|link=Parachute]]<div style=\"text-align:
+        center;\">[[Parachute]]</div>
+        |{{Cost|Honey|500,000}}
+        |A parachute you can use to glide down the mountain and reach new places! Press jump while
+        in the air to open.
+        |-
+        | [[File:Paper Planter.png|80px|center|link=Paper Planter]]<div style=\"text-align:
+        center;\">[[Paper Planter]]</div>
+        |{{Cost|Honey|25,000}}<br>{{Cost|Sunflower Seed|1}}
+        | When placed in a flower field, this grows in about 1 hour of playtime. Harvest it to gain
+        around 50,000 Pollen, random items, and Nectar boosts!
+        *Rewards are based on the field you place it on.
+        *Only grows while in game, but remains on the field and will still be there if you leave the
+        game and come back.
+        |}
+        </tabber>
+
+        == Music ==
+        [[File:Vendor.ogg]]
+
+        == Trivia ==
+        * The [[Slingshot]] will sometimes undershoot the player near [[Panda Bear]] or in the
+        middle of the [[Bamboo Field]]. If the Slingshot does not undershoot, it will regularly
+        shoot the player in front of the shop's door.
+        * In some cases, the Slingshot will also overshoot the player on top of the Pro Shop at the
+        Mythic Meteor Shower Summoner.
+        * There are two [[Royal Jelly|royal jelly]] tokens, one of them on top of the shop at the
+        end of a dark passage and one within inside the shop, the latter being hidden in the
+        [[Mazes#Pro Shop Maze|maze]] behind Pro Bear. The player can obtain it by going all the way
+        to the end, turning right, going to the end, turning right, and going to the first corridor
+        on the right and follow through it to find the royal jelly.
+        * Since the [[Updates#2018.07.11|7/11/2018 update]], there is a [[sunflower seed]] token
+        inside the maze that gives 10 sunflower seeds. The player can obtain it by going right two
+        times, just like the royal jelly, but on the second right, go to the end of the hall and
+        follow through the last corridor to the right.
+        * There is a giant pineapple near the Pro Shop, where there are 3 [[ticket]]s on top that
+        can be collected by using the [[Red Cannon]] and the [[Parachute]] or [[Glider]] to glide
+        down onto the top.
+        * If the player stands on the piece of blue wall behind the backpack models and jumps high
+        enough, they can go into the space between the roof and the ceiling.
+        * [[Chicks#Spotted Chick|Spotted chicks]] were able to spawn here before they were removed.
+        ** Spotted chicks were also able to spawn in the space between the roof and the ceiling.
+        When they spawned there, the feet of the chick would be visible.
+        * With 18 items, the Pro Shop has the most purchasable items out of all of the shops.
+        * Out of the three shops that have a shop bear, this is the only one that sells at least 1
+        type of guard.
+
+        {{MapNav}}
+        [[Category:Shops]]
+        [[Category:Locations]]"}

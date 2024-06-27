@@ -1,0 +1,260 @@
+{"text": "'''Critical Hits''' are moments of increased [[pollen]] collection and attack damage,
+        doubled at its base power. Their frequency is increased with higher [[System Page#Critical
+        Chance|Critical Chance]], and their strength is increased by greater [[System Page#Critical
+        Power|Critical Power]]. A critical hit will have the pollen amount/attack damage shake and
+        change color, similar to the animation below.<div class=\"crit\" style=\"font-family:Source
+        Sans Pro; font-weight:700; font-size:2em\">
+        +5,627!
+        </div><br />
+
+        ''The animation of a critical hit.''
+        [[File:CriticalStats1.png|thumb|The Critical Chance, Critical Power, Super-Crit Chance, and
+        Super-Crit Power stats in the System Page.]]
+        You can see the stats for all your critical hits such as Critical Chance in the System Page.
+        ==Critical Chance ==
+        '''Critical Chance''' is the chance of a hit being critical hit. The player can see how much
+        their Critical Chance is by looking for the Critical Chance stat in the [[System Page]].
+        Critical Chance can be improved by a variety of ways such as [[Ability Tokens|ability
+        tokens]], [[:Category:Guards|guards]], and [[:Category:Inventory|inventory items]].
+
+        ==== Tokens ====
+        * [[Ability Tokens#Focus|Focus]] gives +3% Critical Chance per token and caps at +30%
+        Critical Chance from 10 tokens.
+        * [[Ability Tokens#Target Practice|Precise Mark]] from the [[Ability Tokens#Target
+        Practice|Target Practice]] ability gives +7% Critical Chance per token and caps at +21%
+        Critical Chance from three tokens.
+
+        ==== Guards ====
+        * The [[Looker Guard]] gives +1% Critical Chance.
+        * The [[Elite Red Guard]] gives +5% Critical Chance.
+        * The [[Riley Guard]] gives +8% Critical Chance.
+        * The [[Crimson Guard]] gives +10% Critical Chance.
+
+        ==== [[Amulet]]s ====
+        * [[Star Amulet]]s:
+        ** The Bronze, Silver, Gold, and Diamond Star Amulet can give from +1% Critical Chance up to
+        +5% Critical Chance.
+        ** The Supreme Star Amulet can give from +1% Critical Chance up to +7% Critical Chance.
+        * [[Ant Amulet]]s:
+        ** The Bronze, Silver, Gold, Diamond, and Supreme Ant Amulet can give up to +3% Critical
+        Chance.
+
+        ==== [[Gifted Bee#List of Hive Bonuses|Gifted Hive Bonuses]] ====
+        * Gifted [[Commander Bee]] gives +3% Critical Chance.
+
+        ==== [[Beequip]]s ====
+        * Individual Bee:
+        ** A [[Bottle Cap]] gives from +1% Critical Chance to +2% Critical Chance. Using [[waxes]]
+        can increase the amount up to +12% Critical Chance.
+        ** A [[Charm Bracelet]] gives from +1% Critical Chance to +14% Critical Chance.
+        ** A [[Bang Snap]] gives from +1% Critical Chance to +3% Critical Chance. Using waxes can
+        increase the amount up to +23% Critical Chance.
+        ** [[Pink Shades]] can give from +22% Critical Chance to +26% Critical Chance. Using waxes
+        can increase the amount up to +50% Critical Chance.
+        ** A [[Beesmas Top]] gives from +5% Critical Chance to +10% Critical Chance. Using waxes can
+        increase the amount up to +20% Critical Chance.
+        ** A [[Beesmas Tree Hat]] gives from +2% Critical Chance to +5% Critical Chance. Using waxes
+        can increase the amount up to +10% Critical Chance.
+        ** A [[Snow Tiara]] gives +1% Critical Chance.
+        ** A [[Toy Drum]] gives +1% Critical Chance.
+
+        ==== [[Buffs & Debuffs|Buffs]] ====
+        * Using a [[Tropical Drink]] gives +5% Critical Chance.
+        * Using a [[Super Smoothie]] gives +6% Critical Chance. The buff can also be given from
+        certain codes.
+        * Collecting [[Jelly Beans|green jelly beans]] gives +3% Critical Chance per jelly bean and
+        caps and +5% Critical Chance from 3 jelly beans.
+
+        ==== [[Robo Bear Challenge]] ====
+        There are several upgrades that can be bought with [[cog]]s during the Robo Bear Challenge
+        which can upgrade Critical Chance.
+
+        * Rare Upgrades:
+        ** Commit: This upgrade starts at +5% Critical Chance and maxes at 2 upgrades with +10%
+        Critical Chance.
+        ** Virus: This upgrade starts at +1% Critical Chance and maxes at 3 upgrades with +3%
+        Critical Chance.
+        * Epic Upgrades:
+        ** RGB: This upgrade gives 1% Critical Chance.
+        * Legendary Upgrades:
+        ** Pseudo-RNG: This upgrade gives 3% Critical Chance.
+
+        ==== Debuffs ====
+        There are certain upgrades that can be bought with cogs during the Robo Bear Challenge which
+        can downgrade Critical Chance.
+
+        * Rare Upgrades:
+        ** SSD: Blue: This upgrade starts at -3% Critical Chance and maxes at 3 upgrades with -6%
+        Critical Chance.
+        * Epic Upgrades:
+        ** FOV: This upgrade gives -2% Critical Chance.
+        ** Normalize: This upgrade gives x0 Critical Chance.
+
+        == Critical Power ==
+        '''Critical Power''' is how strong a critical hit can be. The player can see how much their
+        Critical Power is by looking for the Critical Power stat in the System Page. Critical Power
+        can be improved by a variety of ways such as ability tokens, guards, and beequips.
+
+        ==== Tokens ====
+        * [[Ability Tokens#Melody|Melody]] gives +100% Critical Power.
+
+        ==== Guards ====
+        * The [[Looker Guard]] gives +25% Critical Power.
+        * The [[Looker Guard|Elite Blue Guard]] gives +50% Critical Power.
+        * The [[Bucko Guard]] gives +75% Critical Power.
+        * The [[Cobalt Guard]] gives +100% Critical Power.
+
+        ==== Amulets ====
+        * Ant Amulets:
+        ** The Bronze, Silver, Gold, Diamond, and Supreme Ant Amulet can give up to +50% Critical
+        Power.
+
+        ==== Gifted Hive Bonuses ====
+        * Gifted [[Looker Bee]] gives +25% Critical Power.
+        * Gifted [[Tabby Bee]] gives +50% Critical Power.
+
+        ==== Beequips ====
+        *Individual Bee:
+        **A Thumbtack gives from +5% Critical Power to +10% Critical Power. Using waxes can increase
+        the amount up to +40% Critical Power.
+        **A Camo Bandana gives from +1% Critical Power to +6% Critical Power.
+        **A Bottle Cap can give from +5% Critical Power to +10% Critical Power. Using waxes can
+        increase the amount up to +60% Critical Power.
+        **A Kazoo gives from +2% Critical Power to +5% Critical Power. Using waxes can increase the
+        amount up to +65% Critical Power.
+        **A Whistle gives from +15% Critical Power to +25% Critical Power. Using waxes can increase
+        the amount up to +85% Critical Power.
+        **Pink Shades gives from +29% Critical Power to +49% Critical Power.
+        *Hive Bonus:
+        **A Bottle Cap can give from +2% Critical Power to +15% Critical Power from waxing.
+        **A Kazoo can give from +2% Critical Power to +5% Critical Power. Using waxes can increase
+        the amount up to +10% Critical Power.
+        **A Beesmas Top can give from +2% Critical Power to +5% Critical Power. Using waxes can
+        increase the amount up to +15% Critical Power.
+
+        ==== Robo Bear Challenge ====
+        There are several upgrades that can be bought with [[cog]]s during the Robo Bear Challenge
+        which can upgrade Critical Power.
+        *Rare Upgrades:
+        **Nullify: This upgrade starts at x1.5 Critical Power and maxes at 2 upgrades with x2
+        Critical Power.
+        *Epic Upgrades:
+        **Demarcate: This upgrade makes Mark Tokens give x1.03 Critical Power for 15 seconds which
+        can stack up to 10 times at x1.3 Critical Power.
+
+        ==== [[Badges]] ====
+        *The [[Badges#Battle Badge|Battle Badge]] can give up to +100% Critical Power depending on
+        the badge rank.
+        **The Cadet Battle Badge gives +10% Critical Power.
+        **The Hotshot Battle Badge gives +20% Critical Power.
+        **The Ace Battle Badge gives +40% Critical Power.
+        **The Master Battle Badge gives +70% Critical Power.
+        **The Grandmaster Battle Badge gives +100% Critical Power.
+
+        ==== Debuffs ====
+        There are certain upgrades that can be bought with cogs during the Robo Bear Challenge which
+        can downgrade Critical Power.
+
+        * Common Upgrades:
+        ** Defragment: This upgrade starts at x0.9 Critical Power and maxes at 10 upgrades with x0.5
+        Critical Power.
+        * Epic Upgrades:
+        ** Client-Side: This upgrade gives x0.75 Critical Power.
+
+        ==Super-Crit==
+        When performing a critical hit, there is a chance to perform a '''Super-Crit''' (purple
+        version of a critical hit) which doubles the pollen collection while also instantly
+        converting the pollen collected, while for the attack damage is increased by 33% of the
+        Super-Crit's pollen. The frequency for a Super-Crit is increased with higher Super-Crit
+        Chance, and their strength is increased by greater Super-Crit Power.
+
+        === Super-Crit Chance ===
+        '''Super-Crit Chance''' is how often a critical hit will be a Super-Crit. The player can see
+        how much their Super-Crit Chance is by looking for the Super-Crit Chance stat in the System
+        Page. Super-Crit Chance can be improved by several ways.
+
+        ==== Tokens ====
+        * The [[Buffs & Debuffs#Precision|Precision]] buff granted from the [[Ability
+        Tokens#Target Practice|Target Practice]] ability gives +2% per token and caps at +20% from
+        ten tokens.
+        * The [[Buffs & Debuffs#Precise Mark|Precise Mark]] buff from the Target Practice
+        ability gives +7% Super-Crit Chance per token and caps at +21% Super-Crit Chance from three
+        tokens.
+        * The [[Buffs & Debuffs#Tabby Blessing+|Tabby Blessing+]] buff, granted from collecting
+        [[Ability Tokens#Tabby Love|Tabby Love]] from a [[Gifted Bee|Gifted]] [[Tabby Bee]] at the
+        cap for the buff, grants +1% Super-Crit Chance.
+
+        ==== Gifted Hive Bonuses ====
+
+        * Gifted [[Precise Bee]] gives +3% Super-Crit Chance.
+
+        ==== Buffs ====
+
+        * Using a [[Super Smoothie]] gives +1% Super-Crit Chance. The buff can also be given from
+        certain codes.
+
+        ==== Beequips ====
+        * Individual Bee:
+        ** Pink Shades give from +1% Super-Crit Chance to +15% Super-Crit Chance. Using waxes can
+        increase the amount up to +24% Super-Crit Chance.
+        * Hive Bonus:
+        ** Pink Shades can give from +1% Super-Crit Chance to +2% Super-Crit Chance.
+
+        ==== Robo Bear Challenge ====
+        * Legendary Upgrades:
+        ** Bruteforce: This upgrade starts gives +6% Super-Crit Chance.
+
+        === Super-Crit Power ===
+        '''Super-Crit Power''' is how strong a Super-Crit will be. The player can see how much their
+        Super-Crit Power is by looking for the Super-Crit Power stat in the System Page. Super-Crit
+        Power can be improved by several ways.
+
+        ==== Amulets ====
+
+        * [[Cog Amulet]]s:
+        ** The Diamond Cog Amulet can give from +10% Super-Crit Power up to +12% Super-Crit Power.
+        ** The Supreme Cog Amulet can give from +15% Super-Crit Power up to +25% Super-Crit Power.
+        ==== Buffs ====
+
+        * Dark Heat made from dark flames using the [[Dark Scythe]] gives x1.05 Super-Crit Power
+        with each additional dark flame granting x0.05 Super-Crit Power.
+
+        ==== Beequips ====
+        * Individual Bee:
+        ** A Camo Bandana can give up to +14% Super-Crit Power.
+        * Hive Bonus:
+        ** A Whistle can give from +1% Super-Crit Power to +20% Super-Crit Power from waxing.
+        ** Pink Shades from +1% Super-Crit Power to +5% Super-Crit Power. Using waxes can increase
+        the amount up to +9% Super-Crit Power.
+
+        ==== Robo Bear Challenge ====
+        * Legendary Upgrades:
+        ** Pseudo-RNG: This upgrade gives x1.25 Super-Crit Power.
+
+        == Trivia ==
+        * The highest Critical Chance the player can have at a time is 88%. This is achieved by
+        having Focus x10 (30%), Crimson Guard (10%), Supreme Star Amulet (+7%), Supreme Ant Amulet
+        (+3%), Gifted Commander Bee (3%), x3 green jelly beans (5%), 3 stacks of Precise Mark (21%),
+        Super Smoothie (6%), Snow Tiara (1%), and two Toy Drums (2%). Additional percentages were
+        possible during certain events, with +3% from [[Panda Bear|Panda Bear's]]
+        [[Ornaments#Beesmas 2019|2019 ornament]], and +1% with [[Gummy Bear|Gummy Bear's]]
+        [[Ornaments#Beesmas 2020|ornament in 2020]] and [[Ornaments#Beesmas 2021|2021]].
+        ** However, this percentage can be brought up to 100% in the [[Robo Bear Challenge]], by
+        purchasing two Virus upgrades (+2% Critical Chance) and two Commit upgrades (+10% Critical
+        Chance).
+        *The highest Critical Power the player can have at a time is 1,586%. This is achieved by
+        having Melody (+100%), Cobalt Guard (+100%), Supreme Ant Amulet (+50%), Gifted Looker Bee
+        (+25%), Gifted Tabby Bee (+50%), two Bottle Caps (+30%), a Kazoo (+10%), three Beesmas Tops
+        (+45%), Nullify upgrade maxed (x2), 10 stacks of Demaracte upgrade (x1.3), and Grandmaster
+        Battle Badge (+100%).
+        **The lowest Critical Power the player can have at a time is 38%. This can be achieved by
+        having Defragment upgrade maxed (x0.5) and Client-Side upgrade (x0.75).
+        * The highest Super-Crit Chance the player can have at a time is 53%. This is achieved by
+        having x10 Precision (20%), x3 stacks of Precise Mark (21%), Gifted Precise Bee (3%), Super
+        Smoothie (1%), Pink Shades (+2%), and Bruteforce upgrade (+6%). Additional percentages were
+        possible during certain events, with +1% from [[Buffs & Debuffs#From Areas|Galentine’s
+        Blessing]] in Beesmas 2021 and +1% with [[Gummy Bear|Gummy Bear's]] [[Ornaments#Beesmas
+        2022|ornament in 2022]].
+        * You can find out if a bee will crit if it emits green sparkles.
+        [[Category:Mechanics]]
+        [[zh-tw:爆擊]]"}

@@ -1,0 +1,49 @@
+{"text": "{{Unobtainable}}
+        {{Beequip
+        |color=Any
+        |level=8
+        |limit=3
+        |image1=Bubble Light.png
+        |description=The incandescent light bulb in this ornament brings methylene chloride to a
+        magical boil.
+        |beesmas=yes
+        |requirement=• Bee must have Energy Mutation
+        |stats=+Convert Amount<br/>+Movespeed<br/>%Bubble Pollen<br/>%Mark
+        Duration
+        |hive=[Hive Bonus] %Bubble Pollen<br/> %Bee Movespeed
+        }}
+        A '''Bubble Light''' is a [[Bond|level]] 8 [[:Category:Beesmas|Beesmas]] [[beequip]]. It has
+        an equip limit of three. There is no color requirement. It can only be equipped to [[bees]]
+        with an [[Mutation|energy mutation]].
+
+        == Possible Stats ==
+        *[[System Page#Convert Amount|Convert Amount]] (Guaranteed) - +30 to +50. (up to +120 from
+        [[Waxes|waxing]])
+        *[[Stats#Speed|Movespeed]] (Guaranteed) - +3 to +5. (up to +10 from waxing)
+        *[[Bubble#Bubble Pollen|Bubble Pollen]] (Guaranteed) - +15% to +30%. (up to +60% from
+        waxing)
+        *Mark Duration (Guaranteed) - +5% to +15%. (up to +25% from waxing)
+        *[Hive Bonus] Bubble Pollen - +1%. (up to +11% from waxing)
+        *[Hive Bonus] Bee Movespeed (from waxing, rare) - +1% to +5%.
+
+        == Ways to Obtain ==
+        ''There are currently no methods to obtain the Bubble Light.''
+
+        ===These methods are no longer possible. ===
+        *From opening the [[Gift Boxes|Emerald Gift Box]].
+        *From opening the [[Gift Boxes|Glowing Gift Box]].
+        *From the [[Stockings]].
+        *As a rare drop from the [[Spider]], and the [[Rhino Beetle]].
+
+        == Gallery ==
+        <gallery>
+        File:BubbleLight1.png|A Bubble Light in the Beequip Case.
+        </gallery>
+
+        == Trivia ==
+        *The Bubble Light is the counterpart of the [[Electric Candle]] beequip.
+
+        {{Items}}
+        [[Category:Beequips]]
+        [[Category:Beesmas]]
+        [[Category:Items]]"}
