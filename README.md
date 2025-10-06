@@ -24,7 +24,7 @@ Our [**website**][website-link] is the best place to explore all of BSS AI’s t
 
 [**Join us on Discord!**][discord-link]
 
-Our Discord is the heart of the BSS AI community — get updates, chat with other users, and receive support directly from the team.
+Our Discord is the heart of the BSS AI community - get updates, chat with other users, and receive support directly from the team.
 
 <a href="https://discord.gg/bssai">
   <picture>
