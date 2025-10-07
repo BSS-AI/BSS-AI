@@ -35,6 +35,35 @@ Our Discord is the main hub for updates, support, and chatting with the BSS AI c
   </picture>
 </a>
 
+
+<div align="center">
+
+## 🧾 License
+
+![License](https://img.shields.io/badge/License-Custom%20(BSS%20AI%20All%20Rights%20Reserved)-blue?style=for-the-badge)
+
+</div>
+
+This repository is **open-source for transparency and community trust**, but it is **not freely licensed**.
+
+You are allowed to:
+- View, inspect, and learn from the source code.  
+- Modify or adapt it **for personal use only**.
+
+You are **not allowed to**:
+- Redistribute the source code or any compiled versions.  
+- Sell, sublicense, or include this software in any paid or public products.  
+- Re-upload or claim ownership of any part of this project.
+
+All rights remain the property of the **BSS AI Team**.  
+A formal license will be added in the future once the project’s structure and terms are finalized.
+
+<div align="center">
+  
+© 2025 BSS AI — All Rights Reserved
+
+</div>
+
 [discord-link]: https://discord.gg/bssai
 [website-link]: https://bss-ai.com
 [tiktok-link]: https://tiktok.com/@bss.ai
