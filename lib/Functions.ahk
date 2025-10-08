@@ -1902,7 +1902,7 @@ CreateWalk(movement, name := "", vars := "")
 	#Include "%A_ScriptDir%\lib\resources\Gdip_ImageSearch.ahk"
 	#Include "%A_ScriptDir%\lib\resources\Roblox.ahk"
 	#Include "%A_ScriptDir%\lib\Walk.ahk" 
-	#Include "%A_ScriptDir%\assets\bitmaps_short.ahk" 
+	#Include "%A_ScriptDir%\assets\bitmaps.ahk" 
 
 	movespeed := ' moveSpeed '
 	both            := (Mod(movespeed*1000, 1265) = 0) || (Mod(Round((movespeed+0.005)*1000), 1265) = 0)
@@ -1934,12 +1934,7 @@ CreateWalk(movement, name := "", vars := "")
 		}
 	}
 
-	Walks(tiles, MoveKey1, MoveKey2:=0)
-	{
-		Walk(tiles, MoveKey1, MoveKey2)
-	}
-
-	Walk(tiles, MoveKey1, MoveKey2:=0)
+	BSSWalk(tiles, MoveKey1, MoveKey2:=0)
 	{
 		Send "{" MoveKey1 " down}" (MoveKey2 ? "{" MoveKey2 " down}" : "")
 		Walk(tiles)
@@ -2052,7 +2047,7 @@ PathVars() {
 
 CreatePath(path) => CreateWalk(path, , PathVars())
 
-Walks(tiles, MoveKey1, MoveKey2 := 0) {
+BSSWalk(tiles, MoveKey1, MoveKey2 := 0) {
 	return
 	(
 		'Send "{' MoveKey1 ' down}' (MoveKey2 ? '{' MoveKey2 ' down}"' : '"') '

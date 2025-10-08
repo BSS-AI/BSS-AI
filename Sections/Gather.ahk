@@ -1,4 +1,4 @@
-global GatherFields := [gatherField1]
+global GatherFields := []
 if (gatherField1 != "None") {
     GatherFields.Push(gatherField1)
 }

@@ -22,8 +22,8 @@ gt_ramp() {
     movement :=
         (
             '
-    Walk(5, FwdKey)
-    Walk(9.2 * ' . HiveSlot . ' - 4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(9.2 * ' . HiveSlot . ' - 4, RightKey)
     '
         )
 
@@ -103,12 +103,12 @@ gt_blue() {
         movement :=
             (
                 '
-        Walk(88.875, BackKey, LeftKey)
-        Walk(27, LeftKey)
+        BSSWalk(88.875, BackKey, LeftKey)
+        BSSWalk(27, LeftKey)
         HyperSleep(50)
         Send "{' . RotLeft . ' 2}"
         ;inside
-        Walk(50, FwdKey)
+        BSSWalk(50, FwdKey)
         '
             )
 
@@ -132,13 +132,13 @@ gt_blue() {
         Send "{a up}{space}"
         HyperSleep(1000)
         Send "{' . RotLeft . ' 2}"
-        Walk(4, BackKey, LeftKey)
-        Walk(8, FwdKey, LeftKey)
-        Walk(6, FwdKey)
-        Walk(5, BackKey)
-        Walk(8, RightKey)
+        BSSWalk(4, BackKey, LeftKey)
+        BSSWalk(8, FwdKey, LeftKey)
+        BSSWalk(6, FwdKey)
+        BSSWalk(5, BackKey)
+        BSSWalk(8, RightKey)
         ;inside
-        Walk(30, FwdKey)
+        BSSWalk(30, FwdKey)
         '
             )
         CreatePath(movement)
@@ -152,14 +152,14 @@ gt_blue() {
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(5, RightKey)
-    Walk(9, RightKey, BackKey)
-    Walk(4, RightKey)
-    Walk(2, LeftKey)
-    Walk(21, BackKey)
-    Walk(3.4, FwdKey, LeftKey)
-    Walk(16, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(9, RightKey, BackKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(2, LeftKey)
+    BSSWalk(21, BackKey)
+    BSSWalk(3.4, FwdKey, LeftKey)
+    BSSWalk(16, LeftKey)
     '
         )
     CreatePath(movement)
@@ -177,24 +177,24 @@ gt_mountain() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(3.375, LeftKey)
-        Walk(36, FwdKey)
-        Walk(54, RightKey)
-        Walk(54, BackKey)
-        Walk(58.5, RightKey)
-        Walk(15.75, FwdKey, LeftKey)
-        Walk(13.5, FwdKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(3.375, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(54, RightKey)
+        BSSWalk(54, BackKey)
+        BSSWalk(58.5, RightKey)
+        BSSWalk(15.75, FwdKey, LeftKey)
+        BSSWalk(13.5, FwdKey)
         Send "{' . RotRight . ' 4}"
-        Walk(27, RightKey)
-        Walk(18, BackKey)
-        Walk(27, RightKey)
+        BSSWalk(27, RightKey)
+        BSSWalk(18, BackKey)
+        BSSWalk(27, RightKey)
         '
             )
         CreatePath(movement)
@@ -212,7 +212,7 @@ gt_mountain() {
         HyperSleep(100)
         Send "{e up}"
         Sleep(3000)
-        Walk(40.5, RightKey)
+        BSSWalk(40.5, RightKey)
         '
             )
         CreatePath(movement)
@@ -230,22 +230,22 @@ gt_red() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(20.25, LeftKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(20.25, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(60.75, FwdKey)
+        BSSWalk(60.75, FwdKey)
         Send "{' . RotRight . ' 2}"
-        Walk(9, BackKey)
-        Walk(15.75, BackKey, RightKey)
-        Walk(29.7, LeftKey)
-        Walk(11.25, FwdKey)
-        Walk(13.5, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(15.75, BackKey, RightKey)
+        BSSWalk(29.7, LeftKey)
+        BSSWalk(11.25, FwdKey)
+        BSSWalk(13.5, LeftKey)
         '
             )
         CreatePath(movement)
@@ -261,23 +261,23 @@ gt_red() {
         Send "{space down}{d down}"
         Sleep(100)
         Send "{space up}"
-        Walk(50, RightKey)
+        BSSWalk(50, RightKey)
         Send "{w down}"
-        Walk(45, FwdKey, RightKey)
+        BSSWalk(45, FwdKey, RightKey)
         Send "{w up}"
-        Walk(750, RightKey)
+        BSSWalk(750, RightKey)
         Send "{space down}"
         HyperSleep(300)
         Send "{space up}{w down}"
-        Walk(100, FwdKey, RightKey)
+        BSSWalk(100, FwdKey, RightKey)
         Send "{w up}"
-        Walk(75, RightKey)
+        BSSWalk(75, RightKey)
         Send "{d up}"
         Send "{' . RotRight . ' 2}"
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(3, FwdKey)
+        BSSWalk(3, FwdKey)
         HyperSleep(1000)
         Send "{space down}{d down}"
         HyperSleep(100)
@@ -285,15 +285,15 @@ gt_red() {
         HyperSleep(300)
         Send "{space}{d up}"
         HyperSleep(1000)
-        Walk(8, FwdKey, RightKey)
-        Walk(1, FwdKey)
-        Walk(6.75, RightKey)
+        BSSWalk(8, FwdKey, RightKey)
+        BSSWalk(1, FwdKey)
+        BSSWalk(6.75, RightKey)
         HyperSleep(1000)
         Send "{' . RotRight . ' 4}"
         HyperSleep(100)
-        Walk(9, FwdKey)
-        Walk(3, FwdKey, LeftKey)
-        Walk(5, FwdKey, RightKey)
+        BSSWalk(9, FwdKey)
+        BSSWalk(3, FwdKey, LeftKey)
+        BSSWalk(5, FwdKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -309,30 +309,30 @@ gt_antpass() {
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(52, LeftKey)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(52, LeftKey)
+    BSSWalk(3, FwdKey)
     Send "{w down}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}{w up}"
     HyperSleep(500)
-    Walk(2, FwdKey)
-    Walk(15, RightKey)
-    Walk(6, FwdKey, RightKey)
-    Walk(7, FwdKey)
-    Walk(5, BackKey, LeftKey)
-    Walk(23, FwdKey)
-    Walk(12, LeftKey)
-    Walk(8, LeftKey, FwdKey)
-    Walk(10, FwdKey)
-    Walk(5, RightKey)
-    Walk(25, FwdKey, RightKey)
-    Walk(25, LeftKey)
-    Walk(17, BackKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
+    BSSWalk(7, FwdKey)
+    BSSWalk(5, BackKey, LeftKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(12, LeftKey)
+    BSSWalk(8, LeftKey, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(25, FwdKey, RightKey)
+    BSSWalk(25, LeftKey)
+    BSSWalk(17, BackKey)
     '
         )
     CreatePath(movement)
@@ -349,31 +349,31 @@ gt_blender() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(38, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(38, FwdKey)
         Send "{' . RotLeft . ' 4}"
-        Walk(14, RightKey)
-        Walk(15, FwdKey, LeftKey)
-        Walk(1, BackKey)
+        BSSWalk(14, RightKey)
+        BSSWalk(15, FwdKey, LeftKey)
+        BSSWalk(1, BackKey)
         HyperSleep(200)
-        Walk(25, RightKey)
+        BSSWalk(25, RightKey)
         HyperSleep(200)
         Send "{' . RotRight . ' 2}"
         HyperSleep(200)
-        Walk(15, FwdKey)
-        Walk(1, FwdKey, RightKey)
-        Walk(7, FwdKey)
-        Walk(3, BackKey)
-        Walk(26, LeftKey)
-        Walk(1, FwdKey, LeftKey)
+        BSSWalk(15, FwdKey)
+        BSSWalk(1, FwdKey, RightKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(3, BackKey)
+        BSSWalk(26, LeftKey)
+        BSSWalk(1, FwdKey, LeftKey)
         HyperSleep(300)
         '
             )
@@ -399,22 +399,22 @@ gt_blender() {
         Send "{space}{d up}"
         HyperSleep(600)
         ;corner align
-        Walk(10, FwdKey, LeftKey)
-        Walk(10, LeftKey, FwdKey)
-        Walk(1, BackKey)
+        BSSWalk(10, FwdKey, LeftKey)
+        BSSWalk(10, LeftKey, FwdKey)
+        BSSWalk(1, BackKey)
         HyperSleep(200)
-        Walk(25, RightKey)
+        BSSWalk(25, RightKey)
         HyperSleep(200)
         Send "{' . RotRight . ' 2}"
         HyperSleep(200)
         ;inside badge shop
-        Walk(15, FwdKey)
-        Walk(1, FwdKey, RightKey)
+        BSSWalk(15, FwdKey)
+        BSSWalk(1, FwdKey, RightKey)
         ;align with corner
-        Walk(7, FwdKey)
-        Walk(3, BackKey)
-        Walk(26, LeftKey)
-        Walk(1.5, BackKey, LeftKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(3, BackKey)
+        BSSWalk(26, LeftKey)
+        BSSWalk(1.5, BackKey, LeftKey)
         HyperSleep(300)
         '
             )
@@ -434,14 +434,14 @@ gt_blueberrydis() {
         movement :=
             (
                 '
-        Walk(88.875, BackKey, LeftKey)
-        Walk(27, LeftKey)
+        BSSWalk(88.875, BackKey, LeftKey)
+        BSSWalk(27, LeftKey)
         HyperSleep(50)
         Send "{' . RotLeft . ' 2}"
         HyperSleep(50)
-        Walk(30, FwdKey)
-        Walk(11.5, FwdKey, RightKey)
-        Walk(2, RightKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(11.5, FwdKey, RightKey)
+        BSSWalk(2, RightKey)
         '
             )
         CreatePath(movement)
@@ -464,13 +464,13 @@ gt_blueberrydis() {
         Send "{a up}{space}"
         HyperSleep(1000)
         Send "{' . RotLeft . ' 2}"
-        Walk(10, LeftKey)
-        Walk(8, RightKey)
+        BSSWalk(10, LeftKey)
+        BSSWalk(8, RightKey)
         ;inside
-        Walk(10, FwdKey)
+        BSSWalk(10, FwdKey)
         Send "{' . RotRight . ' 1}"
         HyperSleep(100)
-        Walk(1.6, FwdKey)
+        BSSWalk(1.6, FwdKey)
         Send "{w down}{space down}"
         HyperSleep(300)
         Send "{space up}"
@@ -496,24 +496,24 @@ gt_candles() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}{w down}"
-    Walk(100, FwdKey, RightKey)
+    BSSWalk(100, FwdKey, RightKey)
     Send "{w up}"
-    Walk(75, RightKey)
+    BSSWalk(75, RightKey)
     Send "{d up}"
     Send "{' . RotRight . ' 2}"
     Sleep(200)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Sleep(1000)
     Send "{space down}{d down}"
     HyperSleep(100)
@@ -521,10 +521,10 @@ gt_candles() {
     HyperSleep(300)
     Send "{space}{d up}"
     HyperSleep(1000)
-    Walk(4, RightKey)
-    Walk(14, FwdKey)
-    Walk(8, RightKey)
-    Walk(5, LeftKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(14, FwdKey)
+    BSSWalk(8, RightKey)
+    BSSWalk(5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -541,27 +541,27 @@ gt_clock() {
         movement :=
             (
                 '
-        Walk(44.75, BackKey, LeftKey)
-        Walk(42.5, LeftKey)
-        Walk(8.5, BackKey)
-        Walk(22.5, LeftKey)
+        BSSWalk(44.75, BackKey, LeftKey)
+        BSSWalk(42.5, LeftKey)
+        BSSWalk(8.5, BackKey)
+        BSSWalk(22.5, LeftKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(40, FwdKey)
-        Walk(3, BackKey)
-        Walk(7, RightKey)
+        BSSWalk(40, FwdKey)
+        BSSWalk(3, BackKey)
+        BSSWalk(7, RightKey)
         Send "{w down}"
-        Walk(75, FwdKey)
+        BSSWalk(75, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(125, FwdKey)
+        BSSWalk(125, FwdKey)
         Send "{w up}"
-        Walk(5, LeftKey)
-        Walk(4, FwdKey)
-        Walk(4, RightKey)
-        Walk(10, FwdKey)
-        Walk(4, BackKey)
-        Walk(3, LeftKey)
+        BSSWalk(5, LeftKey)
+        BSSWalk(4, FwdKey)
+        BSSWalk(4, RightKey)
+        BSSWalk(10, FwdKey)
+        BSSWalk(4, BackKey)
+        BSSWalk(3, LeftKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -583,10 +583,10 @@ gt_clock() {
         Send "{space 2}"
         Sleep(8000)
         Send "{w up}{a up}"
-        Walk(15, BackKey)
-        Walk(3.5, RightKey)
-        Walk(2, RightKey, BackKey)
-        Walk(1, BackKey)
+        BSSWalk(15, BackKey)
+        BSSWalk(3.5, RightKey)
+        BSSWalk(2, RightKey, BackKey)
+        BSSWalk(1, BackKey)
         '
             )
         CreatePath(movement)
@@ -607,25 +607,25 @@ gt_coconutdis() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -633,13 +633,13 @@ gt_coconutdis() {
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(4, FwdKey)
+    BSSWalk(4, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Sleep(100)
     Send "{' . RotRight . ' 1}"
-    Walk(15.7, LeftKey)
-    Walk(8, FwdKey)
+    BSSWalk(15.7, LeftKey)
+    BSSWalk(8, FwdKey)
     '
         )
     CreatePath(movement)
@@ -660,25 +660,25 @@ gt_extrememm() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -686,19 +686,19 @@ gt_extrememm() {
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(450, FwdKey)
+    BSSWalk(450, FwdKey)
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(650, FwdKey)
+    BSSWalk(650, FwdKey)
     Send "{w up}"
     Send "{d down}"
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(375, RightKey)
+    BSSWalk(375, RightKey)
     Send "{d up}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Sleep(1000)
     '
         )
@@ -717,20 +717,20 @@ gt_feast() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(3.375, LeftKey)
-        Walk(36, FwdKey)
-        Walk(60, RightKey)
-        Walk(60, BackKey)
-        Walk(9, LeftKey)
-        Walk(3.5, FwdKey, RightKey)
-        Walk(8.5, FwdKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(3.375, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(60, RightKey)
+        BSSWalk(60, BackKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(3.5, FwdKey, RightKey)
+        BSSWalk(8.5, FwdKey)
         '
             )
         CreatePath(movement)
@@ -755,10 +755,10 @@ gt_feast() {
         Send "{a down}"
         HyperSleep(100)
         Send "{space}{w up}{a up}"
-        Walk(10, LeftKey)
-        Walk(6, FwdKey)
-        Walk(2.2, RightKey)
-        Walk(2, FwdKey)
+        BSSWalk(10, LeftKey)
+        BSSWalk(6, FwdKey)
+        BSSWalk(2.2, RightKey)
+        BSSWalk(2, FwdKey)
         '
             )
         CreatePath(movement)
@@ -772,7 +772,7 @@ gt_feast() {
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Sleep(1000)
     '
         )
@@ -791,18 +791,18 @@ gt_gingerbread() {
         (
             '
     Send "{' . RotRight . ' 2}"
-    Walk(4.7, RightKey)
+    BSSWalk(4.7, RightKey)
     Send "{space down}"
-    Walk(1.5, FwdKey)
+    BSSWalk(1.5, FwdKey)
     Send "{space up}"
     HyperSleep(600)
-    Walk(6, FwdKey)
+    BSSWalk(6, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(25, FwdKey)
-    Walk(3, FwdKey, RightKey)
-    Walk(15, FwdKey)
-    Walk(2, FwdKey, RightKey)
-    Walk(12.5, FwdKey)
+    BSSWalk(25, FwdKey)
+    BSSWalk(3, FwdKey, RightKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(2, FwdKey, RightKey)
+    BSSWalk(12.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -819,45 +819,45 @@ gt_gummylair() {
         movement :=
             (
                 '
-        Walk(3, FwdKey)
-        Walk(52, LeftKey)
-        Walk(3, FwdKey)
+        BSSWalk(3, FwdKey)
+        BSSWalk(52, LeftKey)
+        BSSWalk(3, FwdKey)
         Send "{w down}{space down}"
         HyperSleep(300)
         Send "{space up}"
-        Walk(5, RightKey)
+        BSSWalk(5, RightKey)
         Send "{space down}"
         HyperSleep(300)
         Send "{space up}{w up}"
         HyperSleep(500)
-        Walk(2, FwdKey)
-        Walk(15, RightKey)
-        Walk(6, FwdKey, RightKey)
-        Walk(7, FwdKey)
-        Walk(5, BackKey, LeftKey)
-        Walk(23, FwdKey)
-        Walk(12, LeftKey)
-        Walk(8, LeftKey, FwdKey)
-        Walk(10, FwdKey)
-        Walk(5, RightKey)
-        Walk(25, FwdKey, RightKey)
-        Walk(50, LeftKey)
-        Walk(2, RightKey)
-        Walk(40, FwdKey)
+        BSSWalk(2, FwdKey)
+        BSSWalk(15, RightKey)
+        BSSWalk(6, FwdKey, RightKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(5, BackKey, LeftKey)
+        BSSWalk(23, FwdKey)
+        BSSWalk(12, LeftKey)
+        BSSWalk(8, LeftKey, FwdKey)
+        BSSWalk(10, FwdKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(25, FwdKey, RightKey)
+        BSSWalk(50, LeftKey)
+        BSSWalk(2, RightKey)
+        BSSWalk(40, FwdKey)
         Send "{' . RotRight . ' 2}"
-        Walk(55, FwdKey)
-        Walk(10, LeftKey)
+        BSSWalk(55, FwdKey)
+        BSSWalk(10, LeftKey)
         Send "{' . RotRight . ' 2}"
-        Walk(5.79, FwdKey, RightKey)
-        Walk(50, FwdKey)
+        BSSWalk(5.79, FwdKey, RightKey)
+        BSSWalk(50, FwdKey)
         Send "{space down}"
         HyperSleep(300)
         Send "{space up}"
-        Walk(6, FwdKey)
+        BSSWalk(6, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(4, FwdKey, RightKey)
+        BSSWalk(4, FwdKey, RightKey)
         Send "{' . RotLeft . ' 4}"
         Sleep(1500)
         '
@@ -879,9 +879,9 @@ gt_gummylair() {
         HyperSleep(1170)
         Send "{space 2}{w up}"
         HyperSleep(6750)
-        Walk(18, FwdKey)
-        Walk(8.5, LeftKey)
-        Walk(3, LeftKey, FwdKey)
+        BSSWalk(18, FwdKey)
+        BSSWalk(8.5, LeftKey)
+        BSSWalk(3, LeftKey, FwdKey)
         Sleep(1500)
         '
             )
@@ -926,10 +926,10 @@ gt_honeydis() {
     movement :=
         (
             '
-    Walk(1, FwdKey)
-    Walk(9.2 * (7 - ' . HiveSlot . ') + 10, LeftKey)
-    Walk(2, BackKey, RightKey)
-    Walk(2, BackKey)
+    BSSWalk(1, FwdKey)
+    BSSWalk(9.2 * (7 - ' . HiveSlot . ') + 10, LeftKey)
+    BSSWalk(2, BackKey, RightKey)
+    BSSWalk(2, BackKey)
     '
         )
     CreatePath(movement)
@@ -946,8 +946,8 @@ gt_honeylb() {
     movement :=
         (
             '
-    Walk(13, LeftKey, BackKey)
-    Walk(10, BackKey)
+    BSSWalk(13, LeftKey, BackKey)
+    BSSWalk(10, BackKey)
     Send "{' . RotRight . ' 3}"
     Sleep(2000)
     '
@@ -967,12 +967,12 @@ gt_honeystorm() {
         movement :=
             (
                 '
-        Walk(44.75, BackKey, LeftKey)
-        Walk(52.5, LeftKey)
-        Walk(2.8, BackKey, RightKey)
-        Walk(6.7, BackKey)
-        Walk(40.5, LeftKey)
-        Walk(5, BackKey)
+        BSSWalk(44.75, BackKey, LeftKey)
+        BSSWalk(52.5, LeftKey)
+        BSSWalk(2.8, BackKey, RightKey)
+        BSSWalk(6.7, BackKey)
+        BSSWalk(40.5, LeftKey)
+        BSSWalk(5, BackKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -995,9 +995,9 @@ gt_honeystorm() {
         HyperSleep(5000)
         Send "{w up}{a up}{space}"
         Sleep(1500)
-        Walk(10, FwdKey, LeftKey)
-        Walk(4, RightKey)
-        Walk(22.5, BackKey)
+        BSSWalk(10, FwdKey, LeftKey)
+        BSSWalk(4, RightKey)
+        BSSWalk(22.5, BackKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -1027,21 +1027,21 @@ gt_lidart() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(3.375, LeftKey)
-        Walk(36, FwdKey)
-        Walk(54, RightKey)
-        Walk(54, BackKey)
-        Walk(58.5, RightKey)
-        Walk(3, LeftKey)
-        Walk(57, FwdKey)
-        Walk(16, LeftKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(3.375, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(54, RightKey)
+        BSSWalk(54, BackKey)
+        BSSWalk(58.5, RightKey)
+        BSSWalk(3, LeftKey)
+        BSSWalk(57, FwdKey)
+        BSSWalk(16, LeftKey)
         '
             )
         CreatePath(movement)
@@ -1066,9 +1066,9 @@ gt_lidart() {
         Send "{s up}{space}"
         Send "{' . RotRight . ' 4}"
         Sleep(1500)
-        Walk(4, RightKey, FwdKey)
-        Walk(23, FwdKey)
-        Walk(9, LeftKey)
+        BSSWalk(4, RightKey, FwdKey)
+        BSSWalk(23, FwdKey)
+        BSSWalk(9, LeftKey)
         '
             )
         CreatePath(movement)
@@ -1079,18 +1079,18 @@ gt_lidart() {
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(8, LeftKey)
-    Walk(3.6, RightKey)
-    Walk(41, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(8, LeftKey)
+    BSSWalk(3.6, RightKey)
+    BSSWalk(41, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(21, FwdKey)
+    BSSWalk(21, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Sleep(1000)
     '
         )
@@ -1109,19 +1109,19 @@ gt_megamm() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(38, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(38, FwdKey)
         Send "{' . RotLeft . ' 4}"
-        Walk(14, RightKey)
-        Walk(15, FwdKey, LeftKey)
+        BSSWalk(14, RightKey)
+        BSSWalk(15, FwdKey, LeftKey)
         '
             )
         CreatePath(movement)
@@ -1145,8 +1145,8 @@ gt_megamm() {
         HyperSleep(1450)
         Send "{space}{d up}"
         HyperSleep(600)
-        Walk(10, FwdKey, LeftKey)
-        Walk(10, LeftKey, FwdKey)
+        BSSWalk(10, FwdKey, LeftKey)
+        BSSWalk(10, LeftKey, FwdKey)
         '
             )
         CreatePath(movement)
@@ -1157,17 +1157,17 @@ gt_megamm() {
     movement :=
         (
             '
-    Walk(1, BackKey)
+    BSSWalk(1, BackKey)
     HyperSleep(200)
-    Walk(25, RightKey)
+    BSSWalk(25, RightKey)
     HyperSleep(200)
     Send "{' . RotRight . ' 2}"
     HyperSleep(200)
-    Walk(15, FwdKey)
-    Walk(1, FwdKey, RightKey)
-    Walk(7, FwdKey)
-    Walk(4, BackKey)
-    Walk(3, LeftKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(1, FwdKey, RightKey)
+    BSSWalk(7, FwdKey)
+    BSSWalk(4, BackKey)
+    BSSWalk(3, LeftKey)
     Sleep(1000)
     '
         )
@@ -1186,21 +1186,21 @@ gt_nightmm() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(3.375, LeftKey)
-        Walk(36, FwdKey)
-        Walk(54, RightKey)
-        Walk(54, BackKey)
-        Walk(58.5, RightKey)
-        Walk(3, LeftKey)
-        Walk(57, FwdKey)
-        Walk(16, LeftKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(3.375, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(54, RightKey)
+        BSSWalk(54, BackKey)
+        BSSWalk(58.5, RightKey)
+        BSSWalk(3, LeftKey)
+        BSSWalk(57, FwdKey)
+        BSSWalk(16, LeftKey)
         '
             )
         CreatePath(movement)
@@ -1225,9 +1225,9 @@ gt_nightmm() {
         Send "{s up}{space}"
         Send "{' . RotRight . ' 4}"
         Sleep(1500)
-        Walk(4, RightKey, FwdKey)
-        Walk(23, FwdKey)
-        Walk(9, LeftKey)
+        BSSWalk(4, RightKey, FwdKey)
+        BSSWalk(23, FwdKey)
+        BSSWalk(9, LeftKey)
         '
             )
         CreatePath(movement)
@@ -1238,45 +1238,45 @@ gt_nightmm() {
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(8, LeftKey)
-    Walk(3.6, RightKey)
-    Walk(41, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(8, LeftKey)
+    BSSWalk(3.6, RightKey)
+    BSSWalk(41, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(8.8, FwdKey)
+    BSSWalk(8.8, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(25.6, FwdKey)
+    BSSWalk(25.6, FwdKey)
     Jump2([5, FwdKey])
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump2([5, FwdKey])
     Send "{' . RotRight . ' 1}"
-    Walk(1.5, FwdKey, LeftKey)
-    Walk(2, FwdKey)
+    BSSWalk(1.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
     Jump2([2.5, FwdKey], [2.5, FwdKey, LeftKey])
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump2([5, FwdKey])
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump2([2, FwdKey, RightKey], [3, FwdKey])
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump2([2.5, FwdKey, LeftKey], [2, FwdKey])
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump2([5, FwdKey])
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump2([4, FwdKey])
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump2([8, FwdKey])
-    Walk(4, FwdKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(7, RightKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(7, RightKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(3, BackKey, RightKey)
-    Walk(10, RightKey)
-    Walk(6, FwdKey, RightKey)
+    BSSWalk(3, BackKey, RightKey)
+    BSSWalk(10, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
     Jump2([3, FwdKey, RightKey], [1, RightKey])
     Sleep(500)
     '
@@ -1297,13 +1297,13 @@ gt_normalmm() {
         movement :=
             (
                 '
-        Walk(69, BackKey, LeftKey)
+        BSSWalk(69, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(30, FwdKey)
-        Walk(20, FwdKey, RightKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(20, FwdKey, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(43.5, FwdKey)
-        Walk(16, RightKey)
+        BSSWalk(43.5, FwdKey)
+        BSSWalk(16, RightKey)
         Send "{w down}"
         HyperSleep(200)
         Send "{space down}"
@@ -1312,12 +1312,12 @@ gt_normalmm() {
         HyperSleep(800)
         Send "{w up}"
         Send "{' . RotLeft . ' 2}"
-        Walk(29.25, FwdKey)
-        Walk(15, FwdKey, LeftKey)
-        Walk(8, LeftKey)
-        Walk(15, FwdKey, LeftKey)
-        Walk(3.5, RightKey)
-        Walk(11, BackKey)
+        BSSWalk(29.25, FwdKey)
+        BSSWalk(15, FwdKey, LeftKey)
+        BSSWalk(8, LeftKey)
+        BSSWalk(15, FwdKey, LeftKey)
+        BSSWalk(3.5, RightKey)
+        BSSWalk(11, BackKey)
         Send "{' . RotLeft . ' 2}"
         '
             )
@@ -1336,12 +1336,12 @@ gt_normalmm() {
         HyperSleep(100)
         Send "{e up}"
         HyperSleep(2500)
-        Walk(30, FwdKey)
-        Walk(2, BackKey)
-        Walk(22, LeftKey)
-        Walk(12, RightKey)
-        Walk(3, LeftKey)
-        Walk(5, FwdKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(2, BackKey)
+        BSSWalk(22, LeftKey)
+        BSSWalk(12, RightKey)
+        BSSWalk(3, LeftKey)
+        BSSWalk(5, FwdKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -1381,8 +1381,8 @@ gt_rbpdelevel() {
     HyperSleep(3500)
     Send "{space}"
     Sleep(1200)
-    Walk(20, RightKey, FwdKey)
-    Walk(8.5, BackKey)
+    BSSWalk(20, RightKey, FwdKey)
+    BSSWalk(8.5, BackKey)
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}{d down}"
@@ -1406,33 +1406,33 @@ gt_robopass() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(3.375, LeftKey)
-        Walk(36, FwdKey)
-        Walk(54, RightKey)
-        Walk(54, BackKey)
-        Walk(58.5, RightKey)
-        Walk(3, LeftKey)
-        Walk(57, FwdKey)
-        Walk(16, LeftKey)
-        Walk(3, FwdKey)
-        Walk(8, LeftKey)
-        Walk(2, RightKey)
-        Walk(13, FwdKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(3.375, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(54, RightKey)
+        BSSWalk(54, BackKey)
+        BSSWalk(58.5, RightKey)
+        BSSWalk(3, LeftKey)
+        BSSWalk(57, FwdKey)
+        BSSWalk(16, LeftKey)
+        BSSWalk(3, FwdKey)
+        BSSWalk(8, LeftKey)
+        BSSWalk(2, RightKey)
+        BSSWalk(13, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(1.5, FwdKey)
+        BSSWalk(1.5, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(8.5, FwdKey)
-        Walk(3, LeftKey)
-        Walk(20, FwdKey)
+        BSSWalk(8.5, FwdKey)
+        BSSWalk(3, LeftKey)
+        BSSWalk(20, FwdKey)
         Sleep(500)
         '
             )
@@ -1458,21 +1458,21 @@ gt_robopass() {
         HyperSleep(650)
         Send "{' . BackKey . ' up}{space}{' . RotRight . ' 4}"
         Sleep(1500)
-        Walk(4, RightKey, FwdKey)
-        Walk(23, FwdKey)
-        Walk(9, LeftKey)
-        Walk(3, FwdKey)
-        Walk(8, LeftKey)
-        Walk(2, RightKey)
-        Walk(13, FwdKey)
+        BSSWalk(4, RightKey, FwdKey)
+        BSSWalk(23, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(3, FwdKey)
+        BSSWalk(8, LeftKey)
+        BSSWalk(2, RightKey)
+        BSSWalk(13, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(1.5, FwdKey)
+        BSSWalk(1.5, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(8.5, FwdKey)
-        Walk(3, LeftKey)
-        Walk(20, FwdKey)
+        BSSWalk(8.5, FwdKey)
+        BSSWalk(3, LeftKey)
+        BSSWalk(20, FwdKey)
         Sleep(500)
         '
             )
@@ -1506,7 +1506,7 @@ gt_royaljellydis() {
     Sleep(1000)
     Send "{w up}"
     Sleep(2000)
-    Walk(13, FwdKey)
+    BSSWalk(13, FwdKey)
     '
         )
     CreatePath(movement)
@@ -1524,12 +1524,12 @@ gt_samovar() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(45, FwdKey)
+        BSSWalk(45, FwdKey)
         Send "{' . RotRight . ' 2}"
-        Walk(58.5, FwdKey)
-        Walk(18, RightKey)
+        BSSWalk(58.5, FwdKey)
+        BSSWalk(18, RightKey)
         Send "{w down}"
         HyperSleep(200)
         Send "{space down}"
@@ -1538,27 +1538,27 @@ gt_samovar() {
         HyperSleep(800)
         Send "{w up}"
         Send "{' . RotLeft . ' 2}"
-        Walk(63, FwdKey)
+        BSSWalk(63, FwdKey)
         Send "{' . RotRight . ' 2}"
-        Walk(45, FwdKey)
+        BSSWalk(45, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(27, FwdKey)
+        BSSWalk(27, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(3, FwdKey)
-        Walk(10, FwdKey, RightKey)
-        Walk(8, FwdKey, LeftKey)
+        BSSWalk(3, FwdKey)
+        BSSWalk(10, FwdKey, RightKey)
+        BSSWalk(8, FwdKey, LeftKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(3.5, FwdKey, LeftKey)
+        BSSWalk(3.5, FwdKey, LeftKey)
         Send "{' . RotRight . ' 1}"
-        Walk(3, FwdKey)
+        BSSWalk(3, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(6, FwdKey)
+        BSSWalk(6, FwdKey)
         '
             )
         CreatePath(movement)
@@ -1588,23 +1588,23 @@ gt_samovar() {
         Send "{space}"
         HyperSleep(1000)
         Send "{' . RotLeft . ' 2}"
-        Walk(36, FwdKey)
+        BSSWalk(36, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(3, FwdKey)
-        Walk(10, FwdKey, RightKey)
-        Walk(8, FwdKey, LeftKey)
+        BSSWalk(3, FwdKey)
+        BSSWalk(10, FwdKey, RightKey)
+        BSSWalk(8, FwdKey, LeftKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(3.5, FwdKey, LeftKey)
+        BSSWalk(3.5, FwdKey, LeftKey)
         Send "{' . RotRight . ' 1}"
-        Walk(3, FwdKey)
+        BSSWalk(3, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(6, FwdKey)
+        BSSWalk(6, FwdKey)
         '
             )
         CreatePath(movement)
@@ -1626,22 +1626,22 @@ gt_snowmachine() {
         Send "{space down}{a down}"
         HyperSleep(250)
         Send "{space up}"
-        Walk(425, LeftKey)
+        BSSWalk(425, LeftKey)
         Send "{a up}"
         HyperSleep(800)
         Send "{space down}{a down}"
         HyperSleep(250)
         Send "{space up}"
-        Walk(1000, LeftKey)
+        BSSWalk(1000, LeftKey)
         Send "{a up}"
-        Walk(8, FwdKey)
+        BSSWalk(8, FwdKey)
         HyperSleep(250)
         Send "{space down}{a down}"
         HyperSleep(150)
         Send "{space up}"
-        Walk(375, LeftKey)
+        BSSWalk(375, LeftKey)
         Send "{a up}"
-        Walk(16.5, BackKey)
+        BSSWalk(16.5, BackKey)
         Send "{' . RotLeft . ' 4}"
         Send "{w down}"
         HyperSleep(150)
@@ -1653,10 +1653,10 @@ gt_snowmachine() {
         HyperSleep(500)
         Send "{space up}"
         HyperSleep(500)
-        Walk(225, FwdKey)
+        BSSWalk(225, FwdKey)
         Send "{w up}"
         Send "{' . RotLeft . ' 2}"
-        Walk(3, FwdKey)
+        BSSWalk(3, FwdKey)
         '
             )
         switch HiveSlot {
@@ -1665,11 +1665,11 @@ gt_snowmachine() {
                 movement :=
                     (
                         '
-                Walk(41, BackKey, LeftKey)
-                Walk(48, LeftKey)
-                Walk(10, FwdKey)
-                Walk(1, RightKey)
-                Walk(6, BackKey)
+                BSSWalk(41, BackKey, LeftKey)
+                BSSWalk(48, LeftKey)
+                BSSWalk(10, FwdKey)
+                BSSWalk(1, RightKey)
+                BSSWalk(6, BackKey)
                 ' . common_movement . '
                 '
                     )
@@ -1682,11 +1682,11 @@ gt_snowmachine() {
                 movement :=
                 (
                     '
-                Walk(36, BackKey, LeftKey)
-                Walk(22, LeftKey)
-                Walk(10, FwdKey)
-                Walk(1, RightKey)
-                Walk(6, BackKey)
+                BSSWalk(36, BackKey, LeftKey)
+                BSSWalk(22, LeftKey)
+                BSSWalk(10, FwdKey)
+                BSSWalk(1, RightKey)
+                BSSWalk(6, BackKey)
                 ' . common_movement . '
                 '
                 )
@@ -1699,12 +1699,12 @@ gt_snowmachine() {
                 movement :=
                 (
                     '
-                Walk(9, LeftKey)
-                Walk(23, BackKey)
-                Walk(30, LeftKey)
-                Walk(10, FwdKey)
-                Walk(1, RightKey)
-                Walk(6, BackKey)
+                BSSWalk(9, LeftKey)
+                BSSWalk(23, BackKey)
+                BSSWalk(30, LeftKey)
+                BSSWalk(10, FwdKey)
+                BSSWalk(1, RightKey)
+                BSSWalk(6, BackKey)
                 ' . common_movement . '
                 '
                 )
@@ -1717,11 +1717,11 @@ gt_snowmachine() {
                 movement :=
                 (
                     '
-                Walk(23, BackKey)
-                Walk(30, LeftKey)
-                Walk(10, FwdKey)
-                Walk(1, RightKey)
-                Walk(6, BackKey)
+                BSSWalk(23, BackKey)
+                BSSWalk(30, LeftKey)
+                BSSWalk(10, FwdKey)
+                BSSWalk(1, RightKey)
+                BSSWalk(6, BackKey)
                 ' . common_movement . '
                 '
                 )
@@ -1734,12 +1734,12 @@ gt_snowmachine() {
                 movement :=
                 (
                     '
-                Walk(8, RightKey)
-                Walk(23, BackKey)
-                Walk(30, LeftKey)
-                Walk(10, FwdKey)
-                Walk(1, RightKey)
-                Walk(6, BackKey)
+                BSSWalk(8, RightKey)
+                BSSWalk(23, BackKey)
+                BSSWalk(30, LeftKey)
+                BSSWalk(10, FwdKey)
+                BSSWalk(1, RightKey)
+                BSSWalk(6, BackKey)
                 ' . common_movement . '
                 '
                 )
@@ -1753,11 +1753,11 @@ gt_snowmachine() {
                 movement :=
                     (
                         '
-                Walk(41, LeftKey, BackKey)
-                Walk(48, LeftKey)
-                Walk(10, FwdKey)
-                Walk(1, RightKey)
-                Walk(6, BackKey)
+                BSSWalk(41, LeftKey, BackKey)
+                BSSWalk(48, LeftKey)
+                BSSWalk(10, FwdKey)
+                BSSWalk(1, RightKey)
+                BSSWalk(6, BackKey)
                 ' . common_movement . '
                 '
                     )
@@ -1803,24 +1803,24 @@ gt_stickerPrinter() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(85, FwdKey)
-        Walk(45, RightKey)
-        Walk(50, BackKey)
-        Walk(60, RightKey)
-        Walk(15.75, FwdKey, LeftKey)
-        Walk(18, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(85, FwdKey)
+        BSSWalk(45, RightKey)
+        BSSWalk(50, BackKey)
+        BSSWalk(60, RightKey)
+        BSSWalk(15.75, FwdKey, LeftKey)
+        BSSWalk(18, FwdKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, LeftKey)
-        Walk(3, BackKey)
+        BSSWalk(31, LeftKey)
+        BSSWalk(3, BackKey)
         '
             )
         CreatePath(movement)
@@ -1838,8 +1838,8 @@ gt_stickerPrinter() {
         HyperSleep(100)
         Send "{e up}"
         Sleep(4000)
-        Walk(31, LeftKey)
-        Walk(3, BackKey)
+        BSSWalk(31, LeftKey)
+        BSSWalk(3, BackKey)
         '
             )
         CreatePath(movement)
@@ -1866,16 +1866,16 @@ gt_stickerstack() {
 	    send "{space 2}"
 	    send "{" RightKey " up}"
 	    HyperSleep(6000)
-	    Walk(7, RightKey)
-	    Walk(11, BackKey)
+	    BSSWalk(7, RightKey)
+	    BSSWalk(11, BackKey)
 	    send "{space down}"
-	    Walk(1.5, BackKey)
+	    BSSWalk(1.5, BackKey)
 	    send "{space up}"
-	    Walk(1.5, BackKey)
+	    BSSWalk(1.5, BackKey)
 	    send "{space down}"
-	    Walk(1.5, BackKey)
+	    BSSWalk(1.5, BackKey)
 	    send "{space up}"
-	    Walk(2, BackKey)
+	    BSSWalk(2, BackKey)
 	    HyperSleep(2000)
         '
             )
@@ -1890,15 +1890,15 @@ gt_stickerstack() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
 	    send "{" RotRight " 4}"
-	    Walk(31.5, FwdKey)
-	    Walk(9, LeftKey)
-	    Walk(9, BackKey)
-	    Walk(58.5, LeftKey)
-	    Walk(49.5, FwdKey)
-	    Walk(2.25, BackKey, LeftKey)
-	    Walk(36, LeftKey)
+	    BSSWalk(31.5, FwdKey)
+	    BSSWalk(9, LeftKey)
+	    BSSWalk(9, BackKey)
+	    BSSWalk(58.5, LeftKey)
+	    BSSWalk(49.5, FwdKey)
+	    BSSWalk(2.25, BackKey, LeftKey)
+	    BSSWalk(36, LeftKey)
 	    send "{" RotLeft " 2}"
 	    send "{" FwdKey " down}"
 	    send "{space down}"
@@ -1912,29 +1912,29 @@ gt_stickerstack() {
 	    send "{space up}"
 	    Walk(6)
 	    send "{" FwdKey " up}"
-	    Walk(6, RightKey)
-	    Walk(7, FwdKey)
-	    Walk(6, LeftKey)
-	    Walk(3, RightKey)
-	    Walk(32, FwdKey)
-	    Walk(4, BackKey)
-        Walk(8, LeftKey)
+	    BSSWalk(6, RightKey)
+	    BSSWalk(7, FwdKey)
+	    BSSWalk(6, LeftKey)
+	    BSSWalk(3, RightKey)
+	    BSSWalk(32, FwdKey)
+	    BSSWalk(4, BackKey)
+        BSSWalk(8, LeftKey)
 	    send "{space down}"
 	    HyperSleep(100)
 	    send "{space up}"
-	    Walk(4, LeftKey)
+	    BSSWalk(4, LeftKey)
         Sleep 500
         send "{space down}"
 	    HyperSleep(100)
 	    send "{space up}"
-        Walk(6, LeftKey)
+        BSSWalk(6, LeftKey)
         send "{" RotRight " 4}"
-        Walk(12, FwdKey)
+        BSSWalk(12, FwdKey)
         send "{space down}"
 	    HyperSleep(100)
 	    send "{space up}"
-        Walk(14, FwdKey, LeftKey)
-        Walk(3, FwdKey)
+        BSSWalk(14, FwdKey, LeftKey)
+        BSSWalk(3, FwdKey)
         '
             )
         CreatePath(movement)
@@ -1953,11 +1953,11 @@ gt_stockings() {
         movement :=
             (
                 '
-        Walk(47.25, BackKey, LeftKey)
-        Walk(40.5, LeftKey)
-        Walk(8.5, BackKey)
-        Walk(43, LeftKey)
-        Walk(13, FwdKey)
+        BSSWalk(47.25, BackKey, LeftKey)
+        BSSWalk(40.5, LeftKey)
+        BSSWalk(8.5, BackKey)
+        BSSWalk(43, LeftKey)
+        BSSWalk(13, FwdKey)
         '
             )
         CreatePath(movement)
@@ -2000,21 +2000,21 @@ gt_strawberrydis() {
         Send "{space down}{d down}"
         Sleep(100)
         Send "{space up}"
-        Walk(50, RightKey)
+        BSSWalk(50, RightKey)
         Send "{w down}"
-        Walk(45, FwdKey, RightKey)
+        BSSWalk(45, FwdKey, RightKey)
         Send "{w up}"
-        Walk(750, RightKey)
+        BSSWalk(750, RightKey)
         Send "{d up}{space down}"
         HyperSleep(300)
         Send "{space up}"
-        Walk(6, RightKey)
+        BSSWalk(6, RightKey)
         HyperSleep(500)
         Send "{' . RotRight . ' 2}"
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(3, FwdKey)
+        BSSWalk(3, FwdKey)
         HyperSleep(1000)
         Send "{space down}{d down}"
         HyperSleep(100)
@@ -2022,7 +2022,7 @@ gt_strawberrydis() {
         HyperSleep(300)
         Send "{space}{d up}"
         HyperSleep(1000)
-        Walk(7.5, BackKey, RightKey)
+        BSSWalk(7.5, BackKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -2035,29 +2035,29 @@ gt_strawberrydis() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(20.25, LeftKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(20.25, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(60.75, FwdKey)
+        BSSWalk(60.75, FwdKey)
         Send "{' . RotRight . ' 2}"
-        Walk(9, BackKey)
-        Walk(15.75, BackKey, RightKey)
-        Walk(30, LeftKey)
-        Walk(36, FwdKey)
-        Walk(28, LeftKey)
-        Walk(5, RightKey)
-        Walk(3.5, BackKey)
-        Walk(23.5, LeftKey)
-        Walk(3, BackKey)
-        Walk(10, RightKey)
-        Walk(3, LeftKey)
-        Walk(8, BackKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(15.75, BackKey, RightKey)
+        BSSWalk(30, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(28, LeftKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(3.5, BackKey)
+        BSSWalk(23.5, LeftKey)
+        BSSWalk(3, BackKey)
+        BSSWalk(10, RightKey)
+        BSSWalk(3, LeftKey)
+        BSSWalk(8, BackKey)
         '
             )
         CreatePath(movement)
@@ -2077,13 +2077,13 @@ gt_treatdis() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(30, FwdKey)
-        Walk(20, FwdKey, RightKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(20, FwdKey, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(43.5, FwdKey)
-        Walk(16, RightKey)
+        BSSWalk(43.5, FwdKey)
+        BSSWalk(16, RightKey)
         Send "{w down}"
         HyperSleep(200)
         Send "{space down}"
@@ -2092,9 +2092,9 @@ gt_treatdis() {
         HyperSleep(800)
         Send "{w up}"
         Send "{' . RotLeft . ' 2}"
-        Walk(29.25, FwdKey)
-        Walk(17, FwdKey, LeftKey)
-        Walk(3, FwdKey)
+        BSSWalk(29.25, FwdKey)
+        BSSWalk(17, FwdKey, LeftKey)
+        BSSWalk(3, FwdKey)
         '
             )
         CreatePath(movement)
@@ -2137,25 +2137,25 @@ gt_windshrine() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -2163,33 +2163,33 @@ gt_windshrine() {
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(450, FwdKey)
+    BSSWalk(450, FwdKey)
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
     HyperSleep(200)
-    Walk(21, FwdKey, RightKey)
+    BSSWalk(21, FwdKey, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(3, FwdKey)
-    Walk(19.5, RightKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(19.5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(3, RightKey)
+    BSSWalk(3, RightKey)
     Send "{' . RotRight . ' 2}"
     HyperSleep(200)
     ;pepper
-    Walk(13, FwdKey, RightKey)
-    Walk(10, RightKey)
-    Walk(1, LeftKey)
+    BSSWalk(13, FwdKey, RightKey)
+    BSSWalk(10, RightKey)
+    BSSWalk(1, LeftKey)
     Send "{space down}"
     HyperSleep(120)
     Send "{d down}"
     HyperSleep(130)
     Send "{space up}{d up}"
-    Walk(15, RightKey)
+    BSSWalk(15, RightKey)
     HyperSleep(300)
     '
         )
@@ -2208,15 +2208,15 @@ gt_wintermm() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(2.25, BackKey, LeftKey)
-        Walk(36, LeftKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(2.25, BackKey, LeftKey)
+        BSSWalk(36, LeftKey)
         Send "{' . RotLeft . ' 2}"
         Send "{w down}"
         Send "{space down}"
@@ -2228,23 +2228,23 @@ gt_wintermm() {
         Send "{space down}"
         HyperSleep(300)
         Send "{space up}"
-        Walk(150, FwdKey)
+        BSSWalk(150, FwdKey)
         Send "{w up}"
-        Walk(6, RightKey)
-        Walk(42, FwdKey)
+        BSSWalk(6, RightKey)
+        BSSWalk(42, FwdKey)
         Send "{a down}"
-        Walk(175, LeftKey)
+        BSSWalk(175, LeftKey)
         Send "{space down}"
         Sleep(100)
         Send "{space up}"
-        Walk(175, LeftKey)
+        BSSWalk(175, LeftKey)
         Send "{space down}"
         Sleep(100)
         Send "{space up}"
-        Walk(250, LeftKey)
+        BSSWalk(250, LeftKey)
         Send "{a up}"
-        Walk(3.75, RightKey)
-        Walk(6, BackKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(6, BackKey)
         '
             )
         CreatePath(movement)
@@ -2269,12 +2269,12 @@ gt_wintermm() {
         Send "{d up}"
         Sleep(2200)
         Send "{' . RotRight . ' 4}"
-        Walk(14, LeftKey)
-        Walk(4, FwdKey, LeftKey)
+        BSSWalk(14, LeftKey)
+        BSSWalk(4, FwdKey, LeftKey)
         Send "{space down}"
         Sleep(500)
         Send "{space up}{a down}"
-        Walk(212.5, LeftKey)
+        BSSWalk(212.5, LeftKey)
         Send "{a up}"
         '
             )
@@ -2296,12 +2296,12 @@ gt_wreath() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(19, RightKey)
-    Walk(2.5, BackKey, LeftKey)
+    BSSWalk(19, RightKey)
+    BSSWalk(2.5, BackKey, LeftKey)
     '
         )
     CreatePath(movement)
@@ -2342,11 +2342,11 @@ gt_bamboo() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(23.5, FwdKey)
-        Walk(31.5, FwdKey, RightKey)
-        Walk(10, RightKey)
+        BSSWalk(23.5, FwdKey)
+        BSSWalk(31.5, FwdKey, RightKey)
+        BSSWalk(10, RightKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -2393,8 +2393,8 @@ gt_blueflower(a := 0) {
         movement :=
             (
                 '
-        Walk(86.875, BackKey, LeftKey)
-        Walk(28, LeftKey)
+        BSSWalk(86.875, BackKey, LeftKey)
+        BSSWalk(28, LeftKey)
         Send "{' . RotLeft . ' 2}"
         '
             )
@@ -2436,17 +2436,17 @@ gt_cactus() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(49.5, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(49.5, FwdKey)
         Send "{' . RotRight . ' 4}"
-        Walk(13.5, LeftKey)
+        BSSWalk(13.5, LeftKey)
         '
             )
         CreatePath(movement)
@@ -2489,12 +2489,12 @@ gt_clover() {
         movement :=
             (
                 '
-        Walk(44.75, BackKey, LeftKey)
-        Walk(52.5, LeftKey)
-        Walk(2.8, BackKey, RightKey)
-        Walk(6.7, BackKey)
-        Walk(20.5, LeftKey)
-        Walk(4.5, FwdKey)
+        BSSWalk(44.75, BackKey, LeftKey)
+        BSSWalk(52.5, LeftKey)
+        BSSWalk(2.8, BackKey, RightKey)
+        BSSWalk(6.7, BackKey)
+        BSSWalk(20.5, LeftKey)
+        BSSWalk(4.5, FwdKey)
         '
             )
         CreatePath(movement)
@@ -2525,15 +2525,15 @@ gt_coconut(a := 0) {
     send "{" RightKey " up}{space down}"
     HyperSleep(300)
     send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     send "{space down}"
     HyperSleep(300)
     send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{" FwdKey " down}{" RightKey " down}"
     Walk(11)
     send "{space down}{" RightKey " up}"
@@ -2545,7 +2545,7 @@ gt_coconut(a := 0) {
     send "{space up}"
     Walk(18)
     Send "{" FwdKey " up}"
-    Walk(13.5, LeftKey)
+    BSSWalk(13.5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -2562,8 +2562,8 @@ gt_dandelion() {
     movement :=
         (
             '
-    Walk(39, BackKey, LeftKey)
-    Walk(14, LeftKey)
+    BSSWalk(39, BackKey, LeftKey)
+    BSSWalk(14, LeftKey)
     Send "{' . RotLeft . ' 2}"
     '
         )
@@ -2604,21 +2604,21 @@ gt_mountaintop() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(85, FwdKey)
-        Walk(45, RightKey)
-        Walk(50, BackKey)
-        Walk(60, RightKey)
-        Walk(15.75, FwdKey, LeftKey)
-        Walk(13.5, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(85, FwdKey)
+        BSSWalk(45, RightKey)
+        BSSWalk(50, BackKey)
+        BSSWalk(60, RightKey)
+        BSSWalk(15.75, FwdKey, LeftKey)
+        BSSWalk(13.5, FwdKey)
         Send "{' . RotRight . ' 4}"
         '
             )
@@ -2637,9 +2637,9 @@ gt_mushroom() {
     movement :=
         (
             '
-    Walk(36, BackKey, LeftKey)
+    BSSWalk(36, BackKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(31.5, FwdKey)
+    BSSWalk(31.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -2659,25 +2659,25 @@ gt_pepper() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -2685,27 +2685,27 @@ gt_pepper() {
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(450, FwdKey)
+    BSSWalk(450, FwdKey)
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(500, FwdKey)
+    BSSWalk(500, FwdKey)
     Send "{d down}"
-    Walk(225, FwdKey, RightKey)
+    BSSWalk(225, FwdKey, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(25, FwdKey, RightKey)
+    BSSWalk(25, FwdKey, RightKey)
     Send "{w up}"
-    Walk(825, RightKey)
+    BSSWalk(825, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(100, RightKey)
+    BSSWalk(100, RightKey)
     Send "{d up}{w up}"
     Send "{' . RotRight . ' 2}"
-    Walk(9, FwdKey)
-    Walk(1.5, RightKey)
+    BSSWalk(9, FwdKey)
+    BSSWalk(1.5, RightKey)
     '
         )
     CreatePath(movement)
@@ -2746,17 +2746,17 @@ gt_pineapple() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(30, FwdKey)
-        Walk(20, FwdKey, RightKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(20, FwdKey, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(43.5, FwdKey)
-        Walk(18, RightKey)
-        Walk(6, FwdKey)
+        BSSWalk(43.5, FwdKey)
+        BSSWalk(18, RightKey)
+        BSSWalk(6, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(65.5, FwdKey)
-        Walk(1.5, RightKey)
+        BSSWalk(65.5, FwdKey)
+        BSSWalk(1.5, RightKey)
         '
             )
         CreatePath(movement)
@@ -2798,17 +2798,17 @@ gt_pinetree() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(38, FwdKey)
-        Walk(33, LeftKey, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(38, FwdKey)
+        BSSWalk(33, LeftKey, FwdKey)
         '
             )
         CreatePath(movement)
@@ -2852,18 +2852,18 @@ gt_pumpkin() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(38, FwdKey)
-        Walk(18, RightKey, FwdKey)
-        Walk(10, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(38, FwdKey)
+        BSSWalk(18, RightKey, FwdKey)
+        BSSWalk(10, FwdKey)
         '
             )
         CreatePath(movement)
@@ -2905,23 +2905,23 @@ gt_rose() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(38, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(38, FwdKey)
         Send "{' . RotLeft . ' 4}"
-        Walk(14, RightKey)
-        Walk(15, FwdKey, LeftKey)
-        Walk(1, BackKey)
+        BSSWalk(14, RightKey)
+        BSSWalk(15, FwdKey, LeftKey)
+        BSSWalk(1, BackKey)
         HyperSleep(200)
-        Walk(16, RightKey)
-        Walk(49, FwdKey)
+        BSSWalk(16, RightKey)
+        BSSWalk(49, FwdKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -2962,10 +2962,10 @@ gt_spider() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(13, LeftKey, FwdKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(13, LeftKey, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3005,12 +3005,12 @@ gt_strawberry() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7, FwdKey, LeftKey)
-        Walk(33.25, LeftKey)
-        Walk(6.75, FwdKey, LeftKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7, FwdKey, LeftKey)
+        BSSWalk(33.25, LeftKey)
+        BSSWalk(6.75, FwdKey, LeftKey)
         Send "{' . RotLeft . ' 2}"
         '
             )
@@ -3058,19 +3058,19 @@ gt_stump(a := 0) {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(30, FwdKey)
-        Walk(20, FwdKey, RightKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(20, FwdKey, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(43.5, FwdKey)
-        Walk(18, RightKey)
-        Walk(6, FwdKey)
+        BSSWalk(43.5, FwdKey)
+        BSSWalk(18, RightKey)
+        BSSWalk(6, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(43, FwdKey)
-        Walk(30, FwdKey, RightKey)
-        Walk(24, RightKey)
-        Walk(10, BackKey)
+        BSSWalk(43, FwdKey)
+        BSSWalk(30, FwdKey, RightKey)
+        BSSWalk(24, RightKey)
+        BSSWalk(10, BackKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -3089,10 +3089,10 @@ gt_sunflower() {
     movement :=
         (
             '
-    Walk(9, BackKey)
-    Walk(6.75, BackKey, RightKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(6.75, BackKey, RightKey)
     Send "{' . RotRight . ' 2}"
-    Walk(29, RightKey)
+    BSSWalk(29, RightKey)
     '
         )
     CreatePath(movement)
@@ -3109,10 +3109,10 @@ gt_black() {
     movement :=
         (
             '
-    Walk(10, BackKey)
-    Walk(13.5, RightKey)
-    Walk(6, FwdKey)
-    Walk(6, BackKey)
+    BSSWalk(10, BackKey)
+    BSSWalk(13.5, RightKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(6, BackKey)
     '
         )
     CreatePath(movement)
@@ -3130,14 +3130,14 @@ gt_brown() {
         movement :=
             (
                 '
-        Walk(44.75, BackKey, LeftKey)
-        Walk(42.5, LeftKey)
-        Walk(8.5, BackKey)
-        Walk(22.5, LeftKey)
+        BSSWalk(44.75, BackKey, LeftKey)
+        BSSWalk(42.5, LeftKey)
+        BSSWalk(8.5, BackKey)
+        BSSWalk(22.5, LeftKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(40, FwdKey)
-        Walk(1.2, BackKey)
-        Walk(15, RightKey)
+        BSSWalk(40, FwdKey)
+        BSSWalk(1.2, BackKey)
+        BSSWalk(15, RightKey)
         '
             )
         CreatePath(movement)
@@ -3158,10 +3158,10 @@ gt_brown() {
         Send "{space 2}"
         Sleep(8000)
         Send "{w up}{a up}"
-        Walk(20, RightKey)
-        Walk(8, LeftKey)
-        Walk(3, RightKey, BackKey)
-        Walk(2, BackKey)
+        BSSWalk(20, RightKey)
+        BSSWalk(8, LeftKey)
+        BSSWalk(3, RightKey, BackKey)
+        BSSWalk(2, BackKey)
         '
             )
         CreatePath(movement)
@@ -3180,12 +3180,12 @@ gt_bucko() {
         movement :=
             (
                 '
-        Walk(88.875, BackKey, LeftKey)
-        Walk(27, LeftKey)
+        BSSWalk(88.875, BackKey, LeftKey)
+        BSSWalk(27, LeftKey)
         HyperSleep(50)
         Send "{' . RotLeft . ' 2}"
         HyperSleep(50)
-        Walk(50, FwdKey)
+        BSSWalk(50, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3208,13 +3208,13 @@ gt_bucko() {
         Send "{a up}{space}"
         HyperSleep(1000)
         Send "{' . RotLeft . ' 2}"
-        Walk(4, BackKey, LeftKey)
-        Walk(8, FwdKey, LeftKey)
-        Walk(6, FwdKey)
-        Walk(5, BackKey)
-        Walk(8, RightKey)
+        BSSWalk(4, BackKey, LeftKey)
+        BSSWalk(8, FwdKey, LeftKey)
+        BSSWalk(6, FwdKey)
+        BSSWalk(5, BackKey)
+        BSSWalk(8, RightKey)
         ;inside
-        Walk(30, FwdKey)
+        BSSWalk(30, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3228,20 +3228,20 @@ gt_bucko() {
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(5, RightKey)
-    Walk(9, RightKey, BackKey)
-    Walk(4, RightKey)
-    Walk(2, LeftKey)
-    Walk(28, BackKey)
-    Walk(1.75, FwdKey)
-    Walk(9.5, LeftKey)
-    Walk(6.5, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(9, RightKey, BackKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(2, LeftKey)
+    BSSWalk(28, BackKey)
+    BSSWalk(1.75, FwdKey)
+    BSSWalk(9.5, LeftKey)
+    BSSWalk(6.5, FwdKey)
     Sleep(100)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3259,15 +3259,15 @@ gt_honey() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(2.25, BackKey, LeftKey)
-        Walk(36, LeftKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(2.25, BackKey, LeftKey)
+        BSSWalk(36, LeftKey)
         Send "{' . RotLeft . ' 2}"
         Send "{w down}"
         Send "{space down}"
@@ -3279,14 +3279,14 @@ gt_honey() {
         Send "{space down}"
         HyperSleep(300)
         Send "{space up}"
-        Walk(150, FwdKey)
+        BSSWalk(150, FwdKey)
         Send "{w up}"
-        Walk(6, RightKey)
-        Walk(7, FwdKey)
-        Walk(6, LeftKey)
-        Walk(3, RightKey)
-        Walk(32, FwdKey)
-        Walk(8.5, BackKey)
+        BSSWalk(6, RightKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(6, LeftKey)
+        BSSWalk(3, RightKey)
+        BSSWalk(32, FwdKey)
+        BSSWalk(8.5, BackKey)
         '
             )
         CreatePath(movement)
@@ -3311,10 +3311,10 @@ gt_honey() {
         Send "{d up}"
         Sleep(2200)
         Send "{' . RotRight . ' 4}"
-        Walk(14, LeftKey)
-        Walk(4, FwdKey)
-        Walk(3, BackKey)
-        Walk(11, RightKey)
+        BSSWalk(14, LeftKey)
+        BSSWalk(4, FwdKey)
+        BSSWalk(3, BackKey)
+        BSSWalk(11, RightKey)
         '
             )
         CreatePath(movement)
@@ -3333,19 +3333,19 @@ gt_polar() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(3.375, LeftKey)
-        Walk(36, FwdKey)
-        Walk(60, RightKey)
-        Walk(60, BackKey)
-        Walk(9, LeftKey)
-        Walk(3, FwdKey, RightKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(3.375, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(60, RightKey)
+        BSSWalk(60, BackKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(3, FwdKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -3388,21 +3388,21 @@ gt_riley() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, RightKey)
+    BSSWalk(6, RightKey)
     HyperSleep(500)
     Send "{' . RotRight . ' 2}"
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     HyperSleep(1000)
     Send "{space down}{d down}"
     HyperSleep(100)
@@ -3410,13 +3410,13 @@ gt_riley() {
     HyperSleep(300)
     Send "{space}{d up}"
     HyperSleep(1000)
-    Walk(26, RightKey)
-    Walk(5, FwdKey)
-    Walk(1, BackKey)
+    BSSWalk(26, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(1, BackKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(8, FwdKey)
+    BSSWalk(8, FwdKey)
     Sleep(1500)
     '
         )
@@ -3432,13 +3432,13 @@ wf_bamboo() {
     movement :=
         (
             '
-    Walk(16, LeftKey)
-    Walk(5, RightKey)
+    BSSWalk(16, LeftKey)
+    BSSWalk(5, RightKey)
     Send "{' . RotRight . ' 2}"
-    Walk(75, RightKey)
-    Walk(64, FwdKey)
-    Walk(5.5, FwdKey, RightKey)
-    Walk(36, FwdKey)
+    BSSWalk(75, RightKey)
+    BSSWalk(64, FwdKey)
+    BSSWalk(5.5, FwdKey, RightKey)
+    BSSWalk(36, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3454,12 +3454,12 @@ wf_blueflower() {
         (
             '
     Send "{' . RotRight . ' 2}"
-    Walk(13.5, FwdKey)
-    Walk(4.5, BackKey)
-    Walk(48, RightKey)
-    Walk(40.5, FwdKey)
-    Walk(33.5, RightKey)
-    Walk(27, FwdKey)
+    BSSWalk(13.5, FwdKey)
+    BSSWalk(4.5, BackKey)
+    BSSWalk(48, RightKey)
+    BSSWalk(40.5, FwdKey)
+    BSSWalk(33.5, RightKey)
+    BSSWalk(27, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3474,17 +3474,17 @@ wf_cactus() {
     movement :=
         (
             '
-    Walk(8, BackKey)
-    Walk(10, LeftKey, BackKey)
-    Walk(14.5, BackKey)
-    Walk(28, LeftKey)
-    Walk(36, FwdKey)
-    Walk(3, RightKey)
-    Walk(4, FwdKey)
-    Walk(4, LeftKey)
-    Walk(27, FwdKey)
-    Walk(2.75, FwdKey, LeftKey)
-    Walk(90, FwdKey)
+    BSSWalk(8, BackKey)
+    BSSWalk(10, LeftKey, BackKey)
+    BSSWalk(14.5, BackKey)
+    BSSWalk(28, LeftKey)
+    BSSWalk(36, FwdKey)
+    BSSWalk(3, RightKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(4, LeftKey)
+    BSSWalk(27, FwdKey)
+    BSSWalk(2.75, FwdKey, LeftKey)
+    BSSWalk(90, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3499,11 +3499,11 @@ wf_clover() {
     movement :=
         (
             '
-    Walk(18, FwdKey)
-    Walk(36, RightKey)
-    Walk(4.5, BackKey)
-    Walk(50.5, RightKey)
-    Walk(36, FwdKey)
+    BSSWalk(18, FwdKey)
+    BSSWalk(36, RightKey)
+    BSSWalk(4.5, BackKey)
+    BSSWalk(50.5, RightKey)
+    BSSWalk(36, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3518,17 +3518,17 @@ wf_coconut() {
     movement :=
         (
             '
-    Walk(20.25, RightKey)
+    BSSWalk(20.25, RightKey)
     Send "{s down}"
-    Walk(562.5, BackKey)
+    BSSWalk(562.5, BackKey)
     Send "{space down}"
     HyperSleep(50)
     Send "{space up}"
-    Walk(787.5, BackKey)
+    BSSWalk(787.5, BackKey)
     Send "{s up}"
-    Walk(33.75, LeftKey)
-    Walk(13.5, FwdKey)
-    Walk(10, RightKey)
+    BSSWalk(33.75, LeftKey)
+    BSSWalk(13.5, FwdKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -3544,9 +3544,9 @@ wf_dandelion() {
         (
             '
     Send "{' . RotRight . ' 2}"
-    Walk(13.5, FwdKey)
-    Walk(42, RightKey)
-    Walk(28, FwdKey)
+    BSSWalk(13.5, FwdKey)
+    BSSWalk(42, RightKey)
+    BSSWalk(28, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3560,17 +3560,17 @@ wf_mountaintop() {
     function := A_ThisFunc
     zigzag_part := ''
     loop 15 {
-        zigzag_part .= 'Walk(3, BackKey)`n'
-        zigzag_part .= 'Walk(1, LeftKey)`n'
+        zigzag_part .= 'BSSWalk(3, BackKey)`n'
+        zigzag_part .= 'BSSWalk(1, LeftKey)`n'
     }
     movement :=
         (
             '
     ' . zigzag_part . '
-    Walk(36, FwdKey, RightKey)
-    Walk(100, FwdKey)
-    Walk(32, RightKey)
-    Walk(37, FwdKey)
+    BSSWalk(36, FwdKey, RightKey)
+    BSSWalk(100, FwdKey)
+    BSSWalk(32, RightKey)
+    BSSWalk(37, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3585,11 +3585,11 @@ wf_mushroom() {
     movement :=
         (
             '
-    Walk(13.5, FwdKey)
-    Walk(27, LeftKey)
+    BSSWalk(13.5, FwdKey)
+    BSSWalk(27, LeftKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(11.5, LeftKey)
-    Walk(72, FwdKey)
+    BSSWalk(11.5, LeftKey)
+    BSSWalk(72, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3604,14 +3604,14 @@ wf_pepper() {
     movement :=
         (
             '
-    Walk(42, RightKey)
+    BSSWalk(42, RightKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(45, FwdKey)
-    Walk(50, LeftKey)
-    Walk(49, FwdKey)
+    BSSWalk(45, FwdKey)
+    BSSWalk(50, LeftKey)
+    BSSWalk(49, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(13.5, FwdKey)
-    Walk(10, RightKey)
+    BSSWalk(13.5, FwdKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -3627,32 +3627,32 @@ wf_pineapple() {
         movement :=
             (
                 '
-        Walk(18, FwdKey)
-        Walk(31.5, RightKey)
-        Walk(4, LeftKey)
-        Walk(10, BackKey)
-        Walk(4, RightKey)
+        BSSWalk(18, FwdKey)
+        BSSWalk(31.5, RightKey)
+        BSSWalk(4, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(4, RightKey)
         Send "{' . RotLeft . ' 4}"
-        Walk(60, FwdKey)
-        Walk(5.5, BackKey)
-        Walk(10, RightKey)
-        Walk(12, FwdKey)
-        Walk(8, RightKey)
+        BSSWalk(60, FwdKey)
+        BSSWalk(5.5, BackKey)
+        BSSWalk(10, RightKey)
+        BSSWalk(12, FwdKey)
+        BSSWalk(8, RightKey)
         Send "{' . RotRight . ' 2}"
         Send "{w down}"
         Send "{space down}"
         HyperSleep(200)
         Send "{space up}"
         Send "{w up}"
-        Walk(30, FwdKey)
-        Walk(3, BackKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(3, BackKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(30, FwdKey)
-        Walk(4.5, BackKey)
-        Walk(40.5, RightKey)
-        Walk(40.5, FwdKey)
-        Walk(34.5, RightKey)
-        Walk(27, FwdKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(4.5, BackKey)
+        BSSWalk(40.5, RightKey)
+        BSSWalk(40.5, FwdKey)
+        BSSWalk(34.5, RightKey)
+        BSSWalk(27, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3664,25 +3664,25 @@ wf_pineapple() {
         movement :=
             (
                 '
-        Walk(18, FwdKey)
-        Walk(31.5, RightKey)
-        Walk(4, LeftKey)
-        Walk(10, BackKey)
-        Walk(4, RightKey)
+        BSSWalk(18, FwdKey)
+        BSSWalk(31.5, RightKey)
+        BSSWalk(4, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(4, RightKey)
         Send "{' . RotLeft . ' 4}"
-        Walk(60, FwdKey)
-        Walk(5.5, BackKey)
-        Walk(10, RightKey)
+        BSSWalk(60, FwdKey)
+        BSSWalk(5.5, BackKey)
+        BSSWalk(10, RightKey)
         Send "{space down}"
         HyperSleep(50)
         Send "{space up}"
-        Walk(4, RightKey)
+        BSSWalk(4, RightKey)
         HyperSleep(1100)
         Send "{e down}"
         HyperSleep(100)
         Send "{e up}"
         HyperSleep(3000)
-        Walk(34, FwdKey)
+        BSSWalk(34, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3699,22 +3699,22 @@ wf_pinetree() {
         movement :=
             (
                 '
-        Walk(31, FwdKey)
-	    Walk(75, RightKey)
+        BSSWalk(31, FwdKey)
+	    BSSWalk(75, RightKey)
 	    send "{" RotLeft " 4}"
 	    Sleep(50)
-	    Walk(20, FwdKey)
-	    Walk(3, FwdKey, LeftKey)
-	    Walk(18, FwdKey)
-	    Walk(6, FwdKey, RightKey)
-	    Walk(10, RightKey)
-	    Walk(2, LeftKey)
+	    BSSWalk(20, FwdKey)
+	    BSSWalk(3, FwdKey, LeftKey)
+	    BSSWalk(18, FwdKey)
+	    BSSWalk(6, FwdKey, RightKey)
+	    BSSWalk(10, RightKey)
+	    BSSWalk(2, LeftKey)
 	    send "{" FwdKey " down}"
 	    Walk(6)
 	    send "{" SC_Space " down}"
 	    HyperSleep(200)
 	    send "{" SC_Space " up}"
-	    Walk(108)
+	    BSSWalk(108)
 	    send "{" FwdKey " up}"
         '
             )
@@ -3727,16 +3727,16 @@ wf_pinetree() {
         movement :=
             (
                 '
-        Walk(31, FwdKey)
-	    Walk(75, RightKey)
+        BSSWalk(31, FwdKey)
+	    BSSWalk(75, RightKey)
 	    send "{" RotLeft " 4}"
 	    Sleep(50)
-	    Walk(20, FwdKey)
-	    Walk(3, FwdKey, LeftKey)
-	    Walk(18, FwdKey)
-	    Walk(6, FwdKey, RightKey)
-	    Walk(10, RightKey)
-	    Walk(2, LeftKey)
+	    BSSWalk(20, FwdKey)
+	    BSSWalk(3, FwdKey, LeftKey)
+	    BSSWalk(18, FwdKey)
+	    BSSWalk(6, FwdKey, RightKey)
+	    BSSWalk(10, RightKey)
+	    BSSWalk(2, LeftKey)
 	    send "{" FwdKey " down}"
 	    Walk(6)
 	    send "{" SC_Space " down}"
@@ -3749,7 +3749,7 @@ wf_pinetree() {
 	    HyperSleep(3000)
 	    send "{" FwdKey " up}"
 	    HyperSleep(2600)
-	    Walk(15, FwdKey)
+	    BSSWalk(15, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3768,9 +3768,9 @@ wf_pumpkin() {
     movement :=
         (
             '
-    Walk(9, RightKey)
+    BSSWalk(9, RightKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(9, BackKey)
+    BSSWalk(9, BackKey)
     Send "{s down}"
     Send "{a down}"
     HyperSleep(2000)
@@ -3780,12 +3780,12 @@ wf_pumpkin() {
     HyperSleep(2000)
     Send "{s up}"
     Send "{a up}"
-    Walk(36, FwdKey)
-    Walk(4.5, FwdKey, RightKey)
-    Walk(4.5, FwdKey, LeftKey)
-    Walk(27, FwdKey)
-    Walk(3, FwdKey, LeftKey)
-    Walk(85.5, FwdKey)
+    BSSWalk(36, FwdKey)
+    BSSWalk(4.5, FwdKey, RightKey)
+    BSSWalk(4.5, FwdKey, LeftKey)
+    BSSWalk(27, FwdKey)
+    BSSWalk(3, FwdKey, LeftKey)
+    BSSWalk(85.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3800,17 +3800,17 @@ wf_rose() {
     movement :=
         (
             '
-    Walk(12, FwdKey)
-    Walk(20, LeftKey)
-    Walk(8, RightKey)
+    BSSWalk(12, FwdKey)
+    BSSWalk(20, LeftKey)
+    BSSWalk(8, RightKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(35, LeftKey)
-    Walk(41, FwdKey)
-    Walk(9, LeftKey)
-    Walk(28, FwdKey)
-    Walk(8, LeftKey)
-    Walk(6, FwdKey, LeftKey)
-    Walk(6, FwdKey)
+    BSSWalk(35, LeftKey)
+    BSSWalk(41, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(28, FwdKey)
+    BSSWalk(8, LeftKey)
+    BSSWalk(6, FwdKey, LeftKey)
+    BSSWalk(6, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3825,12 +3825,12 @@ wf_spider() {
     movement :=
         (
             '
-    Walk(22.5, FwdKey)
-    Walk(27, LeftKey)
+    BSSWalk(22.5, FwdKey)
+    BSSWalk(27, LeftKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(64, FwdKey)
-    Walk(5.5, FwdKey, RightKey)
-    Walk(36, FwdKey)
+    BSSWalk(64, FwdKey)
+    BSSWalk(5.5, FwdKey, RightKey)
+    BSSWalk(36, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3846,12 +3846,12 @@ wf_strawberry() {
         (
             '
     Send "{' . RotLeft . ' 2}"
-    Walk(12, BackKey)
-    Walk(15, BackKey, LeftKey)
-    Walk(18, LeftKey)
-    Walk(15, FwdKey)
-    Walk(6, LeftKey)
-    Walk(95, FwdKey)
+    BSSWalk(12, BackKey)
+    BSSWalk(15, BackKey, LeftKey)
+    BSSWalk(18, LeftKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(6, LeftKey)
+    BSSWalk(95, FwdKey)
     '
         )
     CreatePath(movement)
@@ -3867,31 +3867,31 @@ wf_stump() {
         movement :=
             (
                 '
-        Walk(40.5, RightKey)
+        BSSWalk(40.5, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(22.5, RightKey)
-        Walk(22.5, BackKey)
-        Walk(13, RightKey)
-        Walk(40.5, FwdKey)
-        Walk(5.5, BackKey)
-        Walk(10, RightKey)
-        Walk(12, FwdKey)
-        Walk(8, RightKey)
+        BSSWalk(22.5, RightKey)
+        BSSWalk(22.5, BackKey)
+        BSSWalk(13, RightKey)
+        BSSWalk(40.5, FwdKey)
+        BSSWalk(5.5, BackKey)
+        BSSWalk(10, RightKey)
+        BSSWalk(12, FwdKey)
+        BSSWalk(8, RightKey)
         Send "{' . RotRight . ' 2}"
         Send "{w down}"
         Send "{space down}"
         HyperSleep(200)
         Send "{space up}"
         Send "{w up}"
-        Walk(30, FwdKey)
-        Walk(3, BackKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(3, BackKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(30, FwdKey)
-        Walk(4.5, BackKey)
-        Walk(40.5, RightKey)
-        Walk(40.5, FwdKey)
-        Walk(34.5, RightKey)
-        Walk(27, FwdKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(4.5, BackKey)
+        BSSWalk(40.5, RightKey)
+        BSSWalk(40.5, FwdKey)
+        BSSWalk(34.5, RightKey)
+        BSSWalk(27, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3903,24 +3903,24 @@ wf_stump() {
         movement :=
             (
                 '
-        Walk(40.5, RightKey)
+        BSSWalk(40.5, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(22.5, RightKey)
-        Walk(22.5, BackKey)
-        Walk(13, RightKey)
-        Walk(40.5, FwdKey)
-        Walk(5.5, BackKey)
-        Walk(10, RightKey)
+        BSSWalk(22.5, RightKey)
+        BSSWalk(22.5, BackKey)
+        BSSWalk(13, RightKey)
+        BSSWalk(40.5, FwdKey)
+        BSSWalk(5.5, BackKey)
+        BSSWalk(10, RightKey)
         Send "{space down}"
         HyperSleep(50)
         Send "{space up}"
-        Walk(4, RightKey)
+        BSSWalk(4, RightKey)
         HyperSleep(1100)
         Send "{e down}"
         HyperSleep(100)
         Send "{e up}"
         HyperSleep(3000)
-        Walk(34, FwdKey)
+        BSSWalk(34, FwdKey)
         '
             )
         CreatePath(movement)
@@ -3937,12 +3937,12 @@ wf_sunflower() {
         (
             '
     Send "{' . RotLeft . ' 2}"
-    Walk(13.5, RightKey)
-    Walk(45, FwdKey)
-    Walk(2.25, BackKey)
-    Walk(25, FwdKey, LeftKey)
-    Walk(13.5, FwdKey)
-    Walk(10, RightKey)
+    BSSWalk(13.5, RightKey)
+    BSSWalk(45, FwdKey)
+    BSSWalk(2.25, BackKey)
+    BSSWalk(25, FwdKey, LeftKey)
+    BSSWalk(13.5, FwdKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -3958,11 +3958,11 @@ gt_dailyhoneymakerslb() {
     movement :=
         (
             '
-    Walk(9 * ' . HiveSlot . ' - 4, RightKey)
+    BSSWalk(9 * ' . HiveSlot . ' - 4, RightKey)
     HyperSleep(100)
-    Walk(1, LeftKey)
+    BSSWalk(1, LeftKey)
     HyperSleep(100)
-    Walk(20, LeftKey, BackKey)
+    BSSWalk(20, LeftKey, BackKey)
     HyperSleep(100)
     Send "{' . RotLeft . ' 4}"
     HyperSleep(100)
@@ -3981,14 +3981,14 @@ gt_alltimehoneymakerslb() {
     movement :=
         (
             '
-    Walk(9 * ' . HiveSlot . ' - 4, RightKey)
+    BSSWalk(9 * ' . HiveSlot . ' - 4, RightKey)
     HyperSleep(100)
-    Walk(1, LeftKey)
+    BSSWalk(1, LeftKey)
     HyperSleep(100)
-    Walk(20, LeftKey, BackKey)
+    BSSWalk(20, LeftKey, BackKey)
     Send "{' . RotLeft . ' 4}"
     HyperSleep(100)
-    Walk(14, RightKey)
+    BSSWalk(14, RightKey)
     HyperSleep(100)
     '
         )
@@ -4009,12 +4009,12 @@ gt_tickettent() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(4.5, RightKey)
-    Walk(8.25, FwdKey)
+    BSSWalk(4.5, RightKey)
+    BSSWalk(8.25, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4031,9 +4031,9 @@ gt_basiceggshop() {
     movement :=
         (
             '
-    Walk(30, BackKey, LeftKey)
+    BSSWalk(30, BackKey, LeftKey)
     Send "{' . RotRight . ' 2}"
-    Walk(7, FwdKey, RightKey)
+    BSSWalk(7, FwdKey, RightKey)
     '
         )
     CreatePath(movement)
@@ -4050,9 +4050,9 @@ gt_bee() {
     movement :=
         (
             '
-    Walk(40, LeftKey)
+    BSSWalk(40, LeftKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(17.5, FwdKey)
+    BSSWalk(17.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4069,9 +4069,9 @@ gt_beequipstorage() {
     movement :=
         (
             '
-    Walk(47.5, LeftKey)
+    BSSWalk(47.5, LeftKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(17.5, FwdKey)
+    BSSWalk(17.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4088,10 +4088,10 @@ gt_noobshop() {
     movement :=
         (
             '
-    Walk(47.5, LeftKey)
+    BSSWalk(47.5, LeftKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(19, FwdKey, LeftKey)
-    Walk(10, FwdKey)
+    BSSWalk(19, FwdKey, LeftKey)
+    BSSWalk(10, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4108,28 +4108,28 @@ gt_demonmaskshop() {
     movement :=
         (
             '
-    Walk(58, LeftKey)
-    Walk(2, FwdKey)
+    BSSWalk(58, LeftKey)
+    BSSWalk(2, FwdKey)
     Send "{' . RotLeft . ' 2}"
     Jump()
-    Walk(10, FwdKey)
-    Walk(5, LeftKey)
-    Walk(13, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, LeftKey)
+    BSSWalk(13, FwdKey)
     ActivateGlider()
     HyperSleep(1000)
     ActivateGlider()
     HyperSleep(1000)
-    Walk(3, RightKey)
+    BSSWalk(3, RightKey)
     Send "{Shift}"
     ActivateGlider()
     HyperSleep(1000)
     Jump()
-    Walk(4, FwdKey)
+    BSSWalk(4, FwdKey)
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Send "{' . RotLeft . ' 2}"
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     ActivateGlider()
     HyperSleep(1000)
     Send "{Shift}"
@@ -4149,10 +4149,10 @@ gt_treatshop() {
     movement :=
         (
             '
-    Walk(9, BackKey)
-    Walk(8, BackKey, RightKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(8, BackKey, RightKey)
     Send "{' . RotRight . ' 4}"
-    Walk(49, FwdKey)
+    BSSWalk(49, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4169,11 +4169,11 @@ gt_mother() {
     movement :=
         (
             '
-    Walk(9, BackKey)
-    Walk(7, BackKey, RightKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(7, BackKey, RightKey)
     Send "{' . RotRight . ' 4}"
-    Walk(49, FwdKey)
-    Walk(10, RightKey)
+    BSSWalk(49, FwdKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -4190,10 +4190,10 @@ gt_instantconverterA() {
     movement :=
         (
             '
-    Walk(30, BackKey, LeftKey)
+    BSSWalk(30, BackKey, LeftKey)
     Send "{' . RotRight . ' 2}"
-    Walk(15, RightKey)
-    Walk(9, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(9, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4249,7 +4249,7 @@ gt_stickbuglb() {
     HyperSleep(100)
     Send "{' . RotRight . ' 2}"
     HyperSleep(100)
-    Walk(4, FwdKey, RightKey)
+    BSSWalk(4, FwdKey, RightKey)
     '
         )
     CreatePath(movement)
@@ -4278,7 +4278,7 @@ gt_festivenymphs() {
     HyperSleep(100)
     Send "{' . RotRight . ' 2}"
     HyperSleep(100)
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     '
         )
     CreatePath(movement)
@@ -4295,9 +4295,9 @@ gt_royaljellydis2() {
     movement :=
         (
             '
-    Walk(44.75, LeftKey, BackKey)
-    Walk(44, LeftKey)
-    Walk(5, FwdKey)
+    BSSWalk(44.75, LeftKey, BackKey)
+    BSSWalk(44, LeftKey)
+    BSSWalk(5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4313,12 +4313,12 @@ gt_slingshot() {
     movement :=
         (
             '
-    Walk(44.75, LeftKey, BackKey)
-    Walk(44, LeftKey)
+    BSSWalk(44.75, LeftKey, BackKey)
+    BSSWalk(44, LeftKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     HyperSleep(250)
     '
         )
@@ -4336,14 +4336,14 @@ gt_vines() {
     movement :=
         (
             '
-    Walk(44.75, BackKey, LeftKey)
-    Walk(42.5, LeftKey)
-    Walk(8.5, BackKey)
-    Walk(22.5, LeftKey)
+    BSSWalk(44.75, BackKey, LeftKey)
+    BSSWalk(42.5, LeftKey)
+    BSSWalk(8.5, BackKey)
+    BSSWalk(22.5, LeftKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(27, FwdKey)
-    Walk(7, LeftKey, FwdKey)
-    Walk(19, FwdKey)
+    BSSWalk(27, FwdKey)
+    BSSWalk(7, LeftKey, FwdKey)
+    BSSWalk(19, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4374,7 +4374,7 @@ gt_bronzestaramulet() {
     Send "{w up}"
     Sleep(2000)
     Send "{' . RotLeft . ' 1}"
-    Walk(12, FwdKey)
+    BSSWalk(12, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4405,10 +4405,10 @@ gt_silverstaramulet() {
     Send "{w up}"
     Sleep(2000)
     Send "{' . RotLeft . ' 1}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(3, FwdKey)
-    Walk(5, RightKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(5, RightKey)
     '
         )
     CreatePath(movement)
@@ -4439,12 +4439,12 @@ gt_goldstaramulet() {
     Send "{w up}"
     Sleep(2000)
     Send "{' . RotLeft . ' 1}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(3, FwdKey)
-    Walk(5, LeftKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -4475,14 +4475,14 @@ gt_diamondstaramulet() {
     Send "{w up}"
     Sleep(2000)
     Send "{' . RotLeft . ' 1}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(3, FwdKey)
-    Walk(5, RightKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(5, RightKey)
     '
         )
     CreatePath(movement)
@@ -4513,15 +4513,15 @@ gt_supremestaramulet() {
     Send "{w up}"
     Sleep(2000)
     Send "{' . RotLeft . ' 1}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(7, FwdKey)
+    BSSWalk(7, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4548,12 +4548,12 @@ gt_bluehq() {
     Send "{a up}{space}"
     HyperSleep(1000)
     Send "{' . RotLeft . ' 2}"
-    Walk(4, BackKey, LeftKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(6, FwdKey)
-    Walk(5, BackKey)
-    Walk(8, RightKey)
-    Walk(16, FwdKey)
+    BSSWalk(4, BackKey, LeftKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, BackKey)
+    BSSWalk(8, RightKey)
+    BSSWalk(16, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4580,13 +4580,13 @@ gt_blueteleporter() {
     Send "{a up}{space}"
     HyperSleep(1000)
     Send "{' . RotLeft . ' 2}"
-    Walk(4, BackKey, LeftKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(6, FwdKey)
-    Walk(5, BackKey)
-    Walk(8, RightKey)
-    Walk(17.5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, BackKey, LeftKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, BackKey)
+    BSSWalk(8, RightKey)
+    BSSWalk(17.5, FwdKey)
+    BSSWalk(3, RightKey)
     '
         )
     CreatePath(movement)
@@ -4612,14 +4612,14 @@ gt_alltimebluecollectorslb() {
     Send "{a up}{space}"
     HyperSleep(1000)
     Send "{' . RotLeft . ' 2}"
-    Walk(4, BackKey, LeftKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(6, FwdKey)
-    Walk(5, BackKey)
-    Walk(8, RightKey)
-    Walk(30, FwdKey)
-    Walk(6, LeftKey)
-    Walk(3, FwdKey)
+    BSSWalk(4, BackKey, LeftKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, BackKey)
+    BSSWalk(8, RightKey)
+    BSSWalk(30, FwdKey)
+    BSSWalk(6, LeftKey)
+    BSSWalk(3, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4645,26 +4645,26 @@ gt_dailybluecollectorslb() {
     Send "{a up}{space}"
     HyperSleep(1000)
     Send "{' . RotLeft . ' 2}"
-    Walk(4, BackKey, LeftKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(6, FwdKey)
-    Walk(5, BackKey)
-    Walk(8, RightKey)
-    Walk(30, FwdKey)
+    BSSWalk(4, BackKey, LeftKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, BackKey)
+    BSSWalk(8, RightKey)
+    BSSWalk(30, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(5, RightKey)
-    Walk(9, RightKey, BackKey)
-    Walk(4, RightKey)
-    Walk(2, LeftKey)
-    Walk(28, BackKey)
-    Walk(1.75, FwdKey)
-    Walk(9.5, LeftKey)
-    Walk(6.5, FwdKey)
-    Walk(4, RightKey)
-    Walk(7, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(9, RightKey, BackKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(2, LeftKey)
+    BSSWalk(28, BackKey)
+    BSSWalk(1.75, FwdKey)
+    BSSWalk(9.5, LeftKey)
+    BSSWalk(6.5, FwdKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(7, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4690,26 +4690,26 @@ gt_topbuckohelperslb() {
     Send "{a up}{space}"
     HyperSleep(1000)
     Send "{' . RotLeft . ' 2}"
-    Walk(4, BackKey, LeftKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(6, FwdKey)
-    Walk(5, BackKey)
-    Walk(8, RightKey)
-    Walk(30, FwdKey)
+    BSSWalk(4, BackKey, LeftKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, BackKey)
+    BSSWalk(8, RightKey)
+    BSSWalk(30, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(5, RightKey)
-    Walk(9, RightKey, BackKey)
-    Walk(4, RightKey)
-    Walk(2, LeftKey)
-    Walk(28, BackKey)
-    Walk(1.75, FwdKey)
-    Walk(9.5, LeftKey)
-    Walk(6.5, FwdKey)
-    Walk(4, LeftKey)
-    Walk(7, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(9, RightKey, BackKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(2, LeftKey)
+    BSSWalk(28, BackKey)
+    BSSWalk(1.75, FwdKey)
+    BSSWalk(9.5, LeftKey)
+    BSSWalk(6.5, FwdKey)
+    BSSWalk(4, LeftKey)
+    BSSWalk(7, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4734,7 +4734,7 @@ gt_moonamuletgenerator() {
     HyperSleep(1050)
     Send "{s up}{a up}{space}"
     Send "{' . RotLeft . ' 4}"
-    Walk(1, RightKey)
+    BSSWalk(1, RightKey)
     '
         )
     CreatePath(movement)
@@ -4760,8 +4760,8 @@ gt_snowbear() {
     Send "{s up}{space}"
     HyperSleep(100)
     Send "{' . RotLeft . ' 2}"
-    Walk(20, FwdKey)
-    Walk(15, RightKey)
+    BSSWalk(20, FwdKey)
+    BSSWalk(15, RightKey)
     '
         )
     CreatePath(movement)
@@ -4787,9 +4787,9 @@ gt_gumdropshop() {
     Send "{s up}{space}"
     HyperSleep(100)
     Send "{' . RotLeft . ' 2}"
-    Walk(20, FwdKey)
-    Walk(15, RightKey)
-    Walk(8, FwdKey)
+    BSSWalk(20, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(8, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4815,11 +4815,11 @@ gt_panda() {
     Send "{s up}{space}"
     HyperSleep(100)
     Send "{' . RotLeft . ' 2}"
-    Walk(20, FwdKey)
-    Walk(17.5, RightKey)
-    Walk(12, FwdKey)
+    BSSWalk(20, FwdKey)
+    BSSWalk(17.5, RightKey)
+    BSSWalk(12, FwdKey)
     Jump()
-    Walk(4, FwdKey)
+    BSSWalk(4, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4845,13 +4845,13 @@ gt_alltimebattlerslb() {
     Send "{s up}{space}"
     HyperSleep(100)
     Send "{' . RotLeft . ' 2}"
-    Walk(20, FwdKey)
-    Walk(17.5, RightKey)
-    Walk(12, FwdKey)
+    BSSWalk(20, FwdKey)
+    BSSWalk(17.5, RightKey)
+    BSSWalk(12, FwdKey)
     Jump()
-    Walk(12, FwdKey)
+    BSSWalk(12, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(1.5, FwdKey)
+    BSSWalk(1.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4877,12 +4877,12 @@ gt_viciouseggclaim() {
     Send "{s up}{space}"
     HyperSleep(100)
     Send "{' . RotRight . ' 2}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Jump()
-    Walk(4, FwdKey)
-    Walk(3, LeftKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(3, LeftKey)
     '
         )
     CreatePath(movement)
@@ -4911,9 +4911,9 @@ gt_proshop() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(15, BackKey)
-    Walk(15, LeftKey)
-    Walk(15, FwdKey)
+    BSSWalk(15, BackKey)
+    BSSWalk(15, LeftKey)
+    BSSWalk(15, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4942,10 +4942,10 @@ gt_instantconverterB() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(15, BackKey)
-    Walk(12.5, RightKey)
+    BSSWalk(15, BackKey)
+    BSSWalk(12.5, RightKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(12.5, FwdKey)
+    BSSWalk(12.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -4974,11 +4974,11 @@ gt_science() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(10, BackKey)
-    Walk(22.5, RightKey)
+    BSSWalk(10, BackKey)
+    BSSWalk(22.5, RightKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(25, FwdKey)
-    Walk(20, FwdKey, RightKey)
+    BSSWalk(25, FwdKey)
+    BSSWalk(20, FwdKey, RightKey)
     '
         )
     CreatePath(movement)
@@ -5007,14 +5007,14 @@ gt_yellowcannon() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(10, BackKey)
-    Walk(22.5, RightKey)
+    BSSWalk(10, BackKey)
+    BSSWalk(22.5, RightKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(25, FwdKey)
-    Walk(5, FwdKey, RightKey)
-    Walk(10, RightKey)
+    BSSWalk(25, FwdKey)
+    BSSWalk(5, FwdKey, RightKey)
+    BSSWalk(10, RightKey)
     Jump()
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     HyperSleep(250)
     '
         )
@@ -5044,13 +5044,13 @@ gt_magicbeanshop() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(10, BackKey)
-    Walk(22.5, RightKey)
+    BSSWalk(10, BackKey)
+    BSSWalk(22.5, RightKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(12, FwdKey)
-    Walk(5, LeftKey)
+    BSSWalk(12, FwdKey)
+    BSSWalk(5, LeftKey)
     Jump()
-    Walk(4, LeftKey)
+    BSSWalk(4, LeftKey)
     '
         )
     CreatePath(movement)
@@ -5079,21 +5079,21 @@ gt_dapper() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(40, RightKey)
-    Walk(10, FwdKey)
-    Walk(20, RightKey)
-    Walk(10, FwdKey)
+    BSSWalk(40, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(20, RightKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(2, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey, LeftKey)
     HyperSleep(1000)
     Jump()
-    Walk(2, FwdKey, RightKey)
+    BSSWalk(2, FwdKey, RightKey)
     Send "{' . RotRight . ' 1}"
-    Walk(12, FwdKey, RightKey)
-    Walk(10, FwdKey)
-    Walk(5, FwdKey, RightKey)
-    Walk(10, FwdKey)
-    Walk(5, RightKey)
+    BSSWalk(12, FwdKey, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, FwdKey, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, RightKey)
     '
         )
     CreatePath(movement)
@@ -5122,23 +5122,23 @@ gt_dapperbeequipshop() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(40, RightKey)
-    Walk(20, FwdKey)
+    BSSWalk(40, RightKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(10, FwdKey)
-    Walk(10, RightKey)
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(10, RightKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(2, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey, LeftKey)
     HyperSleep(1000)
     Jump()
-    Walk(1, FwdKey, RightKey)
+    BSSWalk(1, FwdKey, RightKey)
     Send "{' . RotRight . ' 1}"
-    Walk(12, FwdKey, RightKey)
-    Walk(10, FwdKey)
-    Walk(5, FwdKey, RightKey)
-    Walk(7.5, FwdKey)
-    Walk(5, LeftKey)
+    BSSWalk(12, FwdKey, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, FwdKey, RightKey)
+    BSSWalk(7.5, FwdKey)
+    BSSWalk(5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -5167,23 +5167,23 @@ gt_dapperplantershop() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(40, RightKey)
-    Walk(20, FwdKey)
+    BSSWalk(40, RightKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(10, FwdKey)
-    Walk(10, RightKey)
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(10, RightKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(2, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey, LeftKey)
     HyperSleep(1000)
     Jump()
-    Walk(1, FwdKey, RightKey)
+    BSSWalk(1, FwdKey, RightKey)
     Send "{' . RotRight . ' 1}"
-    Walk(12, FwdKey, RightKey)
-    Walk(10, FwdKey)
-    Walk(5, FwdKey, RightKey)
-    Walk(5, FwdKey)
-    Walk(8, RightKey)
+    BSSWalk(12, FwdKey, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, FwdKey, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(8, RightKey)
     '
         )
     CreatePath(movement)
@@ -5212,22 +5212,22 @@ gt_alltimepufflb() {
     Send "{space}"
     HyperSleep(2900)
     Send "{d up}"
-    Walk(40, RightKey)
-    Walk(20, FwdKey)
+    BSSWalk(40, RightKey)
+    BSSWalk(20, FwdKey)
     Jump()
-    Walk(10, FwdKey)
-    Walk(10, RightKey)
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(10, RightKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(2, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey, LeftKey)
     HyperSleep(1000)
     Jump()
-    Walk(1, FwdKey, RightKey)
+    BSSWalk(1, FwdKey, RightKey)
     Send "{' . RotRight . ' 1}"
-    Walk(12, FwdKey, RightKey)
-    Walk(10, FwdKey)
-    Walk(5, FwdKey, RightKey)
-    Walk(15, FwdKey)
+    BSSWalk(12, FwdKey, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, FwdKey, RightKey)
+    BSSWalk(15, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5254,9 +5254,9 @@ gt_werewolfcave() {
     HyperSleep(1000)
     Send "{space}"
     Send "{' . RotRight . ' 4}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(52, FwdKey)
+    BSSWalk(52, FwdKey)
     ActivateGlider()
     '
         )
@@ -5286,19 +5286,19 @@ gt_diamondmaskshop()
     Send "{s up}{space}"
     Sleep(1500)
     Send "{' . RotRight . ' 2}"
-    Walk(30, FwdKey, RightKey)
-    Walk(1, FwdKey)
+    BSSWalk(30, FwdKey, RightKey)
+    BSSWalk(1, FwdKey)
     Jump()
-    Walk(8, FwdKey)
+    BSSWalk(8, FwdKey)
     Jump()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     ActivateGlider()
     HyperSleep(5000)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     ActivateGlider()
-    Walk(1, FwdKey)
+    BSSWalk(1, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     ActivateGlider()
     HyperSleep(400)
     Jump()
@@ -5338,10 +5338,10 @@ gt_badgeguild()
     HyperSleep(1000)
     Send "{space}"
     Send "{' . RotRight . ' 2}"
-    Walk(37.5, FwdKey)
-    Walk(17.5, FwdKey, LeftKey)
+    BSSWalk(37.5, FwdKey)
+    BSSWalk(17.5, FwdKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(10, RightKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -5368,12 +5368,12 @@ gt_aceshop()
     Send "{d up}{s up}"
     HyperSleep(1000)
     Send "{space}"
-    Walk(37.5, FwdKey)
-    Walk(17.5, FwdKey, LeftKey)
+    BSSWalk(37.5, FwdKey)
+    BSSWalk(17.5, FwdKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(10, RightKey)
+    BSSWalk(10, RightKey)
     Send "{' . RotRight . ' 2}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5400,13 +5400,13 @@ gt_bluecannon()
     Send "{d up}{s up}"
     HyperSleep(1000)
     Send "{space}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5433,11 +5433,11 @@ gt_royaljellyshop()
     Send "{d up}{s up}"
     HyperSleep(1000)
     Send "{space}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(40, FwdKey)
+    BSSWalk(40, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5464,18 +5464,18 @@ gt_robo()
     Send "{d up}{s up}"
     HyperSleep(1000)
     Send "{space}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(45, FwdKey)
+    BSSWalk(45, FwdKey)
     Send "{' . RotRight . ' 4}"
     ActivateGlider()
-    Walk(7, FwdKey, LeftKey)
-    Walk(5, FwdKey)
+    BSSWalk(7, FwdKey, LeftKey)
+    BSSWalk(5, FwdKey)
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Jump()
-    Walk(3, FwdKey)
-    Walk(2, RightKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(2, RightKey)
     '
         )
     CreatePath(movement)
@@ -5502,20 +5502,20 @@ gt_alltimerobolb()
     Send "{d up}{s up}"
     HyperSleep(1000)
     Send "{space}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(45, FwdKey)
+    BSSWalk(45, FwdKey)
     Send "{' . RotRight . ' 4}"
     ActivateGlider()
-    Walk(7, FwdKey, LeftKey)
-    Walk(5, FwdKey)
+    BSSWalk(7, FwdKey, LeftKey)
+    BSSWalk(5, FwdKey)
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(3, FwdKey)
-    Walk(3, LeftKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(3, LeftKey)
     '
         )
     CreatePath(movement)
@@ -5542,20 +5542,20 @@ gt_roboshop()
     Send "{d up}{s up}"
     HyperSleep(1000)
     Send "{space}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(45, FwdKey)
+    BSSWalk(45, FwdKey)
     Send "{' . RotRight . ' 4}"
     ActivateGlider()
-    Walk(7, FwdKey, LeftKey)
-    Walk(5, FwdKey)
+    BSSWalk(7, FwdKey, LeftKey)
+    BSSWalk(5, FwdKey)
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Jump()
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(3, FwdKey)
-    Walk(10, RightKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -5571,21 +5571,21 @@ gt_redhq() {
     movement :=
         (
             '
-    Walk(67.5, BackKey, LeftKey)
+    BSSWalk(67.5, BackKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(31.5, FwdKey)
-    Walk(9, LeftKey)
-    Walk(9, BackKey)
-    Walk(58.5, LeftKey)
-    Walk(49.5, FwdKey)
-    Walk(20.25, LeftKey)
+    BSSWalk(31.5, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(58.5, LeftKey)
+    BSSWalk(49.5, FwdKey)
+    BSSWalk(20.25, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(60.75, FwdKey)
+    BSSWalk(60.75, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(9, BackKey)
-    Walk(15.75, BackKey, RightKey)
-    Walk(29.7, LeftKey)
-    Walk(7.5, FwdKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(15.75, BackKey, RightKey)
+    BSSWalk(29.7, LeftKey)
+    BSSWalk(7.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5601,22 +5601,22 @@ gt_redteleporter() {
     movement :=
         (
             '
-    Walk(67.5, BackKey, LeftKey)
+    BSSWalk(67.5, BackKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(31.5, FwdKey)
-    Walk(9, LeftKey)
-    Walk(9, BackKey)
-    Walk(58.5, LeftKey)
-    Walk(49.5, FwdKey)
-    Walk(20.25, LeftKey)
+    BSSWalk(31.5, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(58.5, LeftKey)
+    BSSWalk(49.5, FwdKey)
+    BSSWalk(20.25, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(60.75, FwdKey)
+    BSSWalk(60.75, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(9, BackKey)
-    Walk(15.75, BackKey, RightKey)
-    Walk(29.7, LeftKey)
-    Walk(15, FwdKey)
-    Walk(5, RightKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(15.75, BackKey, RightKey)
+    BSSWalk(29.7, LeftKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(5, RightKey)
     '
         )
     CreatePath(movement)
@@ -5632,22 +5632,22 @@ gt_dailyredcollectorslb() {
     movement :=
         (
             '
-    Walk(67.5, BackKey, LeftKey)
+    BSSWalk(67.5, BackKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(31.5, FwdKey)
-    Walk(9, LeftKey)
-    Walk(9, BackKey)
-    Walk(58.5, LeftKey)
-    Walk(49.5, FwdKey)
-    Walk(20.25, LeftKey)
+    BSSWalk(31.5, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(58.5, LeftKey)
+    BSSWalk(49.5, FwdKey)
+    BSSWalk(20.25, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(60.75, FwdKey)
+    BSSWalk(60.75, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(9, BackKey)
-    Walk(15.75, BackKey, RightKey)
-    Walk(29.7, LeftKey)
-    Walk(15, FwdKey)
-    Walk(5, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(15.75, BackKey, RightKey)
+    BSSWalk(29.7, LeftKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -5663,22 +5663,22 @@ gt_alltimeredcollectorslb() {
     movement :=
         (
             '
-    Walk(67.5, BackKey, LeftKey)
+    BSSWalk(67.5, BackKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(31.5, FwdKey)
-    Walk(9, LeftKey)
-    Walk(9, BackKey)
-    Walk(58.5, LeftKey)
-    Walk(49.5, FwdKey)
-    Walk(20.25, LeftKey)
+    BSSWalk(31.5, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(58.5, LeftKey)
+    BSSWalk(49.5, FwdKey)
+    BSSWalk(20.25, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(60.75, FwdKey)
+    BSSWalk(60.75, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(9, BackKey)
-    Walk(15.75, BackKey, RightKey)
-    Walk(29.7, LeftKey)
-    Walk(25, FwdKey)
-    Walk(5, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(15.75, BackKey, RightKey)
+    BSSWalk(29.7, LeftKey)
+    BSSWalk(25, FwdKey)
+    BSSWalk(5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -5698,21 +5698,21 @@ gt_toprileyhelperslb()
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, RightKey)
+    BSSWalk(6, RightKey)
     HyperSleep(500)
     Send "{' . RotRight . ' 2}"
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     HyperSleep(1000)
     Send "{space down}{d down}"
     HyperSleep(100)
@@ -5720,14 +5720,14 @@ gt_toprileyhelperslb()
     HyperSleep(300)
     Send "{space}{d up}"
     HyperSleep(1000)
-    Walk(26, RightKey)
-    Walk(5, FwdKey)
-    Walk(1, BackKey)
+    BSSWalk(26, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(1, BackKey)
     Send "{space down}"
     Hypersleep(100)
     Send "{space up}"
-    Walk(8, FwdKey)
-    Walk(10, LeftKey)
+    BSSWalk(8, FwdKey)
+    BSSWalk(10, LeftKey)
     '
         )
     CreatePath(movement)
@@ -5743,23 +5743,23 @@ gt_sproutsummoner() {
     movement :=
         (
             '
-    Walk(67.5, BackKey, LeftKey)
+    BSSWalk(67.5, BackKey, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(31.5, FwdKey)
-    Walk(9, LeftKey)
-    Walk(9, BackKey)
-    Walk(58.5, LeftKey)
-    Walk(49.5, FwdKey)
-    Walk(20.25, LeftKey)
+    BSSWalk(31.5, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(58.5, LeftKey)
+    BSSWalk(49.5, FwdKey)
+    BSSWalk(20.25, LeftKey)
     Send "{' . RotRight . ' 4}"
-    Walk(60.75, FwdKey)
+    BSSWalk(60.75, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(9, BackKey)
-    Walk(15.75, BackKey, RightKey)
-    Walk(40, LeftKey)
+    BSSWalk(9, BackKey)
+    BSSWalk(15.75, BackKey, RightKey)
+    BSSWalk(40, LeftKey)
     Send "{' . RotLeft . ' 2}"
     Jump()
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5775,28 +5775,28 @@ gt_antchallengeinfo()
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(52, LeftKey)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(52, LeftKey)
+    BSSWalk(3, FwdKey)
     Send "{w down}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}{w up}"
     HyperSleep(500)
-    Walk(2, FwdKey)
-    Walk(15, RightKey)
-    Walk(6, FwdKey, RightKey)
-    Walk(7, FwdKey)
-    Walk(5, BackKey, LeftKey)
-    Walk(23, FwdKey)
-    Walk(12, LeftKey)
-    Walk(8, LeftKey, FwdKey)
-    Walk(10, FwdKey)
-    Walk(5, RightKey)
-    Walk(5, FwdKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
+    BSSWalk(7, FwdKey)
+    BSSWalk(5, BackKey, LeftKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(12, LeftKey)
+    BSSWalk(8, LeftKey, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5812,26 +5812,26 @@ gt_antchallenge()
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(52, LeftKey)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(52, LeftKey)
+    BSSWalk(3, FwdKey)
     Send "{w down}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}{w up}"
     HyperSleep(500)
-    Walk(2, FwdKey)
-    Walk(15, RightKey)
-    Walk(6, FwdKey, RightKey)
-    Walk(7, FwdKey)
-    Walk(5, BackKey, LeftKey)
-    Walk(23, FwdKey)
-    Walk(12, LeftKey)
-    Walk(11, LeftKey, FwdKey)
-    Walk(20, FwdKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
+    BSSWalk(7, FwdKey)
+    BSSWalk(5, BackKey, LeftKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(12, LeftKey)
+    BSSWalk(11, LeftKey, FwdKey)
+    BSSWalk(20, FwdKey)
     '
         )
     CreatePath(movement)
@@ -5847,27 +5847,27 @@ gt_stingershop()
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(52, LeftKey)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(52, LeftKey)
+    BSSWalk(3, FwdKey)
     Send "{w down}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}{w up}"
     HyperSleep(500)
-    Walk(2, FwdKey)
-    Walk(15, RightKey)
-    Walk(6, FwdKey, RightKey)
-    Walk(7, FwdKey)
-    Walk(5, BackKey, LeftKey)
-    Walk(23, FwdKey)
-    Walk(12, LeftKey)
-    Walk(11, LeftKey, FwdKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
+    BSSWalk(7, FwdKey)
+    BSSWalk(5, BackKey, LeftKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(12, LeftKey)
+    BSSWalk(11, LeftKey, FwdKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(15, FwdKey, RightKey)
+    BSSWalk(15, FwdKey, RightKey)
     '
         )
     CreatePath(movement)
@@ -5882,31 +5882,31 @@ gt_antpass2() {
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(52, LeftKey)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(52, LeftKey)
+    BSSWalk(3, FwdKey)
     Send "{w down}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}{w up}"
     HyperSleep(500)
-    Walk(2, FwdKey)
-    Walk(15, RightKey)
-    Walk(6, FwdKey, RightKey)
-    Walk(7, FwdKey)
-    Walk(5, BackKey, LeftKey)
-    Walk(23, FwdKey)
-    Walk(12, LeftKey)
-    Walk(8, LeftKey, FwdKey)
-    Walk(10, FwdKey)
-    Walk(5, RightKey)
-    Walk(25, FwdKey, RightKey)
-    Walk(25, LeftKey)
-    Walk(17, BackKey)
-    Walk(7.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
+    BSSWalk(7, FwdKey)
+    BSSWalk(5, BackKey, LeftKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(12, LeftKey)
+    BSSWalk(8, LeftKey, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(25, FwdKey, RightKey)
+    BSSWalk(25, LeftKey)
+    BSSWalk(17, BackKey)
+    BSSWalk(7.5, FwdKey, LeftKey)
     '
         )
     CreatePath(movement)
@@ -5930,11 +5930,11 @@ gt_gummyeggclaim()
     HyperSleep(1170)
     Send "{space 2}{w up}"
     HyperSleep(6750)
-    Walk(18, FwdKey)
-    Walk(8.5, LeftKey)
-    Walk(3, LeftKey, FwdKey)
-    Walk(2, BackKey)
-    Walk(1, FwdKey)
+    BSSWalk(18, FwdKey)
+    BSSWalk(8.5, LeftKey)
+    BSSWalk(3, LeftKey, FwdKey)
+    BSSWalk(2, BackKey)
+    BSSWalk(1, FwdKey)
     Sleep(1500)
     '
         )
@@ -5953,45 +5953,45 @@ gt_gluedis()
         movement :=
             (
                 '
-        Walk(3, FwdKey)
-        Walk(52, LeftKey)
-        Walk(3, FwdKey)
+        BSSWalk(3, FwdKey)
+        BSSWalk(52, LeftKey)
+        BSSWalk(3, FwdKey)
         Send "{' . FwdKey . ' down}{space down}"
         HyperSleep(300)
         Send "{space up}"
-        Walk(5, RightKey)
+        BSSWalk(5, RightKey)
         Send "{space down}"
         HyperSleep(300)
         Send "{space up}{' . FwdKey . ' up}"
         HyperSleep(500)
-        Walk(2, FwdKey)
-        Walk(15, RightKey)
-        Walk(6, FwdKey, RightKey)
-        Walk(7, FwdKey)
-        Walk(5, BackKey, LeftKey)
-        Walk(23, FwdKey)
-        Walk(12, LeftKey)
-        Walk(8, LeftKey, FwdKey)
-        Walk(10, FwdKey)
-        Walk(5, RightKey)
-        Walk(25, FwdKey, RightKey)
-        Walk(50, LeftKey)
-        Walk(2, RightKey)
-        Walk(40, FwdKey)
+        BSSWalk(2, FwdKey)
+        BSSWalk(15, RightKey)
+        BSSWalk(6, FwdKey, RightKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(5, BackKey, LeftKey)
+        BSSWalk(23, FwdKey)
+        BSSWalk(12, LeftKey)
+        BSSWalk(8, LeftKey, FwdKey)
+        BSSWalk(10, FwdKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(25, FwdKey, RightKey)
+        BSSWalk(50, LeftKey)
+        BSSWalk(2, RightKey)
+        BSSWalk(40, FwdKey)
         Send "{' . RotRight . ' 2}"
-        Walk(55, FwdKey)
-        Walk(10, LeftKey)
+        BSSWalk(55, FwdKey)
+        BSSWalk(10, LeftKey)
         Send "{' . RotRight . ' 2}"
-        Walk(5.79, FwdKey, RightKey)
-        Walk(50, FwdKey)
+        BSSWalk(5.79, FwdKey, RightKey)
+        BSSWalk(50, FwdKey)
         Send "{space down}"
         Hypersleep(300)
         Send "{space up}"
-        Walk(6, FwdKey)
+        BSSWalk(6, FwdKey)
         Send "{space down}"
         HyperSleep(100)
         Send "{space up}"
-        Walk(4, FwdKey, RightKey)
+        BSSWalk(4, FwdKey, RightKey)
         Send "{' . RotLeft . ' 4}"
         Sleep(1500)
         '
@@ -6014,9 +6014,9 @@ gt_gluedis()
         HyperSleep(1170)
         Send "{space 2}{' . FwdKey . ' up}"
         HyperSleep(6750)
-        Walk(18, FwdKey)
-        Walk(8.5, LeftKey)
-        Walk(3, LeftKey, FwdKey)
+        BSSWalk(18, FwdKey)
+        BSSWalk(8.5, LeftKey)
+        BSSWalk(3, LeftKey, FwdKey)
         Sleep(1500)
         '
             )
@@ -6056,7 +6056,7 @@ gt_gummylairshop()
         (
             '
     HyperSleep(2000)
-    Walk(7.5, FwdKey)
+    BSSWalk(7.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6093,9 +6093,9 @@ gt_gummy()
         (
             '
     HyperSleep(2000)
-    Walk(25, FwdKey)
+    BSSWalk(25, FwdKey)
     Jump()
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6111,32 +6111,32 @@ gt_alltimeantlb()
     movement :=
         (
             '
-    Walk(3, FwdKey)
-    Walk(52, LeftKey)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(52, LeftKey)
+    BSSWalk(3, FwdKey)
     Send "{w down}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}{w up}"
     HyperSleep(500)
-    Walk(2, FwdKey)
-    Walk(15, RightKey)
-    Walk(6, FwdKey, RightKey)
-    Walk(7, FwdKey)
-    Walk(5, BackKey, LeftKey)
-    Walk(23, FwdKey)
-    Walk(12, LeftKey)
-    Walk(8, LeftKey, FwdKey)
-    Walk(10, FwdKey)
-    Walk(5, RightKey)
-    Walk(25, FwdKey, RightKey)
-    Walk(25, LeftKey)
-    Walk(17, BackKey)
-    Walk(7.5, FwdKey, LeftKey)
-    Walk(5, FwdKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(15, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
+    BSSWalk(7, FwdKey)
+    BSSWalk(5, BackKey, LeftKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(12, LeftKey)
+    BSSWalk(8, LeftKey, FwdKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(25, FwdKey, RightKey)
+    BSSWalk(25, LeftKey)
+    BSSWalk(17, BackKey)
+    BSSWalk(7.5, FwdKey, LeftKey)
+    BSSWalk(5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6166,9 +6166,9 @@ gt_hivehub()
     HyperSleep(100)
     Send "{space up}"
     HyperSleep(4200)
-    Walk(55, FwdKey, LeftKey)
+    BSSWalk(55, FwdKey, LeftKey)
     HyperSleep(20000)
-    Walk(43, FwdKey)
+    BSSWalk(43, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6198,16 +6198,16 @@ gt_hivehubbeequipstorage()
     HyperSleep(100)
     Send "{space up}"
     HyperSleep(4200)
-    Walk(55, FwdKey, LeftKey)
+    BSSWalk(55, FwdKey, LeftKey)
     HyperSleep(20000)
-    Walk(43, FwdKey)
+    BSSWalk(43, FwdKey)
     HyperSleep(15000)
-    Walk(25, FwdKey)
+    BSSWalk(25, FwdKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(15, FwdKey)
-    Walk(30, LeftKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(30, LeftKey)
     '
         )
     CreatePath(movement)
@@ -6237,16 +6237,16 @@ gt_publicstickerboard()
     HyperSleep(100)
     Send "{space up}"
     HyperSleep(4200)
-    Walk(55, FwdKey, LeftKey)
+    BSSWalk(55, FwdKey, LeftKey)
     HyperSleep(20000)
-    Walk(43, FwdKey)
+    BSSWalk(43, FwdKey)
     HyperSleep(15000)
-    Walk(25, FwdKey)
+    BSSWalk(25, FwdKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(15, FwdKey)
-    Walk(15, LeftKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(15, LeftKey)
     '
         )
     CreatePath(movement)
@@ -6276,16 +6276,16 @@ gt_stickerseekershop()
     HyperSleep(100)
     Send "{space up}"
     HyperSleep(4200)
-    Walk(55, FwdKey, LeftKey)
+    BSSWalk(55, FwdKey, LeftKey)
     HyperSleep(20000)
-    Walk(43, FwdKey)
+    BSSWalk(43, FwdKey)
     HyperSleep(15000)
-    Walk(25, FwdKey)
+    BSSWalk(25, FwdKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(15, FwdKey)
-    Walk(15, RightKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(15, RightKey)
     '
         )
     CreatePath(movement)
@@ -6315,16 +6315,16 @@ gt_stickerseekerquestmachine()
     HyperSleep(100)
     Send "{space up}"
     HyperSleep(4200)
-    Walk(55, FwdKey, LeftKey)
+    BSSWalk(55, FwdKey, LeftKey)
     HyperSleep(20000)
-    Walk(43, FwdKey)
+    BSSWalk(43, FwdKey)
     HyperSleep(15000)
-    Walk(25, FwdKey)
+    BSSWalk(25, FwdKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(17.5, FwdKey)
-    Walk(10, RightKey)
+    BSSWalk(17.5, FwdKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -6354,16 +6354,16 @@ gt_stickerseekerlb()
     HyperSleep(100)
     Send "{space up}"
     HyperSleep(4200)
-    Walk(55, FwdKey, LeftKey)
+    BSSWalk(55, FwdKey, LeftKey)
     HyperSleep(20000)
-    Walk(43, FwdKey)
+    BSSWalk(43, FwdKey)
     HyperSleep(15000)
-    Walk(25, FwdKey)
+    BSSWalk(25, FwdKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Jump()
-    Walk(15, FwdKey)
-    Walk(20, RightKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(20, RightKey)
     '
         )
     CreatePath(movement)
@@ -6392,11 +6392,11 @@ gt_ticketshop()
     Send "{s up}{space}"
     Sleep(1500)
     Send "{' . RotRight . ' 2}"
-    Walk(30, FwdKey, RightKey)
-    Walk(1, FwdKey)
+    BSSWalk(30, FwdKey, RightKey)
+    BSSWalk(1, FwdKey)
     Jump()
-    Walk(6, FwdKey)
-    Walk(3, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(3, LeftKey)
     '
         )
     CreatePath(movement)
@@ -6425,11 +6425,11 @@ gt_instantconverterC()
     Send "{s up}{space}"
     Sleep(1500)
     Send "{' . RotLeft . ' 2}"
-    Walk(30, FwdKey, LeftKey)
-    Walk(1, FwdKey)
+    BSSWalk(30, FwdKey, LeftKey)
+    BSSWalk(1, FwdKey)
     Jump()
-    Walk(6, FwdKey, RightKey)
-    Walk(2, FwdKey)
+    BSSWalk(6, FwdKey, RightKey)
+    BSSWalk(2, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6458,12 +6458,12 @@ gt_topshop()
     Send "{s up}{space}"
     Sleep(1500)
     Send "{' . RotRight . ' 2}"
-    Walk(30, FwdKey, RightKey)
-    Walk(1, FwdKey)
+    BSSWalk(30, FwdKey, RightKey)
+    BSSWalk(1, FwdKey)
     Jump()
-    Walk(6, FwdKey)
+    BSSWalk(6, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(15, LeftKey)
+    BSSWalk(15, LeftKey)
     '
         )
     CreatePath(movement)
@@ -6492,15 +6492,15 @@ gt_nectarpot()
     Send "{s up}{space}"
     Send "{' . RotRight . ' 4}"
     Sleep(1500)
-    Walk(4, RightKey, FwdKey)
-    Walk(23, FwdKey)
-    Walk(9, LeftKey)
-    Walk(3, FwdKey)
-    Walk(8, LeftKey)
-    Walk(2, RightKey)
-    Walk(14, FwdKey)
+    BSSWalk(4, RightKey, FwdKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(8, LeftKey)
+    BSSWalk(2, RightKey)
+    BSSWalk(14, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(35, FwdKey)
+    BSSWalk(35, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6529,15 +6529,15 @@ gt_onett()
     Send "{s up}{space}"
     Send "{' . RotRight . ' 4}"
     Sleep(1500)
-    Walk(4, RightKey, FwdKey)
-    Walk(23, FwdKey)
-    Walk(15, LeftKey)
-    Walk(50, FwdKey)
+    BSSWalk(4, RightKey, FwdKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(15, LeftKey)
+    BSSWalk(50, FwdKey)
     Jump()
-    Walk(40, FwdKey)
+    BSSWalk(40, FwdKey)
     Jump()
-    Walk(1, FwdKey)
-    Walk(11, LeftKey)
+    BSSWalk(1, FwdKey)
+    BSSWalk(11, LeftKey)
     '
         )
     CreatePath(movement)
@@ -6565,59 +6565,59 @@ gt_bbm() {
     Send "{s up}{space}"
     Send "{' . RotRight . ' 4}"
     Sleep(1500)
-    Walk(4, RightKey, FwdKey)
-    Walk(23, FwdKey)
-    Walk(9, LeftKey)
-    Walk(3, FwdKey)
-    Walk(8, LeftKey)
-    Walk(3.6, RightKey)
-    Walk(41, FwdKey)
+    BSSWalk(4, RightKey, FwdKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(8, LeftKey)
+    BSSWalk(3.6, RightKey)
+    BSSWalk(41, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(8.8, FwdKey)
+    BSSWalk(8.8, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(25.6, FwdKey)
+    BSSWalk(25.6, FwdKey)
     Jump()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(1.5, FwdKey, LeftKey)
-    Walk(2, FwdKey)
+    BSSWalk(1.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(2.5, FwdKey)
-    Walk(2.5, FwdKey, LeftKey)
-    Walk(2, FwdKey)
+    BSSWalk(2.5, FwdKey)
+    BSSWalk(2.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(5, FwdKey)
-    Walk(2, FwdKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(2, FwdKey, RightKey)
-    Walk(3, FwdKey)
+    BSSWalk(2, FwdKey, RightKey)
+    BSSWalk(3, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(2.5, FwdKey, LeftKey)
-    Walk(2, FwdKey)
-    Walk(2, FwdKey)
+    BSSWalk(2.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(5, FwdKey)
-    Walk(2, FwdKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(4, FwdKey)
+    BSSWalk(4, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(8, FwdKey)
-    Walk(4, FwdKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(7, RightKey)
+    BSSWalk(8, FwdKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(7, RightKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(3, BackKey, RightKey)
-    Walk(12, RightKey)
+    BSSWalk(3, BackKey, RightKey)
+    BSSWalk(12, RightKey)
     '
         )
     CreatePath(movement)
@@ -6646,60 +6646,60 @@ gt_naughtylist()
     Send "{s up}{space}"
     Send "{' . RotRight . ' 4}"
     Sleep(1500)
-    Walk(4, RightKey, FwdKey)
-    Walk(23, FwdKey)
-    Walk(9, LeftKey)
-    Walk(3, FwdKey)
-    Walk(8, LeftKey)
-    Walk(3.6, RightKey)
-    Walk(41, FwdKey)
+    BSSWalk(4, RightKey, FwdKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(9, LeftKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(8, LeftKey)
+    BSSWalk(3.6, RightKey)
+    BSSWalk(41, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(8.8, FwdKey)
+    BSSWalk(8.8, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(25.6, FwdKey)
+    BSSWalk(25.6, FwdKey)
     Jump()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(1.5, FwdKey, LeftKey)
-    Walk(2, FwdKey)
+    BSSWalk(1.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(2.5, FwdKey)
-    Walk(2.5, FwdKey, LeftKey)
-    Walk(2, FwdKey)
+    BSSWalk(2.5, FwdKey)
+    BSSWalk(2.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(5, FwdKey)
-    Walk(2, FwdKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(2, FwdKey, RightKey)
-    Walk(3, FwdKey)
+    BSSWalk(2, FwdKey, RightKey)
+    BSSWalk(3, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(2.5, FwdKey, LeftKey)
-    Walk(2, FwdKey)
-    Walk(2, FwdKey)
+    BSSWalk(2.5, FwdKey, LeftKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(5, FwdKey)
-    Walk(2, FwdKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(4, FwdKey)
+    BSSWalk(4, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     Jump()
-    Walk(8, FwdKey)
-    Walk(4, FwdKey)
-    Walk(8, FwdKey, LeftKey)
-    Walk(7, RightKey)
+    BSSWalk(8, FwdKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(8, FwdKey, LeftKey)
+    BSSWalk(7, RightKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(3, BackKey, RightKey)
-    Walk(10, RightKey)
-    Walk(6, FwdKey, RightKey)
+    BSSWalk(3, BackKey, RightKey)
+    BSSWalk(10, RightKey)
+    BSSWalk(6, FwdKey, RightKey)
     '
         )
     CreatePath(movement)
@@ -6718,25 +6718,25 @@ gt_coconutcave() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -6744,12 +6744,12 @@ gt_coconutcave() {
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(4, FwdKey)
+    BSSWalk(4, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Sleep(100)
     Send "{' . RotRight . ' 1}"
-    Walk(25, LeftKey)
+    BSSWalk(25, LeftKey)
     '
         )
     CreatePath(movement)
@@ -6768,25 +6768,25 @@ gt_fastestcrabslayerslb() {
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -6794,14 +6794,14 @@ gt_fastestcrabslayerslb() {
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(4, FwdKey)
+    BSSWalk(4, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Sleep(100)
     Send "{' . RotRight . ' 1}"
-    Walk(15.7, LeftKey)
+    BSSWalk(15.7, LeftKey)
     Send "{' . RotLeft . ' 4}"
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6821,23 +6821,23 @@ gt_petalshop()
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(47.5, FwdKey)
+    BSSWalk(47.5, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(12, FwdKey)
+    BSSWalk(12, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6857,25 +6857,25 @@ gt_alltimewhitecollectorslb()
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(47.5, FwdKey)
+    BSSWalk(47.5, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6895,24 +6895,24 @@ gt_dailytopwhitecollectorslb()
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     HyperSleep(300)
     Send "{space up}"
-    Walk(47.5, FwdKey)
+    BSSWalk(47.5, FwdKey)
     Send "{' . RotLeft . ' 2}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -6932,25 +6932,25 @@ gt_spirit()
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -6958,12 +6958,12 @@ gt_spirit()
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Jump()
-    Walk(4, FwdKey)
-    Walk(10, RightKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(10, RightKey)
     '
         )
     CreatePath(movement)
@@ -6983,25 +6983,25 @@ gt_nectarcondenser()
     Send "{space down}{d down}"
     Sleep(100)
     Send "{space up}"
-    Walk(50, RightKey)
+    BSSWalk(50, RightKey)
     Send "{w down}"
-    Walk(45, FwdKey, RightKey)
+    BSSWalk(45, FwdKey, RightKey)
     Send "{w up}"
-    Walk(750, RightKey)
+    BSSWalk(750, RightKey)
     Send "{d up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{w down}{d down}"
-    Walk(275, FwdKey, RightKey)
+    BSSWalk(275, FwdKey, RightKey)
     Send "{space down}{d up}"
     HyperSleep(200)
     Send "{space up}"
@@ -7009,34 +7009,34 @@ gt_nectarcondenser()
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
-    Walk(450, FwdKey)
+    BSSWalk(450, FwdKey)
     Send "{space down}"
     HyperSleep(200)
     Send "{space up}"
     HyperSleep(200)
-    Walk(21, FwdKey, RightKey)
+    BSSWalk(21, FwdKey, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(3, FwdKey)
-    Walk(19.5, RightKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(19.5, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(3, RightKey)
+    BSSWalk(3, RightKey)
     Send "{' . RotRight . ' 2}"
     HyperSleep(200)
     ;pepper
-    Walk(13, FwdKey, RightKey)
-    Walk(10, RightKey)
-    Walk(1, LeftKey)
+    BSSWalk(13, FwdKey, RightKey)
+    BSSWalk(10, RightKey)
+    BSSWalk(1, LeftKey)
     Send "{space down}"
     HyperSleep(120)
     Send "{d down}"
     HyperSleep(130)
     Send "{space up}{d up}"
-    Walk(35, RightKey)
-    Walk(20, BackKey)
+    BSSWalk(35, RightKey)
+    BSSWalk(20, BackKey)
     '
         )
     CreatePath(movement)
@@ -7070,12 +7070,12 @@ gt_retroswarm()
     Send "{space}"
     HyperSleep(1000)
     Send "{' . RotLeft . ' 2}"
-    Walk(36, FwdKey)
+    BSSWalk(36, FwdKey)
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(3.5, FwdKey)
-    Walk(15, LeftKey)
+    BSSWalk(3.5, FwdKey)
+    BSSWalk(15, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7225,12 +7225,12 @@ HiveSlot1Path() {
     movement :=
         (
             '
-    Walk(2.5, RightKey)
+    BSSWalk(2.5, RightKey)
     Send "{' . RotRight . ' 1}"
     ShiftLock()
     ActivateGlider()
     Sleep(1000)
-    Walk(9.5, FwdKey)
+    BSSWalk(9.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     ShiftLock()
     '
@@ -7247,13 +7247,13 @@ HiveSlot2Path() {
         (
             '
     ShiftLock()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
     ActivateGlider()
     Sleep(1000)
-    Walk(1.5, FwdKey)
+    BSSWalk(1.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    Walk(0.5, FwdKey)
+    BSSWalk(0.5, FwdKey)
     ShiftLock()
     '
         )
@@ -7271,7 +7271,7 @@ HiveSlot3Path() {
     ShiftLock()
     ActivateGlider()
     Sleep(1000)
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     ShiftLock()
     '
         )
@@ -7287,13 +7287,13 @@ HiveSlot4Path() {
         (
             '
     ShiftLock()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     ActivateGlider()
     Sleep(1000)
-    Walk(1.5, FwdKey)
+    BSSWalk(1.5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(0.5, FwdKey)
+    BSSWalk(0.5, FwdKey)
     ShiftLock()
     '
         )
@@ -7308,12 +7308,12 @@ HiveSlot5Path() {
     movement :=
         (
             '
-    Walk(3.5, LeftKey)
+    BSSWalk(3.5, LeftKey)
     Send "{' . RotLeft . ' 1}"
     ShiftLock()
     ActivateGlider()
     Sleep(1000)
-    Walk(9.5, FwdKey)
+    BSSWalk(9.5, FwdKey)
     Send "{' . RotRight . ' 1}"
     ShiftLock()
     '
@@ -7337,8 +7337,8 @@ HiveSlot6Path() {
     ActivateGlider()
     Sleep(1000)
     Send "{' . RotRight . ' 1}"
-    Walk(7.5, FwdKey)
-    Walk(1.5, FwdKey, LeftKey)
+    BSSWalk(7.5, FwdKey)
+    BSSWalk(1.5, FwdKey, LeftKey)
     Send "{' . RotRight . ' 1}"
     ShiftLock()
     '
@@ -7379,9 +7379,9 @@ gt_robobear() {
     Send "{space}"
     Send "{' . RotRight . ' 2}"
     Hypersleep(500)
-    Walk(5, FwdKey)
-    Walk(8, BackKey, RightKey)
-    Walk(1, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(8, BackKey, RightKey)
+    BSSWalk(1, RightKey)
     '
         )
     CreatePath(movement)
@@ -7397,9 +7397,9 @@ gt_pinetree_from_rose() {
         (
             '
     Send "{' . RotLeft . ' 2}"
-    Walk(82, FwdKey)
+    BSSWalk(82, FwdKey)
     Send "{' . RotRight . ' 2}"
-    Walk(1, FwdKey)
+    BSSWalk(1, FwdKey)
     '
         )
     CreatePath(movement)
@@ -7415,11 +7415,11 @@ gt_pumpkin_from_rose() {
         (
             '
     Send "{' . RotLeft . ' 2}"
-    Walk(60, FwdKey)
+    BSSWalk(60, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(14, FwdKey)
+    BSSWalk(14, FwdKey)
     '
         )
     CreatePath(movement)
@@ -7435,11 +7435,11 @@ gt_cactus_from_rose() {
         (
             '
     Send "{' . RotLeft . ' 2}"
-    Walk(59, FwdKey)
+    BSSWalk(59, FwdKey)
     Send "{' . RotRight . ' 1}"
     Send "{' . RotRight . ' 1}"
-    Walk(38, FwdKey)
-    Walk(2.5, LeftKey)
+    BSSWalk(38, FwdKey)
+    BSSWalk(2.5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7456,15 +7456,15 @@ gt_strawberry_from_rose() {
             '
     ActivateGlider()
     Hypersleep(1100)
-    Walk(6, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(3, RightKey)
     Jump()
     Hypersleep(300)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Hypersleep(300)
-    Walk(14, LeftKey)
-    Walk(29, FwdKey, LeftKey)
-    Walk(7, LeftKey)
+    BSSWalk(14, LeftKey)
+    BSSWalk(29, FwdKey, LeftKey)
+    BSSWalk(7, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7479,10 +7479,10 @@ gt_sunflower_from_rose() {
     movement :=
         (
             '
-    Walk(6, FwdKey)
-    Walk(17, FwdKey, RightKey)
-    Walk(12, FwdKey)
-    Walk(2, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(17, FwdKey, RightKey)
+    BSSWalk(12, FwdKey)
+    BSSWalk(2, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7497,13 +7497,13 @@ gt_dandelion_from_rose() {
     movement :=
         (
             '
-    Walk(5, FwdKey)
-    Walk(19, FwdKey, RightKey)
-    Walk(14, FwdKey)
-    Walk(5, FwdKey, LeftKey)
-    Walk(19, FwdKey)
-    Walk(20, FwdKey, RightKey)
-    Walk(4.5, FwdKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(19, FwdKey, RightKey)
+    BSSWalk(14, FwdKey)
+    BSSWalk(5, FwdKey, LeftKey)
+    BSSWalk(19, FwdKey)
+    BSSWalk(20, FwdKey, RightKey)
+    BSSWalk(4.5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -7518,12 +7518,12 @@ gt_mushroom_from_rose() {
     movement :=
         (
             '
-    Walk(6, FwdKey)
-    Walk(18, FwdKey, RightKey)
-    Walk(14, FwdKey)
-    Walk(6, FwdKey, LeftKey)
-    Walk(23, FwdKey)
-    Walk(14, LeftKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(18, FwdKey, RightKey)
+    BSSWalk(14, FwdKey)
+    BSSWalk(6, FwdKey, LeftKey)
+    BSSWalk(23, FwdKey)
+    BSSWalk(14, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7540,16 +7540,16 @@ gt_spider_from_rose() {
             '
     ActivateGlider()
     Hypersleep(1100)
-    Walk(6, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(3, RightKey)
     Jump()
     Hypersleep(300)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Hypersleep(300)
-    Walk(14, LeftKey)
-    Walk(28, FwdKey, LeftKey)
-    Walk(35, FwdKey)
-    Walk(8, LeftKey)
+    BSSWalk(14, LeftKey)
+    BSSWalk(28, FwdKey, LeftKey)
+    BSSWalk(35, FwdKey)
+    BSSWalk(8, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7566,18 +7566,18 @@ gt_bamboo_from_rose() {
             '
     ActivateGlider()
     Hypersleep(1100)
-    Walk(6, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(3, RightKey)
     Jump()
     Hypersleep(300)
-    Walk(3, FwdKey)
+    BSSWalk(3, FwdKey)
     Hypersleep(300)
-    Walk(14, LeftKey)
-    Walk(28, FwdKey, LeftKey)
-    Walk(35, FwdKey)
-    Walk(6, LeftKey, FwdKey)
-    Walk(39, FwdKey)
-    Walk(6, LeftKey)
+    BSSWalk(14, LeftKey)
+    BSSWalk(28, FwdKey, LeftKey)
+    BSSWalk(35, FwdKey)
+    BSSWalk(6, LeftKey, FwdKey)
+    BSSWalk(39, FwdKey)
+    BSSWalk(6, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7592,15 +7592,15 @@ gt_blueflower_from_rose() {
     movement :=
         (
             '
-    Walk(6, FwdKey)
-    Walk(19, FwdKey, RightKey)
-    Walk(16, FwdKey)
-    Walk(5, FwdKey, LeftKey)
-    Walk(35, FwdKey)
-    Walk(1, RightKey)
-    Walk(20, FwdKey)
-    Walk(18, LeftKey)
-    Walk(26, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(19, FwdKey, RightKey)
+    BSSWalk(16, FwdKey)
+    BSSWalk(5, FwdKey, LeftKey)
+    BSSWalk(35, FwdKey)
+    BSSWalk(1, RightKey)
+    BSSWalk(20, FwdKey)
+    BSSWalk(18, LeftKey)
+    BSSWalk(26, FwdKey)
     '
         )
     CreatePath(movement)
@@ -7615,26 +7615,26 @@ gt_clover_from_rose() {
     movement :=
         (
             '
-    Walk(10, FwdKey)
-    Walk(4, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(4, RightKey)
     Send "{' . RotRight . ' 1}"
-    Walk(11, FwdKey)
+    BSSWalk(11, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    Walk(15, FwdKey)
-    Walk(5, FwdKey, LeftKey)
-    Walk(15, FwdKey)
-    Walk(4, RightKey, FwdKey)
-    Walk(48, FwdKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(5, FwdKey, LeftKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(4, RightKey, FwdKey)
+    BSSWalk(48, FwdKey)
     Jump()
     Hypersleep(400)
-    Walk(4, FwdKey)
-    Walk(4, LeftKey)
-    Walk(9, FwdKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(4, LeftKey)
+    BSSWalk(9, FwdKey)
     Jump()
     Hypersleep(350)
-    Walk(4, FwdKey)
-    Walk(12, FwdKey, RightKey)
-    Walk(2, FwdKey)
+    BSSWalk(4, FwdKey)
+    BSSWalk(12, FwdKey, RightKey)
+    BSSWalk(2, FwdKey)
     '
         )
     CreatePath(movement)
@@ -7649,25 +7649,25 @@ gt_mountaintop_from_rose() {
     movement :=
         (
             '
-    Walk(10, FwdKey)
-    Walk(4, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(4, RightKey)
     Send "{' . RotRight . ' 1}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Jump()
     Hypersleep(150)
-    Walk(7.8, FwdKey, LeftKey)
+    BSSWalk(7.8, FwdKey, LeftKey)
     ActivateGlider()
     Hypersleep(730)
     Jump()
     Hypersleep(250)
-    Walk(2.5, FwdKey)
-    Walk(2, FwdKey, LeftKey)
+    BSSWalk(2.5, FwdKey)
+    BSSWalk(2, FwdKey, LeftKey)
     Send "{' . RotLeft . ' 2}"
     PressE()
     Hypersleep(3200)
-    Walk(5, RightKey)
+    BSSWalk(5, RightKey)
     '
         )
     CreatePath(movement)
@@ -7682,21 +7682,21 @@ gt_pineapple_from_rose() {
     movement :=
         (
             '
-    Walk(10, FwdKey)
-    Walk(4, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(4, RightKey)
     Send "{' . RotRight . ' 1}"
-    Walk(10, FwdKey)
+    BSSWalk(10, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(20, FwdKey)
+    BSSWalk(20, FwdKey)
     Jump()
     Hypersleep(150)
-    Walk(7.8, FwdKey, LeftKey)
+    BSSWalk(7.8, FwdKey, LeftKey)
     ActivateGlider()
     Hypersleep(730)
     Jump()
     Hypersleep(250)
-    Walk(2.5, FwdKey)
-    Walk(2, FwdKey, LeftKey)
+    BSSWalk(2.5, FwdKey)
+    BSSWalk(2, FwdKey, LeftKey)
     Send "{' . RotLeft . ' 2}"
     Send "{e down}"
     HyperSleep(100)
@@ -7741,8 +7741,8 @@ gt_cogmower_p1()
     Rotate("up", 9)
     Rotate("down", 4)
     Send "{' . RotRight . ' 1}"
-    Walk(3.5, BackKey)
-    Walk(1.5, FwdKey, LeftKey)
+    BSSWalk(3.5, BackKey)
+    BSSWalk(1.5, FwdKey, LeftKey)
     '
         )
     CreatePath(movement)
@@ -7763,9 +7763,9 @@ gt_pinetree_from_cogmower_p1()
         (
             '
     Hypersleep(100)
-    Walk(21.25, FwdKey, LeftKey)
+    BSSWalk(21.25, FwdKey, LeftKey)
     Hypersleep(100)
-    Walk(5.3, FwdKey)
+    BSSWalk(5.3, FwdKey)
     Hypersleep(100)
     '
         )
@@ -7782,9 +7782,9 @@ gt_cogmower_p1_from_pinetree()
         (
             '
     Hypersleep(100)
-    Walk(21.25, BackKey, RightKey)
+    BSSWalk(21.25, BackKey, RightKey)
     Hypersleep(100)
-    Walk(5.3, BackKey)
+    BSSWalk(5.3, BackKey)
     Hypersleep(100)
     '
         )
@@ -7801,13 +7801,13 @@ gt_pumpkin_from_cogmower_p1()
         (
             '
     Hypersleep(100)
-    Walk(4.13, FwdKey)
+    BSSWalk(4.13, FwdKey)
     Hypersleep(100)
-    Walk(9.37, RightKey)
+    BSSWalk(9.37, RightKey)
     Hypersleep(100)
-    Walk(18.00, RightKey, FwdKey)
+    BSSWalk(18.00, RightKey, FwdKey)
     Hypersleep(100)
-    Walk(2.38, FwdKey)
+    BSSWalk(2.38, FwdKey)
     Hypersleep(100)
     '
         )
@@ -7824,13 +7824,13 @@ gt_cogmower_p1_from_pumpkin()
         (
             '
     Hypersleep(100)
-    Walk(2.38, BackKey)
+    BSSWalk(2.38, BackKey)
     Hypersleep(100)
-    Walk(18.00, BackKey, LeftKey)
+    BSSWalk(18.00, BackKey, LeftKey)
     Hypersleep(100)
-    Walk(9.37, LeftKey)
+    BSSWalk(9.37, LeftKey)
     Hypersleep(100)
-    Walk(4.13, BackKey)
+    BSSWalk(4.13, BackKey)
     Hypersleep(100)
     '
         )
@@ -7847,11 +7847,11 @@ gt_cactus_from_cogmower_p1()
         (
             '
     Hypersleep(100)
-    Walk(4.75, FwdKey)
+    BSSWalk(4.75, FwdKey)
     Hypersleep(100)
-    Walk(21.12, RightKey)
+    BSSWalk(21.12, RightKey)
     Hypersleep(100)
-    Walk(5.74, BackKey)
+    BSSWalk(5.74, BackKey)
     Hypersleep(100)
     '
         )
@@ -7868,12 +7868,12 @@ gt_cogmower_p1_from_cactus()
         (
             '
     Hypersleep(100)
-    Walk(5.74, FwdKey)
+    BSSWalk(5.74, FwdKey)
     Hypersleep(100)
-    Walk(21.12, LeftKey)
+    BSSWalk(21.12, LeftKey)
     Hypersleep(100)
     Hypersleep(500)
-    Walk(4.75, BackKey)
+    BSSWalk(4.75, BackKey)
     Hypersleep(100)
     '
         )
@@ -7892,19 +7892,19 @@ gt_cogmower_p2()
     Hypersleep(100)
     Send "{' . RotLeft . ' 4}"
     Hypersleep(100)
-    Walk(11.75, FwdKey, LeftKey)
+    BSSWalk(11.75, FwdKey, LeftKey)
     Hypersleep(100)
-    Walk(13.50, FwdKey)
+    BSSWalk(13.50, FwdKey)
     Hypersleep(100)
     Jump()
     Hypersleep(100)
     Jump()
     Hypersleep(1650)
-    Walk(3.75, LeftKey)
+    BSSWalk(3.75, LeftKey)
     Hypersleep(100)
-    Walk(3.62, FwdKey)
+    BSSWalk(3.62, FwdKey)
     Hypersleep(100)
-    Walk(2.00, LeftKey)
+    BSSWalk(2.00, LeftKey)
     Hypersleep(100)
     '
         )
@@ -7925,11 +7925,11 @@ gt_dandelion_from_cogmower_p2()
     Hypersleep(100)
     Jump()
     Hypersleep(1650)
-    Walk(8.38, LeftKey)
+    BSSWalk(8.38, LeftKey)
     Hypersleep(100)
-    Walk(24.26, FwdKey, LeftKey)
+    BSSWalk(24.26, FwdKey, LeftKey)
     Hypersleep(100)
-    Walk(5.25, LeftKey)
+    BSSWalk(5.25, LeftKey)
     Hypersleep(100)
     '
         )
@@ -7946,24 +7946,24 @@ gt_cogmower_p2_from_dandelion()
         (
             '
     Hypersleep(100)
-    Walk(36.08, FwdKey, LeftKey)
-    Walk(0.15, LeftKey)
+    BSSWalk(36.08, FwdKey, LeftKey)
+    BSSWalk(0.15, LeftKey)
     Hypersleep(100)
-    Walk(23.44, FwdKey)
+    BSSWalk(23.44, FwdKey)
     Hypersleep(100)
-    Walk(14.92, FwdKey, LeftKey)
+    BSSWalk(14.92, FwdKey, LeftKey)
     Hypersleep(100)
-    Walk(0.57, FwdKey)
+    BSSWalk(0.57, FwdKey)
     Hypersleep(250)
     Jump()
     Hypersleep(100)
-    Walk(3.27, FwdKey)
+    BSSWalk(3.27, FwdKey)
     Hypersleep(100)
-    Walk(21.45, LeftKey)
+    BSSWalk(21.45, LeftKey)
     Hypersleep(100)
-    Walk(3.13, BackKey)
+    BSSWalk(3.13, BackKey)
     Hypersleep(100)
-    Walk(11.93, RightKey)
+    BSSWalk(11.93, RightKey)
     Hypersleep(100)
     '
         )
@@ -7986,7 +7986,7 @@ gt_sunflower_from_cogmower_p2()
     Hypersleep(100)
     Jump()
     Hypersleep(100)
-    Walk(10.13, RightKey)
+    BSSWalk(10.13, RightKey)
     Hypersleep(100)
     '
         )
@@ -8003,17 +8003,17 @@ gt_cogmower_p2_from_sunflower()
         (
             '
     Hypersleep(100)
-    Walk(11.09, LeftKey)
+    BSSWalk(11.09, LeftKey)
     Hypersleep(100)
     Jump()
     Hypersleep(100)
-    Walk(1.77, LeftKey)
+    BSSWalk(1.77, LeftKey)
     Hypersleep(100)
-    Walk(23.16, FwdKey)
+    BSSWalk(23.16, FwdKey)
     Hypersleep(100)
-    Walk(20.39, RightKey)
+    BSSWalk(20.39, RightKey)
     Hypersleep(100)
-    Walk(1.99, FwdKey)
+    BSSWalk(1.99, FwdKey)
     Hypersleep(100)
     '
         )
@@ -8030,9 +8030,9 @@ gt_strawberry_from_cogmower_p2()
         (
             '
     Hypersleep(100)
-    Walk(21.02, BackKey)
+    BSSWalk(21.02, BackKey)
     Hypersleep(100)
-    Walk(2, RightKey)
+    BSSWalk(2, RightKey)
     Hypersleep(100)
     '
         )
@@ -8053,9 +8053,9 @@ gt_cogmower_p2_from_strawberry()
     Hypersleep(1100)
     Jump()
     Hypersleep(100)
-    Walk(29.50, FwdKey)
+    BSSWalk(29.50, FwdKey)
     Hypersleep(100)
-    Walk(1.88, LeftKey)
+    BSSWalk(1.88, LeftKey)
     Hypersleep(100)
     '
         )
@@ -8072,23 +8072,23 @@ gt_cogmower_p3()
         (
             '
     Hypersleep(100)
-    Walk(0.44, ",")
+    BSSWalk(0.44, ",")
     Hypersleep(100)
-    Walk(0.67, ",")
+    BSSWalk(0.67, ",")
     Hypersleep(100)
-    Walk(5.77, LeftKey)
+    BSSWalk(5.77, LeftKey)
     Hypersleep(100)
-    Walk(32.35, FwdKey)
+    BSSWalk(32.35, FwdKey)
     Hypersleep(100)
-    Walk(6.65, LeftKey)
+    BSSWalk(6.65, LeftKey)
     Hypersleep(100)
-    Walk(29.37, FwdKey)
+    BSSWalk(29.37, FwdKey)
     Hypersleep(100)
     Jump()
     Hypersleep(400)
-    Walk(1.33, FwdKey)
+    BSSWalk(1.33, FwdKey)
     Hypersleep(100)
-    Walk(6.75, RightKey)
+    BSSWalk(6.75, RightKey)
     Hypersleep(100)
     '
         )
@@ -8105,26 +8105,26 @@ gt_pineapple_from_cogmower_p3()
         (
             '
     Hypersleep(100)
-    Walk(32.10, FwdKey)
+    BSSWalk(32.10, FwdKey)
     Hypersleep(100)
-    Walk(10.65, FwdKey, LeftKey)
+    BSSWalk(10.65, FwdKey, LeftKey)
     Hypersleep(100)
-    Walk(0.57, FwdKey)
+    BSSWalk(0.57, FwdKey)
     Hypersleep(150)
     Jump()
     Hypersleep(1200)
-    Walk(14.35, FwdKey, RightKey)
-    Walk(0.29, FwdKey)
+    BSSWalk(14.35, FwdKey, RightKey)
+    BSSWalk(0.29, FwdKey)
     Hypersleep(100)
     Jump()
     Hypersleep(750)
-    Walk(5.68, FwdKey)
+    BSSWalk(5.68, FwdKey)
     Hypersleep(100)
     Send "{' . RotLeft . ' 2}"
     Hypersleep(100)
-    Walk(71.17, FwdKey)
+    BSSWalk(71.17, FwdKey)
     Hypersleep(100)
-    Walk(7.95, RightKey)
+    BSSWalk(7.95, RightKey)
     Hypersleep(100)
     '
         )
@@ -8141,9 +8141,9 @@ gt_bamboo_from_cogmower_p3()
         (
             '
     Hypersleep(100)
-    Walk(20.88, LeftKey)
+    BSSWalk(20.88, LeftKey)
     Hypersleep(100)
-    Walk(10.08, FwdKey)
+    BSSWalk(10.08, FwdKey)
     Hypersleep(100)
     '
         )
@@ -8160,19 +8160,19 @@ gt_clover_from_cogmower_p3()
         (
             '
     Hypersleep(100)
-    Walk(35.40, RightKey)
+    BSSWalk(35.40, RightKey)
     Hypersleep(100)
     Jump()
     Hypersleep(350)
-    Walk(2.33, RightKey)
+    BSSWalk(2.33, RightKey)
     Hypersleep(1300)
-    Walk(5.32, FwdKey)
+    BSSWalk(5.32, FwdKey)
     Hypersleep(300)
     Jump()
     Hypersleep(650)
-    Walk(14.63, FwdKey)
+    BSSWalk(14.63, FwdKey)
     Hypersleep(100)
-    Walk(16.63, RightKey)
+    BSSWalk(16.63, RightKey)
     Hypersleep(100)
     '
         )
@@ -8189,10 +8189,10 @@ gtq_black() {
     movement :=
         (
             '
-    Walk(10, BackKey)
-    Walk(13.5, RightKey)
-    Walk(6, FwdKey)
-    Walk(6, BackKey)
+    BSSWalk(10, BackKey)
+    BSSWalk(13.5, RightKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(6, BackKey)
     '
         )
     CreatePath(movement)
@@ -8210,14 +8210,14 @@ gtq_brown() {
         movement :=
             (
                 '
-        Walk(44.75, BackKey, LeftKey)
-        Walk(42.5, LeftKey)
-        Walk(8.5, BackKey)
-        Walk(22.5, LeftKey)
+        BSSWalk(44.75, BackKey, LeftKey)
+        BSSWalk(42.5, LeftKey)
+        BSSWalk(8.5, BackKey)
+        BSSWalk(22.5, LeftKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(40, FwdKey)
-        Walk(1.2, BackKey)
-        Walk(15, RightKey)
+        BSSWalk(40, FwdKey)
+        BSSWalk(1.2, BackKey)
+        BSSWalk(15, RightKey)
         '
             )
         CreatePath(movement)
@@ -8239,10 +8239,10 @@ gtq_brown() {
         Send "{space 2}"
         Sleep(8000)
         Send "{' . FwdKey . ' up}{' . LeftKey . ' up}"
-        Walk(20, RightKey)
-        Walk(8, LeftKey)
-        Walk(3, RightKey, BackKey)
-        Walk(2, BackKey)
+        BSSWalk(20, RightKey)
+        BSSWalk(8, LeftKey)
+        BSSWalk(3, RightKey, BackKey)
+        BSSWalk(2, BackKey)
         '
             )
         CreatePath(movement)
@@ -8261,12 +8261,12 @@ gtq_bucko() {
         movement :=
             (
                 '
-        Walk(88.875, BackKey, LeftKey)
-        Walk(27, LeftKey)
+        BSSWalk(88.875, BackKey, LeftKey)
+        BSSWalk(27, LeftKey)
         HyperSleep(50)
         Send "{' . RotLeft . ' 2}"
         HyperSleep(50)
-        Walk(50, FwdKey)
+        BSSWalk(50, FwdKey)
         '
             )
         CreatePath(movement)
@@ -8290,13 +8290,13 @@ gtq_bucko() {
         Send "{' . LeftKey . ' up}{space}"
         HyperSleep(1000)
         Send "{' . RotLeft . ' 2}"
-        Walk(4, BackKey, LeftKey)
-        Walk(8, FwdKey, LeftKey)
-        Walk(6, FwdKey)
-        Walk(5, BackKey)
-        Walk(8, RightKey)
+        BSSWalk(4, BackKey, LeftKey)
+        BSSWalk(8, FwdKey, LeftKey)
+        BSSWalk(6, FwdKey)
+        BSSWalk(5, BackKey)
+        BSSWalk(8, RightKey)
         ;inside
-        Walk(30, FwdKey)
+        BSSWalk(30, FwdKey)
         '
             )
         CreatePath(movement)
@@ -8310,20 +8310,20 @@ gtq_bucko() {
     Send "{space down}"
     HyperSleep(100)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(5, RightKey)
-    Walk(9, RightKey, BackKey)
-    Walk(4, RightKey)
-    Walk(2, LeftKey)
-    Walk(28, BackKey)
-    Walk(1.75, FwdKey)
-    Walk(9.5, LeftKey)
-    Walk(6.5, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(5, RightKey)
+    BSSWalk(9, RightKey, BackKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(2, LeftKey)
+    BSSWalk(28, BackKey)
+    BSSWalk(1.75, FwdKey)
+    BSSWalk(9.5, LeftKey)
+    BSSWalk(6.5, FwdKey)
     Sleep(100)
     Send "{space down}"
     Hypersleep(300)
     Send "{space up}"
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     '
         )
     CreatePath(movement)
@@ -8342,15 +8342,15 @@ gtq_honey() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(2.25, BackKey, LeftKey)
-        Walk(36, LeftKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(2.25, BackKey, LeftKey)
+        BSSWalk(36, LeftKey)
         Send "{' . RotLeft . ' 2}"
         Send "{" FwdKey " down}"
         Send "{space down}"
@@ -8364,12 +8364,12 @@ gtq_honey() {
         Send "{space up}"
         Walk(6)
         Send "{" FwdKey " up}"
-        Walk(6, RightKey)
-        Walk(7, FwdKey)
-        Walk(6, LeftKey)
-        Walk(3, RightKey)
-        Walk(32, FwdKey)
-        Walk(8.5, BackKey)
+        BSSWalk(6, RightKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(6, LeftKey)
+        BSSWalk(3, RightKey)
+        BSSWalk(32, FwdKey)
+        BSSWalk(8.5, BackKey)
         '
             )
         CreatePath(movement)
@@ -8395,10 +8395,10 @@ gtq_honey() {
         Send "{" RightKey " up}"
         Sleep(2200)
         Send "{' . RotRight . ' 4}"
-        Walk(14, LeftKey)
-        Walk(4, FwdKey)
-        Walk(3, BackKey)
-        Walk(11, RightKey)
+        BSSWalk(14, LeftKey)
+        BSSWalk(4, FwdKey)
+        BSSWalk(3, BackKey)
+        BSSWalk(11, RightKey)
         '
             )
         CreatePath(movement)
@@ -8416,19 +8416,19 @@ gtq_polar() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31.5, FwdKey)
-        Walk(9, LeftKey)
-        Walk(9, BackKey)
-        Walk(58.5, LeftKey)
-        Walk(49.5, FwdKey)
-        Walk(3.375, LeftKey)
-        Walk(36, FwdKey)
-        Walk(60, RightKey)
-        Walk(60, BackKey)
-        Walk(9, LeftKey)
-        Walk(9, FwdKey)
+        BSSWalk(31.5, FwdKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, BackKey)
+        BSSWalk(58.5, LeftKey)
+        BSSWalk(49.5, FwdKey)
+        BSSWalk(3.375, LeftKey)
+        BSSWalk(36, FwdKey)
+        BSSWalk(60, RightKey)
+        BSSWalk(60, BackKey)
+        BSSWalk(9, LeftKey)
+        BSSWalk(9, FwdKey)
         '
             )
         CreatePath(movement)
@@ -8451,9 +8451,9 @@ gtq_polar() {
         HyperSleep(2100)
         Send "{space}"
         Sleep(1000)
-        Walk(7, BackKey, LeftKey)
-        Walk(9, LeftKey, FwdKey)
-        Walk(5, FwdKey)
+        BSSWalk(7, BackKey, LeftKey)
+        BSSWalk(9, LeftKey, FwdKey)
+        BSSWalk(5, FwdKey)
         '
             )
         CreatePath(movement)
@@ -8464,8 +8464,8 @@ gtq_polar() {
     movement :=
         (
             '
-    Walk(5, BackKey)
-    Walk(2, RightKey)
+    BSSWalk(5, BackKey)
+    BSSWalk(2, RightKey)
     '
         )
     CreatePath(movement)
@@ -8483,20 +8483,20 @@ gtq_riley() {
             '
     send("{" SC_Space " down}"), sleep(100)
     send("{" SC_Space " up}")
-    Walk(2, RightKey)
-    Walk(1.8, FwdKey, RightKey)
-    Walk(32, RightKey)
+    BSSWalk(2, RightKey)
+    BSSWalk(1.8, FwdKey, RightKey)
+    BSSWalk(32, RightKey)
     send("{" SC_Space " down}"), HyperSleep(300)
     send("{" SC_Space " up}")
-    Walk(2, RightKey)
-    Walk(6, RightKey, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(2, RightKey)
+    BSSWalk(6, RightKey, FwdKey)
+    BSSWalk(3, RightKey)
     send("{" RotRight " 2}"), Sleep(100)
     Send "{" FwdKey " down}"
     send("{" SC_Space " down}"), HyperSleep(300)
     Send "{" FwdKey " up}"
     send("{" SC_Space " up}")
-    Walk(2, FwdKey), Sleep(1000)
+    BSSWalk(2, FwdKey), Sleep(1000)
     send("{" SC_Space " down}{" Rightkey " down}"), HyperSleep(100)
     send("{" SC_Space " up}"), HyperSleep(100)
     send("{" SC_Space " down}"), HyperSleep(100), send("{" SC_Space " up}"), HyperSleep(100)
@@ -8504,17 +8504,17 @@ gtq_riley() {
     Sleep(100)
     Send "{space up}"
     Sleep(1000)
-    Walk(1, FwdKey, RightKey)
-    Walk(20, RightKey)
-    Walk(2, FwdKey)
-    Walk(12, FwdKey, RightKey)
-    Walk(10, FwdKey)
-    Walk(6, BackKey)
+    BSSWalk(1, FwdKey, RightKey)
+    BSSWalk(20, RightKey)
+    BSSWalk(2, FwdKey)
+    BSSWalk(12, FwdKey, RightKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(6, BackKey)
     send("{" RotRight " 2}"), Sleep(100)
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Sleep(100)
     send("{" SC_Space " down}"), HyperSleep(300)
-    send("{" SC_Space " up}"), Walk(6, FwdKey)
+    send("{" SC_Space " up}"), BSSWalk(6, FwdKey)
     Sleep(300)
     '
         )
@@ -8534,18 +8534,18 @@ gtp_bamboo()
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(23.5, FwdKey)
-        Walk(31.5, FwdKey, RightKey)
-        Walk(10, RightKey)
+        BSSWalk(23.5, FwdKey)
+        BSSWalk(31.5, FwdKey, RightKey)
+        BSSWalk(10, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(20, FwdKey)
-        Walk(5, FwdKey, LeftKey)
-        Walk(7, LeftKey)
-        Walk(1, FwdKey)
-        Walk(8, RightKey)
-        Walk(14, BackKey)
+        BSSWalk(20, FwdKey)
+        BSSWalk(5, FwdKey, LeftKey)
+        BSSWalk(7, LeftKey)
+        BSSWalk(1, FwdKey)
+        BSSWalk(8, RightKey)
+        BSSWalk(14, BackKey)
         '
             )
         CreatePath(movement)
@@ -8570,10 +8570,10 @@ gtp_bamboo()
         Send "{" SC_space "}"
         Send "{' . LeftKey . ' up}"
         HyperSleep(1000)
-        Walk(20, LeftKey)
-        Walk(30, FwdKey)
-        Walk(8, RightKey)
-        Walk(14, BackKey)
+        BSSWalk(20, LeftKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(8, RightKey)
+        BSSWalk(14, BackKey)
         '
             )
         CreatePath(movement)
@@ -8592,15 +8592,15 @@ gtp_blueflower() {
         movement :=
             (
                 '
-        Walk(88.875, BackKey, LeftKey)
-        Walk(27, LeftKey)
+        BSSWalk(88.875, BackKey, LeftKey)
+        BSSWalk(27, LeftKey)
         HyperSleep(50)
         Send "{' . RotLeft . ' 2}"
-        Walk(17, FwdKey)
-        Walk(17, LeftKey)
-        Walk(18, FwdKey)
-        Walk(10, BackKey)
-        Walk(7, BackKey, RightKey)
+        BSSWalk(17, FwdKey)
+        BSSWalk(17, LeftKey)
+        BSSWalk(18, FwdKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(7, BackKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -8623,10 +8623,10 @@ gtp_blueflower() {
         Send "{' . LeftKey . ' up}{space}"
         HyperSleep(1000)
         Send "{' . RotLeft . ' 2}"
-        Walk(19, LeftKey)
-        Walk(18, FwdKey)
-        Walk(10, BackKey)
-        Walk(7, BackKey, RightKey)
+        BSSWalk(19, LeftKey)
+        BSSWalk(18, FwdKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(7, BackKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -8646,19 +8646,19 @@ gtp_cactus() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(49.5, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(49.5, FwdKey)
         Send "{' . RotRight . ' 2}"
-        Walk(35.5, FwdKey)
-        Walk(3, RightKey)
-        Walk(7, BackKey)
+        BSSWalk(35.5, FwdKey)
+        BSSWalk(3, RightKey)
+        BSSWalk(7, BackKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -8683,10 +8683,10 @@ gtp_cactus() {
         HyperSleep(1100)
         Send "{' . BackKey . ' up}{space}{' . RotLeft . ' 4}"
         HyperSleep(600)
-        Walk(15, FwdKey, RightKey)
-        Walk(22, RightKey)
-        Walk(30, BackKey)
-        Walk(7, LeftKey)
+        BSSWalk(15, FwdKey, RightKey)
+        BSSWalk(22, RightKey)
+        BSSWalk(30, BackKey)
+        BSSWalk(7, LeftKey)
         Send "{' . RotLeft . ' 4}"
         '
             )
@@ -8707,14 +8707,14 @@ gtp_clover() {
         movement :=
             (
                 '
-        Walk(44.75, BackKey, LeftKey)
-        Walk(52.5, LeftKey)
-        Walk(2.8, BackKey, RightKey)
-        Walk(6.7, BackKey)
-        Walk(25.5, LeftKey)
-        Walk(35, FwdKey, LeftKey)
-        Walk(7, BackKey, RightKey)
-        Walk(12, RightKey)
+        BSSWalk(44.75, BackKey, LeftKey)
+        BSSWalk(52.5, LeftKey)
+        BSSWalk(2.8, BackKey, RightKey)
+        BSSWalk(6.7, BackKey)
+        BSSWalk(25.5, LeftKey)
+        BSSWalk(35, FwdKey, LeftKey)
+        BSSWalk(7, BackKey, RightKey)
+        BSSWalk(12, RightKey)
         '
             )
         CreatePath(movement)
@@ -8739,11 +8739,11 @@ gtp_clover() {
         HyperSleep(3850)
         Send "{' . LeftKey . ' up}{space}"
         HyperSleep(1000)
-        Walk(10, FwdKey, LeftKey)
-        Walk(15, LeftKey)
-        Walk(7, FwdKey)
-        Walk(7, BackKey, RightKey)
-        Walk(12, RightKey)
+        BSSWalk(10, FwdKey, LeftKey)
+        BSSWalk(15, LeftKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(7, BackKey, RightKey)
+        BSSWalk(12, RightKey)
         '
             )
         CreatePath(movement)
@@ -8766,21 +8766,21 @@ gtp_coconut() {
     Send "{space up}"
     Walk(2)
     Send "{" FwdKey " down}"
-    Walk(1.8)
+    BSSWalk(1.8)
     Send "{" FwdKey " up}"
     Walk(30)
     Send "{' . RightKey . ' up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(5, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{" FwdKey " down}{' . RightKey . ' down}"
     Walk(11)
     Send "{space down}{' . RightKey . ' up}"
@@ -8792,7 +8792,7 @@ gtp_coconut() {
     Send "{space up}"
     Walk(18)
     Send "{" FwdKey " up}"
-    Walk(7, LeftKey)
+    BSSWalk(7, LeftKey)
     '
         )
     CreatePath(movement)
@@ -8810,10 +8810,10 @@ gtp_dandelion() {
         (
             '
     Send "{' . RotRight . '}"
-    Walk(39, BackKey)
+    BSSWalk(39, BackKey)
     Send "{' . RotLeft . ' 3}"
-    Walk(51, FwdKey)
-    Walk(15, BackKey)
+    BSSWalk(51, FwdKey)
+    BSSWalk(15, BackKey)
     '
         )
     CreatePath(movement)
@@ -8831,23 +8831,23 @@ gtp_mountaintop() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(85, FwdKey)
-        Walk(45, RightKey)
-        Walk(50, BackKey)
-        Walk(60, RightKey)
-        Walk(5, LeftKey)
-        Walk(7, FwdKey)
-        Walk(9, FwdKey, LeftKey)
-        Walk(16.5, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(85, FwdKey)
+        BSSWalk(45, RightKey)
+        BSSWalk(50, BackKey)
+        BSSWalk(60, RightKey)
+        BSSWalk(5, LeftKey)
+        BSSWalk(7, FwdKey)
+        BSSWalk(9, FwdKey, LeftKey)
+        BSSWalk(16.5, FwdKey)
         Send "{' . RotRight . ' 4}"
         '
             )
@@ -8885,10 +8885,10 @@ gtp_mushroom() {
             '
     Send "{' . RotRight . ' 4}"
     HyperSleep(200)
-    Walk(55.75, FwdKey, RightKey)
-    Walk(26.5, FwdKey)
-    Walk(10, FwdKey, RightKey)
-    Walk(5, LeftKey)
+    BSSWalk(55.75, FwdKey, RightKey)
+    BSSWalk(26.5, FwdKey)
+    BSSWalk(10, FwdKey, RightKey)
+    BSSWalk(5, LeftKey)
     '
         )
     CreatePath(movement)
@@ -8910,21 +8910,21 @@ gtp_pepper() {
     Send "{space up}"
     Walk(2)
     Send "{" FwdKey " down}"
-    Walk(1.8)
+    BSSWalk(1.8)
     Send "{" FwdKey " up}"
     Walk(30)
     Send "{' . RightKey . ' up}{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(4, RightKey)
-    Walk(5, FwdKey)
-    Walk(3, RightKey)
+    BSSWalk(4, RightKey)
+    BSSWalk(5, FwdKey)
+    BSSWalk(3, RightKey)
     Send "{space down}"
     HyperSleep(300)
     Send "{space up}"
-    Walk(6, FwdKey)
-    Walk(2, LeftKey, FwdKey)
-    Walk(8, FwdKey)
+    BSSWalk(6, FwdKey)
+    BSSWalk(2, LeftKey, FwdKey)
+    BSSWalk(8, FwdKey)
     Send "{" FwdKey " down}{' . RightKey . ' down}"
     Walk(11)
     Send "{space down}{' . RightKey . ' up}"
@@ -8952,11 +8952,11 @@ gtp_pepper() {
     Send "{space up}"
     Walk(6)
     Send "{' . RotRight . ' 2}"
-    Walk(30, FwdKey)
+    BSSWalk(30, FwdKey)
     Send "{" RightKey " up}"
-    Walk(10, FwdKey)
-    Walk(10, BackKey, LeftKey)
-    Walk(4, BackKey)
+    BSSWalk(10, FwdKey)
+    BSSWalk(10, BackKey, LeftKey)
+    BSSWalk(4, BackKey)
     '
         )
     CreatePath(movement)
@@ -8991,9 +8991,9 @@ gtp_pineapple() {
         HyperSleep(1600)
         Send "{space}"
         HyperSleep(1000)
-        Walk(14, FwdKey, LeftKey)
-        Walk(10, FwdKey)
-        Walk(7, BackKey, RightKey)
+        BSSWalk(14, FwdKey, LeftKey)
+        BSSWalk(10, FwdKey)
+        BSSWalk(7, BackKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -9006,18 +9006,18 @@ gtp_pineapple() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(30, FwdKey)
-        Walk(20, FwdKey, RightKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(20, FwdKey, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(43.5, FwdKey)
-        Walk(18, RightKey)
-        Walk(6, FwdKey)
+        BSSWalk(43.5, FwdKey)
+        BSSWalk(18, RightKey)
+        BSSWalk(6, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(66, FwdKey)
-        Walk(19, FwdKey, LeftKey)
-        Walk(7, BackKey, RightKey)
+        BSSWalk(66, FwdKey)
+        BSSWalk(19, FwdKey, LeftKey)
+        BSSWalk(7, BackKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -9040,22 +9040,22 @@ gtp_pinetree() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(45, FwdKey)
-        Walk(47, LeftKey, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(45, FwdKey)
+        BSSWalk(47, LeftKey, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(9, RightKey)
-        Walk(9, FwdKey)
-        Walk(16, LeftKey)
-        Walk(5, BackKey)
+        BSSWalk(9, RightKey)
+        BSSWalk(9, FwdKey)
+        BSSWalk(16, LeftKey)
+        BSSWalk(5, BackKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -9084,10 +9084,10 @@ gtp_pinetree() {
         Send "{space}"
         HyperSleep(2000)
         Send "{" FwdKey " up}{' . RotLeft . ' 1}"
-        Walk(15, RightKey)
-        Walk(15, FwdKey)
-        Walk(16, LeftKey)
-        Walk(5, BackKey)
+        BSSWalk(15, RightKey)
+        BSSWalk(15, FwdKey)
+        BSSWalk(16, LeftKey)
+        BSSWalk(5, BackKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -9110,20 +9110,20 @@ gtp_pumpkin() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(45, FwdKey)
-        Walk(34, RightKey, FwdKey)
-        Walk(10, RightKey)
-        Walk(12, LeftKey)
-        Walk(3, BackKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(45, FwdKey)
+        BSSWalk(34, RightKey, FwdKey)
+        BSSWalk(10, RightKey)
+        BSSWalk(12, LeftKey)
+        BSSWalk(3, BackKey)
         '
             )
         CreatePath(movement)
@@ -9147,10 +9147,10 @@ gtp_pumpkin() {
         HyperSleep(1100)
         Send "{' . BackKey . ' up}{space}{' . RotLeft . ' 4}"
         HyperSleep(600)
-        Walk(15, FwdKey)
-        Walk(24, RightKey)
-        Walk(12, LeftKey)
-        Walk(3, BackKey)
+        BSSWalk(15, FwdKey)
+        BSSWalk(24, RightKey)
+        BSSWalk(12, LeftKey)
+        BSSWalk(3, BackKey)
         '
             )
         CreatePath(movement)
@@ -9171,27 +9171,27 @@ gtp_rose() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7.8, LeftKey)
-        Walk(10, BackKey)
-        Walk(5, RightKey)
-        Walk(1.5, FwdKey)
-        Walk(60, LeftKey)
-        Walk(3.75, RightKey)
-        Walk(38, FwdKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(38, FwdKey)
         Send "{' . RotLeft . ' 4}"
-        Walk(14, RightKey)
-        Walk(15, FwdKey, LeftKey)
-        Walk(1, BackKey)
+        BSSWalk(14, RightKey)
+        BSSWalk(15, FwdKey, LeftKey)
+        BSSWalk(1, BackKey)
         HyperSleep(200)
-        Walk(16, RightKey)
-        Walk(49, FwdKey)
+        BSSWalk(16, RightKey)
+        BSSWalk(49, FwdKey)
         Send "{' . RotLeft . ' 4}"
-        Walk(10, RightKey)
-        Walk(12, RightKey, FwdKey)
-        Walk(7, BackKey, LeftKey)
+        BSSWalk(10, RightKey)
+        BSSWalk(12, RightKey, FwdKey)
+        BSSWalk(7, BackKey, LeftKey)
         Send "{' . RotLeft . ' 2}"
         '
             )
@@ -9214,11 +9214,11 @@ gtp_rose() {
         HyperSleep(2500)
         Send "{' . RightKey . ' up}{space}{' . RotLeft . ' 4}"
         HyperSleep(1000)
-        Walk(17, FwdKey)
-        Walk(10, RightKey)
-        Walk(8, FwdKey, RightKey)
-        Walk(8, FwdKey)
-        Walk(7, BackKey, LeftKey)
+        BSSWalk(17, FwdKey)
+        BSSWalk(10, RightKey)
+        BSSWalk(8, FwdKey, RightKey)
+        BSSWalk(8, FwdKey)
+        BSSWalk(7, BackKey, LeftKey)
         Send "{' . RotLeft . ' 2}"
         '
             )
@@ -9239,11 +9239,11 @@ gtp_spider() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(37.5, FwdKey)
-        Walk(38, LeftKey, FwdKey)
-        Walk(9, BackKey, RightKey)
+        BSSWalk(37.5, FwdKey)
+        BSSWalk(38, LeftKey, FwdKey)
+        BSSWalk(9, BackKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -9265,10 +9265,10 @@ gtp_spider() {
         HyperSleep(300)
         Send "{' . BackKey . ' up}{space}{' . RotLeft . ' 4}"
         Sleep(1500)
-        Walk(20, FwdKey)
-        Walk(10, FwdKey, LeftKey)
-        Walk(10, LeftKey)
-        Walk(9, BackKey, RightKey)
+        BSSWalk(20, FwdKey)
+        BSSWalk(10, FwdKey, LeftKey)
+        BSSWalk(10, LeftKey)
+        BSSWalk(9, BackKey, RightKey)
         '
             )
         CreatePath(movement)
@@ -9288,14 +9288,14 @@ gtp_strawberry() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(31, FwdKey)
-        Walk(7, FwdKey, LeftKey)
-        Walk(30.25, LeftKey)
-        Walk(30, FwdKey, LeftKey)
+        BSSWalk(31, FwdKey)
+        BSSWalk(7, FwdKey, LeftKey)
+        BSSWalk(30.25, LeftKey)
+        BSSWalk(30, FwdKey, LeftKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(10, BackKey, LeftKey)
+        BSSWalk(10, BackKey, LeftKey)
         '
             )
         CreatePath(movement)
@@ -9319,10 +9319,10 @@ gtp_strawberry() {
         HyperSleep(800)
         Send "{space}{' . RotRight . ' 2}"
         Sleep(2000)
-        Walk(10, FwdKey, RightKey)
-        Walk(15, RightKey)
-        Walk(15, FwdKey)
-        Walk(10, BackKey, LeftKey)
+        BSSWalk(10, FwdKey, RightKey)
+        BSSWalk(15, RightKey)
+        BSSWalk(15, FwdKey)
+        BSSWalk(10, BackKey, LeftKey)
         '
             )
         CreatePath(movement)
@@ -9367,20 +9367,20 @@ gtp_stump() {
         movement :=
             (
                 '
-        Walk(67.5, BackKey, LeftKey)
+        BSSWalk(67.5, BackKey, LeftKey)
         Send "{' . RotRight . ' 4}"
-        Walk(30, FwdKey)
-        Walk(20, FwdKey, RightKey)
+        BSSWalk(30, FwdKey)
+        BSSWalk(20, FwdKey, RightKey)
         Send "{' . RotRight . ' 2}"
-        Walk(43.5, FwdKey)
-        Walk(18, RightKey)
-        Walk(6, FwdKey)
+        BSSWalk(43.5, FwdKey)
+        BSSWalk(18, RightKey)
+        BSSWalk(6, FwdKey)
         Send "{' . RotLeft . ' 2}"
-        Walk(43, FwdKey)
-        Walk(30, FwdKey, RightKey)
-        Walk(50, RightKey)
-        Walk(14, BackKey, LeftKey)
-        Walk(10, LeftKey)
+        BSSWalk(43, FwdKey)
+        BSSWalk(30, FwdKey, RightKey)
+        BSSWalk(50, RightKey)
+        BSSWalk(14, BackKey, LeftKey)
+        BSSWalk(10, LeftKey)
         Send "{' . RotRight . ' 2}"
         '
             )
@@ -9399,11 +9399,11 @@ gtp_sunflower() {
     movement :=
         (
             '
-    Walk(14, BackKey)
+    BSSWalk(14, BackKey)
     Send "{' . RotRight . ' 1}"
-    Walk(25, RightKey)
-    Walk(15, FwdKey)
-    Walk(9, BackKey)
+    BSSWalk(25, RightKey)
+    BSSWalk(15, FwdKey)
+    BSSWalk(9, BackKey)
     Send "{' . RotRight . ' 1}"
     '
         )
@@ -9420,17 +9420,17 @@ gtc_honeystormFromClock() {
             '
     Hypersleep(550)
     Send "{d down}"
-    Walk(12.64)
+    BSSWalk(12.64)
     Send "{a down}"
-    Walk(0.44)
+    BSSWalk(0.44)
     Send "{d up}"
-    Walk(8.88)
+    BSSWalk(8.88)
     Send "{d down}"
     Send "{a up}"
-    Walk(10.68)
+    BSSWalk(10.68)
     Send "{s down}"
     Send "{d up}"
-    Walk(5.99)
+    BSSWalk(5.99)
     Send "{s up}"
     '
         )
@@ -9447,117 +9447,117 @@ loot_honeyStorm() {
             '
     Hypersleep(2000)
     Send "{w down}"
-    Walk(8.63)
+    BSSWalk(8.63)
     Send "{d down}"
     Send "{w up}"
-    Walk(17.96)
+    BSSWalk(17.96)
     Send "{s down}"
     Send "{d up}"
-    Walk(7.80)
+    BSSWalk(7.80)
     Send "{a down}"
-    Walk(0.41)
+    BSSWalk(0.41)
     Send "{s up}"
-    Walk(6.39)
+    BSSWalk(6.39)
     Send "{w down}"
-    Walk(0.47)
+    BSSWalk(0.47)
     Send "{a up}"
-    Walk(6.73)
+    BSSWalk(6.73)
     Send "{d down}"
-    Walk(0.71)
+    BSSWalk(0.71)
     Send "{w up}"
-    Walk(4.95)
+    BSSWalk(4.95)
     Send "{s down}"
     Send "{d up}"
-    Walk(5.88)
+    BSSWalk(5.88)
     Send "{a down}"
-    Walk(0.44)
+    BSSWalk(0.44)
     Send "{s up}"
-    Walk(4.72)
+    BSSWalk(4.72)
     Send "{w down}"
     Send "{a up}"
-    Walk(1.57)
+    BSSWalk(1.57)
     Send "{d down}"
-    Walk(0.80)
+    BSSWalk(0.80)
     Send "{d up}"
-    Walk(3.27)
+    BSSWalk(3.27)
     Send "{d down}"
     Send "{w up}"
-    Walk(3.80)
+    BSSWalk(3.80)
     Send "{s down}"
-    Walk(0.43)
+    BSSWalk(0.43)
     Send "{d up}"
-    Walk(4.35)
+    BSSWalk(4.35)
     Send "{a down}"
-    Walk(0.36)
+    BSSWalk(0.36)
     Send "{s up}"
-    Walk(2.86)
+    BSSWalk(2.86)
     Send "{w down}"
-    Walk(0.62)
+    BSSWalk(0.62)
     Send "{a up}"
-    Walk(3.68)
+    BSSWalk(3.68)
     Send "{d down}"
-    Walk(0.39)
+    BSSWalk(0.39)
     Send "{w up}"
-    Walk(1.87)
+    BSSWalk(1.87)
     Send "{s down}"
-    Walk(0.65)
+    BSSWalk(0.65)
     Send "{d up}"
-    Walk(3.06)
+    BSSWalk(3.06)
     Send "{a down}"
-    Walk(0.60)
+    BSSWalk(0.60)
     Send "{s up}"
-    Walk(0.55)
+    BSSWalk(0.55)
     Send "{w down}"
-    Walk(0.74)
+    BSSWalk(0.74)
     Send "{a up}"
-    Walk(3.45)
+    BSSWalk(3.45)
     Send "{d down}"
-    Walk(0.55)
+    BSSWalk(0.55)
     Send "{w up}"
-    Walk(0.58)
+    BSSWalk(0.58)
     Send "{s down}"
-    Walk(0.44)
+    BSSWalk(0.44)
     Send "{d up}"
-    Walk(4.91)
+    BSSWalk(4.91)
     Send "{a down}"
-    Walk(0.70)
+    BSSWalk(0.70)
     Send "{s up}"
-    Walk(0.51)
+    BSSWalk(0.51)
     Send "{w down}"
-    Walk(0.51)
+    BSSWalk(0.51)
     Send "{a up}"
-    Walk(6.54)
+    BSSWalk(6.54)
     Send "{a down}"
-    Walk(0.52)
+    BSSWalk(0.52)
     Send "{w up}"
-    Walk(0.65)
+    BSSWalk(0.65)
     Send "{s down}"
     Send "{a up}"
-    Walk(7.00)
+    BSSWalk(7.00)
     Send "{a down}"
-    Walk(0.54)
+    BSSWalk(0.54)
     Send "{s up}"
-    Walk(0.43)
+    BSSWalk(0.43)
     Send "{w down}"
     Send "{a up}"
-    Walk(8.03)
+    BSSWalk(8.03)
     Send "{a down}"
     Send "{w up}"
-    Walk(0.67)
+    BSSWalk(0.67)
     Send "{s down}"
-    Walk(0.42)
+    BSSWalk(0.42)
     Send "{a up}"
-    Walk(8.09)
+    BSSWalk(8.09)
     Send "{d down}"
     Send "{s up}"
-    Walk(6.94)
+    BSSWalk(6.94)
     Send "{w down}"
     Send "{d up}"
-    Walk(7.36)
+    BSSWalk(7.36)
     Send "{a down}"
-    Walk(0.51)
+    BSSWalk(0.51)
     Send "{w up}"
-    Walk(7.73)
+    BSSWalk(7.73)
     Send "{a up}"
     '
         )
@@ -9576,28 +9576,28 @@ gt_driveshop_from_robobear() {
     Walk(6)
     Send "{a up}"
     Send "{w down}"
-    Walk(9.38)
+    BSSWalk(9.38)
     Send "{w up}"
     Jump()
     Hypersleep(344)
     Send "{w down}"
-    Walk(9.62)
+    BSSWalk(9.62)
     Send "{d down}"
     Send "{w up}"
-    Walk(4.78)
+    BSSWalk(4.78)
     Send "{w down}"
-    Walk(4.48)
+    BSSWalk(4.48)
     Send "{w up}"
     Send "{d up}"
     Send "{a down}"
-    Walk(4.06)
+    BSSWalk(4.06)
     Send "{a up}"
     Send "{s down}"
-    Walk(3.11)
+    BSSWalk(3.11)
     Send "{s up}"
     Hypersleep(283)
     Send "{d down}"
-    Walk(12.21)
+    BSSWalk(12.21)
     Send "{d up}"
     '
         )
@@ -9613,31 +9613,31 @@ gt_robobear_from_driveshop() {
         (
             '
     Send "{w down}"
-    Walk(5.80)
+    BSSWalk(5.80)
     Send "{w up}"
     Send "{d down}"
-    Walk(12.54)
+    BSSWalk(12.54)
     Send "{d up}"
     Send "{w down}"
-    Walk(7.72)
+    BSSWalk(7.72)
     Send "{w up}"
     Send "{a down}"
-    Walk(6.55)
+    BSSWalk(6.55)
     Send "{a up}"
     Hypersleep(230)
     Send "{s down}"
-    Walk(10.62)
+    BSSWalk(10.62)
     Send "{s up}"
     Send "{a down}"
-    Walk(3.13)
+    BSSWalk(3.13)
     Send "{a up}"
     Jump()
     Hypersleep(345)
     Send "{a down}"
-    Walk(5.35)
+    BSSWalk(5.35)
     Send "{a up}"
     Send "{s down}"
-    Walk(1.81)
+    BSSWalk(1.81)
     Send "{s up}"
     '
         )
@@ -9652,12 +9652,12 @@ gt_hiveslot1() {
     movement :=
         (
             '
-    Walk(2.5, RightKey)
+    BSSWalk(2.5, RightKey)
     Send "{' . RotRight . ' 1}"
     ShiftLock()
     ActivateGlider()
     Sleep(1000)
-    Walk(9.5, FwdKey)
+    BSSWalk(9.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     ShiftLock()
     '
@@ -9674,13 +9674,13 @@ gt_hiveslot2() {
         (
             '
     ShiftLock()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
     ActivateGlider()
     Sleep(1000)
-    Walk(1.5, FwdKey)
+    BSSWalk(1.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    Walk(0.5, FwdKey)
+    BSSWalk(0.5, FwdKey)
     ShiftLock()
     '
         )
@@ -9698,7 +9698,7 @@ gt_hiveslot3() {
     ShiftLock()
     ActivateGlider()
     Sleep(1000)
-    Walk(2, FwdKey)
+    BSSWalk(2, FwdKey)
     ShiftLock()
     '
         )
@@ -9714,13 +9714,13 @@ gt_hiveslot4() {
         (
             '
     ShiftLock()
-    Walk(5, FwdKey)
+    BSSWalk(5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     ActivateGlider()
     Sleep(1000)
-    Walk(1.5, FwdKey)
+    BSSWalk(1.5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    Walk(0.5, FwdKey)
+    BSSWalk(0.5, FwdKey)
     ShiftLock()
     '
         )
@@ -9734,12 +9734,12 @@ gt_hiveslot5() {
     movement :=
         (
             '
-    Walk(3.5, LeftKey)
+    BSSWalk(3.5, LeftKey)
     Send "{' . RotLeft . ' 1}"
     ShiftLock()
     ActivateGlider()
     Sleep(1000)
-    Walk(9.5, FwdKey)
+    BSSWalk(9.5, FwdKey)
     Send "{' . RotRight . ' 1}"
     ShiftLock()
     '
@@ -9762,8 +9762,8 @@ gt_hiveslot6() {
     ActivateGlider()
     Sleep(1000)
     Send "{' . RotRight . ' 1}"
-    Walk(7.5, FwdKey)
-    Walk(1.5, FwdKey, LeftKey)
+    BSSWalk(7.5, FwdKey)
+    BSSWalk(1.5, FwdKey, LeftKey)
     Send "{' . RotRight . ' 1}"
     ShiftLock()
     '

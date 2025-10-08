@@ -499,14 +499,14 @@ KillBoss(boss) {
             {
                 movement :=
                     (
-                        Walks(44.75, BackKey, LeftKey) '
-					' Walks(42.5, LeftKey) '
-					' Walks(8.5, BackKey) '
-					' Walks(22.5, LeftKey) '
+                        BSSWalk(44.75, BackKey, LeftKey) '
+					' BSSWalk(42.5, LeftKey) '
+					' BSSWalk(8.5, BackKey) '
+					' BSSWalk(22.5, LeftKey) '
 					send "{' RotLeft ' 2}"
-					' Walks(27, FwdKey) '
-					' Walks(12, LeftKey, FwdKey) '
-					' Walks(11, FwdKey)
+					' BSSWalk(27, FwdKey) '
+					' BSSWalk(12, LeftKey, FwdKey) '
+					' BSSWalk(11, FwdKey)
                     )
             }
             else
@@ -528,8 +528,8 @@ KillBoss(boss) {
 					send "{' SC_Space '}{' RotLeft ' 2}"
 					HyperSleep(1500)
 					send "{' LeftKey ' up}"
-					' Walk(4, BackKey) '
-					' Walk(4.5, LeftKey)
+					' BSSWalk(4, BackKey) '
+					' BSSWalk(4.5, LeftKey)
                     )
             }
 
@@ -538,41 +538,41 @@ KillBoss(boss) {
                 movement .=
                     (
                         '
-					' Walk(10, LeftKey) '
+					' BSSWalk(10, LeftKey) '
 					HyperSleep(50)
-					' Walk(6, RightKey) '
+					' BSSWalk(6, RightKey) '
 					HyperSleep(50)
-					' Walk(2, LeftKey) '
+					' BSSWalk(2, LeftKey) '
 					HyperSleep(50)
-					' Walk(7, FwdKey) '
+					' BSSWalk(7, FwdKey) '
 					HyperSleep(750)
 					send "{' SC_Space ' down}"
 					HyperSleep(50)
 					send "{' SC_Space ' up}"
-					' Walk(5.5, FwdKey) '
+					' BSSWalk(5.5, FwdKey) '
 					HyperSleep(750)
 					Loop 3
 					{
 						send "{' SC_Space ' down}"
 						HyperSleep(50)
 						send "{' SC_Space ' up}"
-						' Walk(6, FwdKey) '
+						' BSSWalk(6, FwdKey) '
 						HyperSleep(750)
 					}
-					' Walk(1, FwdKey) '
+					' BSSWalk(1, FwdKey) '
 					send "{' SC_Space ' down}"
 					HyperSleep(50)
 					send "{' SC_Space ' up}"
-					' Walk(6, FwdKey) '
+					' BSSWalk(6, FwdKey) '
 					HyperSleep(750)
-					' Walk(5, FwdKey) '
+					' BSSWalk(5, FwdKey) '
 					HyperSleep(50)
-					' Walk(9, BackKey) '
+					' BSSWalk(9, BackKey) '
 					Sleep 4000
 					send "{' SC_Space ' down}"
 					HyperSleep(50)
 					send "{' SC_Space ' up}"
-					' Walk(0.5, BackKey) '
+					' BSSWalk(0.5, BackKey) '
 					HyperSleep(1500)'
                     )
             }
@@ -581,41 +581,41 @@ KillBoss(boss) {
                 movement .=
                     (
                         '
-					' Walk(10, LeftKey) '
+					' BSSWalk(10, LeftKey) '
 					HyperSleep(50)
-					' Walk(6, RightKey) '
+					' BSSWalk(6, RightKey) '
 					HyperSleep(50)
-					' Walk(2, LeftKey) '
+					' BSSWalk(2, LeftKey) '
 					HyperSleep(50)
-					' Walk(7, FwdKey) '
+					' BSSWalk(7, FwdKey) '
 					HyperSleep(750)
 					send "{' SC_Space ' down}"
 					HyperSleep(50)
 					send "{' SC_Space ' up}"
-					' Walk(4.5, FwdKey) '
+					' BSSWalk(4.5, FwdKey) '
 					HyperSleep(750)
 					Loop 3
 					{
 						send "{' SC_Space ' down}"
 						HyperSleep(50)
 						send "{' SC_Space ' up}"
-						' Walk(5, FwdKey) '
+						' BSSWalk(5, FwdKey) '
 						HyperSleep(750)
 					}
-					' Walk(1, FwdKey) '
+					' BSSWalk(1, FwdKey) '
 					send "{' SC_Space ' down}"
 					HyperSleep(50)
 					send "{' SC_Space ' up}"
-					' Walk(6, FwdKey) '
+					' BSSWalk(6, FwdKey) '
 					HyperSleep(750)
-					' Walk(5, FwdKey) '
+					' BSSWalk(5, FwdKey) '
 					HyperSleep(50)
-					' Walk(9, BackKey) '
+					' BSSWalk(9, BackKey) '
 					Sleep 4000
 					send "{' SC_Space ' down}"
 					HyperSleep(50)
 					send "{' SC_Space ' up}"
-					' Walk(0.5, BackKey) '
+					' BSSWalk(0.5, BackKey) '
 					HyperSleep(1500)'
                     )
             }
@@ -641,14 +641,14 @@ KillBoss(boss) {
                 {
                     movement :=
                         (
-                            Walk(5, FwdKey) '
+                            BSSWalk(5, FwdKey) '
 						HyperSleep(50)
-						' Walk(9, BackKey) '
+						' BSSWalk(9, BackKey) '
 						Sleep 4000
 						send "{' SC_Space ' down}"
 						HyperSleep(50)
 						send "{' SC_Space ' up}"
-						' Walk(0.5, BackKey) '
+						' BSSWalk(0.5, BackKey) '
 						HyperSleep(1500)'
                         )
                     CreateWalk(movement, "commando")
@@ -748,8 +748,9 @@ KillBoss(boss) {
     }
     ;crab
     if (boss == "CoconutCrab") { ;1.5 days
-        loop 6 {
-            ResetToHive()
+        loop 3 {
+            wait := min(20000, (50 - HiveBees) * 1000)
+            ResetToHive(1, wait)
             SetStatus("Traveling", "Coco Crab")
             gt_coconut(1)
             Send "{" SC_1 "}"
@@ -767,7 +768,6 @@ KillBoss(boss) {
                 if (cCrab.Length > 0)
                 {
                     found := 1
-                    SetStatus("Found", "Crab")
                     break
                 }
                 Sleep 250
@@ -787,32 +787,35 @@ KillBoss(boss) {
             moves := 14
             move_delay := 310
 
-            CocoWalk() {
-                DllCall("GetSystemTimeAsFileTime", "int64p", &start_time := 0)
-                Move(4, FwdKey)
-                DllCall("GetSystemTimeAsFileTime", "int64p", &time := 0)
-                Sleep (500) - (time - start_time) // 10000
-                loop 2 {
-                    i := A_Index
-                    Move(1, FwdKey)
-                    Loop moves {
-                        Move(2, LeftKey)
-                        DllCall("GetSystemTimeAsFileTime", "int64p", &time)
-                        Sleep i * 2 * 310 * 14 - 2 * 310 * 14 - 500 + A_Index * 310 - (time - start_time) // 10000
-                    }
-                    Move(1, BackKey)
-                    Loop moves {
-                        Move(2, RightKey)
-                        DllCall("GetSystemTimeAsFileTime", "int64p", &time)
-                        Sleep i * 2 * 310 * 14 - 310 * 14 - 500 + A_Index * 310 - (time - start_time) // 10000
-                    }
-                }
-                DllCall("GetSystemTimeAsFileTime", "int64p", &time)
-                Sleep 9000 - (time - start_time) // 10000
-                Move(6.5, BackKey)
-                DllCall("GetSystemTimeAsFileTime", "int64p", &time)
-                Sleep 12000 - (time - start_time) // 10000
-            }
+            movement :=
+            (
+            '
+			DllCall("GetSystemTimeAsFileTime", "int64p", &start_time:=0)
+			' BSSWalk(4, FwdKey) '
+			DllCall("GetSystemTimeAsFileTime", "int64p", &time:=0)
+			Sleep ' leftright_start ' -(time-start_time)//10000
+			loop 2 {
+				i := A_Index
+				' BSSWalk(1, FwdKey) '
+				Loop ' moves ' {
+					' BSSWalk(2, LeftKey) '
+					DllCall("GetSystemTimeAsFileTime", "int64p", &time)
+					Sleep i*' 2 * move_delay * moves '-' 2 * move_delay * moves - leftright_start '+A_Index*' move_delay '-(time-start_time)//10000
+				}
+				' BSSWalk(1, BackKey) '
+				Loop ' moves ' {
+					' BSSWalk(2, RightKey) '
+					DllCall("GetSystemTimeAsFileTime", "int64p", &time)
+					Sleep i*' 2 * move_delay * moves '-' move_delay * moves - leftright_start '+A_Index*' move_delay '-(time-start_time)//10000
+				}
+			}
+			DllCall("GetSystemTimeAsFileTime", "int64p", &time)
+			Sleep ' leftright_end '-(time-start_time)//10000
+			' BSSWalk(6.5, BackKey) '
+			DllCall("GetSystemTimeAsFileTime", "int64p", &time)
+			Sleep ' cycle_end '-(time-start_time)//10000
+			'
+            )
 
             Crdead := 0
             if (found) {
@@ -822,9 +825,18 @@ KillBoss(boss) {
                 inactiveHoney := 0
                 loop { ;30 minute crab timer to keep blessings, Will rehunt in an hour
                     DllCall("GetSystemTimeAsFileTime", "int64p", &PatternStartTime := 0)
-                    CocoWalk()
+                    if (currentWalk.name != "crab")
+                        CreateWalk(movement, "crab") ; create cycled walk script for this gather session
+                    else
+                        Send "{F13}" ; start new cycle
+
+                    KeyWait "F14", "D T5 L" ; wait for pattern start
+
                     Loop 600
                     {
+                        sendinput "{click down}"
+                        sleep 50
+                        sendinput "{click up}"
                         if (ImgSearch("crab.png", 70, "lowright")[1] = 0) {
                             Crdead := 1
                             Send "{" RotUp " 2}"
@@ -835,7 +847,7 @@ KillBoss(boss) {
                             if (inactiveHoney >= 10)
                                 break 2
                         }
-                        if (youDied == 1)
+                        if (youDied)
                             break 2
                         if ((A_Index = 600) || !GetKeyState("F14"))
                             break
@@ -845,10 +857,13 @@ KillBoss(boss) {
                     ElaspedCrabTime := (time - CrabStartTime) // 10000
                     If (ElaspedCrabTime > 900000) {
                         SetStatus("Time Limit", "Coco Crab")
-                        writeSettings("Kill", "LastCoconutCrab", nowUnix() + 129600, "Settings\timers.ini")
+                        LastCocoCrab := nowUnix() - floor(129600 * (1 - (mobRespawnTime ? mobRespawnTime : 0) * 0.01)) + 1800
+                        writeSettings("Kill", "LastCoconutCrab", LastCocoCrab, "Settings\timers.ini")
+                        EndWalk()
                         Return
                     }
                 }
+                EndWalk()
             }
             else { ;No Crab try again in 2 hours
                 writeSettings("Kill", "LastCoconutCrab", nowUnix() + 129600, "Settings\timers.ini")
@@ -857,19 +872,33 @@ KillBoss(boss) {
 
             ;loot
             if (Crdead) {
-                SetStatus("Defeated", "Coco Crab")
+                DllCall("GetSystemTimeAsFileTime", "int64p", &time := 0)
+                duration := DurationFromSeconds((time - CrabStartTime) // 10000000, "mm:ss")
+                SetStatus("Defeated", "Coco Crab`nTime: " duration)
                 ElapsedPatternTime := (time - PatternStartTime) // 10000
-                Move(((ElapsedPatternTime > leftright_start) && (ElapsedPatternTime < leftright_start + 4 * moves * move_delay)) ? Abs(Abs(Mod((ElapsedPatternTime - moves * move_delay - leftright_start) * 2 / move_delay, moves * 4) - moves * 2) - moves * 3 / 2) : moves * 3 / 2, (((ElapsedPatternTime > leftright_start + moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 3 * moves / 2 * move_delay)) || ((ElapsedPatternTime > leftright_start + 5 * moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 7 * moves / 2 * move_delay))) ? RightKey : LeftKey)
-                (((ElapsedPatternTime < leftright_start) || (ElapsedPatternTime > leftright_end)) ? Move(4, FwdKey) : "")
+                movement :=
+                (
+                BSSWalk(((ElapsedPatternTime > leftright_start) && (ElapsedPatternTime < leftright_start + 4 * moves * move_delay)) ? Abs(Abs(Mod((ElapsedPatternTime - moves * move_delay - leftright_start) * 2 / move_delay, moves * 4) - moves * 2) - moves * 3 / 2) : moves * 3 / 2, (((ElapsedPatternTime > leftright_start + moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 3 * moves / 2 * move_delay)) || ((ElapsedPatternTime > leftright_start + 5 * moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 7 * moves / 2 * move_delay))) ? RightKey : LeftKey) "
+				" (((ElapsedPatternTime < leftright_start) || (ElapsedPatternTime > leftright_end)) ? BSSWalk(4, FwdKey) : "")
+                )
+                CreateWalk(movement)
+                KeyWait "F14", "D T5 L"
+                KeyWait "F14", "T20 L"
+                EndWalk()
                 SetStatus("Looting", "Coco Crab")
                 Loot(9, 4, "right")
                 Loot(9, 4, "left")
                 Loot(9, 4, "right")
-                writeSettings("Kill", "LastCoconutCrab", nowUnix(), "Settings\timers.ini")
+                Loot(9, 4, "left")
+                Loot(9, 4, "right")
+                Loot(9, 4, "left")
+                LastCocoCrab := nowUnix()
+                writeSettings("Kill", "LastCoconutCrab", LastCocoCrab, "Settings\timers.ini")
                 break
             }
             else if (A_Index = 2) {
-                writeSettings("Kill", "LastCoconutCrab", nowUnix() + 129600, "Settings\timers.ini")
+                LastCocoCrab := nowUnix() - floor(129600 * (1 - (mobRespawnTime ? mobRespawnTime : 0) * 0.01)) + 1800
+                writeSettings("Kill", "LastCoconutCrab", LastCocoCrab, "Settings\timers.ini")
                 SetStatus("Failed", "Coco Crab")
             }
         }

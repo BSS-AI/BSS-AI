@@ -5,7 +5,6 @@
 ;@Ahk2Exe-SetCompanyName BSS-AI
 ;@Ahk2Exe-SetProductName BSS-AI Macro
 ;@Ahk2Exe-SetOrigFilename BSSAI.exe
-#Include %A_ScriptDir%\ScriptGuard1.ahk
 #MaxThreads 255
 
 global MacroState := 0
@@ -32,9 +31,6 @@ global Jumptime := 1200
 global SC_1 := "sc002"
 global youDied := 0
 global yoloPid := 0
-; --- Communication Method Selection ---
-global COMMUNICATION_METHOD := IniRead(A_ScriptDir . "\Settings\settings.ini", "AIGather", "communication_method", "COM")
-
 global currentWalk := { pid: "", name: "" }
 
 #Include %A_ScriptDir%\lib\Variables.ahk
@@ -76,14 +72,15 @@ global pToken := Gdip_Startup()
 #Include %A_ScriptDir%\Assets\bitmaps.ahk
 
 SetKeyDelay Integer(readSettings("Settings", "keydelay"))
+global COMMUNICATION_METHOD := readSettings("AIGather", "communication_method")
 
 global currentFieldIndex := 1
 global CurrentField := gatherField%currentFieldIndex%
 
 ; --- Debug & Path Settings ---
-global EnableLogging := IniRead(A_ScriptDir . "\Settings\settings.ini", "Debug", "enable_logging", true)
-global SharedFilePath := IniRead(A_ScriptDir . "\Settings\settings.ini", "Debug", "shared_file_path", "DEFAULT")
-global ConnectionTimeout := IniRead(A_ScriptDir . "\Settings\settings.ini", "Debug", "connection_timeout", 600)
+global EnableLogging := readSettings("Debug", "enable_logging")
+global SharedFilePath := readSettings("Debug", "shared_file_path")
+global ConnectionTimeout := readSettings("Debug", "connection_timeout")
 
 GetSharedPath() {
     global SharedFilePath
@@ -180,7 +177,7 @@ InitializeCOMServer() {
         waited := 0
 
         while waited < maxWait {
-            config_check := IniRead(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_clsid", "")
+            config_check := readSettings("Communication", "python_clsid")
             if (config_check != "") {
                 global ComCLSID := config_check
                 LogMessage("COM: Read CLSID " . ComCLSID . " from settings.ini")
@@ -262,7 +259,7 @@ class SocketHandler {
         LogMessage("Socket: Waiting for port in settings.ini (Timeout: " . maxWait . "s)")
 
         while waited < maxWait {
-            portStr := IniRead(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_port", "")
+            portStr := readSettings("Communication", "python_port")
             if (portStr != "") {
                 this.port := Integer(portStr)
                 LogMessage("Socket: Read port " . this.port . " from settings.ini")
@@ -388,8 +385,8 @@ Start() {
     LogMessage("Cleaning up old communication data from settings.ini")
 
     try {
-        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_port")
-        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_clsid")
+        writeSettings("Communication", "python_port", "", , false)
+        writeSettings("Communication", "python_clsid", "", , false)
         LogMessage("Deleted old communication data from settings.ini")
     }
 
