@@ -85,13 +85,13 @@ global ConnectionTimeout := readSettings("Debug", "connection_timeout")
 GetSharedPath() {
     global SharedFilePath
     if (SharedFilePath = "DEFAULT" || SharedFilePath = "") {
-        path := A_ScriptDir "\lib"
+        path := A_AppData "\BSSAI\lib"
         LogMessage("Using DEFAULT shared file path: " . path)
         return path
     } else {
         if !DirExist(SharedFilePath) {
             LogMessage("WARNING: Custom shared path '" . SharedFilePath . "' does not exist. Falling back to DEFAULT.")
-            path := A_ScriptDir "\lib"
+            path := A_AppData "\BSSAI\lib"
             LogMessage("Using DEFAULT shared file path: " . path)
             return path
         }
@@ -107,7 +107,7 @@ LogMessage(message) {
     }
     try {
         logEntry := FormatTime(, "yyyy-MM-dd HH:mm:ss") . " - " . message . "`n"
-        FileAppend(logEntry, A_ScriptDir "\ahk_log.txt")
+        FileAppend(logEntry, A_AppData "\BSSAI\lib\ahk_log.txt")
     } catch {
         ; Fail silently if logging fails
     }
@@ -408,7 +408,6 @@ Start() {
     }
     MsgBox "YOLO.exe (AI Program) takes ~10 seconds to load. The macro will not start until YOLO.exe is done loading.`n`nPress OK to start loading!", "Attention", 0x40
     installPath := FileRead("C:\ProgramData\BSSAI\.install-location.txt", "UTF-8")
-    writeSettings("Debug", "shared_file_path", installPath)
     SetStatus("Startup", "BSS AI")
     yoloPid := Run('"' . installPath . '\lib\yolo.exe" ' . COMMUNICATION_METHOD, , "Hide")
     if (COMMUNICATION_METHOD = "COM") {
@@ -449,8 +448,8 @@ Stop(close) {
     MacroState := 0
 
     try {
-        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_port")
-        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_clsid")
+        writeSettings("Communication", "python_port", "")
+        writeSettings("Communication", "python_clsid", "")
         LogMessage("Cleaned up communication data from settings.ini on stop")
     }
 

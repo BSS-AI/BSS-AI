@@ -9,7 +9,6 @@ if (gatherField3 != "None") {
     GatherFields.Push(gatherField3)
 }
 global bitmaps
-path := A_AppData "\BSSAI\lib"
 
 GotoFieldFromHive() {
     global GatherFields, currentFieldIndex, keyDelay
