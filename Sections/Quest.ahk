@@ -504,24 +504,27 @@ DoPolarQuest() {
 
 			startTime := A_TickCount
 
-			sharedPath := GetSharedPath() ; Get the correct path for communication files
+			; Set gather state in settings.ini to signal python to start inferencing
+			retryCount := 0
+			maxRetries := 20  ; Try for about 1 second total
+			success := false
 
-			; Create reset position file for yolo.py to detect new session
-			resetFile := sharedPath . "\reset_position.txt"
-			try {
-				LogMessage("AI Gather: Creating reset position file at " . resetFile)
-				FileAppend("", resetFile)
-			} catch Error as e {
-				LogMessage("AI Gather ERROR: Could not create reset file. " . e.Message)
-			}
-
-			; Create gather state file to signal python to start inferencing
-			stateFile := sharedPath . "\gather_state.txt"
-			try {
-				LogMessage("AI Gather: Creating gather state file at " . stateFile)
-				FileAppend("", stateFile)
-			} catch Error as e {
-				LogMessage("AI Gather ERROR: Could not create state file. " . e.Message)
+			while (retryCount < maxRetries && !success) {
+				try {
+					writeSettings("AIGather", "currently_gathering", true)
+					LogMessage("Quest: Set gather state to 'true' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
+					success := true
+				} catch Error as e {
+					retryCount++
+					if (retryCount >= maxRetries) {
+						LogMessage("Quest: CRITICAL ERROR - Failed to set gather state after " . maxRetries . " attempts over 1 second - Error: " . e.Message)
+						; Continue anyway - don't let this stop the quest process
+					} else {
+						; Exponential backoff: 10ms, 20ms, 40ms, 80ms, etc. up to 100ms max
+						sleepTime := Min(10 * (2 ** (retryCount - 1)), 100)
+						Sleep(sleepTime)
+					}
+				}
 			}
 			interruptReason := "Time Limit"
 			loop {
@@ -543,11 +546,27 @@ DoPolarQuest() {
 				Sleep(100)
 			}
 
-			try {
-				LogMessage("AI Gather: Deleting gather state file from " . stateFile)
-				FileDelete(stateFile)
-			} catch {
-				LogMessage("AI Gather ERROR: Could not delete state file.")
+			; Clear gather state in settings.ini with robust retry logic
+			retryCount := 0
+			maxRetries := 20  ; Try for about 1 second total
+			success := false
+
+			while (retryCount < maxRetries && !success) {
+				try {
+					writeSettings("AIGather", "currently_gathering", false)
+					LogMessage("Quest: Set gather state to 'false' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
+					success := true
+				} catch Error as e {
+					retryCount++
+					if (retryCount >= maxRetries) {
+						LogMessage("Quest: CRITICAL ERROR - Failed to clear gather state after " . maxRetries . " attempts over 1 second - Error: " . e.Message)
+						; Continue anyway - Python will eventually timeout or user can manually stop
+					} else {
+						; Exponential backoff: 10ms, 20ms, 40ms, 80ms, etc. up to 100ms max
+						sleepTime := Min(10 * (2 ** (retryCount - 1)), 100)
+						Sleep(sleepTime)
+					}
+				}
 			}
 
 			SetStatus("Gathering Quest", "Ended")

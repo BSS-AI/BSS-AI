@@ -79,26 +79,7 @@ global CurrentField := gatherField%currentFieldIndex%
 
 ; --- Debug & Path Settings ---
 global EnableLogging := readSettings("Debug", "enable_logging")
-global SharedFilePath := readSettings("Debug", "shared_file_path")
 global ConnectionTimeout := readSettings("Debug", "connection_timeout")
-
-GetSharedPath() {
-    global SharedFilePath
-    if (SharedFilePath = "DEFAULT" || SharedFilePath = "") {
-        path := A_AppData "\BSSAI\lib"
-        LogMessage("Using DEFAULT shared file path: " . path)
-        return path
-    } else {
-        if !DirExist(SharedFilePath) {
-            LogMessage("WARNING: Custom shared path '" . SharedFilePath . "' does not exist. Falling back to DEFAULT.")
-            path := A_AppData "\BSSAI\lib"
-            LogMessage("Using DEFAULT shared file path: " . path)
-            return path
-        }
-        LogMessage("Using CUSTOM shared file path from INI: " . SharedFilePath)
-        return SharedFilePath
-    }
-}
 
 LogMessage(message) {
     global EnableLogging
@@ -391,19 +372,26 @@ Start() {
     }
 
     try {
-        sharedPath := GetSharedPath()
-        LogMessage("Cleaning up old communication files from: " . sharedPath)
-
-        gatherStateFile := sharedPath . "\gather_state.txt"
-        if FileExist(gatherStateFile) {
-            FileDelete(gatherStateFile)
-            LogMessage("Deleted old gather state file.")
+        try {
+            writeSettings("AIGather", "currently_gathering", false)
+            LogMessage("Reset gather state to 'false' in settings.ini")
+        } catch Error as e {
+            LogMessage("Warning: Failed to reset gather state in settings.ini - Error: " . e.Message)
         }
+    }
 
-        resetPosFile := sharedPath . "\reset_position.txt"
-        if FileExist(resetPosFile) {
-            FileDelete(resetPosFile)
-            LogMessage("Deleted old reset position file.")
+    global pythonCheck
+    global SocketClient
+    global COMMUNICATION_METHOD
+    global yoloPid
+
+    yoloLogPath := A_AppData . "\BSSAI\lib\yolo_log.txt"
+    if !FileExist(yoloLogPath) {
+        try {
+            FileAppend("", yoloLogPath)
+            LogMessage("Created yolo_log.txt file for Python script at " yoloLogPath)
+        } catch Error as e {
+            LogMessage("Warning: Failed to create yolo_log.txt at " yoloLogPath " Error: " . e.Message)
         }
     }
     MsgBox "YOLO.exe (AI Program) takes ~10 seconds to load. The macro will not start until YOLO.exe is done loading.`n`nPress OK to start loading!", "Attention", 0x40
@@ -448,8 +436,8 @@ Stop(close) {
     MacroState := 0
 
     try {
-        writeSettings("Communication", "python_port", "")
-        writeSettings("Communication", "python_clsid", "")
+        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_port")
+        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_clsid")
         LogMessage("Cleaned up communication data from settings.ini on stop")
     }
 

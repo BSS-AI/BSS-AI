@@ -16,7 +16,7 @@ from datetime import datetime
 lib_path = os.path.join(os.path.expandvars("%APPDATA%"), "BSSAI", "lib")
 settings_path = os.path.join(os.path.expandvars("%APPDATA%"), "BSSAI", "settings")
 installLocation = os.path.join("C:\\", "ProgramData", "BSSAI", ".install-location.txt")
-installPath = os.path.join(lib_path, "..")
+installPath = os.path.join(os.path.expandvars("%APPDATA%"), "BSSAI")
 
 with open(installLocation, "r", encoding="utf-8") as f:
     installPath = f.read().strip()
@@ -44,7 +44,6 @@ MAIN_SETTINGS_INI = os.path.join(settings_path, "settings.ini")
 config.read(MAIN_SETTINGS_INI)
 
 ENABLE_LOGGING = config.getboolean('Debug', 'enable_logging', fallback=True)
-SHARED_FILE_PATH = config.get('Debug', 'shared_file_path', fallback="DEFAULT")
 CONNECTION_TIMEOUT = config.getint('Debug', 'connection_timeout', fallback=600)
 
 MOVEMENTS_BEFORE_SATURATOR = config.getint('AIGather', 'movements_before_saturator', fallback=10)
@@ -59,23 +58,6 @@ PRE_MOVEMENT_VALIDATION = config.getboolean('AIGather', 'pre_movement_validation
 SPRINKLER_CONFIDENCE_THRESHOLD = config.getfloat('AIGather', 'sprinkler_confidence_threshold', fallback=0.6)
 DRIFT_CORRECTION_METHOD = config.get('AIGather', 'drift_correction_method', fallback='SATURATOR').upper()
 SPRINKLER_TYPE = config.get('Settings', 'sprinklertype', fallback='Supreme')
-
-def get_shared_path():
-    if SHARED_FILE_PATH == "DEFAULT" or not SHARED_FILE_PATH:
-        path = lib_path
-        log_message(f"Using DEFAULT shared file path: {path}")
-        return path
-    else:
-        if not os.path.isdir(SHARED_FILE_PATH):
-            log_message(f"WARNING: Custom shared path '{SHARED_FILE_PATH}' does not exist. Falling back to DEFAULT.")
-            path = os.getcwd()
-            log_message(f"Using DEFAULT shared file path: {path}")
-            return path
-        log_message(f"Using CUSTOM shared file path from INI: {SHARED_FILE_PATH}")
-        return SHARED_FILE_PATH
-
-SHARED_DIR = get_shared_path()
-GATHER_STATE_FILE = os.path.join(SHARED_DIR, "gather_state.txt")
 
 COMMUNICATION_METHOD = config.get('AIGather', 'communication_method', fallback="SOCKET").upper()
 if len(sys.argv) > 1 and sys.argv[1].upper() in ["SOCKET", "COM"]:
@@ -579,10 +561,22 @@ def main():
             time.sleep(0.1)
             continue
         
-        is_gathering_now = os.path.exists(GATHER_STATE_FILE)
+        is_gathering_now = False
+        try:
+            gather_state = config.get('AIGather', 'currently_gathering', fallback='false').lower()
+            is_gathering_now = gather_state in ['true', '1', 'yes', 'on']
+        except Exception as e:
+            log_message(f"Python: Error reading gather state from settings.ini: {e}")
+            is_gathering_now = False
         
         if is_gathering_now and not gathering_active:
             print("[YOLO] Gather session started.")
+            # Reset position tracking when gathering starts
+            current_x = 0.0
+            current_y = 0.0
+            movement_count = 0
+            print("[YOLO] Position reset to (0.0, 0.0)")
+            log_message("Position reset to (0.0, 0.0) on gather start")
             gathering_active = True
         
         if not is_gathering_now:

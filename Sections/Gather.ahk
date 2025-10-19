@@ -9,6 +9,7 @@ if (gatherField3 != "None") {
     GatherFields.Push(gatherField3)
 }
 global bitmaps
+path := A_AppData "\BSSAI\lib"
 
 GotoFieldFromHive() {
     global GatherFields, currentFieldIndex, keyDelay
@@ -134,14 +135,26 @@ GatherCode() {
     } else if aiGather%currentFieldIndex% = true {
         startTime := A_TickCount
 
-        sharedPath := GetSharedPath()
+        retryCount := 0
+        maxRetries := 20 ; try for about 1 second
+        success := false
 
-        stateFile := sharedPath . "\gather_state.txt"
-        try {
-            LogMessage("AI Gather: Creating gather state file at " . stateFile)
-            FileAppend("", stateFile)
-        } catch Error as e {
-            LogMessage("AI Gather ERROR: Could not create state file. " . e.Message)
+        while (retryCount < maxRetries && !success) {
+            try {
+                writeSettings("AIGather", "currently_gathering", "true")
+                LogMessage("AHK: Set gather state to 'true' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
+                success := true
+            } catch Error as e {
+                retryCount++
+                if (retryCount >= maxRetries) {
+                    LogMessage("AHK: CRITICAL ERROR - Failed to set gather state after " . maxRetries . " attempts over 1 second - Error: " . e.Message)
+                    ; Continue anyway - don't let this stop the gather process
+                } else {
+                    ; Exponential backoff: 10ms, 20ms, 40ms, 80ms, etc. up to 100ms max
+                    sleepTime := Min(10 * (2 ** (retryCount - 1)), 100)
+                    Sleep(sleepTime)
+                }
+            }
         }
 
         interruptReason := "Time Limit"
@@ -167,12 +180,27 @@ GatherCode() {
         SetStatus("Gathering", "Ended`nTime " gatherTime%currentFieldIndex% " - " interruptReason " - Return: " toHiveByMethod%currentFieldIndex%)
 
 
-        ; Delete gather state file to signal python to stop inferencing
-        try {
-            LogMessage("AI Gather: Deleting gather state file from " . stateFile)
-            FileDelete(stateFile)
-        } catch {
-            LogMessage("AI Gather ERROR: Could not delete state file.")
+        ; Clear gather state in settings.ini with robust retry logic
+        retryCount := 0
+        maxRetries := 20  ; Try for about 1 second total
+        success := false
+
+        while (retryCount < maxRetries && !success) {
+            try {
+                writeSettings("AIGather", "currently_gathering", "false")
+                LogMessage("AHK: Set gather state to 'false' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
+                success := true
+            } catch Error as e {
+                retryCount++
+                if (retryCount >= maxRetries) {
+                    LogMessage("AHK: CRITICAL ERROR - Failed to clear gather state after " . maxRetries . " attempts over 1 second - Error: " . e.Message)
+                    ; Continue anyway - Python will eventually timeout or user can manually stop
+                } else {
+                    ; Exponential backoff: 10ms, 20ms, 40ms, 80ms, etc. up to 100ms max
+                    sleepTime := Min(10 * (2 ** (retryCount - 1)), 100)
+                    Sleep(sleepTime)
+                }
+            }
         }
     }
 
