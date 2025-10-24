@@ -40,29 +40,15 @@ Our Discord is the main hub for updates, support, and chatting with the BSS AI c
 
 ## 🧾 License
 
-![License](https://img.shields.io/badge/License-Custom%20(BSS%20AI%20All%20Rights%20Reserved)-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)
 
 </div>
 
-This repository is **open-source for transparency and community trust**, but it is **not freely licensed**.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+You are free to use, modify, and share this project **as long as** all derivative works are also licensed under GPL-3.0.
 
-You are allowed to:
-- View, inspect, and learn from the source code.  
-- Modify or adapt it **for personal use only**.
-
-You are **not allowed to**:
-- Redistribute the source code or any compiled versions.  
-- Sell, sublicense, or include this software in any paid or public products.  
-- Re-upload or claim ownership of any part of this project.
-
-All rights remain the property of the **BSS AI Team**.  
-A formal license will be added in the future once the project’s structure and terms are finalized.
-
-<div align="center">
-  
-© 2025 BSS AI — All Rights Reserved
-
-</div>
+Portions of this project are based on code from **Natro**, used under the GPL v3 license.  
+See [LICENSE.md](LICENSE.md) for full details.
 
 [discord-link]: https://discord.gg/bssai
 [website-link]: https://bss-ai.com
