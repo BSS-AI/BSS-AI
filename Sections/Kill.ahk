@@ -788,8 +788,8 @@ KillBoss(boss) {
             move_delay := 310
 
             movement :=
-            (
-            '
+                (
+                    '
 			DllCall("GetSystemTimeAsFileTime", "int64p", &start_time:=0)
 			' BSSWalk(4, FwdKey) '
 			DllCall("GetSystemTimeAsFileTime", "int64p", &time:=0)
@@ -815,7 +815,7 @@ KillBoss(boss) {
 			DllCall("GetSystemTimeAsFileTime", "int64p", &time)
 			Sleep ' cycle_end '-(time-start_time)//10000
 			'
-            )
+                )
 
             Crdead := 0
             if (found) {
@@ -877,10 +877,10 @@ KillBoss(boss) {
                 SetStatus("Defeated", "Coco Crab`nTime: " duration)
                 ElapsedPatternTime := (time - PatternStartTime) // 10000
                 movement :=
-                (
-                BSSWalk(((ElapsedPatternTime > leftright_start) && (ElapsedPatternTime < leftright_start + 4 * moves * move_delay)) ? Abs(Abs(Mod((ElapsedPatternTime - moves * move_delay - leftright_start) * 2 / move_delay, moves * 4) - moves * 2) - moves * 3 / 2) : moves * 3 / 2, (((ElapsedPatternTime > leftright_start + moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 3 * moves / 2 * move_delay)) || ((ElapsedPatternTime > leftright_start + 5 * moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 7 * moves / 2 * move_delay))) ? RightKey : LeftKey) "
+                    (
+                        BSSWalk(((ElapsedPatternTime > leftright_start) && (ElapsedPatternTime < leftright_start + 4 * moves * move_delay)) ? Abs(Abs(Mod((ElapsedPatternTime - moves * move_delay - leftright_start) * 2 / move_delay, moves * 4) - moves * 2) - moves * 3 / 2) : moves * 3 / 2, (((ElapsedPatternTime > leftright_start + moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 3 * moves / 2 * move_delay)) || ((ElapsedPatternTime > leftright_start + 5 * moves / 2 * move_delay) && (ElapsedPatternTime < leftright_start + 7 * moves / 2 * move_delay))) ? RightKey : LeftKey) "
 				" (((ElapsedPatternTime < leftright_start) || (ElapsedPatternTime > leftright_end)) ? BSSWalk(4, FwdKey) : "")
-                )
+                    )
                 CreateWalk(movement)
                 KeyWait "F14", "D T5 L"
                 KeyWait "F14", "T20 L"
