@@ -413,7 +413,14 @@ Start() {
         }
     }
     MsgBox "YOLO.exe (AI Program) takes ~10 seconds to load. The macro will not start until YOLO.exe is done loading.`n`nPress OK to start loading!", "Attention", 0x40
-    installPath := FileRead("C:\ProgramData\BSSAI\.install-location.txt", "UTF-8")
+    installFile := FileRead("C:\ProgramData\BSSAI\.install-location.txt", "UTF-8")
+    if !FileExist(installFile) {
+        MsgBox("Install location path not found.", "Startup Error", 0x1030)
+        ExitApp()
+    }
+
+    installPath := FileRead(installFile, "UTF-8")
+
     SetStatus("Startup", "BSS AI")
     yoloPid := Run('"' . installPath . '\lib\yolo.exe" ' . COMMUNICATION_METHOD, , "Hide")
     if (COMMUNICATION_METHOD = "COM") {
