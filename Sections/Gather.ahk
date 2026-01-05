@@ -1,4 +1,4 @@
-global GatherFields := []
+global GatherFields := [gatherField1]
 if (gatherField1 != "None") {
     GatherFields.Push(gatherField1)
 }
@@ -9,7 +9,7 @@ if (gatherField3 != "None") {
     GatherFields.Push(gatherField3)
 }
 global bitmaps
-path := A_AppData "\BSSAI\lib"
+path := A_ScriptDir "\lib" ; Ensure correct path
 
 GotoFieldFromHive() {
     global GatherFields, currentFieldIndex, keyDelay
@@ -32,11 +32,12 @@ GotoFieldFromHive() {
 }
 
 GotoHiveFromField() {
+    global LastWreath
     if (toHiveByMethod%currentFieldIndex% = "Walk") {
         global GatherFields, currentFieldIndex
         fieldName := GatherFields[currentFieldIndex]
         functionName := "wf_" . fieldName
-        rotates := rotateAmmount%currentFieldIndex%
+        rotates := rotateAmount%currentFieldIndex%
         rotated := rotate%currentFieldIndex%
         if (rotated = "left") {
             Rotate("right", rotates)
@@ -51,11 +52,62 @@ GotoHiveFromField() {
         }
         Move(1.5, "s") ;walk backwards to avoid thicker hives
         Move(35, "d") ;walk to ramp
+        if (honeyWreath && (nowUnix() - LastWreath) > 1800) {
+            SetStatus("Traveling", "Honey Wreath")
+            gt_wreath()
+
+            if (CollectItem()) {
+
+                LastWreath := nowUnix()
+                writeSettings('Collect', 'LastWreath', LastWreath, "settings\timers.ini")
+
+                Sleep 4000
+
+                ;loot
+                movement :=
+                    (
+                        BSSWalk(1, BackKey) "
+						" BSSWalk(4.5, BackKey, LeftKey) "
+						" BSSWalk(1, LeftKey) "
+						Loop 3 {
+							" BSSWalk(6, FwdKey) "
+							" BSSWalk(1.25, RightKey) "
+							" BSSWalk(6, BackKey) "
+							" BSSWalk(1.25, RightKey) "
+						}
+						" BSSWalk(6, FwdKey)
+                    )
+                CreateWalk(movement)
+                KeyWait "F14", "D T5 L"
+                KeyWait "F14", "T60 L"
+                EndWalk()
+
+                SetStatus("Collected", "Honey Wreath")
+            }
+
+            ;walk back
+            movement :=
+                (
+                    BSSWalk(4, BackKey) "
+					" BSSWalk(12, FwdKey, RightKey) "
+					" BSSWalk(24, LeftKey) "
+					" BSSWalk(6, BackKey, LeftKey)
+                )
+            CreateWalk(movement)
+            KeyWait "F14", "D T5 L"
+            KeyWait "F14", "T60 L"
+            EndWalk()
+        }
         Move(2.7, "s") ;center with hive pads
         findHiveSlot()
     } else {
         ResetToHive()
     }
+}
+
+AIGatherZoomOut() {
+    global ZoomOut
+    Send "{" ZoomOut " 5}"
 }
 
 GatherCode() {
@@ -76,7 +128,7 @@ GatherCode() {
     } ;Consistent camera angle, maybe make it a function? or ai gather only
 
     if (rotate%currentFieldIndex% != "None") {
-        rotates := rotateAmmount%currentFieldIndex%
+        rotates := rotateAmount%currentFieldIndex%
         rotated := rotate%currentFieldIndex%
         if (rotated = "left") {
             Rotate("left", rotates)
@@ -95,20 +147,32 @@ GatherCode() {
 
     if aiGather%currentFieldIndex% = false {
         startTime := A_TickCount
+        interruptReason := "Time Limit"
+        gatherStartTime := nowUnix()
+        strikes := 0
         loop {
-            MoveToSaturator()
-            RunPattern()
+            if driftComp%currentFieldIndex%
+                MoveToSaturator()
+            DisconnectCheck()
+            if (!ActiveHoney() && A_TickCount - startTime > 30000) {
+                if (strikes > 2) {
+                    interruptReason := "Inactive Honey"
+                    break
+                }
+                strikes++
+            }
             if BackpackPercent() = true {
                 if (UseSlots("Microconverter")) {
                     continue
                 } else {
+                    interruptReason := "Bag Limit"
                     break ; bag full
                 }
             }
 
-            if (A_TickCount - startTime > gatherTime%currentFieldIndex% * 60000) ; if gather time passed
-            {
-                break
+            if (A_TickCount - startTime > gatherTime%currentFieldIndex% * 60000) {
+                interruptReason := "Time Limit"
+                break  ; gather time passed
             }
 
             DisconnectCheck()
@@ -127,13 +191,18 @@ GatherCode() {
                 if (interrupt > 1) {
                     SetStatus("Interrupt", "Gathering interrupted by a mob or boss")
                     Sleep(1000)
-                    GotoHiveFromField()
                     return
                 }
             }
         }
+
+        gatherDuration := DurationFromSeconds(nowUnix() - gatherStartTime, "mm:ss")
+        SetStatus("Gathering", "Ended`nTime " gatherDuration " - " interruptReason " - Return: " toHiveByMethod%currentFieldIndex%)
     } else if aiGather%currentFieldIndex% = true {
+        SetTimer(AIGatherZoomOut, 750)
+
         startTime := A_TickCount
+        gatherStartTime := nowUnix()
 
         retryCount := 0
         maxRetries := 20 ; try for about 1 second
@@ -141,7 +210,7 @@ GatherCode() {
 
         while (retryCount < maxRetries && !success) {
             try {
-                writeSettings("AIGather", "currently_gathering", "true")
+                IniWrite("true", "settings/settings.ini", "AIGather", "currently_gathering")
                 LogMessage("AHK: Set gather state to 'true' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
                 success := true
             } catch Error as e {
@@ -158,8 +227,17 @@ GatherCode() {
         }
 
         interruptReason := "Time Limit"
+        strikes := 0
         loop {
-            DisconnectCheck()
+            if driftComp%currentFieldIndex%
+                MoveToSaturator()
+            if (!ActiveHoney() && A_TickCount - startTime > 30000) {
+                if (strikes > 2) {
+                    interruptReason := "Inactive Honey"
+                    break
+                }
+                strikes++
+            }
             if (BackpackPercent()) {
                 if (UseSlots("Microconverter")) {
                     continue
@@ -174,11 +252,32 @@ GatherCode() {
                 break  ; gather time passed
             }
 
-            Sleep(100)
+            if (allowGatherInterrupt) {
+                interrupt := 0
+                for bossName in bosses {
+                    if (StrLower(bossName) && (nowUnix() - Last%bossName% >= floor(bosses[bossName] * (1 - (mobRespawnTime ? mobRespawnTime : 0) * 0.01)))) {
+                        interrupt++
+                    }
+                }
+                for mobName in mobs {
+                    if (StrLower(mobName) && (nowUnix() - Last%mobName% >= floor(mobs[mobName] * (1 - (mobRespawnTime ? mobRespawnTime : 0) * 0.01)))) {
+                        interrupt++
+                    }
+                }
+                if (interrupt > 1) {
+                    SetStatus("Interrupt", "Gathering interrupted by a mob or boss")
+                    Sleep(1000)
+                    return
+                }
+            }
+
+            Sleep(500)
         }
 
-        SetStatus("Gathering", "Ended`nTime " gatherTime%currentFieldIndex% " - " interruptReason " - Return: " toHiveByMethod%currentFieldIndex%)
+        SetTimer(AIGatherZoomOut, 0)
 
+        gatherDuration := DurationFromSeconds(nowUnix() - gatherStartTime, "mm:ss")
+        SetStatus("Gathering", "Ended`nTime " gatherDuration " - " interruptReason " - Return: " toHiveByMethod%currentFieldIndex%)
 
         ; Clear gather state in settings.ini with robust retry logic
         retryCount := 0
@@ -187,7 +286,7 @@ GatherCode() {
 
         while (retryCount < maxRetries && !success) {
             try {
-                writeSettings("AIGather", "currently_gathering", "false")
+                IniWrite("false", "settings/settings.ini", "AIGather", "currently_gathering")
                 LogMessage("AHK: Set gather state to 'false' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
                 success := true
             } catch Error as e {
@@ -543,7 +642,7 @@ BackpackPercent(rtn := 0) {
 
 RunPattern() {
     FacingFieldCorner := 0
-    if ((gatherField%currentFieldIndex% = "pine tree" && ((gatherField%currentFieldIndex%SprinklerLocation = "upper" || gatherField%currentFieldIndex%SprinklerLocation = "upper left") && rotate%currentFieldIndex% = "left" && rotateAmmount%currentFieldIndex% = 1)) || ((gatherField%currentFieldIndex% = "pineapple" && (gatherField%currentFieldIndex%SprinklerLocation = "upper left" && rotate%currentFieldIndex% = "left" && rotateAmmount%currentFieldIndex% = 1))) || (gatherField%currentFieldIndex% = "spider" && ((gatherField%currentFieldIndex%SprinklerLocation = "upper" || gatherField%currentFieldIndex%SprinklerLocation = "upper left") && rotate1%currentFieldIndex% = "left" && rotateAmmount%currentFieldIndex% = 1))) {
+    if ((gatherField%currentFieldIndex% = "pine tree" && ((gatherField%currentFieldIndex%SprinklerLocation = "upper" || gatherField%currentFieldIndex%SprinklerLocation = "upper left") && rotate%currentFieldIndex% = "left" && rotateAmount%currentFieldIndex% = 1)) || ((gatherField%currentFieldIndex% = "pineapple" && (gatherField%currentFieldIndex%SprinklerLocation = "upper left" && rotate%currentFieldIndex% = "left" && rotateAmount%currentFieldIndex% = 1))) || (gatherField%currentFieldIndex% = "spider" && ((gatherField%currentFieldIndex%SprinklerLocation = "upper" || gatherField%currentFieldIndex%SprinklerLocation = "upper left") && rotate1%currentFieldIndex% = "left" && rotateAmount%currentFieldIndex% = 1))) {
         FacingFieldCorner := 1
     }
     pattern := patternField%currentFieldIndex%

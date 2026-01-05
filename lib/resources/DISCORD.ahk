@@ -8,36 +8,36 @@ global commandPrefix := readSettings("Settings", "commandprefix")
 global status_buffer := [], command_buffer := []
 
 ; 1. THE SCHEDULER: Schedules a network check every 5 seconds. This is a safe and reasonable interval.
-SetTimer(ScheduleCommandFetch, 5000)
+SetTimer(ScheduleCommandFetch, 2000)
 
 ; 2. THE PROCESSOR: Checks for commands to run very frequently. This is a lightweight, non-blocking check.
 SetTimer(ProcessCommandBuffer, 250) ; Runs 4 times per second
 
 ScheduleCommandFetch()
 {
-	; This function's only job is to launch the worker on its own thread.
-	; The negative value means it runs once, as soon as possible, without disrupting other timers.
-	SetTimer(FetchCommandsWorker, -1)
+    ; This function's only job is to launch the worker on its own thread.
+    ; The negative value means it runs once, as soon as possible, without disrupting other timers.
+    SetTimer(FetchCommandsWorker, -1)
 }
 
 FetchCommandsWorker()
 {
-	; This is the "worker" function. It runs on a separate thread.
-	; The blocking network call inside discord.GetCommands() happens here.
-	; Because it's on its own thread, it WILL NOT freeze your main macro's movement or actions.
-	; It adds any found commands to the global 'command_buffer'.
-	discord.GetCommands(MainChannelID)
+    ; This is the "worker" function. It runs on a separate thread.
+    ; The blocking network call inside discord.GetCommands() happens here.
+    ; Because it's on its own thread, it WILL NOT freeze your main macro's movement or actions.
+    ; It adds any found commands to the global 'command_buffer'.
+    discord.GetCommands(MainChannelID)
 }
 
 ProcessCommandBuffer()
 {
-	; This function is very fast. It just checks if the command buffer has items.
-	; If the FetchCommandsWorker added commands, this will execute the oldest one.
-	if (command_buffer.Length > 0)
-	{
-		; The command() function is responsible for processing and removing the item from the buffer.
-		command(command_buffer[1])
-	}
+    ; This function is very fast. It just checks if the command buffer has items.
+    ; If the FetchCommandsWorker added commands, this will execute the oldest one.
+    if (command_buffer.Length > 0)
+    {
+        ; The command() function is responsible for processing and removing the item from the buffer.
+        command(command_buffer[1])
+    }
 }
 
 discord.SendEmbed("Connected to discord!", 5066239)
@@ -58,6 +58,8 @@ status(status)
 		{
 			color := ((state = "Disconnected") || (state = "You Died") || (state = "Failed") || (state = "Error") || (state = "Aborting") || (state = "Missing") || (state = "Canceling") || InStr(objective, "Phantom") || InStr(objective, "No Balloon Convert")) ? 15085139 ; red - error
 				: (InStr(objective, "Tunnel Bear") || InStr(objective, "King Beetle") || InStr(objective, "Vicious Bee") || InStr(objective, "Snail") || InStr(objective, "Crab") || InStr(objective, "Mondo") || InStr(objective, "Commando")) ? 7036559 ; purple - boss / attacking
+				: ((state = "Vichop") && (InStr(objective, "Killed") || InStr(objective, "Session:"))) ? 48128 ; green - vichop success
+				: ((state = "Vichop") && (InStr(objective, "Vicious bee found") || InStr(objective, "Night detected"))) ? 7036559 ; purple - vichop action
 				: (InStr(objective, "Planter") || (state = "Placing") || (state = "Collecting") || (state = "Holding")) ? 48355 ; blue - planters
 				: ((state = "Interupted") || (state = "Reporting") || (state = "Warning")) ? 14408468 ; yellow - alert
 				: ((state = "Gathering")) ? 9755247 ; light green - gathering
@@ -82,7 +84,7 @@ status(status)
 				hwnd := GetRobloxHWND(), GetRobloxClientPos(hwnd), pBM := Gdip_BitmapFromScreen((windowWidth > 0) ? (windowX "|" windowY "|" windowWidth "|" windowHeight) : 0)
 		}
 
-		discord.SendEmbed(message, color, , pBM?, channel?), IsSet(pBM) && pBM > 0 && Gdip_DisposeImage(pBM)
+		discord.SendEmbed(message, color, ,pBM?, channel?), IsSet(pBM) && pBM > 0 && Gdip_DisposeImage(pBM)
 	}
 }
 
@@ -136,7 +138,7 @@ command(command)
 
 		case "stop", "reload":
 			discord.SendEmbed("Stopping Macro...", 5066239, , , , id)
-			Stop(0)
+			Stop(1)
 
 
 		case "pause", "unpause":
@@ -302,8 +304,8 @@ class discord
 	static SendEmbed(message, color := 3223350, content := "", pBitmap := 0, channel := "", replyID := 0)
 	{
 		payload_json :=
-			(
-				'
+		(
+		'
 		{
 			"content": "' content '",
 			"embeds": [{
@@ -314,7 +316,7 @@ class discord
 			' (replyID ? (',"allowed_mentions": {"parse": []}, "message_reference": {"message_id": "' replyID '", "fail_if_not_exists": false}') : '') '
 		}
 		'
-			)
+		)
 
 		if pBitmap
 			this.CreateFormData(&postdata, &contentType, [Map("name", "payload_json", "content-type", "application/json", "content", payload_json), Map("name", "files[0]", "filename", "ss.png", "content-type", "image/png", "pBitmap", pBitmap)])

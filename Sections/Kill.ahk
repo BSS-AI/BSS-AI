@@ -26,9 +26,9 @@ CheckKill(b) {
     }
     for mobName in mobs {
         if (%mobName% && (nowUnix() - Last%mobName% >= floor(mobs[mobName] * (1 - (mobRespawnTime ? mobRespawnTime : 0) * 0.01)))) {
-            KillMob(mobName)
             if b
                 return true
+            KillMob(mobName)
         }
     }
 }
@@ -206,7 +206,7 @@ KillBoss(boss) {
                     Sleep 1000
                 }
             } else { ;No TunnelBear here...try again in 2 hours
-                LastTunnelBear := nowUnix() - floor(172800 * (1 - (mobRespawnTime ? mobRespawnTime : 0) * 0.01)) + 7200
+                LastTunnelBear := nowUnix() - 7200
                 writeSettings("Kill", "LastTunnelBear", LastTunnelBear, "Settings\timers.ini")
             }
             ;loot
@@ -353,10 +353,16 @@ KillBoss(boss) {
                 ;check for amulet
                 if !AmuletPrompt(((kingBeetleKeepOld = 1) ? 1 : 3), "King Beetle") {
                     SetStatus("Looting", "King Beetle")
-                    Move(10, LeftKey)
-                    Loot(13.5, 7, "right", 1)
+                    Move(8, LeftKey)
+                    loop 7 {
+                        Move(13.5, FwdKey)
+                        Move(1.5, RightKey)
+                        Move(13.5, BackKey)
+                        Move(1.5, RightKey)
+                    }
                 }
-                writeSettings("Kill", "LastKingBeetle", LastKingBeetle := nowUnix(), "Settings\timers.ini")
+                LastKingBeetle := nowUnix()
+                writeSettings("Kill", "LastKingBeetle", LastKingBeetle, "Settings\timers.ini")
                 break
             }
         }
@@ -902,7 +908,7 @@ KillBoss(boss) {
                 SetStatus("Failed", "Coco Crab")
             }
         }
-    }
+    } ; else if (boss == "mondo")
 }
 
 Kill_Werewolf() {

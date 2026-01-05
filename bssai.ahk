@@ -1,31 +1,16 @@
 ;@Ahk2Exe-SetName BSS-AI Macro
 ;@Ahk2Exe-SetDescription Property Of discord.gg/bssai
-;@Ahk2Exe-SetVersion 0.0.1
+;@Ahk2Exe-SetVersion 0.0.2
 ;@Ahk2Exe-SetCopyright Copyright © 2025 BSS-AI
 ;@Ahk2Exe-SetCompanyName BSS-AI
 ;@Ahk2Exe-SetProductName BSS-AI Macro
 ;@Ahk2Exe-SetOrigFilename BSSAI.exe
 #MaxThreads 255
 
-; BSSAI - Bee Swarm Simulator AI Macro
-; Copyright (C) 2025 BSS AI
-;
-; This program is free software: you can redistribute it and/or modify
-; it under the terms of the GNU General Public License as published by
-; the Free Software Foundation, either version 3 of the License, or
-; (at your option) any later version.
-;
-; This program is distributed in the hope that it will be useful,
-; but WITHOUT ANY WARRANTY; without even the implied warranty of
-; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-; GNU General Public License for more details.
-;
-; You should have received a copy of the GNU General Public License
-; along with this program. If not, see <https://www.gnu.org/licenses/>.
-;
-; Portions of this code are based on work by Natro (GPL v3).
+global beesmas := true
 
 global MacroState := 0
+global MacroStartTime := 0
 global ShiftLockEnabled := 0
 global TCFBKey := FwdKey := w := "sc011" ; w
 global TCLRKey := LeftKey := a := "sc01e" ; a
@@ -49,12 +34,20 @@ global Jumptime := 1200
 global SC_1 := "sc002"
 global youDied := 0
 global yoloPid := 0
+global VicDetectionResult := ""
+global VicDetectionReady := false
+; --- Communication Method Selection ---
+global beesmas := true
+global COMMUNICATION_METHOD := IniRead(A_ScriptDir . "\Settings\settings.ini", "AIGather", "communication_method", "COM")
+
 global currentWalk := { pid: "", name: "" }
 
 #Include %A_ScriptDir%\lib\Variables.ahk
 InitilizeVariables()
 
 SendMode "Event"
+CoordMode "Mouse", "Screen"
+CoordMode "Pixel", "Screen"
 
 #Include %A_ScriptDir%\lib\resources\Gdip_All.ahk
 #Include %A_ScriptDir%\lib\resources\Gdip_ImageSearch.ahk
@@ -63,13 +56,13 @@ global pToken := Gdip_Startup()
 #Include %A_ScriptDir%\lib\socket.ahk
 #Include %A_ScriptDir%\lib\resources\AttachmentBuilder.ahk
 #Include %A_ScriptDir%\lib\resources\DISCORD.ahk
+#Include %A_ScriptDir%\lib\resources\discord_rich.ahk
 #Include %A_ScriptDir%\lib\resources\EmbedBuilder.ahk
 #Include %A_ScriptDir%\lib\resources\FormData.ahk
 #Include %A_ScriptDir%\lib\resources\ImagePut.ahk
 #Include %A_ScriptDir%\lib\resources\JSON.ahk
 #Include %A_ScriptDir%\lib\resources\JSONN.ahk
 #Include %A_ScriptDir%\lib\resources\OCR.ahk
-#Include %A_ScriptDir%\lib\resources\RapidOcr.ahk
 #Include %A_ScriptDir%\lib\resources\Roblox.ahk
 #Include %A_ScriptDir%\lib\resources\TakeScreenshot.ahk
 #Include %A_ScriptDir%\lib\resources\CNG.ahk
@@ -85,19 +78,38 @@ global pToken := Gdip_Startup()
 #Include %A_ScriptDir%\Sections\Gather.ahk
 #Include %A_ScriptDir%\Sections\Planter.ahk
 #Include %A_ScriptDir%\Sections\Quest.ahk
+#Include %A_ScriptDir%\Sections\Vichop.ahk
 
 #Include %A_ScriptDir%\Patterns\Patterns.ahk
 #Include %A_ScriptDir%\Assets\bitmaps.ahk
 
 SetKeyDelay Integer(readSettings("Settings", "keydelay"))
-global COMMUNICATION_METHOD := readSettings("AIGather", "communication_method")
 
 global currentFieldIndex := 1
 global CurrentField := gatherField%currentFieldIndex%
 
 ; --- Debug & Path Settings ---
-global EnableLogging := readSettings("Debug", "enable_logging")
-global ConnectionTimeout := readSettings("Debug", "connection_timeout")
+global EnableLogging := IniRead(A_ScriptDir . "\Settings\settings.ini", "Debug", "enable_logging", true)
+global SharedFilePath := IniRead(A_ScriptDir . "\Settings\settings.ini", "Debug", "shared_file_path", "DEFAULT")
+global ConnectionTimeout := IniRead(A_ScriptDir . "\Settings\settings.ini", "Debug", "connection_timeout", 600)
+
+GetSharedPath() {
+    global SharedFilePath
+    if (SharedFilePath = "DEFAULT" || SharedFilePath = "") {
+        path := A_ScriptDir "\lib"
+        LogMessage("Using DEFAULT shared file path: " . path)
+        return path
+    } else {
+        if !DirExist(SharedFilePath) {
+            LogMessage("WARNING: Custom shared path '" . SharedFilePath . "' does not exist. Falling back to DEFAULT.")
+            path := A_ScriptDir "\lib"
+            LogMessage("Using DEFAULT shared file path: " . path)
+            return path
+        }
+        LogMessage("Using CUSTOM shared file path from INI: " . SharedFilePath)
+        return SharedFilePath
+    }
+}
 
 LogMessage(message) {
     global EnableLogging
@@ -106,7 +118,7 @@ LogMessage(message) {
     }
     try {
         logEntry := FormatTime(, "yyyy-MM-dd HH:mm:ss") . " - " . message . "`n"
-        FileAppend(logEntry, A_AppData "\BSSAI\lib\ahk_log.txt")
+        FileAppend(logEntry, A_ScriptDir "\lib\ahk_log.txt")
     } catch {
         ; Fail silently if logging fails
     }
@@ -157,6 +169,17 @@ class ComApiHandler {
         return true
     }
 
+    static HandleVicDetect(result := "") {
+        ; Called BY Python with detection result
+        global VicDetectionResult, VicDetectionReady
+        if (result != "") {
+            VicDetectionResult := result
+            VicDetectionReady := true
+            OutputDebug("VIC_DETECT result received: " . result)
+        }
+        return true
+    }
+
     static HasValue(arr, value) {
         for item in arr {
             if (item = value) {
@@ -176,7 +199,7 @@ InitializeCOMServer() {
         waited := 0
 
         while waited < maxWait {
-            config_check := readSettings("Communication", "python_clsid")
+            config_check := IniRead(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_clsid", "")
             if (config_check != "") {
                 global ComCLSID := config_check
                 LogMessage("COM: Read CLSID " . ComCLSID . " from settings.ini")
@@ -212,6 +235,11 @@ class ComApiClass {
                 return ComApiHandler.HandleSaturator()
             case "IDLE":
                 return ComApiHandler.HandleIdle()
+            case "VIC_DETECT":
+                return ComApiHandler.HandleVicDetect(param1)
+            case "VIC_DETECT_REQUEST":
+                ; AHK requesting detection - Python will handle and call back with VIC_DETECT
+                return true
             default:
                 OutputDebug("Unknown COM command: " . command)
                 return false
@@ -219,7 +247,45 @@ class ComApiClass {
     }
 }
 
-; ObjRegisterActive implementation (exact copy from demonstration)
+; --- VIC Detection Helper Function ---
+RequestVicDetection(timeout := 10000) {
+    global VicDetectionResult, VicDetectionReady
+
+    settingsIni := A_ScriptDir . "\\Settings\\settings.ini"
+
+    ; Reset local state
+    VicDetectionResult := ""
+    VicDetectionReady := false
+
+    ; Raise request flag (used by both COM and SOCKET paths)
+    try {
+        IniWrite("true", settingsIni, "Vichop", "vic_detect_request")
+        LogMessage("RequestVicDetection: Set vic_detect_request flag")
+    } catch Error as e {
+        LogMessage("RequestVicDetection: ERROR setting flag - " . e.Message)
+        return false
+    }
+
+    ; Wait for result with timeout - rely on live COM/Socket callbacks only
+    startTime := A_TickCount
+    LogMessage("RequestVicDetection: Waiting for VIC detection result via " . COMMUNICATION_METHOD)
+    while (!VicDetectionReady && (A_TickCount - startTime < timeout)) {
+        Sleep(50)
+    }
+
+    if (!VicDetectionReady) {
+        LogMessage("RequestVicDetection: TIMEOUT after " . timeout . "ms")
+        return false
+    }
+
+    result := (VicDetectionResult = "true")
+    LogMessage("RequestVicDetection: Live callback received with result: " . VicDetectionResult)
+    LogMessage("RequestVicDetection: Received result: " . (result ? "TRUE (Vicious Bee Found)" : "FALSE (No Vicious Bee)"))
+
+    return result
+}
+
+; ObjRegisterActive implementation
 ObjRegisterActive(obj, CLSID, Flags := 0) {
     static cookieJar := Map()
     if (!CLSID) {
@@ -258,7 +324,7 @@ class SocketHandler {
         LogMessage("Socket: Waiting for port in settings.ini (Timeout: " . maxWait . "s)")
 
         while waited < maxWait {
-            portStr := readSettings("Communication", "python_port")
+            portStr := IniRead(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_port", "")
             if (portStr != "") {
                 this.port := Integer(portStr)
                 LogMessage("Socket: Read port " . this.port . " from settings.ini")
@@ -292,6 +358,7 @@ class SocketHandler {
     }
 
     OnRead(sock, err) {
+        global VicDetectionResult, VicDetectionReady
         if err {
             OutputDebug("Socket OnRead error: " . err)
             return
@@ -300,6 +367,7 @@ class SocketHandler {
         if !data
             return
 
+        OutputDebug("Socket OnRead raw: [" . StrLen(data) . "] '" . data . "'")
         trimmed_data := Trim(data)
 
         if (trimmed_data = "w,0") {
@@ -313,7 +381,19 @@ class SocketHandler {
             return
         }
 
-        commands := StrSplit(data, "`n", "`r")
+        ; Handle VIC detection result from Python robustly (may contain multiple lines)
+        lines := StrSplit(data, "`n", "`r")
+        for line in lines {
+            l := Trim(line)
+            if (l = "true" || l = "false") {
+                VicDetectionResult := l
+                VicDetectionReady := true
+                OutputDebug("VIC detection result received via Socket: " . l)
+                return
+            }
+        }
+
+        commands := lines
         this.ExecutePythonMovement(commands)
     }
 
@@ -374,27 +454,31 @@ class SocketHandler {
 }
 ; --- End Socket Client Implementation ---
 
-Start()
-
-;global exe_path32 := A_AhkPath
-;global exe_path64 := (A_Is64bitOS && FileExist("lib\AutoHotkey64.exe")) ? (A_WorkingDir "\lib\AutoHotkey64.exe") : A_AhkPath
-
 Start() {
     LogMessage("--- Macro Start() function called ---")
     LogMessage("Cleaning up old communication data from settings.ini")
 
     try {
-        writeSettings("Communication", "python_port", "", , false)
-        writeSettings("Communication", "python_clsid", "", , false)
+        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_port")
+        IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_clsid")
         LogMessage("Deleted old communication data from settings.ini")
     }
 
     try {
+        sharedPath := GetSharedPath()
+        LogMessage("Cleaning up old communication files from: " . sharedPath)
+
         try {
-            writeSettings("AIGather", "currently_gathering", false)
+            IniWrite("false", "settings/settings.ini", "AIGather", "currently_gathering")
             LogMessage("Reset gather state to 'false' in settings.ini")
         } catch Error as e {
             LogMessage("Warning: Failed to reset gather state in settings.ini - Error: " . e.Message)
+        }
+
+        resetPosFile := sharedPath . "\reset_position.txt"
+        if FileExist(resetPosFile) {
+            FileDelete(resetPosFile)
+            LogMessage("Deleted old reset position file.")
         }
     }
 
@@ -403,7 +487,7 @@ Start() {
     global COMMUNICATION_METHOD
     global yoloPid
 
-    yoloLogPath := A_AppData . "\BSSAI\lib\yolo_log.txt"
+    yoloLogPath := A_ScriptDir . "\lib\yolo_log.txt"
     if !FileExist(yoloLogPath) {
         try {
             FileAppend("", yoloLogPath)
@@ -412,10 +496,9 @@ Start() {
             LogMessage("Warning: Failed to create yolo_log.txt at " yoloLogPath " Error: " . e.Message)
         }
     }
-    MsgBox "YOLO.exe (AI Program) takes ~10 seconds to load. The macro will not start until YOLO.exe is done loading.`n`nPress OK to start loading!", "Attention", 0x40
-    installPath := FileRead("C:\ProgramData\BSSAI\.install-location.txt", "UTF-8")
-    SetStatus("Startup", "BSS AI")
-    yoloPid := Run('"' . installPath . '\lib\yolo.exe" ' . COMMUNICATION_METHOD, , "Hide")
+
+    yoloPid := Run("yolo.exe " . COMMUNICATION_METHOD, "lib")
+
     if (COMMUNICATION_METHOD = "COM") {
         InitializeCOMServer()
     } else {
@@ -424,6 +507,7 @@ Start() {
 
     SetStatus("Startup", "BSS AI")
     MacroState := 1
+    global MacroStartTime := nowUnix()  ; Set macro start time for Discord Rich Presence
     SetTimer(PressAlwaysSlots, 1000)
     global resetTime := nowUnix()
     SetTimer(DeathCheck, 1000)
@@ -452,6 +536,7 @@ Stop(close) {
 
     SetStatus("End", "BSS AI")
     MacroState := 0
+    global MacroStartTime := 0
 
     try {
         IniDelete(A_ScriptDir . "\Settings\settings.ini", "Communication", "python_port")
@@ -477,34 +562,37 @@ Stop(close) {
 
     if (yoloPid) {
         Run("taskkill /F /T /PID " . yoloPid, , "Hide")
-    } else {
-        Run("taskkill /F /IM yolo.exe /T", , "Hide")
+        Run("taskkill /IM yolo.exe /F", , 'Hide')
     }
     Gdip_Shutdown(pToken)
     StopMovement()
+    SetTimer(PressAlwaysSlots, 0)
+    SetTimer(DeathCheck, 0)
+    SetTimer(ScheduleCommandFetch, 0)
+    SetTimer(ProcessCommandBuffer, 0)
     Sleep(1000)
     if WinExist("BSS AI")
         WinActivate("BSS AI")
     Sleep(500)
     if (close == 1) {
         ExitApp()
+    } else {
+        loop {
+            Sleep 2000
+            discord.GetCommands(MainChannelID)
+            if (command_buffer.Length > 0)
+            {
+                command(command_buffer[1])
+            }
+        }
     }
 }
 
 BSSAI() {
-    global Actions := [action1, action2, action3, action4, action5]
-    global GatherFields, currentFieldIndex
+    global Actions := [action1, action2, action3, action4, action5, action6]
+    global GatherFields, currentFieldIndex, VichopExclusive
+
     for ActionName in Actions {
-        if (ActionName == "Testing") {
-            SetStatus("Starting", "Testing")
-            gt_pinetree()
-            Sleep(1000)
-            wf_pinetree()
-            Move(1.5, "s") ;walk backwards to avoid thicker hives
-            Move(35, "d") ;walk to ramp
-            Move(2.7, "s") ;center with hive pads
-            findHiveSlot()
-        }
         if (ActionName == "Gather") {
             if (GatherFields.Length > 0) {
                 SetStatus("Starting", "Gather")
@@ -513,7 +601,7 @@ BSSAI() {
                 SetupField()
                 GatherCode()
                 GotoHiveFromField()
-                currentFieldIndex := currentFieldIndex + 1
+                currentFieldIndex := currentFieldIndex + 1 == 4 ? 1 : currentFieldIndex + 1
                 CurrentField := gatherField%currentFieldIndex%
             }
         } else {
@@ -576,12 +664,21 @@ BSSAI() {
                         SetStatus("Starting", "Quest")
                         DoPolarQuest()
                     }
+                case "Vichop":
+                    result := vichop()
+                    if (result == "SKIP") {
+                        continue ; vichop quota exhausted for this hour
+                    }
+                    if (result == "EXCLUSIVE_RESTART") {
+                        break ; restart from priority 1
+                    }
             }
         }
     }
 }
 
+Start()
+
 F1:: Start()
 F2:: PauseUnpause()
-
 F3:: Stop(1)

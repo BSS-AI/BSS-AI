@@ -117,6 +117,7 @@ HasteMove(distance1, distance2, key1, key2) {
 
 	send "{" key1 " down}"
 	
+
 	if (distance1 != 0) {
 		; There will be a diagonal, so there is a minor direction.
 		send "{" key2 " down}"
@@ -132,23 +133,6 @@ HasteMove(distance1, distance2, key1, key2) {
 	send "{" key1 " up}"
 }
 
-HasteWalk(n, hasteCap:=0)
-{
-	;ToolTip(movespeed)
-	global s
-	global f
-
-	d := 0
-	l := n * 4
-
-	d += (v := HasteDetectMovespeed(hasteCap)) * (f - s)
-
-
-	while (d < l) {
-		d += ((v + 0) + (v := HasteDetectMovespeed(hasteCap)))/2 * (f - s)
-	}
-}
-
 DrawRectangle(x1, y1, x2, y2, color := "Red") {
     static Overlay := Gui("+AlwaysOnTop -Caption +ToolWindow")
     Overlay.Destroy()
@@ -156,84 +140,4 @@ DrawRectangle(x1, y1, x2, y2, color := "Red") {
     Overlay.Color := color
     Overlay.Border := true
     Overlay.Show("x" x1 " y" y1 " w" (x2 - x1) " h" (y2 - y1))
-}
-
-HasteDetectMovespeed(hasteCap:=0)
-{
-	global s, f
-	s := (DateDiff(A_NowUTC, "1970", "s") * 1000 + A_MSec) / 1000
-	
-	global hasty_guard, gifted_hasty, base_movespeed, buff_characters, bitmaps, offsetY, windowWidth, pGraphics
-	
-	; check roblox window exists
-	GetRobloxClientPos()
-	if (windowWidth = 0)
-		return (DllCall("QueryPerformanceCounter", "Int64*", &f := 0), 10000000) ; large number to break walk loop
-	
-	; get screen bitmap of buff area from client window
-	chdc := CreateCompatibleDC(), hbm := CreateDIBSection(windowWidth, 30, chdc), obm := SelectObject(chdc, hbm), hhdc := GetDC()
-	BitBlt(chdc, 0, 0, windowWidth, 70, hhdc, windowX, windowY+offsetY+48) ; was 30 not 70
-	ReleaseDC(hhdc)
-
-	pBMArea := Gdip_CreateBitmapFromHBITMAP(hbm)
-
-	SelectObject(chdc, obm), DeleteObject(hbm), DeleteDC(hhdc), DeleteDC(chdc)
-	
-	; find haste buffs (haste, coconut haste)
-	x := 0
-	haste := 0 ; initially haste is number of hastes found (since haste = coconut haste icon)
-	Loop 3 ; melody, haste, coconut haste
-	{
-		if (Gdip_ImageSearch(pBMArea, bitmaps["pBMHaste"], &list, x, 14, , , , , 6) != 1)
-			break ; no possibility of haste
-		
-		x := SubStr(list, 1, InStr(list, ",")-1), y := SubStr(list, InStr(list, ",")+1)
-		
-		if (Gdip_ImageSearch(pBMArea, bitmaps["pBMMelody"], , x+2, , x+Max(16, 2*y-24), y, 12) = 0)
-		{
-			haste++ ; not melody, so haste
-			if (haste = 1)
-				x1 := x, y1 := y ; normal haste is always leftmost image
-		}
-		
-		x += 2*y-14 ; skip this buff on next search
-	}
-	; analyse haste stacks (haste: 0=none, 1=haste, 2=haste+coconut)
-	coconut_haste := (haste = 2) ? 1 : 0
-	if haste
-	{
-		Loop 9 ; look for each digit
-		{
-			if (Gdip_ImageSearch(pBMArea, buff_characters[10-A_Index], , x1+2*y1-44, Max(0, y1-18), x1+2*y1-14, y1-1) = 1)
-			{
-				ToolTip((10-A_Index) . "")
-				haste := (A_Index = 9) ? 10 : 10 - A_Index ; haste now becomes stack number
-				break
-			}
-			if (A_Index = 9)
-				haste := 1 ; no multiplier, therefore 1x
-		}
-	}
-
-	ToolTip(haste)
-	
-	; find other movespeed affecting buffs (haste+, bear, oil, super smoothie)
-	haste_plus := (Gdip_ImageSearch(pBMArea, bitmaps["pBMHastePlus"], , , 25, , 27, , , 2) = 1) ; SearchDirection 2 is faster for on/off
-	oil := (Gdip_ImageSearch(pBMArea, bitmaps["pBMOil"], , , 25, , 27, 4, , 2) = 1)
-	smoothie := (Gdip_ImageSearch(pBMArea, bitmaps["pBMSmoothie"], , , 25, , 27, 4, , 2) = 1)
-	bear := 0
-	for v in ["Brown","Black","Panda","Polar","Gummy","Science","Mother"]
-	{
-		if (Gdip_ImageSearch(pBMArea, bitmaps["pBMBear" v], , , 25, , 27, 8, , 2) = 1)
-		{
-			bear := 1
-			break
-		}
-	}
-	Gdip_DisposeImage(pBMArea)
-
-	; use movespeed formula on obtained values
-	v := ((base_movespeed + (coconut_haste ? 10 : 0) + (bear ? 4 : 0)) * (hasty_guard ? 1.1 : 1) * (gifted_hasty ? 1.15 : 1) * (1 + max(0, haste-hasteCap)*0.1) * (haste_plus ? 2 : 1) * (oil ? 1.2 : 1) * (smoothie ? 1.25 : 1))
-	f := (DateDiff(A_NowUTC, "1970", "s") * 1000 + A_MSec) / 1000
-	return v
 }

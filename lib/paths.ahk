@@ -15,6 +15,22 @@ Jump2(movements*) {
     Sleep Max(1400 - (current - jumped) // 10000, -1)
 }
 
+ActivateGlider() {
+    send "{" SC_Space " down}"
+    HyperSleep(50)
+    send "{" SC_Space " up}"
+    HyperSleep(300)
+    send "{" SC_Space " down}"
+    HyperSleep(50)
+    send "{" SC_Space " up}"
+}
+
+Jump() {
+    send "{" SC_Space " down}"
+    HyperSleep(50)
+    send "{" SC_Space " up}"
+}
+
 gt_ramp() {
     global HiveConfirmed, HiveSlot, FwdKey, RightKey
     HiveConfirmed := 0
@@ -42,7 +58,7 @@ gt_redcannon() {
 
     Jump()
     Move(3, d)
-    Move(1.5, w, d)
+    Move(1.7, w, d)
     success := 0
     Loop 10
     {
@@ -488,43 +504,42 @@ gt_blueberrydis() {
 gt_candles() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey, RotLeft, RotRight
     function := A_ThisFunc
-    SetStatus("Traveling", "Candles")
     gt_ramp()
     movement :=
         (
             '
-    Send "{space down}{d down}"
-    Sleep(100)
-    Send "{space up}"
-    BSSWalk(50, RightKey)
-    Send "{w down}"
-    BSSWalk(45, FwdKey, RightKey)
-    Send "{w up}"
-    BSSWalk(750, RightKey)
-    Send "{space down}"
-    HyperSleep(300)
-    Send "{space up}{w down}"
-    BSSWalk(100, FwdKey, RightKey)
-    Send "{w up}"
-    BSSWalk(75, RightKey)
-    Send "{d up}"
-    Send "{' . RotRight . ' 2}"
-    Sleep(200)
-    Send "{space down}"
-    HyperSleep(100)
-    Send "{space up}"
-    BSSWalk(3, FwdKey)
-    Sleep(1000)
-    Send "{space down}{d down}"
-    HyperSleep(100)
-    Send "{space up}"
-    HyperSleep(300)
-    Send "{space}{d up}"
-    HyperSleep(1000)
-    BSSWalk(4, RightKey)
-    BSSWalk(14, FwdKey)
-    BSSWalk(8, RightKey)
-    BSSWalk(5, LeftKey)
+Send "{space down}{" RightKey " down}"
+Sleep 100
+Send "{space up}"
+Walk(2)
+Send "{" FwdKey " down}"
+Walk(1.8)
+Send "{" FwdKey " up}"
+Walk(30)
+send "{space down}"
+HyperSleep(300)
+send "{space up}{" FwdKey " down}"
+Walk(4)
+send "{" FwdKey " up}"
+Walk(3)
+send "{" RightKey " up}{" RotRight " 2}"
+Sleep 200
+send "{space down}"
+HyperSleep(100)
+send "{space up}"
+BSSWalk(3, FwdKey)
+Sleep 1000
+send "{space down}{" RightKey " down}"
+HyperSleep(100)
+send "{space up}"
+HyperSleep(300)
+send "{space}{" RightKey " up}"
+HyperSleep(1000)
+BSSWalk(4, RightKey)
+BSSWalk(14, FwdKey)
+BSSWalk(8, RightKey)
+BSSWalk(5, LeftKey)
+
     '
         )
     CreatePath(movement)
@@ -711,7 +726,6 @@ gt_extrememm() {
 gt_feast() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey, RotLeft, RotRight
     function := A_ThisFunc
-    SetStatus("Traveling", "Feast")
     if (MoveMethod = "walk") {
         gt_ramp()
         movement :=
@@ -785,7 +799,6 @@ gt_feast() {
 gt_gingerbread() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey, RotLeft, RotRight
     function := A_ThisFunc
-    SetStatus("Traveling", "Gingerbread")
     gt_ramp()
     movement :=
         (
@@ -895,7 +908,6 @@ gt_gummylair() {
 gt_gummybeacon() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey
     function := A_ThisFunc
-    SetStatus("Traveling", "Gummy Beacon")
     gt_ramp()
     gt_redcannon()
     movement :=
@@ -1021,7 +1033,6 @@ gt_honeystorm() {
 gt_lidart() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey, RotRight
     function := A_ThisFunc
-    SetStatus("Traveling", "Lid Art")
     if (MoveMethod = "walk") {
         gt_ramp()
         movement :=
@@ -1365,7 +1376,6 @@ gt_normalmm() {
 gt_rbpdelevel() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey
     function := A_ThisFunc
-    SetStatus("Traveling", "Robo Party")
     ;Didnt add webhook here because unsure of function name what it actually does
     gt_ramp()
     gt_redcannon()
@@ -1518,7 +1528,6 @@ gt_royaljellydis() {
 gt_samovar() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey, RotLeft, RotRight
     function := A_ThisFunc
-    SetStatus("Traveling", "Samovar")
     if (MoveMethod = "walk") {
         gt_ramp()
         movement :=
@@ -1617,7 +1626,6 @@ gt_samovar() {
 gt_snowmachine() {
     global function, MoveMethod, HiveSlot, FwdKey, LeftKey, BackKey, RightKey, RotLeft
     function := A_ThisFunc
-    SetStatus("Traveling", "Snow Machine")
     if (MoveMethod = "walk") {
         common_movement :=
             (
@@ -1947,7 +1955,6 @@ gt_stickerstack() {
 gt_stockings() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey
     function := A_ThisFunc
-    SetStatus("Travling", "Stockings")
     if (MoveMethod = "walk") {
         gt_ramp()
         movement :=
@@ -2288,20 +2295,19 @@ gt_wintermm() {
 gt_wreath() {
     global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey
     function := A_ThisFunc
-    SetStatus("Travling", "Wreath")
-    gt_ramp()
     movement :=
         (
             '
-    Send "{space down}{d down}"
-    Sleep(100)
-    Send "{space up}"
-    BSSWalk(50, RightKey)
-    Send "{w down}"
-    BSSWalk(45, FwdKey, RightKey)
-    Send "{w up}"
-    BSSWalk(19, RightKey)
-    BSSWalk(2.5, BackKey, LeftKey)
+    Send "{space down}{" RightKey " down}"
+Sleep 100
+Send "{space up}"
+Walk(2)
+Send "{" FwdKey " down}"
+Walk(1.8)
+Send "{" FwdKey " up}"
+BSSWalk(19, RightKey)
+BSSWalk(2.5, BackKey, LeftKey)
+
     '
         )
     CreatePath(movement)
@@ -2620,6 +2626,64 @@ gt_mountaintop() {
         BSSWalk(15.75, FwdKey, LeftKey)
         BSSWalk(13.5, FwdKey)
         Send "{' . RotRight . ' 4}"
+        '
+            )
+        CreatePath(movement)
+        KeyWait "F14", "D T5 L"
+        KeyWait "F14", "T60 L"
+        EndWalk()
+    }
+}
+
+gt_mondokillspot() {
+    global function, MoveMethod, FwdKey, LeftKey, BackKey, RightKey, RotRight
+    function := A_ThisFunc
+    SetStatus("Traveling", "Mountain Top Field")
+    if (MoveMethod = "cannon") {
+        gt_ramp()
+        gt_redcannon()
+        movement :=
+            (
+                '
+        Send "{e down}"
+        HyperSleep(100)
+        Send "{e up}{a down}{s down}"
+        HyperSleep(1525)
+        Send "{space 2}"
+        HyperSleep(1100)
+        Send "{a up}"
+        HyperSleep(1600)
+        Send "{s up}{space}"
+        Sleep(1500)
+        BSSWalk(3, FwdKey)
+        Send "{' . RotLeft . ' 2}"
+        '
+            )
+        CreatePath(movement)
+        KeyWait "F14", "D T5 L"
+        KeyWait "F14", "T60 L"
+        EndWalk()
+    } else {
+        gt_ramp()
+        movement :=
+            (
+                '
+        BSSWalk(67.5, BackKey, LeftKey)
+        Send "{' . RotRight . ' 4}"
+        BSSWalk(31, FwdKey)
+        BSSWalk(7.8, LeftKey)
+        BSSWalk(10, BackKey)
+        BSSWalk(5, RightKey)
+        BSSWalk(1.5, FwdKey)
+        BSSWalk(60, LeftKey)
+        BSSWalk(3.75, RightKey)
+        BSSWalk(85, FwdKey)
+        BSSWalk(45, RightKey)
+        BSSWalk(50, BackKey)
+        BSSWalk(60, RightKey)
+        BSSWalk(15.75, FwdKey, LeftKey)
+        BSSWalk(29, FwdKey)
+        Send "{' . RotRight . ' 2}"
         '
             )
         CreatePath(movement)
@@ -6979,64 +7043,74 @@ gt_nectarcondenser()
     gt_ramp()
     movement :=
         (
-            '
-    Send "{space down}{d down}"
-    Sleep(100)
-    Send "{space up}"
-    BSSWalk(50, RightKey)
-    Send "{w down}"
-    BSSWalk(45, FwdKey, RightKey)
-    Send "{w up}"
-    BSSWalk(750, RightKey)
-    Send "{d up}{space down}"
-    HyperSleep(300)
-    Send "{space up}"
-    BSSWalk(4, RightKey)
-    BSSWalk(5, FwdKey)
-    BSSWalk(3, RightKey)
-    Send "{space down}"
-    HyperSleep(300)
-    Send "{space up}"
-    BSSWalk(6, FwdKey)
-    BSSWalk(2, LeftKey, FwdKey)
-    BSSWalk(8, FwdKey)
-    Send "{w down}{d down}"
-    BSSWalk(275, FwdKey, RightKey)
-    Send "{space down}{d up}"
-    HyperSleep(200)
-    Send "{space up}"
-    HyperSleep(1100)
-    Send "{space down}"
-    HyperSleep(200)
-    Send "{space up}"
-    BSSWalk(450, FwdKey)
-    Send "{space down}"
-    HyperSleep(200)
-    Send "{space up}"
-    HyperSleep(200)
-    BSSWalk(21, FwdKey, RightKey)
-    Send "{space down}"
-    HyperSleep(300)
-    Send "{space up}"
-    BSSWalk(3, FwdKey)
-    BSSWalk(19.5, RightKey)
-    Send "{space down}"
-    HyperSleep(300)
-    Send "{space up}"
-    BSSWalk(3, RightKey)
-    Send "{' . RotRight . ' 2}"
-    HyperSleep(200)
-    ;pepper
-    BSSWalk(13, FwdKey, RightKey)
-    BSSWalk(10, RightKey)
-    BSSWalk(1, LeftKey)
-    Send "{space down}"
-    HyperSleep(120)
-    Send "{d down}"
-    HyperSleep(130)
-    Send "{space up}{d up}"
-    BSSWalk(35, RightKey)
-    BSSWalk(20, BackKey)
+            '   
+Send "{space down}{" RightKey " down}"
+Sleep 100
+Send "{space up}"
+Walk(2)
+Send "{" FwdKey " down}"
+Walk(1.8)
+Send "{" FwdKey " up}"
+Walk(30)
+send "{" RightKey " up}{space down}"
+HyperSleep(300)
+send "{space up}"
+BSSWalk(4, RightKey)
+BSSWalk(5, FwdKey)
+BSSWalk(3, RightKey)
+send "{space down}"
+HyperSleep(300)
+send "{space up}"
+BSSWalk(6, FwdKey)
+BSSWalk(2, LeftKey, FwdKey)
+BSSWalk(8, FwdKey)
+Send "{" FwdKey " down}{" RightKey " down}"
+Walk(11)
+send "{space down}{" RightKey " up}"
+HyperSleep(200)
+send "{space up}"
+HyperSleep(1100)
+send "{space down}"
+HyperSleep(200)
+send "{space up}"
+Walk(18)
+send "{space down}"
+HyperSleep(200)
+send "{space up}"
+HyperSleep(200)
+BSSWalk(21, FwdKey, RightKey)
+send "{space down}"
+HyperSleep(300)
+send "{space up}"
+BSSWalk(3, FwdKey)
+BSSWalk(19.5, RightKey)
+send "{space down}"
+HyperSleep(300)
+send "{space up}"
+BSSWalk(3, RightKey)
+send "{" RotRight " 2}"
+HyperSleep(200)
+;pepper
+BSSWalk(13, FwdKey,RightKey)
+BSSWalk(10, RightKey)
+BSSWalk(1, LeftKey)
+send "{space down}"
+HyperSleep(120)
+send "{" RightKey " down}"
+HyperSleep(130)
+send "{space up}{" RightKey " up}"
+BSSWalk(30, RightKey)
+HyperSleep(300)
+BSSWalk(3, LeftKey)
+HyperSleep(300)
+BSSWalk(15, BackKey)
+HyperSleep(200)
+BSSWalk(2, RightKey)
+send "{space down}"
+HyperSleep(300)
+send "{space up}"
+BSSWalk(3, RightKey)
+HyperSleep(200)
     '
         )
     CreatePath(movement)
@@ -7085,7 +7159,8 @@ gt_retroswarm()
 }
 
 ClaimHiveFromSpawn() {
-    global keyDelay
+    global keyDelay, function, FwdKey, LeftKey, BackKey, RightKey
+    function := A_ThisFunc
     GetBitmap() {
         pBMScreen := Gdip_BitmapFromScreen(windowX + windowWidth // 2 - 200 "|" windowY + offsetY "|400|125")
         while ((A_Index <= 20) && (Gdip_ImageSearch(pBMScreen, bitmaps["FriendJoin"], , , , , , 6) = 1)) {
@@ -7112,10 +7187,19 @@ ClaimHiveFromSpawn() {
             Sleep 40 + keyDelay
         }
 
-        Move(2.5, "d")
-        Move(28, "w", "d")
-        Move(4, "s")
-        Move(3, "a")
+        movement :=
+            (
+                '
+        BSSWalk(2.5, RightKey)
+        BSSWalk(28, FwdKey, RightKey)
+        BSSWalk(4, BackKey)
+        BSSWalk(3, LeftKey)
+        '
+            )
+        CreatePath(movement)
+        KeyWait "F14", "D T5 L"
+        KeyWait "F14", "T60 L"
+        EndWalk()
 
         attempts := 0
 
@@ -7134,16 +7218,34 @@ ClaimHiveFromSpawn() {
                     hiveClaimed := true
                     return
                 }
-                Move(9.25, "a")
+                movement :=
+                    (
+                        '
+                BSSWalk(9.25, LeftKey)
                 Sleep(400)
+                '
+                    )
+                CreatePath(movement)
+                KeyWait "F14", "D T5 L"
+                KeyWait "F14", "T60 L"
+                EndWalk()
             }
 
             attempts++
             if attempts < 1 {
-                Move(5, "w")
-                Move(60, "d")
-                Move(3, "s")
-                Move(3, "a")
+                movement :=
+                    (
+                        '
+                BSSWalk(5, FwdKey)
+                BSSWalk(60, RightKey)
+                BSSWalk(3, BackKey)
+                BSSWalk(3, LeftKey)
+                '
+                    )
+                CreatePath(movement)
+                KeyWait "F14", "D T5 L"
+                KeyWait "F14", "T60 L"
+                EndWalk()
             }
         }
 
@@ -7156,10 +7258,19 @@ ClaimHiveFromSpawn() {
             global Hiveslot := 1
             writeSettings("Settings", "hiveslot", HiveSlot)
         } else {
-            Move(4, "w")
-            Move(9 * HiveSlot, "d")
-            Move(4, "s")
-            Move(3, "a")
+            movement :=
+                (
+                    '
+            BSSWalk(4, FwdKey)
+            BSSWalk(' . (9 * HiveSlot) . ', RightKey)
+            BSSWalk(4, BackKey)
+            BSSWalk(3, LeftKey)
+            '
+                )
+            CreatePath(movement)
+            KeyWait "F14", "D T5 L"
+            KeyWait "F14", "T60 L"
+            EndWalk()
 
             loop 6 {
                 pBMScreen := GetBitmap()
@@ -7170,8 +7281,17 @@ ClaimHiveFromSpawn() {
                     writeSettings("Settings", "hiveslot", HiveSlot)
                     break
                 }
-                Move(9.25, "a")
+                movement :=
+                    (
+                        '
+                BSSWalk(9.25, LeftKey)
                 Sleep(400)
+                '
+                    )
+                CreatePath(movement)
+                KeyWait "F14", "D T5 L"
+                KeyWait "F14", "T60 L"
+                EndWalk()
             }
         }
 
@@ -7195,14 +7315,32 @@ ClaimHiveFromSpawn() {
 
 
 NoHiveFound() {
-    Move(2.5, d)
-    Rotate("right", 1)
-    ShiftLock() ; activate
+    global function, FwdKey, LeftKey, BackKey, RightKey, RotLeft, RotRight, KeyDelay
+    function := A_ThisFunc
+    movement :=
+        (
+            '
+    BSSWalk(2.5, RightKey)
+    Loop 1 {
+        Send "{' . RotRight . '}"
+        Sleep(10 + ' . KeyDelay . ')
+    }
+    SetShiftLock(1)
     ActivateGlider()
-    Sleep 1000
-    Move(9.5, w)
-    Rotate("left", 1)
-    ShiftLock() ; deactivate
+    Sleep(1000)
+    BSSWalk(9.5, FwdKey)
+    Loop 1 {
+        Send "{' . RotLeft . '}"
+        Sleep(10 + ' . KeyDelay . ')
+    }
+    SetShiftLock(0)
+    '
+        )
+    CreatePath(movement)
+    KeyWait "F14", "D T5 L"
+    KeyWait "F14", "T60 L"
+    EndWalk()
+
     searchPhrase := "Claim"
     loop 6 {
         result := OCR.FromDesktop(, 2)
@@ -7212,8 +7350,17 @@ NoHiveFound() {
             successv1 := 1
             break
         }
-        Move(9.3, "a")
-        Hypersleep 400
+        movement :=
+            (
+                '
+        BSSWalk(9.3, LeftKey)
+        HyperSleep(400)
+        '
+            )
+        CreatePath(movement)
+        KeyWait "F14", "D T5 L"
+        KeyWait "F14", "T60 L"
+        EndWalk()
     }
     if successv1 := 0 {
         ;                   restart or so, fallback mechanism
@@ -7227,12 +7374,12 @@ HiveSlot1Path() {
             '
     BSSWalk(2.5, RightKey)
     Send "{' . RotRight . ' 1}"
-    ShiftLock()
+    SetShiftLock(1)
     ActivateGlider()
     Sleep(1000)
     BSSWalk(9.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -7246,7 +7393,7 @@ HiveSlot2Path() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
     ActivateGlider()
@@ -7254,7 +7401,7 @@ HiveSlot2Path() {
     BSSWalk(1.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     BSSWalk(0.5, FwdKey)
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -7268,11 +7415,11 @@ HiveSlot3Path() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     ActivateGlider()
     Sleep(1000)
     BSSWalk(2, FwdKey)
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -7286,7 +7433,7 @@ HiveSlot4Path() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     BSSWalk(5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     ActivateGlider()
@@ -7294,7 +7441,7 @@ HiveSlot4Path() {
     BSSWalk(1.5, FwdKey)
     Send "{' . RotRight . ' 1}"
     BSSWalk(0.5, FwdKey)
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -7310,12 +7457,12 @@ HiveSlot5Path() {
             '
     BSSWalk(3.5, LeftKey)
     Send "{' . RotLeft . ' 1}"
-    ShiftLock()
+    SetShiftLock(1)
     ActivateGlider()
     Sleep(1000)
     BSSWalk(9.5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -7329,7 +7476,7 @@ HiveSlot6Path() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     Send "{' . RotLeft . ' 1}"
     ActivateGlider()
     Sleep(1000)
@@ -7340,7 +7487,7 @@ HiveSlot6Path() {
     BSSWalk(7.5, FwdKey)
     BSSWalk(1.5, FwdKey, LeftKey)
     Send "{' . RotRight . ' 1}"
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -8707,14 +8854,22 @@ gtp_clover() {
         movement :=
             (
                 '
-        BSSWalk(44.75, BackKey, LeftKey)
-        BSSWalk(52.5, LeftKey)
-        BSSWalk(2.8, BackKey, RightKey)
-        BSSWalk(6.7, BackKey)
-        BSSWalk(25.5, LeftKey)
-        BSSWalk(35, FwdKey, LeftKey)
-        BSSWalk(7, BackKey, RightKey)
-        BSSWalk(12, RightKey)
+       BSSWalk(44.75, BackKey, LeftKey) ; 47.25
+    BSSWalk(52.5, LeftKey)
+    BSSWalk(2.8, BackKey, RightKey)
+    BSSWalk(7.7, BackKey)
+    BSSWalk(20.5, LeftKey)
+    BSSWalk(6.5, FwdKey)
+
+    ; going to corner
+    BSSWalk(20, FwdKey, LeftKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(3, LeftKey)
+
+    ; out of corner
+    BSSWalk(5, RightKey)
+    BSSWalk(10, RightKey, FwdKey)
+    BSSWalk(3, BackKey)
         '
             )
         CreatePath(movement)
@@ -8729,21 +8884,26 @@ gtp_clover() {
         movement :=
             (
                 '
-        Send "{e down}"
-        HyperSleep(100)
-        Send "{e up}{' . LeftKey . ' down}{' . FwdKey . ' down}"
-        HyperSleep(525)
-        Send "{space 2}"
-        HyperSleep(1250)
-        Send "{" FwdKey " up}"
-        HyperSleep(3850)
-        Send "{' . LeftKey . ' up}{space}"
-        HyperSleep(1000)
-        BSSWalk(10, FwdKey, LeftKey)
-        BSSWalk(15, LeftKey)
-        BSSWalk(7, FwdKey)
-        BSSWalk(7, BackKey, RightKey)
-        BSSWalk(12, RightKey)
+        send "{e down}"`
+    HyperSleep(100)
+    send "{e up}{" LeftKey " down}{" FwdKey " down}"
+    HyperSleep(525) ; change to 625? idea
+    send "{space 2}"
+    HyperSleep(1250)
+    send "{" FwdKey " up}"
+    HyperSleep(3000)
+    send "{" LeftKey " up}{space}"
+    HyperSleep(700)
+
+    ; going to corner
+    BSSWalk(20, FwdKey, LeftKey)
+    BSSWalk(3, FwdKey)
+    BSSWalk(3, LeftKey)
+
+    ; out of corner
+    BSSWalk(5, RightKey)
+    BSSWalk(10, RightKey, FwdKey)
+    BSSWalk(3, BackKey)
         '
             )
         CreatePath(movement)
@@ -9420,17 +9580,17 @@ gtc_honeystormFromClock() {
             '
     Hypersleep(550)
     Send "{d down}"
-    BSSWalk(12.64)
+    Walk(12.64)
     Send "{a down}"
-    BSSWalk(0.44)
+    Walk(0.44)
     Send "{d up}"
-    BSSWalk(8.88)
+    Walk(8.88)
     Send "{d down}"
     Send "{a up}"
-    BSSWalk(10.68)
+    Walk(10.68)
     Send "{s down}"
     Send "{d up}"
-    BSSWalk(5.99)
+    Walk(5.99)
     Send "{s up}"
     '
         )
@@ -9447,117 +9607,117 @@ loot_honeyStorm() {
             '
     Hypersleep(2000)
     Send "{w down}"
-    BSSWalk(8.63)
+    Walk(8.63)
     Send "{d down}"
     Send "{w up}"
-    BSSWalk(17.96)
+    Walk(17.96)
     Send "{s down}"
     Send "{d up}"
-    BSSWalk(7.80)
+    Walk(7.80)
     Send "{a down}"
-    BSSWalk(0.41)
+    Walk(0.41)
     Send "{s up}"
-    BSSWalk(6.39)
+    Walk(6.39)
     Send "{w down}"
-    BSSWalk(0.47)
+    Walk(0.47)
     Send "{a up}"
-    BSSWalk(6.73)
+    Walk(6.73)
     Send "{d down}"
-    BSSWalk(0.71)
+    Walk(0.71)
     Send "{w up}"
-    BSSWalk(4.95)
+    Walk(4.95)
     Send "{s down}"
     Send "{d up}"
-    BSSWalk(5.88)
+    Walk(5.88)
     Send "{a down}"
-    BSSWalk(0.44)
+    Walk(0.44)
     Send "{s up}"
-    BSSWalk(4.72)
+    Walk(4.72)
     Send "{w down}"
     Send "{a up}"
-    BSSWalk(1.57)
+    Walk(1.57)
     Send "{d down}"
-    BSSWalk(0.80)
+    Walk(0.80)
     Send "{d up}"
-    BSSWalk(3.27)
+    Walk(3.27)
     Send "{d down}"
     Send "{w up}"
-    BSSWalk(3.80)
+    Walk(3.80)
     Send "{s down}"
-    BSSWalk(0.43)
+    Walk(0.43)
     Send "{d up}"
-    BSSWalk(4.35)
+    Walk(4.35)
     Send "{a down}"
-    BSSWalk(0.36)
+    Walk(0.36)
     Send "{s up}"
-    BSSWalk(2.86)
+    Walk(2.86)
     Send "{w down}"
-    BSSWalk(0.62)
+    Walk(0.62)
     Send "{a up}"
-    BSSWalk(3.68)
+    Walk(3.68)
     Send "{d down}"
-    BSSWalk(0.39)
+    Walk(0.39)
     Send "{w up}"
-    BSSWalk(1.87)
+    Walk(1.87)
     Send "{s down}"
-    BSSWalk(0.65)
+    Walk(0.65)
     Send "{d up}"
-    BSSWalk(3.06)
+    Walk(3.06)
     Send "{a down}"
-    BSSWalk(0.60)
+    Walk(0.60)
     Send "{s up}"
-    BSSWalk(0.55)
+    Walk(0.55)
     Send "{w down}"
-    BSSWalk(0.74)
+    Walk(0.74)
     Send "{a up}"
-    BSSWalk(3.45)
+    Walk(3.45)
     Send "{d down}"
-    BSSWalk(0.55)
+    Walk(0.55)
     Send "{w up}"
-    BSSWalk(0.58)
+    Walk(0.58)
     Send "{s down}"
-    BSSWalk(0.44)
+    Walk(0.44)
     Send "{d up}"
-    BSSWalk(4.91)
+    Walk(4.91)
     Send "{a down}"
-    BSSWalk(0.70)
+    Walk(0.70)
     Send "{s up}"
-    BSSWalk(0.51)
+    Walk(0.51)
     Send "{w down}"
-    BSSWalk(0.51)
+    Walk(0.51)
     Send "{a up}"
-    BSSWalk(6.54)
+    Walk(6.54)
     Send "{a down}"
-    BSSWalk(0.52)
+    Walk(0.52)
     Send "{w up}"
-    BSSWalk(0.65)
+    Walk(0.65)
     Send "{s down}"
     Send "{a up}"
-    BSSWalk(7.00)
+    Walk(7.00)
     Send "{a down}"
-    BSSWalk(0.54)
+    Walk(0.54)
     Send "{s up}"
-    BSSWalk(0.43)
+    Walk(0.43)
     Send "{w down}"
     Send "{a up}"
-    BSSWalk(8.03)
+    Walk(8.03)
     Send "{a down}"
     Send "{w up}"
-    BSSWalk(0.67)
+    Walk(0.67)
     Send "{s down}"
-    BSSWalk(0.42)
+    Walk(0.42)
     Send "{a up}"
-    BSSWalk(8.09)
+    Walk(8.09)
     Send "{d down}"
     Send "{s up}"
-    BSSWalk(6.94)
+    Walk(6.94)
     Send "{w down}"
     Send "{d up}"
-    BSSWalk(7.36)
+    Walk(7.36)
     Send "{a down}"
-    BSSWalk(0.51)
+    Walk(0.51)
     Send "{w up}"
-    BSSWalk(7.73)
+    Walk(7.73)
     Send "{a up}"
     '
         )
@@ -9654,12 +9814,12 @@ gt_hiveslot1() {
             '
     BSSWalk(2.5, RightKey)
     Send "{' . RotRight . ' 1}"
-    ShiftLock()
+    SetShiftLock(1)
     ActivateGlider()
     Sleep(1000)
     BSSWalk(9.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -9673,7 +9833,7 @@ gt_hiveslot2() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     BSSWalk(5, FwdKey)
     Send "{' . RotRight . ' 1}"
     ActivateGlider()
@@ -9681,7 +9841,7 @@ gt_hiveslot2() {
     BSSWalk(1.5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     BSSWalk(0.5, FwdKey)
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -9695,11 +9855,11 @@ gt_hiveslot3() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     ActivateGlider()
     Sleep(1000)
     BSSWalk(2, FwdKey)
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -9713,7 +9873,7 @@ gt_hiveslot4() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     BSSWalk(5, FwdKey)
     Send "{' . RotLeft . ' 1}"
     ActivateGlider()
@@ -9721,7 +9881,7 @@ gt_hiveslot4() {
     BSSWalk(1.5, FwdKey)
     Send "{' . RotRight . ' 1}"
     BSSWalk(0.5, FwdKey)
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -9736,12 +9896,12 @@ gt_hiveslot5() {
             '
     BSSWalk(3.5, LeftKey)
     Send "{' . RotLeft . ' 1}"
-    ShiftLock()
+    SetShiftLock(1)
     ActivateGlider()
     Sleep(1000)
     BSSWalk(9.5, FwdKey)
     Send "{' . RotRight . ' 1}"
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -9754,7 +9914,7 @@ gt_hiveslot6() {
     movement :=
         (
             '
-    ShiftLock()
+    SetShiftLock(1)
     Send "{' . RotLeft . ' 1}"
     ActivateGlider()
     Sleep(1000)
@@ -9765,7 +9925,7 @@ gt_hiveslot6() {
     BSSWalk(7.5, FwdKey)
     BSSWalk(1.5, FwdKey, LeftKey)
     Send "{' . RotRight . ' 1}"
-    ShiftLock()
+    SetShiftLock(0)
     '
         )
     CreatePath(movement)
@@ -9774,28 +9934,32 @@ gt_hiveslot6() {
     EndWalk()
 }
 
-fallbackhiveclaimpath() {
-    Move(2.5, d)
-    Rotate("right", 1)
-    ShiftLock() ; activate
+SpawnToCannon() {
+    global function, FwdKey, LeftKey, BackKey, RightKey, RotLeft, RotRight, KeyDelay
+    function := A_ThisFunc
+    movement :=
+        (
+            '
+    BSSWalk(2.5, RightKey)
+    Loop 1 {
+        Send "{' . RotRight . '}"
+        Sleep(10 + ' . KeyDelay . ')
+    }
+    SetShiftLock(1)
     ActivateGlider()
-    Sleep 1000
-    Move(9.5, w)
-    Rotate("left", 1)
-    ShiftLock() ; deactivate
-    searchPhrase := "Claim"
-    loop 6 {
-        result := OCR.FromDesktop(, 2)
-        found := result.FindStrings(searchPhrase)
-        if found.Length {
-            global Hiveslot := A_Index
-            successv1 := 1
-            break
-        }
-        Move(9.3, "a")
-        Hypersleep 400
+    Sleep(1000)
+    BSSWalk(9.5, FwdKey)
+    Loop 1 {
+        Send "{' . RotLeft . '}"
+        Sleep(10 + ' . KeyDelay . ')
     }
-    if successv1 := 0 {
-        ;                   restart or so, fallback mechanism
-    }
+    SetShiftLock(0)
+    BSSWalk(5, FwdKey, RightKey)
+    '
+        )
+    CreatePath(movement)
+    KeyWait "F14", "D T5 L"
+    KeyWait "F14", "T60 L"
+    EndWalk()
+    gt_redcannon()
 }

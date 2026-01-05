@@ -1,5 +1,8 @@
 CheckCollect() {
-	if (!wealthClock && !blenderCheck && !antPass && !roboPassDispenser && !glueDispenser && !nectarConsender && !nectarPot && !stickerPrinter && !stickerStack) {
+	BlenderRotation()
+	TimeForBlender := (BlenderTime%LastBlenderRot% +0) - (TimerInterval + 0)
+
+	if ((!wealthClock || (nowUnix() - LastClock) < 3600) && (!blenderCheck || (nowUnix() - TimeForBlender) < TimerInterval) && (!antPass || (nowUnix() - LastAntPass < 7200)) && (!roboPassDispenser || (nowUnix() - LastRoboPass) < 79200) && (!glueDispenser || (nowUnix() - LastGlue) < 79200) && (!nectarConsender || GetNectarPercent(StrLower(nectarPotNectar)) < 25) && !nectarPot && (!stickerPrinter || (nowUnix() - LastStickerPrinter < 3600)) && (!stickerStack || (nowUnix() - LastStickerStack < stickerStackTimer))) {
 		return false
 	}
 	return true
@@ -17,6 +20,18 @@ BeginCollect() {
 
 	StickerPrinterFunc()
 	StickerStackFunc()
+
+	if beesmas {
+		DoStockings()
+		DoFeast()
+		GingerbreadHouse()
+		DoSnowMachine()
+		DoCandles()
+		DoSamovar()
+		DoLidArt()
+		DoGummyBeacon()
+		DoRBPDelevel()
+	}
 }
 
 Clock() {
@@ -78,7 +93,7 @@ global LastBlenderRot := 1
 global BlenderRot := 1
 
 Blender() {
-	global BlenderRot, TimerInterval, BlenderTime1, BlenderTime2, BlenderTime3, BlenderEnd, blenderSlot1Ammount, blenderSlot2Ammount, blenderSlot3Ammount, blenderSlot1Item, blenderSlot2Item, blenderSlot3Item, blenderSlot1Repeat, blenderSlot2Repeat, blenderSlot3Repeat
+	global BlenderRot, TimerInterval, BlenderTime1, BlenderTime2, BlenderTime3, BlenderEnd, blenderSlot1Amount, blenderSlot2Amount, blenderSlot3Amount, blenderSlot1Item, blenderSlot2Item, blenderSlot3Item, blenderSlot1Repeat, blenderSlot2Repeat, blenderSlot3Repeat
 	BlenderRotation()
 	TimeForBlender := (BlenderTime%LastBlenderRot% +0) - (TimerInterval + 0)
 
@@ -93,11 +108,7 @@ Blender() {
 			SetStatus("Traveling", "Blender" ((A_Index > 1) ? " (Attempt 2)" : ""))
 			gt_blender()
 
-			searchRet := ImgSearch("e_button.png", 30, "high")
-			If (searchRet[1] = 0) {
-				sendinput "{" SC_E " down}"
-				Sleep 100
-				sendinput "{" SC_E " up}"
+			If (CollectItem()) {
 				Sleep 500
 
 				SearchX := windowX + windowWidth // 2 - 275, SearchY := windowY + Floor(0.48 * windowHeight) - 220, BlenderSS := Gdip_BitmapFromScreen(SearchX "|" SearchY "|550|400")
@@ -144,10 +155,10 @@ Blender() {
 						Sleep 200
 						BlenderSS := Gdip_BitmapFromScreen(SearchX "|" SearchY "|553|400")
 						if (Gdip_ImageSearch(BlenderSS, bitmaps["NoItems"], , , , , , 2) > 0) {
-							blenderSlot%BlenderRot%Item := "None", blenderSlot%BlenderRot%Ammount := 0, blenderSlot%BlenderRot%Repeat := 1, BlenderTime%BlenderRot% := 0
+							blenderSlot%BlenderRot%Item := "None", blenderSlot%BlenderRot%Amount := 0, blenderSlot%BlenderRot%Repeat := 1, BlenderTime%BlenderRot% := 0
 
 							writeSettings("Collect", "blenderslot" BlenderRot "item", "None", , false)
-							writeSettings("Collect", "blenderslot" BlenderRot "ammount", 0, , false)
+							writeSettings("Collect", "blenderslot" BlenderRot "amount", 0, , false)
 							writeSettings("Collect", "blenderslot" BlenderRot "repeat", 1, , false)
 							writeSettings("Collect", "BlenderTime" BlenderRot, 0, "Settings\timers.ini")
 
@@ -164,7 +175,7 @@ Blender() {
 						Sleep 150
 						MouseMove windowX + windowWidth // 2 - 60, windowY + Floor(0.48 * windowHeight) + 140 ;Add more of x item
 						Sleep 150
-						While (A_Index < blenderSlot%BlenderRot%Ammount) {
+						While (A_Index < blenderSlot%BlenderRot%Amount) {
 							Click
 							Sleep 30
 						}
@@ -173,7 +184,7 @@ Blender() {
 
 						SetStatus("Collected", "Blender")
 
-						BlenderTime%BlenderRot% := blenderSlot%BlenderRot%Ammount * 300 ;calculate first time variable
+						BlenderTime%BlenderRot% := blenderSlot%BlenderRot%Amount * 300 ;calculate first time variable
 						BlenderTimeTemp := BlenderTime%BlenderRot% ;set up a temporary varible to hold time
 						TempBlenderRot := BlenderRot ; save a temporary rotation holder
 
@@ -186,13 +197,13 @@ Blender() {
 								break
 
 							if ((blenderSlot%TempBlenderRot%Repeat = "Infinite" || blenderSlot%TempBlenderRot%Repeat > 0) && (blenderSlot%TempBlenderRot%Item != "None" && blenderSlot%TempBlenderRot%Item != "")) { ;start time calculation process
-								BlenderTime%TempBlenderRot% := (blenderSlot%TempBlenderRot%Ammount * 300) + BlenderTimeTemp ;add previous time to this one after to show time until its done
+								BlenderTime%TempBlenderRot% := (blenderSlot%TempBlenderRot%Amount * 300) + BlenderTimeTemp ;add previous time to this one after to show time until its done
 								BlenderTimeTemp := BlenderTime%TempBlenderRot% ;create a new temp for next
 								BlenderTime%TempBlenderRot% := BlenderTime%TempBlenderRot% +nowUnix() ;add now unix to it for the counter
 								writeSettings("Collect", "BlenderTime" TempBlenderRot, BlenderTime%TempBlenderRot%, "Settings\timers.ini")
 							}
 						}
-						TimerInterval := blenderSlot%BlenderRot%Ammount * 300 ;set up time
+						TimerInterval := blenderSlot%BlenderRot%Amount * 300 ;set up time
 						writeSettings("Collect", "LastBlenderRot", BlenderRot, "Settings\timers.ini")
 
 						BlenderRot := Mod(BlenderRot, 3) + 1
@@ -223,7 +234,7 @@ Blender() {
 								Sleep 150
 								Click
 
-								BlenderTime%BlenderRot% := blenderSlot%BlenderRot%Ammount * 300 ;calculate first time variable
+								BlenderTime%BlenderRot% := blenderSlot%BlenderRot%Amount * 300 ;calculate first time variable
 								BlenderTimeTemp := BlenderTime%BlenderRot% ;set up a temporary varible to hold time
 								TempBlenderRot := BlenderRot ; save a temporary rotation holder
 
@@ -236,7 +247,7 @@ Blender() {
 										break
 
 									if ((blenderSlot%TempBlenderRot%Repeat = "Infinite" || blenderSlot%TempBlenderRot%Repeat > 0) && (blenderSlot%TempBlenderRot%Item != "None" && blenderSlot%TempBlenderRot%Item != "")) { ;start time calculation process
-										BlenderTime%TempBlenderRot% := (blenderSlot%TempBlenderRot%Ammount * 300) + BlenderTimeTemp ;add previous time to this one after to show time until its done
+										BlenderTime%TempBlenderRot% := (blenderSlot%TempBlenderRot%Amount * 300) + BlenderTimeTemp ;add previous time to this one after to show time until its done
 										BlenderTimeTemp := BlenderTime%TempBlenderRot% ;create a new temp for next
 										BlenderTime%TempBlenderRot% := BlenderTime%TempBlenderRot% +nowUnix() ;add now unix to it for the counter
 										writeSettings("Collect", "BlenderTime" TempBlenderRot, BlenderTime%TempBlenderRot%, "Settings\timers.ini")
@@ -434,15 +445,11 @@ NectarConsenderFunc() {
 
 		Loop 2 {
 			ResetToHive()
-			SetStatus("Traveling", "Nectar Consender" ((A_Index > 1) ? " (Attempt 2)" : ""))
+			SetStatus("Traveling", "Nectar Condenser" ((A_Index > 1) ? " (Attempt 2)" : ""))
 
 			gt_nectarcondenser()
 
-			searchRet := ImgSearch("e_button.png", 30, "high")
-			If (searchRet[1] = 0) {
-				sendinput "{" SC_E " down}"
-				Sleep 100
-				sendinput "{" SC_E " up}"
+			If (CollectItem()) {
 				Sleep 500
 
 				switch nectarConsenderNectar {
@@ -452,12 +459,13 @@ NectarConsenderFunc() {
 						Click
 						Sleep 1000
 						if (potConsenderCheck(true)) {
-							SetStatus("Collected", "Nectar Consender")
+							SetStatus("Collected", "Nectar Condenser")
 						} else {
 							if (potConsenderCheck(false)) {
-								SetStatus("Failed", "Nectar Consender")
+								SetStatus("Failed", "Nectar Condenser")
+								continue
 							} else {
-								SetStatus("Collected", "Nectar Consender")
+								SetStatus("Collected", "Nectar Condenser")
 							}
 						}
 						break
@@ -467,12 +475,13 @@ NectarConsenderFunc() {
 						Click
 						Sleep 1000
 						if (potConsenderCheck(true)) {
-							SetStatus("Collected", "Nectar Consender")
+							SetStatus("Collected", "Nectar Condenser")
 						} else {
 							if (potConsenderCheck(false)) {
-								SetStatus("Failed", "Nectar Consender")
+								SetStatus("Failed", "Nectar Condenser")
+								continue
 							} else {
-								SetStatus("Collected", "Nectar Consender")
+								SetStatus("Collected", "Nectar Condenser")
 							}
 						}
 						break
@@ -482,12 +491,13 @@ NectarConsenderFunc() {
 						Click
 						Sleep 1000
 						if (potConsenderCheck(true)) {
-							SetStatus("Collected", "Nectar Consender")
+							SetStatus("Collected", "Nectar Condenser")
 						} else {
 							if (potConsenderCheck(false)) {
-								SetStatus("Failed", "Nectar Consender")
+								SetStatus("Failed", "Nectar Condenser")
+								continue
 							} else {
-								SetStatus("Collected", "Nectar Consender")
+								SetStatus("Collected", "Nectar Condenser")
 							}
 						}
 						break
@@ -497,12 +507,13 @@ NectarConsenderFunc() {
 						Click
 						Sleep 1000
 						if (potConsenderCheck(true)) {
-							SetStatus("Collected", "Nectar Consender")
+							SetStatus("Collected", "Nectar Condenser")
 						} else {
 							if (potConsenderCheck(false)) {
-								SetStatus("Failed", "Nectar Consender")
+								SetStatus("Failed", "Nectar Condenser")
+								continue
 							} else {
-								SetStatus("Collected", "Nectar Consender")
+								SetStatus("Collected", "Nectar Condenser")
 							}
 						}
 						break
@@ -512,25 +523,24 @@ NectarConsenderFunc() {
 						Click
 						Sleep 1000
 						if (potConsenderCheck(true)) {
-							SetStatus("Collected", "Nectar Consender")
+							SetStatus("Collected", "Nectar Condenser")
 						} else {
 							if (potConsenderCheck(false)) {
-								SetStatus("Failed", "Nectar Consender")
+								SetStatus("Failed", "Nectar Condenser")
+								continue
 							} else {
-								SetStatus("Collected", "Nectar Consender")
+								SetStatus("Collected", "Nectar Condenser")
 							}
 						}
 						break
 				}
 			}
 		}
-		LastNectarPot := nowUnix()
-		writeSettings("Collect", "LastNectarPot", LastNectarPot, "Settings\timers.ini")
 	}
 }
 
 NectarPotFunc() {
-	if (nectarPot && GetNectarPercent(StrLower(nectarPotNectar)) > 95) { ;1 hour
+	if (nectarPot && GetNectarPercent(StrLower(nectarPotNectar)) > 25) { ;1 hour
 		hwnd := GetRobloxHWND()
 		offsetY := GetYOffset(hwnd)
 		GetRobloxClientPos(hwnd)
@@ -541,11 +551,7 @@ NectarPotFunc() {
 
 			gt_nectarpot()
 
-			searchRet := ImgSearch("e_button.png", 30, "high")
-			If (searchRet[1] = 0) {
-				sendinput "{" SC_E " down}"
-				Sleep 100
-				sendinput "{" SC_E " up}"
+			If (CollectItem()) {
 				Sleep 500
 
 				switch nectarPotNectar {
@@ -560,6 +566,7 @@ NectarPotFunc() {
 						} else {
 							if (potConsenderCheck(false)) {
 								SetStatus("Failed", "Nectar Pot")
+								continue
 							} else {
 								SetStatus("Collected", "Nectar Pot`nDisabling Nectar Pot")
 								writeSettings("Collect", "nectarpot", false)
@@ -577,6 +584,7 @@ NectarPotFunc() {
 						} else {
 							if (potConsenderCheck(false)) {
 								SetStatus("Failed", "Nectar Pot")
+								continue
 							} else {
 								SetStatus("Collected", "Nectar Pot`nDisabling Nectar Pot")
 								writeSettings("Collect", "nectarpot", false)
@@ -594,6 +602,7 @@ NectarPotFunc() {
 						} else {
 							if (potConsenderCheck(false)) {
 								SetStatus("Failed", "Nectar Pot")
+								continue
 							} else {
 								SetStatus("Collected", "Nectar Pot`nDisabling Nectar Pot")
 								writeSettings("Collect", "nectarpot", false)
@@ -611,6 +620,7 @@ NectarPotFunc() {
 						} else {
 							if (potConsenderCheck(false)) {
 								SetStatus("Failed", "Nectar Pot")
+								continue
 							} else {
 								SetStatus("Collected", "Nectar Pot`nDisabling Nectar Pot")
 								writeSettings("Collect", "nectarpot", false)
@@ -628,6 +638,7 @@ NectarPotFunc() {
 						} else {
 							if (potConsenderCheck(false)) {
 								SetStatus("Failed", "Nectar Pot")
+								continue
 							} else {
 								SetStatus("Collected", "Nectar Pot`nDisabling Nectar Pot")
 								writeSettings("Collect", "nectarpot", false)
@@ -641,6 +652,7 @@ NectarPotFunc() {
 }
 
 potConsenderCheck(a) {
+	i := 0
 	if (a) {
 		loop 16 {
 			sleep 250
@@ -656,6 +668,7 @@ potConsenderCheck(a) {
 				}
 				sleep 100
 				i++
+				return true
 			} else if (i > 0) {
 				Gdip_DisposeImage(pBMScreen)
 				return true
@@ -690,12 +703,8 @@ StickerPrinterFunc() {
 			SetStatus("Traveling", "Sticker Printer" ((A_Index > 1) ? " (Attempt 2)" : ""))
 			gt_stickerPrinter()
 
-			searchRet := ImgSearch("e_button.png", 30, "high")
-			If (searchRet[1] = 0) {
-				sendinput "{" SC_E " down}"
-				Sleep 100
-				sendinput "{" SC_E " up}"
-				Sleep 500 ;//todo: wait for GUI with timeout instead of fixed time
+			If (CollectItem()) {
+				Sleep 1000 ;//todo: wait for GUI with timeout instead of fixed time
 				GetRobloxClientPos()
 				pBMScreen := Gdip_BitmapFromScreen(windowX + windowWidth // 2 + 150 "|" windowY + 4 * windowHeight // 10 + 160 "|100|60")
 				if (Gdip_ImageSearch(pBMScreen, bitmaps["stickerprinterCD"], , , , , , 10) = 1) {
@@ -774,16 +783,12 @@ StickerStackFunc() {
 
 			GetRobloxClientPos()
 
-			searchRet := ImgSearch("e_button.png", 30, "high")
-			If (searchRet[1] = 0) {
-				sendinput "{" SC_E " down}"
-				Sleep 100
-				sendinput "{" SC_E " up}"
-				sleep 500 ;//todo: wait for GUI with timeout instead of fixed time
+			If (CollectItem()) {
+				sleep 1000 ;//todo: wait for GUI with timeout instead of fixed time
 
 				; detect stack boost time
 				pBMScreen := Gdip_BitmapFromScreen(windowX + windowWidth // 2 - 275 "|" windowY + 4 * windowHeight // 10 "|550|220")
-				Loop 1 {
+				Loop 3 {
 					if (Gdip_ImageSearch(pBMScreen, bitmaps["stickerstackdigits"][")"], &pos, 275, , , 45, 20) = 1) {
 						x := SubStr(pos, 1, InStr(pos, ",") - 1)
 						(digits := Map()).Default := ""
@@ -801,8 +806,9 @@ StickerStackFunc() {
 
 						if ((StrLen(num) = 4) && (SubStr(num, 4) = "0")) { ; check valid time before updating
 							SetStatus("Detected", "Stack Boost Time: " hmsFromSeconds(time := 60 * SubStr(num, 1, 2) + SubStr(num, 3)))
-							if (!stickerStackTimerDetect)
-								StickerStackTimer := time
+							if (stickerStackTimerDetect)
+								stickerStackTimer := time
+								writeSettings('Collect', "stickerstacktimer", stickerStackTimer)
 							break
 						}
 					}
@@ -817,8 +823,9 @@ StickerStackFunc() {
 					|| ((stickerStackVouches = 1) && (Gdip_ImageSearch(pBMScreen, bitmaps["stickervoucher"], &pos, , , 275, , 25) = 1) && (stack := "Voucher")))) {
 					SetStatus("Stacking", stack)
 					MouseMove windowX + windowWidth // 2 - 275 + SubStr(pos, 1, InStr(pos, ",") - 1) + 26, windowY + 4 * windowHeight // 10 + SubStr(pos, InStr(pos, ",") + 1) - 10 ; select sticker
-					if (stickerStackTimerDetect = 0)
+					if (stickerStackTimerDetect)
 						stickerStackTimer += 10
+						writeSettings('Collect', "stickerstacktimer", stickerStackTimer)
 				} else if InStr(stickerStackItem, "Tickets") {
 					SetStatus("Stacking", stack := "Tickets")
 					MouseMove windowX + windowWidth // 2 + 105, windowY + 4 * windowHeight // 10 - 78 ; select tickets
@@ -886,5 +893,311 @@ StickerStackFunc() {
 				writeSettings("Collect", "stickerstacktimer", StickerStackTimer)
 			}
 		}
+	}
+}
+
+DoStockings() {
+	global stockings, LastStockings
+	if (stockings && (nowUnix() - LastStockings) > 3600) {
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Stockings" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_stockings()
+
+			If (CollectItem()) {
+				Sleep 500
+
+				movement :=
+					(
+						BSSWalk(8, FwdKey) '
+				' BSSWalk(2.5, BackKey) '
+				' BSSWalk(3, RightKey) '
+				Send "{' SC_Space ' down}"
+				HyperSleep(500)
+				Send "{' SC_Space ' up}"
+				DllCall("GetSystemTimeAsFileTime", "int64p", &s:=0)
+				' BSSWalk(3, RightKey) '
+				DllCall("GetSystemTimeAsFileTime", "int64p", &t:=0)
+				Sleep 600-(t-s)//10000
+				' BSSWalk(9, LeftKey) '
+				Send "{' SC_Space ' down}"
+				HyperSleep(500)
+				Send "{' SC_Space ' up}"
+				DllCall("GetSystemTimeAsFileTime", "int64p", &s:=0)
+				' BSSWalk(3, LeftKey) '
+				DllCall("GetSystemTimeAsFileTime", "int64p", &t:=0)
+				Sleep 600-(t-s)//10000
+				' BSSWalk(6, RightKey)
+					)
+				CreateWalk(movement)
+				KeyWait "F14", "D T5 L"
+				KeyWait "F14", "T60 L"
+				EndWalk()
+
+				SetStatus("Collected", "Stockings")
+				break
+			}
+		}
+		LastStockings := nowUnix()
+		writeSettings('Collect', 'LastStockings', LastStockings, "settings\timers.ini")
+	}
+}
+DoFeast() { ; Beesmas Feast
+	global Feast, LastFeast
+	if (Feast && (nowUnix() - LastFeast) > 5400) { ;1.5 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Beesmas Feast" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_feast()
+
+			If (CollectItem()) {
+				Sleep 3000
+				sendinput "{" RotLeft "}"
+
+				movement :=
+					(
+						BSSWalk(3, FwdKey, RightKey) '
+				' BSSWalk(1, RightKey) '
+				Loop 2 {
+					' BSSWalk(5, BackKey) '
+					' BSSWalk(1.5, LeftKey) '
+					' BSSWalk(5, FwdKey) '
+					' BSSWalk(1.5, LeftKey) '
+				}
+				' BSSWalk(5, BackKey)
+					)
+				CreateWalk(movement)
+				KeyWait "F14", "D T5 L"
+				KeyWait "F14", "T60 L"
+				EndWalk()
+
+				SetStatus("Collected", "Beesmas Feast")
+				break
+			}
+		}
+		LastFeast := nowUnix()
+		writeSettings('Collect', 'LastFeast', LastFeast, "settings\timers.ini")
+	}
+}
+GingerbreadHouse() {
+	global Gingerbread, LastGingerbread
+	if (Gingerbread && (nowUnix() - LastGingerbread) > 7200) { ;2 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Gingerbread House" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_gingerbread()
+
+			If (CollectItem()) {
+				Sleep 3000
+				SetStatus("Collected", "Gingerbread House")
+				break
+			}
+		}
+		LastGingerbread := nowUnix()
+		writeSettings('Collect', 'LastGingerbread', LastGingerbread, "settings\timers.ini")
+	}
+}
+DoSnowMachine() {
+	global SnowMachine, LastSnowMachine
+	if (SnowMachine && (nowUnix() - LastSnowMachine) > 7200) { ;2 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Snow Machine" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_snowmachine()
+
+			if (CollectItem()) {
+				Sleep 500
+				SetStatus("Collected", "Snow Machine")
+				updateConfig()
+				return
+			}
+		}
+		updateConfig()
+	}
+	updateConfig() {
+		LastSnowMachine := nowUnix()
+		writeSettings('Collect', 'LastSnowMachine', LastSnowMachine, "settings\timers.ini")
+	}
+}
+DoCandles() {
+	global Candles, LastCandles
+	if (Candles && (nowUnix() - LastCandles) > 14400) { ;4 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Candles" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_candles()
+
+			If (CollectItem()) {
+				Sleep 4000
+
+				movement :=
+					(
+						BSSWalk(4, FwdKey) "
+				" BSSWalk(6, RightKey) "
+				" BSSWalk(10, LeftKey)
+					)
+				CreateWalk(movement)
+				KeyWait "F14", "D T5 L"
+				KeyWait "F14", "T60 L"
+				EndWalk()
+
+				SetStatus("Collected", "Candles")
+				break
+			}
+		}
+		LastCandles := nowUnix()
+		writeSettings('Collect', 'LastCandles', LastCandles, "settings\timers.ini")
+	}
+}
+DoSamovar() {
+	global Samovar, LastSamovar
+	if (Samovar && (nowUnix() - LastSamovar) > 21600) { ;6 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Samovar" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_samovar()
+
+			If (CollectItem()) {
+				Sleep 5000
+
+				movement :=
+					(
+						BSSWalk(4, FwdKey, RightKey) "
+				" BSSWalk(1, RightKey) "
+				Loop 3 {
+					" BSSWalk(6, BackKey) "
+					" BSSWalk(1.25, LeftKey) "
+					" BSSWalk(6, FwdKey) "
+					" BSSWalk(1.25, LeftKey) "
+				}
+				" BSSWalk(6, BackKey)
+					)
+				CreateWalk(movement)
+				KeyWait "F14", "D T5 L"
+				KeyWait "F14", "T60 L"
+				EndWalk()
+
+				SetStatus("Collected", "Samovar")
+				break
+			}
+		}
+		LastSamovar := nowUnix()
+		writeSettings('Collect', 'LastSamovar', LastSamovar, "settings\timers.ini")
+	}
+}
+DoLidArt() {
+	global LidArt, LastLidArt
+	if (LidArt && (nowUnix() - LastLidArt) > 28800) { ;8 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Lid Art" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_lidart()
+
+			If (CollectItem()) {
+				Sleep 5000
+
+				movement :=
+					(
+						BSSWalk(3, FwdKey, RightKey) "
+				Loop 2 {
+					" BSSWalk(4.5, BackKey) "
+					" BSSWalk(1.25, LeftKey) "
+					" BSSWalk(4.5, FwdKey) "
+					" BSSWalk(1.25, LeftKey) "
+				}
+				" BSSWalk(4.5, BackKey)
+					)
+				CreateWalk(movement)
+				KeyWait "F14", "D T5 L"
+				KeyWait "F14", "T60 L"
+				EndWalk()
+
+				SetStatus("Collected", "Lid Art")
+				break
+			}
+		}
+		LastLidArt := nowUnix()
+		writeSettings('Collect', 'LastLidArt', LastLidArt, "settings\timers.ini")
+	}
+}
+DoGummyBeacon() {
+	global GummyBeacon, LastGummyBeacon
+	if (GummyBeacon && (nowUnix() - LastGummyBeacon) > 28800 && (MoveMethod != "Walk")) { ;8 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "Gummy Beacon" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_gummybeacon()
+
+			If (CollectItem()) {
+				Sleep 500
+				SetStatus("Collected", "Gummy Beacon")
+				break
+			}
+		}
+		LastGummyBeacon := nowUnix()
+		writeSettings('Collect', 'LastGummyBeacon', LastGummyBeacon, "settings\timers.ini")
+	}
+}
+DoRBPDelevel() { ;Robo Bear Party De-level
+	global RBPDelevel, LastRBPDelevel
+	if (RBPDelevel && (nowUnix() - LastRBPDelevel) > 10800 && (MoveMethod != "Walk")) { ;3 hours
+		Loop 2 {
+			hwnd := GetRobloxHWND()
+			offsetY := GetYOffset(hwnd)
+			GetRobloxClientPos(hwnd)
+
+			ResetToHive()
+			SetStatus("Traveling", "RBP De-Level" ((A_Index > 1) ? " (Attempt 2)" : ""))
+
+			gt_rbpdelevel()
+
+			If (CollectItem()) {
+				Sleep 500
+				SetStatus("Collected", "RBP De-Level")
+				break
+			}
+		}
+		LastRBPDelevel := nowUnix()
+		writeSettings('Collect', 'LastRBPDelevel', LastRBPDelevel, "settings\timers.ini")
 	}
 }

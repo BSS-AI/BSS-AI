@@ -255,7 +255,7 @@ global QuestGatherField := "None"
 
 /*
 
-Due to natros quest system being hot ass, this will need to be redone using ocr.
+Due to natros quest system being ass, this will need to be redone using ocr.
 
 */
 
@@ -403,9 +403,11 @@ PolarQuestProg() {
 			questbarColor := PixelGetColor(windowX + QuestBarInset + 10, windowY + QuestBarSize * (PolarBear[PolarQuest][A_Index][1] - 1) + PolarStart[3] + QuestBarGapSize + 5)
 			if ((questbarColor = 0xF46C55) || (questbarColor = 0x6EFF60)) {
 				PolarQuestComplete := 0
+				writeSettings("Quests", "PolarQuestComplete", PolarQuestComplete, "Settings\timers.ini")
 				completeness := "Incomplete"
 				if (action = "kill") {
 					Quest%where% := 1
+					writeSettings("Quests", "Quest" . where, Quest%where%, "settings\timers.ini")
 				}
 				else if (action = "collect" && QuestGatherField = "none") {
 					QuestGatherField := where
@@ -430,6 +432,7 @@ PolarQuestProg() {
 		writeSettings("Quests", "PolarQuestProgress", polarProgress, "Settings\timers.ini")
 		if (QuestLadybugs = 0 && QuestRhinoBeetles = 0 && QuestSpider = 0 && QuestMantis = 0 && QuestScorpions = 0 && QuestWerewolf = 0 && QuestGatherField = "None") {
 			PolarQuestComplete := 1
+			writeSettings("Quests", "PolarQuestComplete", PolarQuestComplete, "Settings\timers.ini")
 		}
 	}
 }
@@ -478,6 +481,7 @@ DoPolarQuest() {
 		if (QuestGatherField != "None") {
 			ResetToHive()
 			functionName := "gt_" . StrLower(QuestGatherField)
+			CurrentQuestGatherField := QuestGatherField
 			switch StrLower(QuestGatherField) {
 				case "pine tree": gt_pinetree()
 				case "blue flower": gt_blueflower()
@@ -504,14 +508,15 @@ DoPolarQuest() {
 
 			startTime := A_TickCount
 
-			; Set gather state in settings.ini to signal python to start inferencing
+			sharedPath := GetSharedPath() ; Get the correct path for communication files
+
 			retryCount := 0
 			maxRetries := 20  ; Try for about 1 second total
 			success := false
 
 			while (retryCount < maxRetries && !success) {
 				try {
-					writeSettings("AIGather", "currently_gathering", true)
+					IniWrite("true", "settings/settings.ini", "AIGather", "currently_gathering")
 					LogMessage("Quest: Set gather state to 'true' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
 					success := true
 				} catch Error as e {
@@ -526,24 +531,29 @@ DoPolarQuest() {
 					}
 				}
 			}
-			interruptReason := "Time Limit"
 			loop {
 				DisconnectCheck()
 				if (BackpackPercent()) {
 					if (UseSlots("Microconverter")) {
 						continue
 					} else {
-						interruptReason := "Bag Limit"
-						break ; bag full
+						break
 					}
 				}
-
-				if (A_TickCount - startTime > 5 * 60000) {
-					interruptReason := "Time Limit"
-					break  ; gather time passed
+				if (!ActiveHoney()) {
+					break
 				}
 
-				Sleep(100)
+				PolarQuestProg()
+				if (QuestGatherField = "None" || QuestGatherField != CurrentQuestGatherField) {
+					break
+				}
+
+				if ((A_TickCount - startTime) > 3 * 60000) { ; 5 minute time limit
+					break
+				}
+
+				Sleep(5000)
 			}
 
 			; Clear gather state in settings.ini with robust retry logic
@@ -553,7 +563,7 @@ DoPolarQuest() {
 
 			while (retryCount < maxRetries && !success) {
 				try {
-					writeSettings("AIGather", "currently_gathering", false)
+					IniWrite("false", "settings/settings.ini", "AIGather", "currently_gathering")
 					LogMessage("Quest: Set gather state to 'false' in settings.ini" . (retryCount > 0 ? " (retry " . retryCount . ")" : ""))
 					success := true
 				} catch Error as e {
@@ -572,8 +582,8 @@ DoPolarQuest() {
 			SetStatus("Gathering Quest", "Ended")
 
 			if (toHiveByQuest == "Walk") {
-				functionName := "wf_" . StrLower(QuestGatherField)
-				switch StrLower(QuestGatherField) {
+				functionName := "wf_" . StrLower(CurrentQuestGatherField)
+				switch StrLower(CurrentQuestGatherField) {
 					case "pine tree": wf_pinetree()
 					case "blue flower": wf_blueflower()
 					case "mountain top": wf_mountaintop()

@@ -1,7 +1,5 @@
 readSettings(section, key, toLower := false, inifile := "settings\settings.ini") {
-    appdata := A_AppData "\BSSAI\"
-    path := appdata inifile
-    value := IniRead(path, section, key, "")
+    value := IniRead(inifile, section, key, "")
 
     if (value ~= "^\d+$")
         return Integer(value)
@@ -14,9 +12,7 @@ readSettings(section, key, toLower := false, inifile := "settings\settings.ini")
 }
 
 writeSettings(section, key, value, inifile := "settings\settings.ini", a := true) {
-    appdata := A_AppData "\BSSAI\"
-    path := appdata inifile
-    IniWrite(value, path, section, key)
+    IniWrite(value, inifile, section, key)
     if a
         InitilizeVariables()
 }
@@ -31,9 +27,9 @@ InitilizeVariables() {
     global rotate1 := readSettings("Gather", "rotate1")
     global rotate2 := readSettings("Gather", "rotate2")
     global rotate3 := readSettings("Gather", "rotate3")
-    global rotateAmmount1 := readSettings("Gather", "rotateammount1")
-    global rotateAmmount2 := readSettings("Gather", "rotateammount2")
-    global rotateAmmount3 := readSettings("Gather", "rotateammount3")
+    global rotateAmount1 := readSettings("Gather", "rotateamount1")
+    global rotateAmount2 := readSettings("Gather", "rotateamount2")
+    global rotateAmount3 := readSettings("Gather", "rotateamount3")
     global gatherTime1 := readSettings("Gather", "gathertime1")
     global gatherTime2 := readSettings("Gather", "gathertime2")
     global gatherTime3 := readSettings("Gather", "gathertime3")
@@ -114,13 +110,13 @@ InitilizeVariables() {
     global memoryMatchMega := readSettings("Collect", "memorymatchmega")
     global memoryMatchNight := readSettings("Collect", "memorymatchnight")
     global memoryMatchExtreme := readSettings("Collect", "memorymatchextreme")
-    global blenderCheck := readSettings("Collect", "blenderCheck")
+    global blenderCheck := readSettings("Collect", "blendercheck")
     global blenderSlot1Item := readSettings("Collect", "blenderslot1item")
     global blenderSlot2Item := readSettings("Collect", "blenderslot2item")
     global blenderSlot3Item := readSettings("Collect", "blenderslot3item")
-    global blenderSlot1Ammount := readSettings("Collect", "blenderslot1ammount")
-    global blenderSlot2Ammount := readSettings("Collect", "blenderslot2ammount")
-    global blenderSlot3Ammount := readSettings("Collect", "blenderslot3ammount")
+    global blenderSlot1Amount := readSettings("Collect", "blenderslot1amount")
+    global blenderSlot2Amount := readSettings("Collect", "blenderslot2amount")
+    global blenderSlot3Amount := readSettings("Collect", "blenderslot3amount")
     global blenderSlot1Repeat := readSettings("Collect", "blenderslot1repeat")
     global blenderSlot2Repeat := readSettings("Collect", "blenderslot2repeat")
     global blenderSlot3Repeat := readSettings("Collect", "blenderslot3repeat")
@@ -137,6 +133,16 @@ InitilizeVariables() {
     global nectarPotNectar := readSettings("Collect", "nectarpotnectar")
     global nectarConsender := readSettings("Collect", "nectarconsender")
     global nectarConsenderNectar := readSettings("Collect", "nectarconsendernectar")
+    global stockings := readSettings('Collect', 'stockings')
+    global Feast := readSettings('Collect', 'Feast')
+    global Gingerbread := readSettings('Collect', 'Gingerbread')
+    global SnowMachine := readSettings('Collect', 'SnowMachine')
+    global Candles := readSettings('Collect', 'Candles')
+    global Samovar := readSettings('Collect', 'Samovar')
+    global GummyBeacon := readSettings('Collect', 'GummyBeacon')
+    global RBPDelevel := readSettings('Collect', 'RBPDelevel')
+    global honeyWreath := readSettings('Collect', 'honeyWreath')
+    global LidArt := readSettings('Collect', 'LidArt')
 
     global polar := readSettings("Quests", "polarbear")
     global toHiveByQuest := readSettings("Quests", "tohivebyquest")
@@ -246,8 +252,10 @@ InitilizeVariables() {
     global moveMethod := readSettings("Settings", "movemethod")
     global toolEnabled := readSettings("Settings", "toolenabled")
     global delayAfterConvert := readSettings("Settings", "delayafterconvert")
+    global INGAME_CAMERA_SENS := readSettings("Settings", "ingame_camera_sens")
     global privateServerUrl := readSettings("Settings", "privateserverurl")
     global usePrivateServer := readSettings("Settings", "useprivateserver")
+    global useDiscordRichPresence := readSettings("Settings", "usediscordrichpresence")
     ;global useBot := readSettings("Settings", "usebot")
     ;global botToken := readSettings("Settings", "bottoken")
     global sprinklerType := readSettings("Settings", "sprinklertype")
@@ -261,6 +269,20 @@ InitilizeVariables() {
     global action4 := readSettings("Settings", "action4")
     global action5 := readSettings("Settings", "action5")
     global action6 := readSettings("Settings", "action6")
+
+    global VichopAccountType := readSettings("Vichop", "vichopaccounttype")
+    global VichopEnabled := readSettings("Vichop", "vichop_enabled")
+    global VichopExclusive := readSettings("Vichop", "vichop_exclusive")
+    global VichopActivePercent := readSettings("Vichop", "vichop_active_percent")
+    global VichopSessionDuration := readSettings("Vichop", "vichop_session_duration")
+    global AccountType := readSettings("Vichop", "vichopaccounttype")
+    global useServerFetching := readSettings("Vichop", "useserverfetching")
+    global SpiderEnabled := readSettings("Vichop", "spiderenabled")
+    global vichop_alt_WEBHOOK_URL := readSettings("Vichop", "alt_webhook_url")
+
+    global vichop_main_CHANNEL_ID := readSettings("Vichop", "main_channel_id")
+    global SpeedHopEnabled := readSettings("Vichop", "speedhop")
+    global Use3rdPartyJoin := readSettings("Vichop", "use3rdpartyjoin")
 
 
     global LastWerewolf := readSettings("Kill", "LastWerewolf", , "Settings\timers.ini")
@@ -280,7 +302,14 @@ InitilizeVariables() {
     global TotalQuestsComplete := readSettings("Quests", "TotalQuestsComplete", , "Settings\timers.ini")
     global SessionQuestsComplete := readSettings("Quests", "SessionQuestsComplete", , "Settings\timers.ini")
     global PolarQuestProgress := readSettings("Quests", "PolarQuestProgress", , "Settings\timers.ini")
+    global PolarQuestComplete := readSettings("Quests", "PolarQuestComplete", , "settings\timers.ini")
     global QuestGatherField := readSettings("Quests", "QuestGatherField", , "settings\timers.ini")
+    global QuestLadybugs := readSettings("Quests", "QuestLadybugs", , "settings\timers.ini")
+    global QuestRhinoBeetles := readSettings("Quests", "QuestRhinoBeetles", , "settings\timers.ini")
+    global QuestSpider := readSettings("Quests", "QuestSpiders", , "settings\timers.ini")
+    global QuestMantis := readSettings("Quests", "QuestMantis", , "settings\timers.ini")
+    global QuestScorpions := readSettings("Quests", "QuestScorpions", , "settings\timers.ini")
+    global QuestWerewolf := readSettings("Quests", "QuestWerewolf", , "settings\timers.ini")
 
     global PlanterHarvestTime1 := readSettings("Planters", "PlanterHarvestTime1", , "Settings\timers.ini")
     global PlanterHarvestTime2 := readSettings("Planters", "PlanterHarvestTime2", , "Settings\timers.ini")
@@ -324,4 +353,20 @@ InitilizeVariables() {
     global LastStickerPrinter := readSettings("Collect", "LastStickerPrinter", , "Settings\timers.ini")
     global LastStickerStack := readSettings("Collect", "LastStickerStack", , "Settings\timers.ini")
     global LastConvertBalloon := readSettings("Collect", "LastConvertBalloon", , "Settings\timers.ini")
+    global LastStockings := readSettings('Collect', 'LastStockings', , 'Settings\timers.ini')
+    global LastFeast := readSettings('Collect', 'LastFeast', , 'Settings\timers.ini')
+    global LastGingerbread := readSettings('Collect', 'LastGingerbread', , 'Settings\timers.ini')
+    global LastSnowMachine := readSettings('Collect', 'LastSnowMachine', , 'Settings\timers.ini')
+    global LastCandles := readSettings('Collect', 'LastCandles', , 'Settings\timers.ini')
+    global LastSamovar := readSettings('Collect', 'LastSamovar', , 'Settings\timers.ini')
+    global LastLidArt := readSettings('Collect', 'LastLidArt', , 'Settings\timers.ini')
+    global LastGummyBeacon := readSettings('Collect', 'LastGummyBeacon', , 'Settings\timers.ini')
+    global LastRBPDelevel := readSettings('Collect', 'LastRBPDelevel', , 'Settings\timers.ini')
+    global LastWreath := readSettings('Collect', 'LastWreath', , 'Settings\timers.ini')
+
+    ; Alltime stats
+    global AlltimeVicsKilled := IniRead("settings\settings.ini", "Vichop", "alltime_vics_killed", "0")
+    global AlltimeNightsDetected := IniRead("settings\settings.ini", "Vichop", "alltime_nights_detected", "0")
+    global AlltimeServersJoined := IniRead("settings\settings.ini", "Vichop", "alltime_servers_joined", "0")
+    global AlltimeVicsSpotted := IniRead("settings\settings.ini", "Vichop", "alltime_vics_spotted", "0")
 }

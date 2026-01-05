@@ -156,7 +156,6 @@ Collectplanters() {
 		}
 	}
 
-	; If no cycle has planters, start with cycle 1
 	if (currentActiveCycle = 0) {
 		currentActiveCycle := 1
 		Loop 3 {
@@ -187,7 +186,25 @@ Collectplanters() {
 
 		plantTime := readSettings("MPlanters", "cycle" cycle "planter" planter, , "Settings\timers.ini")
 
-		; If this planter hasn't been planted yet, plant it
+		if (plantTime = 0) {
+			needsPlanting := true
+			break
+		}
+	}
+
+	if (!needsPlanting) {
+		return false
+	}
+
+	Loop 3 {
+		CurrentPlanterInCycle := A_Index
+		planterType := cycle%CurrentCycle%Planter%CurrentPlanterInCycle%
+
+		if (planterType = "None")
+			continue
+
+		plantTime := readSettings("MPlanters", "cycle" cycle "planter" planter, , "Settings\timers.ini")
+
 		if (plantTime = 0) {
 			DisconnectCheck()
 			PlantCurrentPlanter()
@@ -631,6 +648,44 @@ planter() {
 			}
 		}
 	}
+
+	needsWork := false
+
+	Loop 3 {
+		if ((PlanterHarvestTime%A_Index% < nowUnix()) && (PlanterName%A_Index% != "None") && (PlanterField%A_Index% != "None")) {
+			needsWork := true
+			break
+		}
+	}
+
+	if (!needsWork) {
+		maxplanters := 0
+		for key, value in planternames {
+			maxplanters := maxplanters + (%value%Allowed ? 1 : 0)
+		}
+		maxplanters := min(maxAllowedPlanters, maxplanters)
+
+		planterSlots := []
+		Loop 3 {
+			if (PlanterName%A_Index% = "None")
+				planterSlots.push(A_Index)
+		}
+
+		maxnectars := 0
+		for key, value in nectars {
+			if (nectarPriority%value% != "None")
+				maxnectars := maxnectars + 1
+		}
+
+		if (planterSlots.Length > 0 && maxplanters > 0 && maxnectars > 0) {
+			needsWork := true
+		}
+	}
+
+	if (!needsWork) {
+		return
+	}
+
 	Loop 2 {
 		;re-optimize planters
 		for key, value in nectars {
@@ -644,14 +699,14 @@ planter() {
 						estimatedNectarPercent := estimatedNectarPercent + PlanterEstPercent%A_Index%
 					}
 				}
-				nectarPercent := GetNectarPercent(currentnectar)
+				nectarPercent := GetNectarPercent(currentNectar)
 				;recover planters that are collecting same nectar as currentField AND are not placed in currentField
 				if (currentNectar = currentFieldNectar && not harvestFullGrown && gatherFieldNectarSipping) {
 					Loop 3 { ;3 max positions
 						if (currentField != PlanterField%A_Index% && currentFieldNectar = PlanterNectar%A_Index%) {
 							temp1 := PlanterField%A_Index%
 							PlanterHarvestTime%A_Index% := nowUnix() - 1
-							writeSettings("Planters", "PlanterHarvestTime" . A_Index, "Settings\timers.ini")
+							writeSettings("Planters", "PlanterHarvestTime" . A_Index, PlanterHarvestTime%A_Index%, "Settings\timers.ini")
 						}
 					}
 				}
@@ -723,7 +778,7 @@ planter() {
 	maxnectars := 0
 
 	for key, value in nectars {
-		if ("nectarPriority" . value != "None")
+		if (nectarPriority%value% != "None")
 			maxnectars := maxnectars + 1
 	}
 	if (maxnectars = 0)
@@ -772,12 +827,12 @@ planter() {
 				maxplanters := min(maxAllowedPlanters, maxplanters)
 				;determine last and next fields
 				if (currentNectar = currentFieldNectar && not gatherPlanterField && gatherFieldNectarSipping) { ;always place planter in field you are collecting from
-					lastnextfield := getlastfield(currentNectar)
+					lastNextField := getlastfield(currentNectar)
 					lastField := lastNextField[1]
 					nextField := CurrentField
 					maxNectarPlanters := 1
 				} else {
-					lastnextfield := getlastfield(currentNectar)
+					lastNextField := getlastfield(currentNectar)
 					lastField := lastNextField[1]
 					nextField := lastNextField[2]
 				}
@@ -787,7 +842,7 @@ planter() {
 				;temp1:=nextPlanter[1]
 				if (nextField != "none" && nextPlanter[1] != "none" && plantersplaced < maxplanters && plantersplaced < maxAllowedPlanters && nectarPlantersPlaced < maxNectarPlanters) {
 					;determine current nectar percent
-					nectarPercent := GetNectarPercent(currentnectar)
+					nectarPercent := GetNectarPercent(currentNectar)
 					nectarMinPercent := nectarMin%value%
 					estimatedNectarPercent := 0
 					Loop 3 { ;3 max positions
@@ -818,8 +873,8 @@ planter() {
 									nextPlanter := GetNextPlanter(nextField)
 									atField := 0
 									LostPlanters := ""
-									Last%currentnectar%Field := nextField
-									writeSettings("Planters", "Last" currentnectar "Field", Last%currentnectar%Field, "Settings\timers.ini", false)
+									Last%currentNectar%Field := nextField
+									writeSettings("Planters", "Last" currentNectar "Field", Last%currentNectar%Field, "Settings\timers.ini", false)
 								case 3: ;3 planters have been placed already, return
 									OpenMenu()
 									return
@@ -875,7 +930,7 @@ planter() {
 			}
 		}
 		if (currentNectar != "none") {
-			nectarPercent := GetNectarPercent(currentnectar) + estimatedNectarPercent
+			nectarPercent := GetNectarPercent(currentNectar) + estimatedNectarPercent
 			if (key > 1)
 				sortstring := (sortstring . ";")
 			sortstring := (sortstring . nectarPercent . "," . value . "," . currentNectar)
@@ -942,7 +997,7 @@ planter() {
 			;there is an allowed field for this nectar and an available planter
 			if (nextField != "none" && nextPlanter[1] != "none" && plantersplaced < maxplanters && plantersplaced < maxAllowedPlanters && nectarPlantersPlaced < maxNectarPlanters) {
 				;determine current nectar percent
-				nectarPercent := GetNectarPercent(currentnectar)
+				nectarPercent := GetNectarPercent(currentNectar)
 				estimatedNectarPercent := 0
 				Loop 3 {
 					planterNectar := PlanterNectar%A_Index%
@@ -969,8 +1024,8 @@ planter() {
 								nextPlanter := GetNextPlanter(nextField)
 								atField := 0
 								LostPlanters := ""
-								Last%currentnectar%Field := nextField
-								writeSettings("Planters", "Last" currentnectar "Field", Last%currentnectar%Field, "Settings\timers.ini")
+								Last%currentNectar%Field := nextField
+								writeSettings("Planters", "Last" currentNectar "Field", Last%currentNectar%Field, "Settings\timers.ini")
 
 							case 3: ;3 planters have been placed already, return
 								OpenMenu()
@@ -1015,12 +1070,8 @@ planter() {
 									nextPlanter := GetNextPlanter(nextField)
 									atField := 0
 									LostPlanters := ""
-									Last%currentnectar%Field := nextField
-									writeSettings("Planters", "Last" currentnectar "Field", Last%currentnectar%Field, "Settings\timers.ini")
-
-								case 3: ;3 planters have been placed already, return
-									OpenMenu()
-									return
+									Last%currentNectar%Field := nextField
+									writeSettings("Planters", "Last" currentNectar "Field", Last%currentNectar%Field, "Settings\timers.ini")
 
 								case 4: ;not in a field, try again
 									atField := 0
@@ -1106,7 +1157,7 @@ planter() {
 				;there is an allowed field for this nectar and an available planter
 				if (nextField != "none" && nextPlanter[1] != "none" && plantersplaced < maxplanters && plantersplaced < maxAllowedPlanters && nectarPlantersPlaced < maxNectarPlanters) {
 					;determine current nectar percent
-					nectarPercent := GetNectarPercent(currentnectar)
+					nectarPercent := GetNectarPercent(currentNectar)
 					estimatedNectarPercent := 0
 					Loop 3 {
 						planterNectar := PlanterNectar%A_Index%
@@ -1132,8 +1183,8 @@ planter() {
 								nextPlanter := getNextPlanter(nextField)
 								atField := 0
 								LostPlanters := ""
-								Last%currentnectar%Field := nextField
-								writeSettings("Planters", "Last" currentnectar "Field", Last%currentnectar%Field, "Settings\timers.ini")
+								Last%currentNectar%Field := nextField
+								writeSettings("Planters", "Last" currentNectar "Field", Last%currentNectar%Field, "Settings\timers.ini")
 							case 3: ;3 planters have been placed already, return
 								OpenMenu()
 								return
@@ -1225,12 +1276,14 @@ HarvestPlanter(planterNum) {
 		: (fieldName = "blueflower") ? "Blue Flower"
 		: StrTitle(fieldName)
 	SetShiftLock(0)
-	ResetToHive(1, ((gatherLoot = 1) && ((fieldname = "rose") || (fieldname = "pinetree") || (fieldname = "pumpkin") || (fieldname = "cactus") || (fieldname = "spider"))) ? min(20000, (60 - hiveBees) * 1000) : 0)
+	ResetToHive(1, ((gatherLoot = 1) && ((fieldName = "rose") || (fieldName = "pinetree") || (fieldName = "pumpkin") || (fieldName = "cactus") || (fieldName = "spider"))) ? min(20000, (60 - hiveBees) * 1000) : 0)
 	SetStatus("Traveling", planterNameStatus . " (" . fieldNameStatus . ")")
 	gotoPlanter(fieldName)
 	SetStatus("Collecting", (planterNameStatus . " (" . fieldNameStatus . ")"))
-	while ((A_Index <= 5) && !(findPlanter := (ImgSearch("e_button.png", 10)[1] = 0)))
-		Sleep 200
+	findPlanter := 0
+	if (CollectItem()) {
+		findPlanter := 1
+	}
 	if (findPlanter = 0) {
 		SetStatus("Searching", (planterNameStatus . " (" . fieldNameStatus . ")"))
 		findPlanter := SearchForE()
@@ -1264,10 +1317,6 @@ HarvestPlanter(planterNum) {
 			return 0
 	}
 	else {
-		SendInput "{" SC_E " down}"
-		Sleep 100
-		SendInput "{" SC_E " up}"
-
 		hwnd := GetRobloxHWND()
 		offsetY := GetYOffset(hwnd)
 		Loop 50
@@ -1378,7 +1427,7 @@ SavePlacedPlanter(fieldName, planter, planterNum, nectar) {
 		, PlanterHarvestTime1, PlanterHarvestTime2, PlanterHarvestTime3
 		, PlanterNectar1, PlanterNectar2, PlanterNectar3
 		, PlanterEstPercent1, PlanterEstPercent2, PlanterEstPercent3
-		, LastComfortingField, LastMotivatingField, LastSatisfyingField, LastRefreshingField, LastInvigoratingField, HarvestInterval
+		, LastComfortingField, LastMotivatingField, LastSatisfyingField, LastRefreshingField, LastInvigoratingField
 	;temp1:=planter[1]
 	;temp2:=planter[2]
 	;temp3:=planter[3]
@@ -1390,7 +1439,7 @@ SavePlacedPlanter(fieldName, planter, planterNum, nectar) {
 	PlanterNameN := PlanterName%planterNum%
 	PlanterFieldN := PlanterField%planterNum%
 	PlanterNectarN := PlanterNectar%planterNum%
-	Last%nectar%Field := fieldname
+	Last%nectar%Field := fieldName
 	;calculate harvest time
 	estimatedNectarPercent := 0
 	Loop 3 { ;3 max positions
@@ -1467,14 +1516,14 @@ SavePlacedPlanter(fieldName, planter, planterNum, nectar) {
 	writeSettings("Planters", "PlanterEstPercent" . planterNum, PlanterEstPercentN, "Settings\timers.ini")
 }
 
-getlastfield(currentnectar) {
+getlastfield(currentNectar) {
 	(arr := []).Length := 2, arr.Default := ""
 	if (currentNectar = "None")
 		return arr
 	availablefields := []
-	arr[1] := Last%currentnectar%Field
+	arr[1] := Last%currentNectar%Field
 	;determine allowed fields
-	for key, value in %currentnectar%Fields {
+	for key, value in %currentNectar%Fields {
 		tempfieldname := StrReplace(value, " ", "")
 		if (%tempfieldname%Allowed && value != PlanterField1 && value != PlanterField2 && value != PlanterField3)
 			availablefields.Push(value)
@@ -1486,7 +1535,7 @@ getlastfield(currentnectar) {
 	;find index of last nectar field
 	for k, v in availablefields {
 		;found index of last nectar field in availablefields
-		if (v = Last%currentnectar%Field)
+		if (v = Last%currentNectar%Field)
 		{
 			arr[2] := availablefields[Mod(k, arrayLen) + 1]
 			break
@@ -1500,23 +1549,23 @@ getlastfield(currentnectar) {
 GetNextPlanter(nextfield) {
 	;determine available planters
 	tempFieldName := StrReplace(nextfield, " ", "")
-	tempArrayName := (tempfieldname . "Planters")
-	arrayLen := IsSet(%tempfieldname%Planters) ? %tempfieldname%Planters.Length : 0
+	tempArrayName := (tempFieldName . "Planters")
+	arrayLen := IsSet(%tempFieldName%Planters) ? %tempFieldName%Planters.Length : 0
 	nextPlanterName := "none"
 	nextPlanterNectarBonus := 0
 	nextPlanterGrowBonus := 0
 	nextPlanterGrowTime := 0
 	Loop arrayLen {
-		tempPlanter := Trim(%tempfieldname%Planters[A_Index][1])
+		tempPlanter := Trim(%tempFieldName%Planters[A_Index][1])
 		tempPlanterCheck := %tempPlanter%Allowed
 		if (tempPlanterCheck && tempPlanter != PlanterName1 && tempPlanter != PlanterName2 && tempPlanter != PlanterName3)
 		{
 			if !InStr(LostPlanters, tempPlanter)
 			{
-				nextPlanterName := %tempfieldname%Planters[A_Index][1]
-				nextPlanterNectarBonus := %tempfieldname%Planters[A_Index][2]
-				nextPlanterGrowBonus := %tempfieldname%Planters[A_Index][3]
-				nextPlanterGrowTime := %tempfieldname%Planters[A_Index][4]
+				nextPlanterName := %tempFieldName%Planters[A_Index][1]
+				nextPlanterNectarBonus := %tempFieldName%Planters[A_Index][2]
+				nextPlanterGrowBonus := %tempFieldName%Planters[A_Index][3]
+				nextPlanterGrowTime := %tempFieldName%Planters[A_Index][4]
 				break
 			}
 		}
@@ -1525,6 +1574,7 @@ GetNextPlanter(nextfield) {
 }
 
 PlacePlanter(fieldName, planter, planterNum, atField := 0) {
+	global maxAllowedPlanters
 	SetShiftLock(0)
 
 	planterName := planter[1]

@@ -53,23 +53,6 @@ Rotate(direction, amount)
 	}
 }
 
-
-ActivateGlider() {
-	send "{" SC_Space " down}"
-	HyperSleep(50)
-	send "{" SC_Space " up}"
-	HyperSleep(300)
-	send "{" SC_Space " down}"
-	HyperSleep(50)
-	send "{" SC_Space " up}"
-}
-
-Jump() {
-	send "{" SC_Space " down}"
-	HyperSleep(50)
-	send "{" SC_Space " up}"
-}
-
 ResetCharacter() {
 	send "{" SC_Esc " down}"
 	HyperSleep(50)
@@ -781,9 +764,7 @@ FullyCloseRoblox() {
 }
 
 CloseRoblox() {
-	global CloseRobloxCounter += 1
-	if CloseRobloxCounter < 10 ; 10 times normal close before full close
-	{
+	if IsInGame() {
 		send "{" SC_Esc " down}"
 		HyperSleep(50)
 		send "{" SC_Esc " up}"
@@ -795,14 +776,7 @@ CloseRoblox() {
 		send "{" SC_Enter " down}"
 		HyperSleep(50)
 		send "{" SC_Enter " up}"
-
-		Sleep 500 ; optional
-	}
-	else
-	{
-		RunWait('taskkill /F /IM RobloxPlayerBeta.exe')
-		RunWait('taskkill /F /IM ApplicationFrameHost.exe')
-		global CloseRobloxCounter := 0
+		Sleep 500
 	}
 }
 
@@ -858,7 +832,7 @@ DisconnectCheck()
 		else
 			JoinNormalServer()
 
-		waitTillLoaded()
+		WaitTillLoaded()
 		offsetY := GetYOffset()
 		ClaimHiveFromSpawn()
 		break
@@ -892,7 +866,11 @@ JoinNormalServer() {
 }
 
 JoinPublicServerID(id) {
-	run '"roblox://placeId=1537690962&gameInstanceId=' id '"'
+	global Use3rdPartyJoin
+	if (Use3rdPartyJoin)
+		run '"roblox://placeId=108137290948605&launchData=1537690962/' id '"'
+	else
+		run '"roblox://placeId=1537690962&gameInstanceId=' id '"'
 }
 
 JoinSetPrivateServer(serverlink) {
@@ -920,9 +898,108 @@ checkrestricted() {
 		return true
 }
 
+checkjoinfailed() {
+	el := ImageSearch(&x, &y, 0, 0, A_ScreenWidth, A_ScreenHeight, "*35 " A_ScriptDir "/Assets/images/teleport_failed.png")
+	if el = 1
+		return true
+}
+
+FuzzyMatch(text, target, threshold := 0.7) {
+	text := StrLower(text)
+	target := StrLower(target)
+	
+	if (text = target)
+		return true
+	
+	len1 := StrLen(text)
+	len2 := StrLen(target)
+	
+	if (len1 = 0 || len2 = 0)
+		return false
+	
+	matrix := []
+	Loop len1 + 1 {
+		row := []
+		Loop len2 + 1
+			row.Push(0)
+		matrix.Push(row)
+	}
+	
+	Loop len1 + 1
+		matrix[A_Index][1] := A_Index - 1
+	Loop len2 + 1
+		matrix[1][A_Index] := A_Index - 1
+	
+	Loop len1 {
+		i := A_Index
+		Loop len2 {
+			j := A_Index
+			cost := (SubStr(text, i, 1) = SubStr(target, j, 1)) ? 0 : 1
+			matrix[i+1][j+1] := Min(
+				matrix[i][j+1] + 1,
+				matrix[i+1][j] + 1,
+				matrix[i][j] + cost
+			)
+		}
+	}
+	
+	distance := matrix[len1+1][len2+1]
+	similarity := 1 - (distance / Max(len1, len2))
+	
+	return (similarity >= threshold)
+}
+
+CheckOCRBugs() {
+	try {
+		bottomX1Coords := GetRelativeX(670, 670)
+		bottomX2Coords := GetRelativeX(1230, 1230)
+		
+		bottomX := bottomX1Coords.Min
+		bottomY := A_ScreenHeight - 50  ; Start 50 pixels from bottom
+		bottomWidth := bottomX2Coords.Min - bottomX1Coords.Min ; Width scales with resolution
+		bottomHeight := 50 ; Height of 50 pixels (from Y to bottom of screen)
+		
+		ocrResult := OCR.FromRect(bottomX, bottomY, bottomWidth, bottomHeight, {
+			scale: 4,           ; 4x magnification for better text clarity
+			grayscale: true     ; Convert to grayscale for better text contrast
+		})
+		
+		if (ocrResult && ocrResult.Text && ocrResult.Text != "") {
+			detectedText := StrLower(ocrResult.Text)
+			
+			if (InStr(detectedText, "position in line")) {
+				setStatus("Detected", "Server Full")
+				return true
+			}
+			
+			if (InStr(detectedText, "experience") && !InStr(detectedText, "experience points")) {
+				setStatus("Detected", "Experience Bug")
+				return true
+			}
+			
+			if (InStr(detectedText, "unknown status")) {
+				setStatus("Detected", "Unknown Status Bug")
+				return true
+			}
+			
+			if (InStr(detectedText, "experience has ended") || 
+			    InStr(detectedText, "became unavailable") ||
+			    InStr(detectedText, "system error")) {
+				setStatus("Detected", "Server Disconnection")
+				return true
+			}
+		}
+		
+		return false ; No bugs detected
+	} catch Error as e {
+		return false
+	}
+}
+
 ServerHop(*) {
 TryServerHop:
 	try {
+		global Use3rdPartyJoin
 		static lastServers := []
 		Whr := ComObject("WinHTTP.WinHTTPRequest.5.1")
 		Whr.open("GET", "https://games.roblox.com/v1/games/1537690962/servers/Public?sortOrder=Asc&limit=100", true)
@@ -939,8 +1016,10 @@ TryServerHop:
 				lastServers.Pop()
 			break
 		}
-		run "roblox://placeId=1537690962&gameInstanceId=" id
-		;WebhookSendMessage("joins new Server")
+		if (Use3rdPartyJoin)
+			run "roblox://placeId=108137290948605&launchData=1537690962/" id
+		else
+			run "roblox://placeId=1537690962&gameInstanceId=" id
 	} catch {
 		Sleep 500
 		Goto TryServerHop
@@ -952,13 +1031,13 @@ CheckIfJoined() {
 		FoundX := 0, FoundY := 0
 		ImagePath := A_ScriptDir "\Assets\images\Pollen.png"
 		ErrorLevel := ImageSearch(&FoundX, &FoundY, 0, 0, A_ScreenWidth, A_screenHeight, "*70 " ImagePath) ; 60
-
+		
 		if WinExist("Roblox") {
 			try {
 				WinActivate("Roblox")
 			}
 		}
-
+		
 		if (ErrorLevel = 0)
 		{
 			return false
@@ -970,6 +1049,7 @@ CheckIfJoined() {
 
 SetStatus(newState := 0, newObjective := 0) {
 	global state, objective
+	global useDiscordRichPresence
 
 	if (newState != "Detected") {
 		if (newState)
@@ -979,58 +1059,68 @@ SetStatus(newState := 0, newObjective := 0) {
 	}
 	stateString := ((newState ? newState : state) . ": " . (newObjective ? newObjective : objective))
 	status("[" A_MM "/" A_DD "][" A_Hour ":" A_Min ":" A_Sec "] " stateString)
+
+	if (useDiscordRichPresence) {
+		currentState := (newState ? newState : state)
+		currentObjective := (newObjective ? newObjective : objective)
+		try {
+			SetDiscordStatus(currentState, currentObjective)
+		} catch {
+			
+		}
+	}
 }
 
 /*return_pollen_bag() {
-    x1 := GetRelativeX(1018, 1018).Min
-    y1 := GetRelativeY(23, 23).Min
-    x2 := GetRelativeX(1280, 1280).Min
-    y2 := GetRelativeY(75, 75).Min
+	x1 := GetRelativeX(1018, 1018).Min
+	y1 := GetRelativeY(23, 23).Min
+	x2 := GetRelativeX(1280, 1280).Min
+	y2 := GetRelativeY(75, 75).Min
 
-    width := x2 - x1
-    height := y2 - y1
+	width := x2 - x1
+	height := y2 - y1
 
-    tempFile := A_Temp "\screen_capture.png"
-    upscaledFile := A_Temp "\upscaled.png"
+	tempFile := A_Temp "\screen_capture.png"
+	upscaledFile := A_Temp "\upscaled.png"
 
-    try {
-        FileDelete(tempFile)
-        FileDelete(upscaledFile)
-    } catch {
+	try {
+		FileDelete(tempFile)
+		FileDelete(upscaledFile)
+	} catch {
 
-    }
+	}
 
-    pBitmap := Gdip_BitmapFromScreen(x1 "|" y1 "|" width "|" height)
-    Gdip_SaveBitmapToFile(pBitmap, tempFile)
-    Gdip_DisposeImage(pBitmap)
+	pBitmap := Gdip_BitmapFromScreen(x1 "|" y1 "|" width "|" height)
+	Gdip_SaveBitmapToFile(pBitmap, tempFile)
+	Gdip_DisposeImage(pBitmap)
 
-    ; Upscale and replace green color with gray in one command
-    RunWait(A_ComSpec " /c magick " tempFile " -resize 200% -fuzz 15% -fill `"#696C6E`" -opaque `"#41FF86`" " upscaledFile, , "Hide") ; IMAGEMAGICK NEEDS TO BE INSTALLED
+	; Upscale and replace green color with gray in one command
+	RunWait(A_ComSpec " /c magick " tempFile " -resize 200% -fuzz 15% -fill `"#696C6E`" -opaque `"#41FF86`" " upscaledFile, , "Hide") ; IMAGEMAGICK NEEDS TO BE INSTALLED
 
-    ocrText := RP_OCR(upscaledFile)
+	ocrText := RP_OCR(upscaledFile)
 
-    try {
-        FileDelete(tempFile)
-        FileDelete(upscaledFile)
-    } catch {
+	try {
+		FileDelete(tempFile)
+		FileDelete(upscaledFile)
+	} catch {
 
-    }
+	}
 
-    slashPos := InStr(ocrText, "/")
-    if (slashPos > 0) {
-        numberPart := SubStr(ocrText, 1, slashPos - 1)
-    } else {
-        numberPart := ocrText
-    }
+	slashPos := InStr(ocrText, "/")
+	if (slashPos > 0) {
+		numberPart := SubStr(ocrText, 1, slashPos - 1)
+	} else {
+		numberPart := ocrText
+	}
 
-    numberPart := StrReplace(numberPart, ",", "")
+	numberPart := StrReplace(numberPart, ",", "")
 
-    ; Convert to integer if possible
-    try {
-        return Integer(numberPart)
-    } catch {
-        return numberPart
-    }
+	; Convert to integer if possible
+	try {
+		return Integer(numberPart)
+	} catch {
+		return numberPart
+	}
 }*/
 
 ImgSearch(fileName, v, aim := "full", trans := "none") {
@@ -1209,9 +1299,7 @@ Loot(length, reps, direction, tokenlink := 0) { ; length in tiles instead of ms 
 		Move(1.5, %direction%Key)
 	}
 
-	if (tokenlink = 0) ; wait for pattern finish
-		KeyWait "F14", "T" length * reps " L"
-	else ; wait for token link or pattern finish
+	if (tokenlink = 1)
 	{
 		GetRobloxClientPos()
 		Sleep 1000 ; primary delay, only accept token links after this
@@ -1377,6 +1465,23 @@ SearchForE() {
 		}
 	}
 	return success
+}
+
+CollectItem() {
+	Sleep 500
+	pBMScreen := Gdip_BitmapFromScreen(windowX + windowWidth // 2 - 200 "|" windowY + offsetY + 36 "|200|120")
+	Loop 10 {
+		if (Gdip_ImageSearch(pBMScreen, bitmaps["e_button"], , , , , , 2, , 6) = 1)
+		{
+			Gdip_DisposeImage(pBMScreen)
+			sendinput "{" SC_E " down}"
+			Sleep 100
+			sendinput "{" SC_E " up}"
+			return true
+		}
+	}
+	Gdip_DisposeImage(pBMScreen)
+	return false
 }
 
 walkFrom(field) {
@@ -1665,30 +1770,128 @@ Feed(food) {
 }
 
 RotateCameraDown(amount) {
-	; direction, left:=1, right:=0,
-	; amount can be a decimal, but it has to be a number divisible by 48
-	ActivateRoblox()
-	hwnd := GetRobloxHWND()
-	GetRobloxClientPos(hwnd)
-	MouseMove((windowX + windowWidth) / 2, (windowY + windowHeight) / 2)
-	MouseGetPos(&xx, &yy)
-	Click "Down R"
-	sleep 300
-	DllCall("user32.dll\mouse_event", "UInt", 0x0001, "Int", 0, "Int", -amount)
-	sleep 300
-	Click "Up R"
+	global INGAME_CAMERA_SENS
+    ActivateRoblox()
+    hwnd := GetRobloxHWND()
+    GetRobloxClientPos(hwnd)
+    
+    adjustedAmount := Round(amount / INGAME_CAMERA_SENS)
+    
+    MouseMove((windowX + windowWidth) / 2, (windowY + windowHeight) / 2)
+    
+    Click "Down R"
+    Sleep 100
+    DllCall("user32.dll\mouse_event", "UInt", 0x0001, "Int", 0, "Int", -adjustedAmount)
+    Sleep 100
+    Click "Up R"
+}
+
+RotateCameraLeft(amount) {
+	global INGAME_CAMERA_SENS
+    ActivateRoblox()
+    hwnd := GetRobloxHWND()
+    GetRobloxClientPos(hwnd)
+    
+    adjustedAmount := Round(amount / INGAME_CAMERA_SENS)
+    
+    MouseMove((windowX + windowWidth) / 2, (windowY + windowHeight) / 2)
+    
+    Click "Down R"
+    Sleep 100
+    DllCall("user32.dll\mouse_event", "UInt", 0x0001, "Int", -adjustedAmount, "Int", 0)
+    Sleep 100
+    Click "Up R"
 }
 
 CheckIfVicSummoned() {
+	SetChat(1)
 	ActiveChat()
-	ErrorLevel := PixelSearch(&outputX, &outputY, A_ScreenWidth / 2, 0, A_ScreenWidth, A_ScreenHeight - 300, 0xFFCC4D, 3)
-	if (ErrorLevel = 1) {
-		return true
-	} else if (ErrorLevel = 0) {
-		return false
-	}
+    if !(hwnd := GetRobloxHWND()) {
+        return 0
+    }
+    CoordMode "Mouse", "Screen"
+    CoordMode "Pixel", "Screen"
+    WinGetPos &winX, &winY, &winW, &winH, "ahk_id " hwnd
+
+    scanX := winX + (winW // 2)
+    scanY := winY
+    scanW := winW // 2
+    scanH := winH // 2
+
+    local pBMScreen := Gdip_BitmapFromScreen(scanX "|" scanY "|" scanW "|" scanH)
+    local pos, found := 0
+    local targetBitmap := bitmaps["vicsummon"]
+
+    if (Gdip_ImageSearch(pBMScreen, targetBitmap, &pos, 0, 0, scanW, scanH, 25) = 1) {
+        found := 1
+    }
+
+    Gdip_DisposeImage(pBMScreen)
+    return found
 }
 
+CheckIfViciousDied() {
+	SetChat(1)
+	ActiveChat()
+	if !(hwnd := GetRobloxHWND()) {
+        return 0
+    }
+    CoordMode "Mouse", "Screen"
+    CoordMode "Pixel", "Screen"
+    WinGetPos &winX, &winY, &winW, &winH, "ahk_id " hwnd
+
+    scanX := winX + (winW // 2)
+    scanY := winY
+    scanW := winW // 2
+    scanH := winH // 2
+
+    local pBMScreen := Gdip_BitmapFromScreen(scanX "|" scanY "|" scanW "|" scanH)
+    local pos, found := 0
+    local targetBitmap := bitmaps["vicdead"]
+
+    if (Gdip_ImageSearch(pBMScreen, targetBitmap, &pos, 0, 0, scanW, scanH, 25) = 1) {
+        found := 1
+    }
+
+    Gdip_DisposeImage(pBMScreen)
+    return found
+}
+
+SetChat(state) {
+    if !(hwnd := GetRobloxHWND()) {
+        return 0
+    }
+    ActivateRoblox()
+    CoordMode "Mouse", "Screen"
+    CoordMode "Pixel", "Screen"
+    WinGetPos &winX, &winY, &winW, &winH, "ahk_id " hwnd
+    local pBMScreen := Gdip_BitmapFromScreen(winX "|" winY "|" 200 "|" 100)
+    local pos, w, h, found := 0
+    local targetBitmap := (state == 1) ? bitmaps["chatclosed"] : bitmaps["chatopen"]
+    if (Gdip_ImageSearch(pBMScreen, targetBitmap, &pos, 0, 0, 200, 100, 25) = 1) {
+        x := SubStr(pos, 1, InStr(pos, ",") - 1)
+        y := SubStr(pos, InStr(pos, ",") + 1)
+        Gdip_GetImageDimensions(targetBitmap, &w, &h)
+        clickX := winX + x + (w // 2)
+        clickY := winY + y + (h // 2)
+        MouseMove clickX, clickY
+        Sleep 50
+        SendEvent "{Click down}"
+        Sleep 60
+        SendEvent "{Click up}"
+        Sleep 200
+        found := 1
+    }
+    Gdip_DisposeImage(pBMScreen)
+    GetRobloxClientPos(hwnd)
+    offsetY := GetYOffset(hwnd)
+    MouseMove windowX + 350, windowY + offsetY + 100, 5
+    if (state == 1 && found == 1) {
+        Sleep 100
+        Click
+    }
+    return found
+}
 ActiveChat() {
 	x := GetRelativeX(1465, 1467)
 	y := GetRelativeY(162, 165)
@@ -1711,12 +1914,16 @@ MoveD(MoveTime, MoveKey1, MoveKey2 := "None") {
 	SetKeyDelay PrevKeyDelay
 }
 
-WaitTillLoaded(random := true, private := "", public := "") {
+WaitTillLoaded(random := true, private := "", public := "", CustomRetries := -1) {
 	; This function attempts to wait for Roblox to load the game.
 	; It returns 1 on success, 0 on failure after retries.
 
 	; Define a maximum number of retry attempts for joining/loading
-	MaxRetries := 5
+	local MaxRetries := 5 ; Default retries
+    if (CustomRetries != -1) {
+        MaxRetries := CustomRetries
+    }
+	
 	CurrentRetry := 0
 
 	Loop {
@@ -1725,7 +1932,6 @@ WaitTillLoaded(random := true, private := "", public := "") {
 			setStatus("Error", "Exceeded max join/load retries. Aborting.")
 			return 0 ; Indicate failure after too many retries
 		}
-
 		setStatus("Info", "Attempt " CurrentRetry " of " MaxRetries ": Joining/Loading Roblox.")
 
 		; --- Step 1: Ensure Roblox is launched and window is present ---
@@ -1734,7 +1940,7 @@ WaitTillLoaded(random := true, private := "", public := "") {
 
 		; Wait for Roblox window to appear
 		RobloxWindowFound := false
-		Loop 240 { ; Loop for up to 240 seconds (4 minutes) for the window to appear
+		Loop 30 { ; Loop for up to 30 seconds for the window to appear
 			if GetRobloxHWND() {
 				ActivateRoblox()
 				setStatus("Detected", "Roblox Window Open")
@@ -1754,9 +1960,9 @@ WaitTillLoaded(random := true, private := "", public := "") {
 		; --- Step 2: Check for loading errors or successful game load ---
 		GameLoaded := false
 		RobloxBugDetected := false
-
+		EnsureRobloxMaxScreen()
 		; STAGE 2 - wait for loading screen (or loaded game)
-		Loop 180 { ; Loop for up to 180 seconds (3 minutes)
+		Loop 30 { ; Loop for up to 30 seconds
 			ActivateRoblox()
 			if !GetRobloxClientPos() {
 				setStatus("Warning", "Disconnected during Reconnect (GetRobloxClientPos failed)")
@@ -1765,8 +1971,14 @@ WaitTillLoaded(random := true, private := "", public := "") {
 			}
 
 			; Check for immediate join errors/disconnects
-			if checkjoindisconnect() or checkjoinerror() or checkrestricted() {
+			if checkjoindisconnect() or checkjoinerror() or checkrestricted() or checkjoinfailed() {
 				setStatus("Detected", "Roblox Bug (Join Error/Restricted)")
+				RobloxBugDetected := true
+				break
+			}
+			
+			if CheckOCRBugs() {
+				setStatus("Detected", "Roblox Bug (OCR Detection)")
 				RobloxBugDetected := true
 				break
 			}
@@ -1803,6 +2015,12 @@ WaitTillLoaded(random := true, private := "", public := "") {
 		}
 
 		if (RobloxBugDetected) {
+			; Skip retry logic for random servers with low retry counts (like vichop uses)
+			if (MaxRetries <= 1) {
+				setStatus("Info", "Roblox bug detected")
+				FullyCloseRoblox()
+				return 0
+			}
 			setStatus("Info", "Handling Roblox bug and retrying join...")
 			FullyCloseRoblox()
 			; Rejoin logic based on original request
@@ -1810,7 +2028,10 @@ WaitTillLoaded(random := true, private := "", public := "") {
 				JoinSetPrivateServer(private)
 			} else if public != "" {
 				JoinPublicServerID(public)
-			}
+			} else {
+                ; If no specific server is given, just join a normal one
+                JoinNormalServer()
+            }
 			; The outer loop will handle the retry from the beginning
 			continue
 		}
@@ -1819,7 +2040,7 @@ WaitTillLoaded(random := true, private := "", public := "") {
 		setStatus("Warning", "Game did not load in STAGE 2 timeout. Proceeding to STAGE 3 or retrying...")
 
 		; STAGE 3 - final wait for loaded game (if still in loading screen after STAGE 2 timeout)
-		Loop 180 { ; Loop for up to 180 seconds (3 minutes)
+		Loop 30 { ; Loop for up to 30 seconds
 			ActivateRoblox()
 			if !GetRobloxClientPos() {
 				setStatus("Warning", "Disconnected during Reconnect (GetRobloxClientPos failed in STAGE 3)")
@@ -1828,7 +2049,7 @@ WaitTillLoaded(random := true, private := "", public := "") {
 			}
 
 			; Check for immediate join errors/disconnects
-			if checkjoindisconnect() or checkjoinerror() or checkrestricted() {
+			if checkjoindisconnect() or checkjoinerror() or checkrestricted() or checkjoinfailed() {
 				setStatus("Detected", "Roblox Bug (Join Error/Restricted) in STAGE 3")
 				RobloxBugDetected := true
 				break
@@ -1854,13 +2075,22 @@ WaitTillLoaded(random := true, private := "", public := "") {
 		}
 
 		if (RobloxBugDetected) {
+			; Skip retry logic for random servers with low retry counts (like vichop uses)
+			if (MaxRetries <= 1) {
+				setStatus("Info", "Roblox bug detected in STAGE 3")
+				FullyCloseRoblox()
+				return 0
+			}
 			setStatus("Info", "Handling Roblox bug and retrying join (from STAGE 3)...")
 			FullyCloseRoblox()
 			; Rejoin logic based on original request
-			if privateServerUrl != "" or usePrivateServer = true
-				JoinSetPrivateServer(privateServerUrl) ; really basic system, not using fallback.
-			else
-				JoinNormalServer()
+			if private != "" {
+				JoinSetPrivateServer(private)
+			} else if public != "" {
+				JoinPublicServerID(public)
+			} else {
+                JoinNormalServer()
+            }
 			; The outer loop will handle the retry from the beginning
 			continue
 		}
@@ -1868,20 +2098,86 @@ WaitTillLoaded(random := true, private := "", public := "") {
 		; If we reach here, game did not load within the given timeframes after all stages
 		setStatus("Error", "Game Load Timeout after all stages. Retrying...")
 		FullyCloseRoblox()
-		; Rejoin logic based on original request
-		if privateServerUrl != "" or usePrivateServer = true
-			JoinSetPrivateServer(privateServerUrl) ; really basic system, not using fallback.
-		else
-			JoinNormalServer()
+
+		if private != "" {
+			JoinSetPrivateServer(private)
+		} else if public != "" {
+			JoinPublicServerID(public)
+		} else {
+            JoinNormalServer()
+        }
 		; The outer loop will handle the retry from the beginning
 		continue
 	}
 }
 
+WaitTillLoadedVichop() {
+	; Intended use is if you want to join next game without leaving.
+
+	; Timeouts (milliseconds)
+	totalTimeoutMs := 40000   ; hard cap for the entire wait
+	neverLeaveTimeoutMs := 15000 ; if we started in-game and never leave within this, fail
+
+	startTime := A_TickCount
+
+	ActivateRoblox()
+
+	; Capture initial state
+	initialInGame := IsInGame()
+	everInGameAtStart := initialInGame
+	leftGame := !initialInGame ; if we didn't start in-game, treat "left old game" as already satisfied
+	lastState := initialInGame
+
+	if (initialInGame) {
+	} else {
+	}
+
+	while (A_TickCount - startTime < totalTimeoutMs) {
+		elapsed := A_TickCount - startTime
+
+		ActivateRoblox()
+
+		; Check for immediate join errors/disconnects (same pattern as WaitTillLoaded)
+		if (checkjoindisconnect() or checkjoinerror() or checkrestricted() or checkjoinfailed()) {
+			return 0
+		}
+		
+		if (CheckOCRBugs()) {
+			return 0
+		}
+
+		; Evaluate in-game state and transitions
+		inGame := IsInGame()
+		
+		; Detect leaving the old game (true -> false)
+		if (!inGame && lastState) {
+			leftGame := true
+		}
+		
+		; Detect arrival in the new game (after we have left or started out of game)
+		if (inGame && leftGame) {
+			EnsureRobloxMaxScreen()
+			return 1
+		}
+		
+		; If we started in-game and never observed a leave within neverLeaveTimeoutMs, treat as stuck
+		if (everInGameAtStart && !leftGame && (elapsed >= neverLeaveTimeoutMs)) {
+			setStatus("Error", "Stuck in old Vichop game (no leave detected)")
+			return 0
+		}
+		
+		lastState := inGame
+		Sleep 250 ; small delay between polls to avoid busy-waiting
+	}
+
+	; Total timeout reached without successful transition
+	setStatus("Error", "Vichop load timeout")
+	return 0
+}
 
 CreateWalk(movement, name := "", vars := "")
 {
-	global currentWalk, keyDelay, moveSpeed
+	global currentWalk, keyDelay, moveSpeed, beesmas
 
 	DetectHiddenWindows 1
 
@@ -1897,6 +2193,8 @@ CreateWalk(movement, name := "", vars := "")
 	KeyHistory 0
 	ListLines 0
 	OnExit(ExitFunc)
+
+	global beesmas := ' beesmas '
 
 	#Include "%A_ScriptDir%\lib\resources\Gdip_All.ahk"
 	#Include "%A_ScriptDir%\lib\resources\Gdip_ImageSearch.ahk"
@@ -1916,6 +2214,60 @@ CreateWalk(movement, name := "", vars := "")
 
 	start()
 	return
+
+	SetShiftLock(state, *) {
+		global bitmaps, SC_LShift
+
+		if !(hwnd := WinExist("Roblox ahk_exe RobloxPlayerBeta.exe")) ; Shift Lock is not supported on UWP app at the moment
+			return
+
+		ActivateRoblox()
+		GetRobloxClientPos(hwnd)
+
+		pBMScreen := Gdip_BitmapFromScreen(windowX + 5 "|" windowY + windowHeight - 54 "|50|50")
+
+		switch (v := Gdip_ImageSearch(pBMScreen, bitmaps["shiftlock"], , , , , , 2))
+		{
+			; shift lock enabled - disable if needed
+			case 1:
+				if (state = 0)
+				{
+					send "{" SC_LShift "}"
+					result := 0
+				}
+				else
+					result := 1
+
+				; shift lock disabled - enable if needed
+			case 0:
+				if (state = 1)
+				{
+					send "{" SC_LShift "}"
+					result := 1
+				}
+				else
+					result := 0
+		}
+
+		Gdip_DisposeImage(pBMScreen)
+		;return (result) ;ShiftLockEnabled:=result before
+	}
+
+	ActivateGlider() {
+		send "{" SC_Space " down}"
+		HyperSleep(50)
+		send "{" SC_Space " up}"
+		HyperSleep(300)
+		send "{" SC_Space " down}"
+		HyperSleep(50)
+		send "{" SC_Space " up}"
+	}
+
+	Jump() {
+		send "{" SC_Space " down}"
+		HyperSleep(50)
+		send "{" SC_Space " up}"
+	}
 
 	HyperSleep(ms)
 	{
@@ -2054,4 +2406,56 @@ BSSWalk(tiles, MoveKey1, MoveKey2 := 0) {
 	Walk(' tiles ')
 	Send "{' MoveKey1 ' up}' (MoveKey2 ? '{' MoveKey2 ' up}"' : '"')
 	)
+}
+
+EnsureRobloxMaxScreen(hwnd := 0, tolerance := 8)
+{
+    if !hwnd
+        hwnd := GetRobloxHWND()
+    if !hwnd
+        return 0
+
+    try mm := WinGetMinMax("ahk_id " hwnd)
+    catch
+        return 0
+
+    if (mm = -1) {
+        try WinRestore("ahk_id " hwnd)
+        mm := 0
+    }
+
+    if (mm = 1)
+        return 1
+
+    if !GetRobloxClientPos(hwnd)
+        return 0
+
+    cx := windowX + windowWidth // 2
+    cy := windowY + windowHeight // 2
+    mon := _MonitorFromPoint(cx, cy)
+
+    try MonitorGetWorkArea(mon, &wl, &wt, &wr, &wb)
+    catch
+        return 0
+
+    workW := wr - wl
+    workH := wb - wt
+
+    if (windowWidth < workW - tolerance || windowHeight < workH - tolerance) {
+        try WinMove(wl, wt,,, "ahk_id " hwnd)
+        try WinMaximize("ahk_id " hwnd)
+    }
+
+    return 1
+}
+
+_MonitorFromPoint(x, y)
+{
+    count := MonitorGetCount()
+    Loop count {
+        MonitorGetWorkArea(A_Index, &l, &t, &r, &b)
+        if (x >= l && x < r && y >= t && y < b)
+            return A_Index
+    }
+    return MonitorGetPrimary()
 }
