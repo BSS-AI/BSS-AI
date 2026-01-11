@@ -19,4 +19,4 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ### Credits
 This project includes portions of code from **Natro**, licensed under the GPL-3.0.  
-Original work © Natro. Modifications © 2025 BSS AI Team.
+Original work Natro Macro. Modifications © 2025 BSS AI Team.
