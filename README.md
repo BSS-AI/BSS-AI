@@ -1,16 +1,16 @@
 > [!CAUTION]
 > ⚠️ **This repository only contains the source code for BSS AI.**
-> To **download, install, and run** the full macro (including the AI), you must use the official **BSS AI Loader**, available on our [Discord server][discord-link] or from our [website][website-link].
+> To **download, install, and run** the full macro (including the AI), you must use download the main executable, available on our [Discord server][discord-link] or from our [website][website-link].
 >
-> 🔗 **Download BSS AI:** [Direct Download](https://cdn.discordapp.com/attachments/1437537669038080191/1459936026511409173/BSS_AI.zip?ex=696516e1&is=6963c561&hm=e7cc531183496fa4984b83d528070f25274da2334d008fc79d4622549f5ce5e0&)
+> 🔗 **Download BSS AI:** [Direct Download](https://github.com/CuzImSlymi/bssai/releases/latest/download/BSS_AI.zip)
 
 <div align="center">
 
 <!-- logo banner -->
 
 <picture>
-  <source width="200px" media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1176565177538330824/1424892439507894293/bssAiLogo.png?ex=68e599fe&is=68e4487e&hm=bdb69cfea98bf10f2379ef88ba98218b048b231aed8295d95a24f222197e5dce&=&format=webp&quality=lossless&width=103&height=103">
-  <img src="https://media.discordapp.net/attachments/1176565177538330824/1424892439507894293/bssAiLogo.png?ex=68e599fe&is=68e4487e&hm=bdb69cfea98bf10f2379ef88ba98218b048b231aed8295d95a24f222197e5dce&=&format=webp&quality=lossless&width=103&height=103">
+  <source width="200px" media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1437537669038080191/1459946798671073482/BSS_AI.gif?ex=696520e9&is=6963cf69&hm=5290d32c045b9888379501f9708f1c121eb43b029a5a21e1ceb310902d979087&=&width=768&height=432">
+  <img src="https://media.discordapp.net/attachments/1437537669038080191/1459946798671073482/BSS_AI.gif?ex=696520e9&is=6963cf69&hm=5290d32c045b9888379501f9708f1c121eb43b029a5a21e1ceb310902d979087&=&width=768&height=432">
 </picture>
 <br>
 
@@ -47,7 +47,7 @@ Our Discord is the main hub for updates, support, and chatting with the BSS AI c
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
 You are free to use, modify, and share this project **as long as** all derivative works are also licensed under GPL-3.0.
 
-Portions of this project are based on code from **Natro Macro**, used under the GPL v3 license.  
+Portions of this project are based on code from **Natro**, used under the GPL v3 license.  
 See [LICENSE.md](LICENSE.md) for full details.
 
 [discord-link]: https://discord.gg/bssai
